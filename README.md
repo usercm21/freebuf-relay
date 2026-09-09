@@ -1,5 +1,11 @@
 # Freebuf RSS 中转
 
+> **2026-09-09 更新：本仓库已降级为兜底方案。**
+> 当前主力是借第三方 NewsNow 实例当上游（`https://newsnow.busiyi.world/api/s?id=freebuf`，
+> 实测能拿到真实数据，见 `server/sources/freebuf.ts` 的 `fetchUpstream`），
+> 不依赖任何设备开机，也不需要先建仓库。
+> 本仓库只在 `FB_RELAY` 配置了之后才会被用到。下面的内容仍然有效，作为上游挂掉时的后备。
+
 ## 为什么需要这个
 
 Freebuf 的 CDN 是 `c.yundunwaf.com`（创宇盾 WAF），它**按 ASN 封禁了 Cloudflare 的出口 IP 段**。
