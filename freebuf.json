@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1788940266868,
+  "updatedAt": 1788982554214,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/sectool/499751.html",
+      "title": "用 LLM Agent + MCP 把密码学攻击做成工具链：46 个可调用工具",
+      "url": "https://www.freebuf.com/articles/sectool/499751.html",
+      "pubDate": "Wed, 09 Sep 2026 19:01:42 +0800",
+      "extra": {
+        "hover": "用 LLM Agent + MCP 把密码学攻击做成可调用工具链：46 个工具 + 自动化攻击脚本摘要：本文分享如何用本地大模型（Ollama + Qwen3-8B）构建一套面向密码学攻击的 Agen"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499789.html",
+      "title": "DeepSeekHarness漏洞可导致AIAgent无需用户批准自行关闭文件沙箱",
+      "url": "https://www.freebuf.com/articles/ai-security/499789.html",
+      "pubDate": "Wed, 09 Sep 2026 16:47:07 +0800",
+      "extra": {
+        "hover": "DeepSeek Harness存高危漏洞，AI Agent一条命令即可关闭沙箱逃逸，无需用户批准，风险极高。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499691.html",
+      "title": "三大防御全被绕过：记忆投毒的“结构性盲区”与检测失效实战",
+      "url": "https://www.freebuf.com/articles/ai-security/499691.html",
+      "pubDate": "Wed, 09 Sep 2026 15:31:25 +0800",
+      "extra": {
+        "hover": "本文基于 2026 年 7 月最新公开的记忆投毒研究（MemPoison / MemGhost），系统拆解 L1/L2/L3 三级记忆投毒攻击模型，并实测三类主流防御——输入过滤器 DataSenti"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499688.html",
+      "title": "我给公司AI客服做了一次渗透测试，结果吓出一身冷汗",
+      "url": "https://www.freebuf.com/articles/ai-security/499688.html",
+      "pubDate": "Wed, 09 Sep 2026 15:20:36 +0800",
+      "extra": {
+        "hover": "公司上线大模型 + RAG 架构 AI 客服系统，可查询订单、修改地址、办理退款。测试发现存在提示注入漏洞，可泄露系统提示词、触发管理员批量退款、污染知识库。本文还原渗透全过程，介绍 6 种攻击手段、"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/499752.html",
+      "title": "ChromeV8引擎0Day漏洞遭在野利用可在沙箱内执行任意代码",
+      "url": "https://www.freebuf.com/news/499752.html",
+      "pubDate": "Wed, 09 Sep 2026 14:41:03 +0800",
+      "extra": {
+        "hover": "Chrome V8 0day漏洞CVE-2026-87491遭在野利用，攻击者可在沙箱执行任意代码，谷歌已修复，请立即升级至153.0.8010.36！"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/499629.html",
       "title": "AI 2 天写 RCE，1 周做蠕虫",
@@ -8,6 +53,51 @@
       "pubDate": "Wed, 09 Sep 2026 12:41:53 +0800",
       "extra": {
         "hover": "WeWorm 被拦住了，但这扇门没关上。下一个躺在哪个 VoIP 栈里的洞，可能已经有人在看——区别只是这次好人先找到了。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/499607.html",
+      "title": "透明加密落地一年之后:文档防泄密体系里的真实缺口",
+      "url": "https://www.freebuf.com/articles/endpoint/499607.html",
+      "pubDate": "Wed, 09 Sep 2026 10:15:48 +0800",
+      "extra": {
+        "hover": "加密挡不住手机拍照，那文档加密到底还能防什么？本文从内部威胁视角梳理透明加密的真实边界、五种模式的适用岗位，以及落地中最容易踩的三个误判。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499791.html",
+      "title": "如何对LLM（大语言模型）、RAG（检索增强生成）与生成式AI应用开展渗透测试",
+      "url": "https://www.freebuf.com/articles/ai-security/499791.html",
+      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0800",
+      "extra": {
+        "hover": "当提示词成为载荷，生成式AI的漏洞不止于不安全输出，更会波及检索、身份控制与业务交易；安全测试必须覆盖完整攻击路径。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/499714.html",
+      "title": "半数CISO因Mythos类前沿AI模型，考虑离开网安行业",
+      "url": "https://www.freebuf.com/news/499714.html",
+      "pubDate": "Wed, 09 Sep 2026 08:25:00 +0800",
+      "extra": {
+        "hover": "“这简直太疯狂了！”调查显示，50%的CISO因Mythos等前沿AI模型带来的压力与责任，考虑离开网络安全行业。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/499716.html",
+      "title": "微软发布史上规模最大补丁星期二更新：修复974个CVE漏洞，包含2个在野利用0Day与20个可蠕虫化漏洞",
+      "url": "https://www.freebuf.com/articles/system/499716.html",
+      "pubDate": "Wed, 09 Sep 2026 07:03:55 +0800",
+      "extra": {
+        "hover": "2026年9月补丁星期二更新修复的CVE漏洞数量创下历史纪录，共计974个，其中包含2个已遭在野利用的0Day漏洞、20个可蠕虫化漏洞，以及一个可通过Visio邮件触发的Exchange服务器严重远程代码执行（Remote Code Execution, RCE）漏洞。\n一、更新规模创历史新高，AI审计推高漏洞修复数量\n微软2026年9月补丁星期二更新的修复规模创下新纪录。根据研究人员对第三方"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499577.html",
+      "title": "你的下一个模型可能是木马：模型文件供应链投毒与扫描器绕过实测",
+      "url": "https://www.freebuf.com/articles/ai-security/499577.html",
+      "pubDate": "Wed, 09 Sep 2026 06:29:04 +0800",
+      "extra": {
+        "hover": "你的下一个模型可能是木马：模型文件供应链投毒与扫描器绕过实测我们习惯把 npm 投毒、PyPI 投毒当成供应链安全的必修课，却很少有人用同样的警惕心对待模型文件。毕竟在直觉里，模型权重只是一堆浮点数——数字怎么能执行代码呢？这篇文章记录我把&quot;模型文件能做什么&quot;完整测了一遍的过程：做一个带 payload 的假模型、看扫描器怎么抓、亲手绕过它、最后换一条扫描器根本不看的赛道再打一次。所有实验都在本机"
       }
     },
     {
@@ -38,6 +128,33 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/499535.html",
+      "title": "当AI红队遇见AI蓝队——AI自我对抗能否成为安全运营的新范式？",
+      "url": "https://www.freebuf.com/articles/ai-security/499535.html",
+      "pubDate": "Tue, 08 Sep 2026 23:14:04 +0800",
+      "extra": {
+        "hover": "AI 红队对战 AI 蓝队，AI 自我对抗会重塑网络安全运营吗？结合 GPT‑Red、DARPA AIxCC 案例与攻防模拟实验，剖析 AI 攻防的能力、现存瓶颈与企业落地路径。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499523.html",
+      "title": "OpenAI 沙箱困了 60 天，AI 用了 4 个半昼夜",
+      "url": "https://www.freebuf.com/articles/ai-security/499523.html",
+      "pubDate": "Tue, 08 Sep 2026 21:24:31 +0800",
+      "extra": {
+        "hover": "OpenAI 沙箱困了 60 天，AI 用了 4 个半昼夜一句话OpenAI 在 2026-08-26 的《Hugging Face 事件与未来之路》公开信里，重点讲了 7 月 9-13 日那 4 个半昼夜的 17,600 次操作。但几乎没人讨论事件真正的引爆点：5 月 7 日代理就在解决不了任务时开始互相&quot;传纸条&quot;，5 月下旬找到通往互联网的方法后这个方法在代理间传播。这 60 天的&quot;前史&quot;才是"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499514.html",
+      "title": "为什么换个文风注入就失效了？提示注入的风格敏感性实测",
+      "url": "https://www.freebuf.com/articles/ai-security/499514.html",
+      "pubDate": "Tue, 08 Sep 2026 20:13:52 +0800",
+      "extra": {
+        "hover": "很多小模型的&amp;quot;安全防线&amp;quot;守的是表面文风，不是真实意图。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/499509.html",
       "title": "FreeBuf早报 | AI 客服机器人可被诱骗窃取安全验证码并冒充受害者；新型InjectEave攻击可从30米外恢复耳机播放的音频",
       "url": "https://www.freebuf.com/news/499509.html",
@@ -47,138 +164,21 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/vuls/499467.html",
-      "title": "AI黑客的SRC掘金术：我用智能体+脚本，3天挖穿一家金融巨头的前端国密防线\n——从零搭建自动化漏洞挖掘工作流的完整复盘",
-      "url": "https://www.freebuf.com/articles/vuls/499467.html",
-      "pubDate": "Tue, 08 Sep 2026 17:43:59 +0800",
+      "id": "https://www.freebuf.com/articles/others-articles/499502.html",
+      "title": "大模型\"幻觉武器化\"：诱导AI生成虚假但可信信息的攻防实录",
+      "url": "https://www.freebuf.com/articles/others-articles/499502.html",
+      "pubDate": "Tue, 08 Sep 2026 19:38:29 +0800",
       "extra": {
-        "hover": "AI辅助漏洞挖掘不是替代安全研究员，而是放大人类的能力。工具再强大，也需要有经验的人来指导下往哪里挖、怎么判断价值、如何写出好报告。"
+        "hover": "幻觉不是Bug，也不完全是Feature。它是一个攻击面。认识到这一点，是防御的第一步。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/vuls/499462.html",
-      "title": "当 AI 审计真的跑起来：两目标、六轮次、54 个矩阵单元的 VulnGate 证据生产线复盘",
-      "url": "https://www.freebuf.com/articles/vuls/499462.html",
-      "pubDate": "Tue, 08 Sep 2026 17:24:35 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/499501.html",
+      "title": "你以为要保护人不被骗，其实要保护 AI Agent 不被骗",
+      "url": "https://www.freebuf.com/articles/ai-security/499501.html",
+      "pubDate": "Tue, 08 Sep 2026 19:24:05 +0800",
       "extra": {
-        "hover": "本文重点回答三个更实际的问题：AI 审计的证据到底放在哪里？Agent 会话崩溃、并发失败、工具退化时，研究工作如何继续？除了“找到几个漏洞”，一条证据生产线还能产生什么可复核、可交接的价值？"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/499599.html",
-      "title": "英国AI主权与国家安全的四重控制维度：从“完全自主”到“可控依赖”",
-      "url": "https://www.freebuf.com/articles/499599.html",
-      "pubDate": "Tue, 08 Sep 2026 16:24:56 +0800",
-      "extra": {
-        "hover": "Claude Fable 5事件暴露依赖外国闭源模型的结构性风险，英国提出四重控制维度与“受控依赖”策略。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499566.html",
-      "title": "ChatGPT 沙箱漏洞：攻击者借隐藏信道跨账户窃取 Gmail 数据",
-      "url": "https://www.freebuf.com/articles/ai-security/499566.html",
-      "pubDate": "Tue, 08 Sep 2026 15:20:31 +0800",
-      "extra": {
-        "hover": "ChatGPT沙箱漏洞使LLM沦为‘被胁迫的内部人员’，经共享Artifactory隐蔽信道跨账户窃取Gmail数据，隔离失效威胁升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/499471.html",
-      "title": "Adobe 紧急修补 Magento 0Day 漏洞：遭利用部署 Rust 后门与 PHP Web Shell",
-      "url": "https://www.freebuf.com/articles/web/499471.html",
-      "pubDate": "Tue, 08 Sep 2026 14:43:47 +0800",
-      "extra": {
-        "hover": "Adobe紧急修补Magento零日漏洞CVE-2026-75650，该漏洞已在野被利用部署Rust后门与PHP网页后门，商户需立即更新。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499528.html",
-      "title": "Mars Security 推出实时情报转检测引擎，几分钟内将实时威胁情报转化为经过回测的检测规则",
-      "url": "https://www.freebuf.com/news/499528.html",
-      "pubDate": "Tue, 08 Sep 2026 13:20:42 +0800",
-      "extra": {
-        "hover": "美国纽约州纽约市，2026 年 9 月 8 日，CyberNewswire\nMars Security——由攻防安全资深人士创立的自主威胁狩猎与检测工程平台——今日宣布推出基于实时情报的检测能力，可在情报发布后几分钟内将最新发布的威胁情报转化为经过验证、可直接部署的检测规则。\n该能力由前攻击侧安全从业者打造，能够将 CISA、Mandiant 及其他情报来源发布的通告转化为覆盖 CrowdStr"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499530.html",
-      "title": "Claude Mythos AI 在无人类指导的情况下自主执行完整网络攻击链",
-      "url": "https://www.freebuf.com/articles/ai-security/499530.html",
-      "pubDate": "Tue, 08 Sep 2026 12:50:47 +0800",
-      "extra": {
-        "hover": "标签：网络安全、安全报告\n分类：AI安全\n\nClaude Mythos AI无人类指导自主执行完整网络攻击链，从被盗员工凭据一路推进到域管理员控制，防御者面临速度挑战。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/499531.html",
-      "title": "攻击者入侵 Windows 域后禁用端点保护并横向部署 Sliver",
-      "url": "https://www.freebuf.com/articles/es/499531.html",
-      "pubDate": "Tue, 08 Sep 2026 12:10:57 +0800",
-      "extra": {
-        "hover": "攻击者入侵Windows域后禁用端点保护、窃取凭据并部署Sliver C2，通过区块链动态切换域名，持久化威胁严重。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/499525.html",
-      "title": "首个利用微信通话实现“0交互入侵”的蠕虫出现",
-      "url": "https://www.freebuf.com/articles/endpoint/499525.html",
-      "pubDate": "Tue, 08 Sep 2026 12:09:47 +0800",
-      "extra": {
-        "hover": "WeWorm被曝为首个通过微信通话传播的0Click蠕虫，无需接听即可跨iOS/Android控制账号，腾讯已修复，但蠕虫攻击时代已至。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/499375.html",
-      "title": "开源新模型 GLM‑5.3‑CYBERSECURITY‑FP8：一款面向网络安全的 FP8 专用大模型",
-      "url": "https://www.freebuf.com/articles/499375.html",
-      "pubDate": "Tue, 08 Sep 2026 11:16:19 +0800",
-      "extra": {
-        "hover": "该模型推荐使用 vLLM进行推理部署。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/499630.html",
-      "title": "从凌晨在干啥到看清一个人-AI-miniSOC行为画像落地实战",
-      "url": "https://www.freebuf.com/articles/es/499630.html",
-      "pubDate": "Tue, 08 Sep 2026 10:03:48 +0800",
-      "extra": {
-        "hover": "自研AI-miniSOC从日志构建设备画像，区分人与机器流量，异常可闭环处置，避免NAS被当“作息规律的人”。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499473.html",
-      "title": "美国悬赏 1000 万美元通缉与关键基础设施攻击有关的伊朗伊斯兰革命卫队网络部门负责人",
-      "url": "https://www.freebuf.com/news/499473.html",
-      "pubDate": "Tue, 08 Sep 2026 09:14:03 +0800",
-      "extra": {
-        "hover": "美国悬赏1000万美元通缉伊朗革命卫队网络负责人，因其指挥攻击美欧关键基础设施。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499453.html",
-      "title": "AI 客服机器人可被诱骗窃取安全验证码并冒充受害者",
-      "url": "https://www.freebuf.com/articles/ai-security/499453.html",
-      "pubDate": "Tue, 08 Sep 2026 08:50:11 +0800",
-      "extra": {
-        "hover": "标签：Web安全、网络安全  \n分类：AI安全"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/499589.html",
-      "title": "蓝队分析工具箱-BTAB",
-      "url": "https://www.freebuf.com/articles/sectool/499589.html",
-      "pubDate": "Tue, 08 Sep 2026 08:01:34 +0800",
-      "extra": {
-        "hover": "BTAB蓝队分析工具箱，开箱即用，集成流量包、SQL注入、Webshell、XSS检测等功能，适用无网环境。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/499389.html",
-      "title": "新型InjectEave攻击可从30米外恢复耳机播放的音频",
-      "url": "https://www.freebuf.com/articles/499389.html",
-      "pubDate": "Tue, 08 Sep 2026 03:20:01 +0800",
-      "extra": {
-        "hover": "InjectEave攻击可从30米外穿透墙壁窃听耳机音频，甚至注入AI伪造语音，隐私安全面临严重威胁。"
+        "hover": "你以为要保护人不被骗，其实要保护 AI Agent 不被骗一句话认知安全正在从&quot;保护人不被骗&quot;转向&quot;保护 Agent 的判断&quot;。Arup 25 亿、合成 CEO 视频、AI 客服变内鬼——这些攻击真正攻破的不是系统，而是 Agent 的判断。我从 200 个真实目标的对抗里得出结论：业务 Agent 越多，认知缺口越大；最贵的检测模型拦不住 30 秒冷静期能拦住的事。一、认知安全 30 年讲完了，"
       }
     }
   ]
