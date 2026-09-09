@@ -24,17 +24,17 @@ NewsNow 的 Worker 再从 `raw.githubusercontent.com` 读这个 JSON，绕过封
 
 1. 在 GitHub 新建**空仓库**（建议命名 `freebuf-relay`，Public，不要勾 README）
 
-2. 把本目录内容推上去：
+2. 把本目录内容推上去（用 **HTTPS**，本机没配 SSH key，走 `git@` 会 publickey denied；
+   首次 push 会弹浏览器让你登录 GitHub）：
 
 ```bash
-cd /path/to/newsnow/freebuf-relay
-git init
-git add -A
-git commit -m "init freebuf relay"
-git branch -M main
-git remote add origin git@github.com:<你的用户名>/freebuf-relay.git
+cd /Users/tangcm/WorkBuddy/2026-08-17-16-10-45/newsnow/freebuf-relay
+git remote add origin https://github.com/<你的用户名>/freebuf-relay.git
 git push -u origin main
 ```
+
+> 如果浏览器没弹出来、直接报认证失败，就用网页端：仓库页面 → Add file → Create new file，
+> 文件名填 `.github/workflows/fetch.yml` 粘贴对应内容，再 Add file → Upload files 拖入 `fetch.mjs`。
 
 3. 进仓库 → **Actions** 页 → 若提示 "Workflows aren't being run on this fork/enable" 点 **Enable**
    → 右上角手动跑一次 **Fetch Freebuf RSS** → 确认生成了 `freebuf.json`

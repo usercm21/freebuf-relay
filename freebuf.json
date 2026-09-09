@@ -1,13 +1,22 @@
 {
-  "updatedAt": 1788932012377,
+  "updatedAt": 1788940266868,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499629.html",
+      "title": "AI 2 天写 RCE，1 周做蠕虫",
+      "url": "https://www.freebuf.com/articles/ai-security/499629.html",
+      "pubDate": "Wed, 09 Sep 2026 12:41:53 +0800",
+      "extra": {
+        "hover": "WeWorm 被拦住了，但这扇门没关上。下一个躺在哪个 VoIP 栈里的洞，可能已经有人在看——区别只是这次好人先找到了。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/499631.html",
       "title": "AI 时代下，BAS（入侵与攻击模拟）需要何去何从？",
       "url": "https://www.freebuf.com/articles/499631.html",
       "pubDate": "Wed, 09 Sep 2026 04:30:05 +0800",
       "extra": {
-        "hover": "标签：企业安全、安全报告 分类：技术"
+        "hover": "标签：企业安全、安全报告  \n分类：技术"
       }
     },
     {
@@ -34,12 +43,12 @@
       "url": "https://www.freebuf.com/news/499509.html",
       "pubDate": "Tue, 08 Sep 2026 20:06:06 +0800",
       "extra": {
-        "hover": "标签：Web安全、网络安全 分类：AI安全"
+        "hover": "标签：Web安全、网络安全  \n分类：AI安全"
       }
     },
     {
       "id": "https://www.freebuf.com/articles/vuls/499467.html",
-      "title": "AI黑客的SRC掘金术：我用智能体+脚本，3天挖穿一家金融巨头的前端国密防线 ——从零搭建自动化漏洞挖掘工作流的完整复盘",
+      "title": "AI黑客的SRC掘金术：我用智能体+脚本，3天挖穿一家金融巨头的前端国密防线\n——从零搭建自动化漏洞挖掘工作流的完整复盘",
       "url": "https://www.freebuf.com/articles/vuls/499467.html",
       "pubDate": "Tue, 08 Sep 2026 17:43:59 +0800",
       "extra": {
@@ -53,6 +62,15 @@
       "pubDate": "Tue, 08 Sep 2026 17:24:35 +0800",
       "extra": {
         "hover": "本文重点回答三个更实际的问题：AI 审计的证据到底放在哪里？Agent 会话崩溃、并发失败、工具退化时，研究工作如何继续？除了“找到几个漏洞”，一条证据生产线还能产生什么可复核、可交接的价值？"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/499599.html",
+      "title": "英国AI主权与国家安全的四重控制维度：从“完全自主”到“可控依赖”",
+      "url": "https://www.freebuf.com/articles/499599.html",
+      "pubDate": "Tue, 08 Sep 2026 16:24:56 +0800",
+      "extra": {
+        "hover": "Claude Fable 5事件暴露依赖外国闭源模型的结构性风险，英国提出四重控制维度与“受控依赖”策略。"
       }
     },
     {
@@ -79,7 +97,7 @@
       "url": "https://www.freebuf.com/news/499528.html",
       "pubDate": "Tue, 08 Sep 2026 13:20:42 +0800",
       "extra": {
-        "hover": "美国纽约州纽约市，2026 年 9 月 8 日，CyberNewswire Mars Security——由攻防安全资深人士创立的自主威胁狩猎与检测工程平台——今日宣布推出基于实时情报的检测能力，可在情报发布后几分钟内将最新发布的威胁情报转化为经过验证、可直接部署的检测规则。 该能力由前攻击侧安全从业者打造，能够将 CISA、Mandiant 及其他情报来源发布的通告转化为覆盖 CrowdStr"
+        "hover": "美国纽约州纽约市，2026 年 9 月 8 日，CyberNewswire\nMars Security——由攻防安全资深人士创立的自主威胁狩猎与检测工程平台——今日宣布推出基于实时情报的检测能力，可在情报发布后几分钟内将最新发布的威胁情报转化为经过验证、可直接部署的检测规则。\n该能力由前攻击侧安全从业者打造，能够将 CISA、Mandiant 及其他情报来源发布的通告转化为覆盖 CrowdStr"
       }
     },
     {
@@ -88,7 +106,7 @@
       "url": "https://www.freebuf.com/articles/ai-security/499530.html",
       "pubDate": "Tue, 08 Sep 2026 12:50:47 +0800",
       "extra": {
-        "hover": "标签：网络安全、安全报告 分类：AI安全 Claude Mythos AI无人类指导自主执行完整网络攻击链，从被盗员工凭据一路推进到域管理员控制，防御者面临速度挑战。"
+        "hover": "标签：网络安全、安全报告\n分类：AI安全\n\nClaude Mythos AI无人类指导自主执行完整网络攻击链，从被盗员工凭据一路推进到域管理员控制，防御者面临速度挑战。"
       }
     },
     {
@@ -115,7 +133,7 @@
       "url": "https://www.freebuf.com/articles/499375.html",
       "pubDate": "Tue, 08 Sep 2026 11:16:19 +0800",
       "extra": {
-        "hover": "该模型推荐使用 vLLM进行推理部署。"
+        "hover": "该模型推荐使用 vLLM进行推理部署。"
       }
     },
     {
@@ -142,7 +160,7 @@
       "url": "https://www.freebuf.com/articles/ai-security/499453.html",
       "pubDate": "Tue, 08 Sep 2026 08:50:11 +0800",
       "extra": {
-        "hover": "标签：Web安全、网络安全 分类：AI安全"
+        "hover": "标签：Web安全、网络安全  \n分类：AI安全"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Tue, 08 Sep 2026 03:20:01 +0800",
       "extra": {
         "hover": "InjectEave攻击可从30米外穿透墙壁窃听耳机音频，甚至注入AI伪造语音，隐私安全面临严重威胁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499253.html",
-      "title": "FreeBuf早报 | OpenAI 发布 GPT-6 Astra；CrowdStrike 推出 SafeMind",
-      "url": "https://www.freebuf.com/news/499253.html",
-      "pubDate": "Mon, 07 Sep 2026 17:25:02 +0800",
-      "extra": {
-        "hover": "JSCeal恶意软件窃取Cookie绕过Google认证，篡改Binance等交易流量，攻击者仍在积极开发。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499246.html",
-      "title": "大模型记忆泄露：基于Membership Inference的训练数据提取攻击",
-      "url": "https://www.freebuf.com/articles/ai-security/499246.html",
-      "pubDate": "Mon, 07 Sep 2026 17:00:43 +0800",
-      "extra": {
-        "hover": "你的隐私数据，可能正在被大模型记住。"
       }
     }
   ]

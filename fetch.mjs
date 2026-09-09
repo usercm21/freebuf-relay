@@ -1,7 +1,13 @@
-// 抓取 Freebuf RSS 并转成 NewsNow 可直接消费的 JSON
-// 零依赖，在 GitHub Actions（node 20）中直接运行
+// 生成 NewsNow 可直接消费的 freebuf.json
+// 零依赖，node 20 直接跑（GitHub Actions）
+//
+// 为什么不能直接抓 Freebuf：它的 CDN 是创宇盾 WAF，按 ASN 封禁机房出口 IP。
+// 实测 Cloudflare 405、GitHub Actions 的 Azure 出口同样 405
+// （别信"换台机器就能抓"这种想当然，AWS 能通只是运气）。
+// 所以主路是从一个能通的上游 NewsNow 实例拿，直连只作为上游也没了时的最后尝试。
 import { readFileSync, writeFileSync } from "node:fs"
 
+const UPSTREAM = (process.env.FB_UPSTREAM || "https://newsnow.busiyi.world").replace(/\/+$/, "")
 const FEED = "https://www.freebuf.com/feed"
 const OUT = "freebuf.json"
 
@@ -25,66 +31,90 @@ function pick(block, tag) {
   return m ? decode(m[1]) : ""
 }
 
-// 创宇盾偶尔会抽风（偶发 405），重试几次；间隔递增，避免都落在同一个拦截窗口里
-async function fetchFeed() {
+// 重试间隔递增，避免几次尝试都落在同一个拦截窗口里
+async function retry(times, fn) {
   let lastErr
-  for (let i = 0; i < 4; i++) {
+  for (let i = 0; i < times; i++) {
     try {
-      const res = await fetch(FEED, {
-        headers: {
-          "User-Agent": UA,
-          "Accept": "application/rss+xml,application/xml,text/xml,*/*",
-          "Accept-Language": "zh-CN,zh;q=0.9",
-        },
-      })
-      if (!res.ok) throw new Error(`feed returned ${res.status}`)
-      const xml = await res.text()
-      if (!xml.includes("<item")) throw new Error("response has no <item>, likely blocked")
-      return xml
+      return await fn()
     } catch (e) {
       lastErr = e
-      if (i < 3) await new Promise(r => setTimeout(r, (i + 1) * 2000))
+      if (i < times - 1) await new Promise(r => setTimeout(r, (i + 1) * 2000))
     }
   }
   throw lastErr
 }
 
-async function main() {
-  const xml = await fetchFeed()
-  const blocks = xml.match(/<item>[\s\S]*?<\/item>/g) || []
+async function fromUpstream() {
+  const res = await fetch(`${UPSTREAM}/api/s?id=freebuf`, {
+    headers: { "User-Agent": UA, "Accept": "application/json" },
+  })
+  if (!res.ok) throw new Error(`upstream returned ${res.status}`)
+  const data = await res.json()
+  const items = (data?.items || []).filter(i => i?.id && i?.title && i?.url)
+  if (!items.length) throw new Error("upstream returned 0 items")
+  return items.map(i => ({
+    id: String(i.id),
+    title: String(i.title),
+    url: String(i.url),
+    pubDate: i.pubDate,
+    extra: i.extra,
+  }))
+}
 
+async function fromFeed() {
+  const res = await fetch(FEED, {
+    headers: {
+      "User-Agent": UA,
+      "Accept": "application/rss+xml,application/xml,text/xml,*/*",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+    },
+  })
+  if (!res.ok) throw new Error(`feed returned ${res.status}`)
+  const xml = await res.text()
+  if (!xml.includes("<item")) throw new Error("response has no <item>, likely blocked")
+
+  const blocks = xml.match(/<item>[\s\S]*?<\/item>/g) || []
   const items = blocks.map((b) => {
-    const title = pick(b, "title")
     const url = pick(b, "link")
-    const description = pick(b, "description")
-    const pubDate = pick(b, "pubDate")
-    const guid = pick(b, "guid")
     return {
-      id: guid || url,
-      title,
+      id: pick(b, "guid") || url,
+      title: pick(b, "title"),
       url,
-      pubDate: pubDate || undefined,
-      extra: { hover: description.slice(0, 200) },
+      pubDate: pick(b, "pubDate") || undefined,
+      extra: { hover: pick(b, "description").slice(0, 200) },
     }
   }).filter(i => i.id && i.title && i.url)
 
-  if (items.length === 0) throw new Error("parsed 0 items, feed format may have changed")
-
-  // 内容没变就不写文件：否则每 10 分钟一次空 commit，历史会被刷爆
-// （Freebuf 本身每天都有新文章，所以仍然会有 commit，足以避免 GitHub 停用 scheduled workflow）
-let prev = null
-try {
-  prev = JSON.parse(readFileSync(OUT, "utf8"))
-} catch {
-  // 首次运行没有旧文件
-}
-const same = prev?.items && JSON.stringify(prev.items.map(i => i.id)) === JSON.stringify(items.map(i => i.id))
-if (same) {
-  console.log(`unchanged: ${items.length} items, skip write`)
-  return
+  if (!items.length) throw new Error("parsed 0 items")
+  return items
 }
 
-writeFileSync(OUT, `${JSON.stringify({ updatedAt: Date.now(), items }, null, 2)}\n`)
+async function main() {
+  let items
+  try {
+    items = await retry(3, fromUpstream)
+    console.log("source: upstream")
+  } catch (e) {
+    console.log(`upstream failed (${e.message}), fallback to direct feed`)
+    items = await retry(4, fromFeed)
+    console.log("source: direct feed")
+  }
+
+  // 内容没变就不写文件，否则每 10 分钟一个空 commit 会把历史刷爆
+  let prev = null
+  try {
+    prev = JSON.parse(readFileSync(OUT, "utf8"))
+  } catch {
+    // 首次运行没有旧文件
+  }
+  const same = prev?.items && JSON.stringify(prev.items.map(i => i.id)) === JSON.stringify(items.map(i => i.id))
+  if (same) {
+    console.log(`unchanged: ${items.length} items, skip write`)
+    return
+  }
+
+  writeFileSync(OUT, `${JSON.stringify({ updatedAt: Date.now(), items }, null, 2)}\n`)
   console.log(`OK: ${items.length} items, first = ${items[0].title}`)
 }
 
