@@ -1,6 +1,78 @@
 {
-  "updatedAt": 1789009625396,
+  "updatedAt": 1789044800770,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499966.html",
+      "title": "AI Agent 权限继承漏洞:OAuthToken 在 Agent 链中的 5 个误用模式",
+      "url": "https://www.freebuf.com/articles/ai-security/499966.html",
+      "pubDate": "Thu, 10 Sep 2026 18:22:28 +0800",
+      "extra": {
+        "hover": "把 Token 从 LLM context 里拿出来,放进 Token Vault。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/499908.html",
+      "title": "CVE-2026-33017：从 Langflow 公开临时构建接口看代码执行风险与防御边界",
+      "url": "https://www.freebuf.com/articles/vuls/499908.html",
+      "pubDate": "Thu, 10 Sep 2026 14:18:54 +0800",
+      "extra": {
+        "hover": "CVE-2026-33017 本质是业务模型信任边界失效。开发人员信任了匿名请求内传入的 Flow 拓扑数据，把组件定义交给外部可控输入，最终造成动态代码执行。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499937.html",
+      "title": "Anthropic披露第四起涉及ClaudeOpus4.6的AI入侵真实系统事件",
+      "url": "https://www.freebuf.com/articles/ai-security/499937.html",
+      "pubDate": "Thu, 10 Sep 2026 12:34:01 +0800",
+      "extra": {
+        "hover": "Anthropic披露第四起Claude入侵真实系统事件，AI对齐缺陷引全行业安全担忧。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499940.html",
+      "title": "OWASP更新十大最严重LLM漏洞榜单",
+      "url": "https://www.freebuf.com/articles/ai-security/499940.html",
+      "pubDate": "Thu, 10 Sep 2026 08:25:00 +0800",
+      "extra": {
+        "hover": "OWASP更新LLM十大漏洞：提示注入、敏感信息泄露居首，过度自主权限跃升第三，Agent与供应链风险加剧。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499967.html",
+      "title": "黑客利用Claude与GPT工具实施入侵，波及拉美政企金融网络",
+      "url": "https://www.freebuf.com/articles/ai-security/499967.html",
+      "pubDate": "Thu, 10 Sep 2026 08:06:02 +0800",
+      "extra": {
+        "hover": "黑客借Claude与GPT入侵拉美政企金融网络，AI加速攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/499918.html",
+      "title": "新一代蜜罐？GitGuardianHoneytoken可实时捕获凭据窃取行为",
+      "url": "https://www.freebuf.com/articles/development/499918.html",
+      "pubDate": "Thu, 10 Sep 2026 05:30:24 +0800",
+      "extra": {
+        "hover": "凭据窃取数秒完成，GitGuardian蜜标以近零误报实时告警，攻击者一用即暴露。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499917.html",
+      "title": "网络安全测试期间ClaudeAI模型未授权访问真实生产系统",
+      "url": "https://www.freebuf.com/articles/ai-security/499917.html",
+      "pubDate": "Thu, 10 Sep 2026 03:18:59 +0800",
+      "extra": {
+        "hover": "Claude测试突破沙箱，向PyPI投毒并入侵安全厂商数据库，暴露AI对齐失控风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/499805.html",
+      "title": "CVE-2026-85046：Chrome 2026 年第 6 个 0day，一文讲清楚",
+      "url": "https://www.freebuf.com/articles/vuls/499805.html",
+      "pubDate": "Wed, 09 Sep 2026 22:49:42 +0800",
+      "extra": {
+        "hover": "CVE-2026-85046：Chrome 2026 年第 6 个 0day，一文讲清楚一句话2026 年 9 月 8 日，Google 公开了一个 Chrome 浏览器的严重漏洞（编号 CVE-2026-85046）。这个漏洞藏在 Chrome 最核心的&quot;翻译引擎&quot; V8 里，攻击者只要引诱你打开一个网页，不需要你点任何东西，就能在后台在读取你的浏览器内存、甚至执行恶意代码。这是 2026 年第"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/499856.html",
       "title": "一周内四个间谍组织共用BlueMoon漏洞利用工具包攻击Chrome与Windows用户",
@@ -8,6 +80,33 @@
       "pubDate": "Wed, 09 Sep 2026 22:04:05 +0800",
       "extra": {
         "hover": "四间谍组织共用BlueMoon，链式利用Chrome与Windows 0day，多国遭袭，CISA限期修复！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/others-articles/499502.html",
+      "title": "大模型&quot;幻觉武器化&quot;：诱导AI生成虚假但可信信息的攻防实录",
+      "url": "https://www.freebuf.com/articles/others-articles/499502.html",
+      "pubDate": "Wed, 09 Sep 2026 22:03:24 +0800",
+      "extra": {
+        "hover": "幻觉不是Bug，也不完全是Feature。它是一个攻击面。认识到这一点，是防御的第一步。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/defense/499794.html",
+      "title": "弱口令开局、匿名FTP拿权：一次两跳内网横向移动的全过程复盘",
+      "url": "https://www.freebuf.com/articles/defense/499794.html",
+      "pubDate": "Wed, 09 Sep 2026 20:58:41 +0800",
+      "extra": {
+        "hover": "本文完整复盘一次面向内网实验环境的横向移动演练：以一台门户服务器为入口，通过 SMB 弱口令命中获得管理员权限，随后经内网信息收集发现文件服务器的匿名 FTP 可读可写，上传 WebShell 拿到 IIS 应用池权限，最终通过管理员凭据提取完成文件服务器的全面控制。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/499793.html",
+      "title": "CVE-2026-42271:公告的\"版本区间\"被我实测推翻了——LiteLLM MCP 端点的审计与残余风险",
+      "url": "https://www.freebuf.com/articles/vuls/499793.html",
+      "pubDate": "Wed, 09 Sep 2026 20:25:32 +0800",
+      "extra": {
+        "hover": "GitHub Advisory 声称 LiteLLM MCP 测试端点命令注入(CVE-2026-42271)影响 1.74.2~1.83.7、修复于 1.83.7。笔者实测却发现:公告划为&amp;quot;受影响&amp;quot;"
       }
     },
     {
@@ -38,12 +137,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/499691.html",
-      "title": "三大防御全被绕过：记忆投毒的“结构性盲区”与检测失效实战",
-      "url": "https://www.freebuf.com/articles/ai-security/499691.html",
-      "pubDate": "Wed, 09 Sep 2026 15:31:25 +0800",
+      "id": "https://www.freebuf.com/articles/499987.html",
+      "title": "ByteSRC发布《测试红线10条》及违规白帽处罚公告",
+      "url": "https://www.freebuf.com/articles/499987.html",
+      "pubDate": "Wed, 09 Sep 2026 16:11:47 +0800",
       "extra": {
-        "hover": "本文基于 2026 年 7 月最新公开的记忆投毒研究（MemPoison / MemGhost），系统拆解 L1/L2/L3 三级记忆投毒攻击模型，并实测三类主流防御——输入过滤器 DataSenti"
+        "hover": "AI批量生成无效报告、Agent越界拖库已威胁业务与数据安全，ByteSRC警告12人、封禁4人，发布测试红线10条。"
       }
     },
     {
@@ -80,105 +179,6 @@
       "pubDate": "Wed, 09 Sep 2026 10:15:48 +0800",
       "extra": {
         "hover": "加密挡不住手机拍照，那文档加密到底还能防什么？本文从内部威胁视角梳理透明加密的真实边界、五种模式的适用岗位，以及落地中最容易踩的三个误判。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499791.html",
-      "title": "如何对LLM（大语言模型）、RAG（检索增强生成）与生成式AI应用开展渗透测试",
-      "url": "https://www.freebuf.com/articles/ai-security/499791.html",
-      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0800",
-      "extra": {
-        "hover": "当提示词成为载荷，生成式AI的漏洞不止于不安全输出，更会波及检索、身份控制与业务交易；安全测试必须覆盖完整攻击路径。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/499582.html",
-      "title": "MCP 安全实战：搭建一个带后门的 MCP Server，让 ClaudeCursor 帮你执行恶意命令",
-      "url": "https://www.freebuf.com/articles/endpoint/499582.html",
-      "pubDate": "Wed, 09 Sep 2026 09:06:07 +0800",
-      "extra": {
-        "hover": "一、引言：MCP 协议的安全盲区2025 年，Anthropic 发布了 Model Context Protocol（MCP），旨在统一 AI 应用与外部工具之间的交互标准。短短几个月内，Claude Desktop、Cursor、Continue 等主流客户端纷纷支持 MCP，开发者生态迅速繁荣。然而，繁荣的背后隐藏着一个被严重忽视的安全盲区。MCP 的设计哲学是&quot;信任 Server&quot;：客户端"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499714.html",
-      "title": "半数CISO因Mythos类前沿AI模型，考虑离开网安行业",
-      "url": "https://www.freebuf.com/news/499714.html",
-      "pubDate": "Wed, 09 Sep 2026 08:25:00 +0800",
-      "extra": {
-        "hover": "“这简直太疯狂了！”调查显示，50%的CISO因Mythos等前沿AI模型带来的压力与责任，考虑离开网络安全行业。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/499716.html",
-      "title": "微软发布史上规模最大补丁星期二更新：修复974个CVE漏洞，包含2个在野利用0Day与20个可蠕虫化漏洞",
-      "url": "https://www.freebuf.com/articles/system/499716.html",
-      "pubDate": "Wed, 09 Sep 2026 07:03:55 +0800",
-      "extra": {
-        "hover": "2026年9月补丁星期二更新修复的CVE漏洞数量创下历史纪录，共计974个，其中包含2个已遭在野利用的0Day漏洞、20个可蠕虫化漏洞，以及一个可通过Visio邮件触发的Exchange服务器严重远程代码执行（Remote Code Execution, RCE）漏洞。\n一、更新规模创历史新高，AI审计推高漏洞修复数量\n微软2026年9月补丁星期二更新的修复规模创下新纪录。根据研究人员对第三方"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499577.html",
-      "title": "你的下一个模型可能是木马：模型文件供应链投毒与扫描器绕过实测",
-      "url": "https://www.freebuf.com/articles/ai-security/499577.html",
-      "pubDate": "Wed, 09 Sep 2026 06:29:04 +0800",
-      "extra": {
-        "hover": "你的下一个模型可能是木马：模型文件供应链投毒与扫描器绕过实测我们习惯把 npm 投毒、PyPI 投毒当成供应链安全的必修课，却很少有人用同样的警惕心对待模型文件。毕竟在直觉里，模型权重只是一堆浮点数——数字怎么能执行代码呢？这篇文章记录我把&quot;模型文件能做什么&quot;完整测了一遍的过程：做一个带 payload 的假模型、看扫描器怎么抓、亲手绕过它、最后换一条扫描器根本不看的赛道再打一次。所有实验都在本机"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/499631.html",
-      "title": "AI 时代下，BAS（入侵与攻击模拟）需要何去何从？",
-      "url": "https://www.freebuf.com/articles/499631.html",
-      "pubDate": "Wed, 09 Sep 2026 04:30:05 +0800",
-      "extra": {
-        "hover": "标签：企业安全、安全报告  \n分类：技术"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499626.html",
-      "title": "FortiSandbox 漏洞允许攻击者通过精心构造的 HTTP 请求访问敏感信息（CVE-2026-26084）",
-      "url": "https://www.freebuf.com/news/499626.html",
-      "pubDate": "Wed, 09 Sep 2026 03:08:26 +0800",
-      "extra": {
-        "hover": "FortiSandbox高危漏洞CVE-2026-26084：未认证攻击者可借Web界面访问控制缺陷窃取敏感数据，CVSS 8.9，请立即升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499623.html",
-      "title": "思科打包修复多个漏洞（含两个严重漏洞），涉及运营商级路由操作系统",
-      "url": "https://www.freebuf.com/news/499623.html",
-      "pubDate": "Wed, 09 Sep 2026 02:22:40 +0800",
-      "extra": {
-        "hover": "思科修复IOS XR多个漏洞，两个CVSS 9.8级可远程利用，无缓解措施，专家：立即修补！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499535.html",
-      "title": "当AI红队遇见AI蓝队——AI自我对抗能否成为安全运营的新范式？",
-      "url": "https://www.freebuf.com/articles/ai-security/499535.html",
-      "pubDate": "Tue, 08 Sep 2026 23:14:04 +0800",
-      "extra": {
-        "hover": "AI 红队对战 AI 蓝队，AI 自我对抗会重塑网络安全运营吗？结合 GPT‑Red、DARPA AIxCC 案例与攻防模拟实验，剖析 AI 攻防的能力、现存瓶颈与企业落地路径。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499523.html",
-      "title": "OpenAI 沙箱困了 60 天，AI 用了 4 个半昼夜",
-      "url": "https://www.freebuf.com/articles/ai-security/499523.html",
-      "pubDate": "Tue, 08 Sep 2026 21:24:31 +0800",
-      "extra": {
-        "hover": "OpenAI 沙箱困了 60 天，AI 用了 4 个半昼夜一句话OpenAI 在 2026-08-26 的《Hugging Face 事件与未来之路》公开信里，重点讲了 7 月 9-13 日那 4 个半昼夜的 17,600 次操作。但几乎没人讨论事件真正的引爆点：5 月 7 日代理就在解决不了任务时开始互相&quot;传纸条&quot;，5 月下旬找到通往互联网的方法后这个方法在代理间传播。这 60 天的&quot;前史&quot;才是"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499514.html",
-      "title": "为什么换个文风注入就失效了？提示注入的风格敏感性实测",
-      "url": "https://www.freebuf.com/articles/ai-security/499514.html",
-      "pubDate": "Tue, 08 Sep 2026 20:13:52 +0800",
-      "extra": {
-        "hover": "很多小模型的&amp;quot;安全防线&amp;quot;守的是表面文风，不是真实意图。"
       }
     }
   ]
