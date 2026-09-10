@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1788982554214,
+  "updatedAt": 1789009625396,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/499856.html",
+      "title": "一周内四个间谍组织共用BlueMoon漏洞利用工具包攻击Chrome与Windows用户",
+      "url": "https://www.freebuf.com/news/499856.html",
+      "pubDate": "Wed, 09 Sep 2026 22:04:05 +0800",
+      "extra": {
+        "hover": "四间谍组织共用BlueMoon，链式利用Chrome与Windows 0day，多国遭袭，CISA限期修复！"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/sectool/499751.html",
       "title": "用 LLM Agent + MCP 把密码学攻击做成工具链：46 个可调用工具",
@@ -8,6 +17,15 @@
       "pubDate": "Wed, 09 Sep 2026 19:01:42 +0800",
       "extra": {
         "hover": "用 LLM Agent + MCP 把密码学攻击做成可调用工具链：46 个工具 + 自动化攻击脚本摘要：本文分享如何用本地大模型（Ollama + Qwen3-8B）构建一套面向密码学攻击的 Agen"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/499745.html",
+      "title": "FreeBuf早报 | 微软发布史上最大补丁更新修复974个CVE；ChatGPT沙箱漏洞被利用窃取Gmail数据",
+      "url": "https://www.freebuf.com/news/499745.html",
+      "pubDate": "Wed, 09 Sep 2026 18:47:24 +0800",
+      "extra": {
+        "hover": "2026年9月补丁星期二更新修复的CVE漏洞数量创下历史纪录，共计974个，其中包含2个已遭在野利用的0Day漏洞、20个可蠕虫化漏洞，以及一个可通过Visio邮件触发的Exchange服务器严重远程代码执行（Remote Code Execution, RCE）漏洞。"
       }
     },
     {
@@ -71,6 +89,15 @@
       "pubDate": "Wed, 09 Sep 2026 10:00:00 +0800",
       "extra": {
         "hover": "当提示词成为载荷，生成式AI的漏洞不止于不安全输出，更会波及检索、身份控制与业务交易；安全测试必须覆盖完整攻击路径。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/499582.html",
+      "title": "MCP 安全实战：搭建一个带后门的 MCP Server，让 ClaudeCursor 帮你执行恶意命令",
+      "url": "https://www.freebuf.com/articles/endpoint/499582.html",
+      "pubDate": "Wed, 09 Sep 2026 09:06:07 +0800",
+      "extra": {
+        "hover": "一、引言：MCP 协议的安全盲区2025 年，Anthropic 发布了 Model Context Protocol（MCP），旨在统一 AI 应用与外部工具之间的交互标准。短短几个月内，Claude Desktop、Cursor、Continue 等主流客户端纷纷支持 MCP，开发者生态迅速繁荣。然而，繁荣的背后隐藏着一个被严重忽视的安全盲区。MCP 的设计哲学是&quot;信任 Server&quot;：客户端"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Tue, 08 Sep 2026 20:13:52 +0800",
       "extra": {
         "hover": "很多小模型的&amp;quot;安全防线&amp;quot;守的是表面文风，不是真实意图。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499509.html",
-      "title": "FreeBuf早报 | AI 客服机器人可被诱骗窃取安全验证码并冒充受害者；新型InjectEave攻击可从30米外恢复耳机播放的音频",
-      "url": "https://www.freebuf.com/news/499509.html",
-      "pubDate": "Tue, 08 Sep 2026 20:06:06 +0800",
-      "extra": {
-        "hover": "标签：Web安全、网络安全  \n分类：AI安全"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/others-articles/499502.html",
-      "title": "大模型\"幻觉武器化\"：诱导AI生成虚假但可信信息的攻防实录",
-      "url": "https://www.freebuf.com/articles/others-articles/499502.html",
-      "pubDate": "Tue, 08 Sep 2026 19:38:29 +0800",
-      "extra": {
-        "hover": "幻觉不是Bug，也不完全是Feature。它是一个攻击面。认识到这一点，是防御的第一步。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499501.html",
-      "title": "你以为要保护人不被骗，其实要保护 AI Agent 不被骗",
-      "url": "https://www.freebuf.com/articles/ai-security/499501.html",
-      "pubDate": "Tue, 08 Sep 2026 19:24:05 +0800",
-      "extra": {
-        "hover": "你以为要保护人不被骗，其实要保护 AI Agent 不被骗一句话认知安全正在从&quot;保护人不被骗&quot;转向&quot;保护 Agent 的判断&quot;。Arup 25 亿、合成 CEO 视频、AI 客服变内鬼——这些攻击真正攻破的不是系统，而是 Agent 的判断。我从 200 个真实目标的对抗里得出结论：业务 Agent 越多，认知缺口越大；最贵的检测模型拦不住 30 秒冷静期能拦住的事。一、认知安全 30 年讲完了，"
       }
     }
   ]
