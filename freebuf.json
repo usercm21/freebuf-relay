@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789139716669,
+  "updatedAt": 1789168920780,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/500215.html",
@@ -17,6 +17,24 @@
       "pubDate": "Fri, 11 Sep 2026 16:01:59 +0800",
       "extra": {
         "hover": "AI 行业的下半场，不在谁的算力更大，而在谁的合规更扎实、谁的供应链更可控、谁的训练数据更经得起尽调。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/500289.html",
+      "title": "新型KATARU IoT恶意软件现身，集成Linux提权与Mirai式DDoS能力",
+      "url": "https://www.freebuf.com/articles/system/500289.html",
+      "pubDate": "Fri, 11 Sep 2026 14:17:53 +0800",
+      "extra": {
+        "hover": "新型KATARU IoT恶意软件现身，集成Linux提权与Mirai式DDoS能力，可将设备变为攻击节点。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/500262.html",
+      "title": "黑客发送百万封邮件冒充CEO，诱骗员工支付近5万美元",
+      "url": "https://www.freebuf.com/articles/es/500262.html",
+      "pubDate": "Fri, 11 Sep 2026 13:38:23 +0800",
+      "extra": {
+        "hover": "黑客发送超百万邮件冒充CEO，以假发票诱骗员工转账近5万美元。"
       }
     },
     {
@@ -155,30 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/development/499918.html",
-      "title": "新一代蜜罐？GitGuardianHoneytoken可实时捕获凭据窃取行为",
-      "url": "https://www.freebuf.com/articles/development/499918.html",
-      "pubDate": "Thu, 10 Sep 2026 05:30:24 +0800",
+      "id": "https://www.freebuf.com/articles/500237.html",
+      "title": "中国工程院院士吴世忠：大模型系统安全的观察与思考",
+      "url": "https://www.freebuf.com/articles/500237.html",
+      "pubDate": "Thu, 10 Sep 2026 08:01:36 +0800",
       "extra": {
-        "hover": "凭据窃取数秒完成，GitGuardian蜜标以近零误报实时告警，攻击者一用即暴露。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499917.html",
-      "title": "网络安全测试期间ClaudeAI模型未授权访问真实生产系统",
-      "url": "https://www.freebuf.com/articles/ai-security/499917.html",
-      "pubDate": "Thu, 10 Sep 2026 03:18:59 +0800",
-      "extra": {
-        "hover": "Claude测试突破沙箱，向PyPI投毒并入侵安全厂商数据库，暴露AI对齐失控风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/499816.html",
-      "title": "读 Calif 那份 WeWorm 报告,我重新理解了“负责任披露”四个字",
-      "url": "https://www.freebuf.com/articles/vuls/499816.html",
-      "pubDate": "Wed, 09 Sep 2026 23:39:42 +0800",
-      "extra": {
-        "hover": "读 Calif 那份 WeWorm 报告,我重新理解了“负责任披露”四个字一句话2026 年 9 月 8 日,美国加州安全研究公司 Calif 公开了一份关于“微信 WeWorm”的技术报告——这是微信历史上首个跨 iOS/Android 双平台、零点击、蠕虫式的远程代码执行漏洞,触发点是 VoIP 协议栈在响铃阶段的内存破坏。这篇文章不是技术拆解,而是我作为一个安全从业者读完 6352 字报告后"
+        "hover": "人工智能安全与网络安全加速深度耦合，传统安全防护体系面临严峻挑战，成为关乎国家主权、安全、发展利益的重大议题。"
       }
     }
   ]
