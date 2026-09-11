@@ -1,6 +1,87 @@
 {
-  "updatedAt": 1789044800770,
+  "updatedAt": 1789126817684,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500215.html",
+      "title": "AI中转站实测：428个里26个在动手脚，你的数据在替谁打工",
+      "url": "https://www.freebuf.com/articles/ai-security/500215.html",
+      "pubDate": "Fri, 11 Sep 2026 17:58:04 +0800",
+      "extra": {
+        "hover": "你以为花 1 块钱买了 285 万 Token 省了钱，实际上你才是被卖的那个。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/500186.html",
+      "title": "Anthropic 9 月报告点名 7 家中国 AI 实验室：事实、影响与应对",
+      "url": "https://www.freebuf.com/articles/vuls/500186.html",
+      "pubDate": "Fri, 11 Sep 2026 16:01:59 +0800",
+      "extra": {
+        "hover": "AI 行业的下半场，不在谁的算力更大，而在谁的合规更扎实、谁的供应链更可控、谁的训练数据更经得起尽调。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500152.html",
+      "title": "当告警日志被洗白：AI-SOC 判读幻觉的测量、不可复现性与证据链反击",
+      "url": "https://www.freebuf.com/articles/ai-security/500152.html",
+      "pubDate": "Fri, 11 Sep 2026 13:06:57 +0800",
+      "extra": {
+        "hover": "针对 AI-SOC 告警判读中的幻觉问题，本文提出一种基于多维度证据链的检测与评估方法，用于识别虚假告警、验证模型判决一致性，并提升安全运营中 AI 输出的可信度与可复现性。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/500135.html",
+      "title": "Claude 发布AI滥用报告，其中关于中国网络安全的部分爆了",
+      "url": "https://www.freebuf.com/articles/500135.html",
+      "pubDate": "Fri, 11 Sep 2026 11:56:17 +0800",
+      "extra": {
+        "hover": "Claude 今天发布了他们在 2025 年 12 月至 2026 年 8 月期间，围绕七个危害领域所阻止活动的报告。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/500110.html",
+      "title": "挖洞SOP-从资产测绘到漏洞提交全流程",
+      "url": "https://www.freebuf.com/articles/web/500110.html",
+      "pubDate": "Fri, 11 Sep 2026 09:27:11 +0800",
+      "extra": {
+        "hover": "挖洞 SOP：从资产测绘到漏洞提交的完整流程摘要：挖洞不是玄学，而是一条可复现的流程。本文把「选目标 → 找域名 → 资产枚举 → 存活判断 → 挖接口 → 漏洞验证 → 提交」七步串成一套 SOP。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/500210.html",
+      "title": "GitLab发布安全补丁修复严重漏洞，可致任意文件读取、窃密及远程代码执行",
+      "url": "https://www.freebuf.com/news/500210.html",
+      "pubDate": "Fri, 11 Sep 2026 08:20:14 +0800",
+      "extra": {
+        "hover": "GitLab修复满分漏洞：未认证可读任意文件，企业版RCE，速升级！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/500162.html",
+      "title": "蜂窝设备挂失机制存在漏洞，数美元就可以远程切断陌生设备网络",
+      "url": "https://www.freebuf.com/news/500162.html",
+      "pubDate": "Fri, 11 Sep 2026 06:00:16 +0800",
+      "extra": {
+        "hover": "花2.5美元、20秒，就能远程封禁陌生手机，全新未拆封机也中招。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/500065.html",
+      "title": "状态码 200 背后的陷阱：识别「软 404」",
+      "url": "https://www.freebuf.com/articles/web/500065.html",
+      "pubDate": "Fri, 11 Sep 2026 01:19:01 +0800",
+      "extra": {
+        "hover": "一次批量扫描中，我把目标站的一堆 `/.git/config`都扫出了 200，兴奋地准备当「信息泄露」提交——结果全是假的。这篇文章聊聊「软 404」，以及怎么用几个 curl 参数一眼识破它。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/500023.html",
+      "title": "Jenkins Remoting 反序列化 RCE（CVE-2026-70426）分析与利用",
+      "url": "https://www.freebuf.com/articles/vuls/500023.html",
+      "pubDate": "Fri, 11 Sep 2026 00:10:12 +0800",
+      "extra": {
+        "hover": "\t 绕过 JEP-200 类过滤器：Jenkins Remoting 反序列化 RCE（CVE-2026-70426）分析与利用。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/499966.html",
       "title": "AI Agent 权限继承漏洞:OAuthToken 在 Agent 链中的 5 个误用模式",
@@ -8,6 +89,24 @@
       "pubDate": "Thu, 10 Sep 2026 18:22:28 +0800",
       "extra": {
         "hover": "把 Token 从 LLM context 里拿出来,放进 Token Vault。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/500140.html",
+      "title": "开源项目 | BlackHat欧洲最新工具展出:ASC 毫秒级逆完超大APK",
+      "url": "https://www.freebuf.com/articles/sectool/500140.html",
+      "pubDate": "Thu, 10 Sep 2026 17:25:37 +0800",
+      "extra": {
+        "hover": "Droid ASC按需重组最小DEX，不全文反编译APK，已用于漏洞研究，发现荣耀/小米RCE，收益约35万。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/499941.html",
+      "title": "FreeBuf早报 | BlueMoon串联Chrome与Windows漏洞；2026年十大最佳端点权限管理工具",
+      "url": "https://www.freebuf.com/news/499941.html",
+      "pubDate": "Thu, 10 Sep 2026 17:15:08 +0800",
+      "extra": {
+        "hover": "四间谍组织共用BlueMoon，链式利用Chrome与Windows 0day，多国遭袭，CISA限期修复！"
       }
     },
     {
@@ -26,6 +125,15 @@
       "pubDate": "Thu, 10 Sep 2026 12:34:01 +0800",
       "extra": {
         "hover": "Anthropic披露第四起Claude入侵真实系统事件，AI对齐缺陷引全行业安全担忧。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499691.html",
+      "title": "三大防御全被绕过：记忆投毒的“结构性盲区”与检测失效实战",
+      "url": "https://www.freebuf.com/articles/ai-security/499691.html",
+      "pubDate": "Thu, 10 Sep 2026 11:49:14 +0800",
+      "extra": {
+        "hover": "三类主流防御（输入过滤 / 模型对齐 / 执行审计）都被系统性绕过，且这不是三个 bug，而是&amp;quot;写时防御&amp;quot;与&amp;quot;延迟恶意性&amp;quot;之间的结构性错位。"
       }
     },
     {
@@ -71,114 +179,6 @@
       "pubDate": "Wed, 09 Sep 2026 22:49:42 +0800",
       "extra": {
         "hover": "CVE-2026-85046：Chrome 2026 年第 6 个 0day，一文讲清楚一句话2026 年 9 月 8 日，Google 公开了一个 Chrome 浏览器的严重漏洞（编号 CVE-2026-85046）。这个漏洞藏在 Chrome 最核心的&quot;翻译引擎&quot; V8 里，攻击者只要引诱你打开一个网页，不需要你点任何东西，就能在后台在读取你的浏览器内存、甚至执行恶意代码。这是 2026 年第"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499856.html",
-      "title": "一周内四个间谍组织共用BlueMoon漏洞利用工具包攻击Chrome与Windows用户",
-      "url": "https://www.freebuf.com/news/499856.html",
-      "pubDate": "Wed, 09 Sep 2026 22:04:05 +0800",
-      "extra": {
-        "hover": "四间谍组织共用BlueMoon，链式利用Chrome与Windows 0day，多国遭袭，CISA限期修复！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/others-articles/499502.html",
-      "title": "大模型&quot;幻觉武器化&quot;：诱导AI生成虚假但可信信息的攻防实录",
-      "url": "https://www.freebuf.com/articles/others-articles/499502.html",
-      "pubDate": "Wed, 09 Sep 2026 22:03:24 +0800",
-      "extra": {
-        "hover": "幻觉不是Bug，也不完全是Feature。它是一个攻击面。认识到这一点，是防御的第一步。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/499794.html",
-      "title": "弱口令开局、匿名FTP拿权：一次两跳内网横向移动的全过程复盘",
-      "url": "https://www.freebuf.com/articles/defense/499794.html",
-      "pubDate": "Wed, 09 Sep 2026 20:58:41 +0800",
-      "extra": {
-        "hover": "本文完整复盘一次面向内网实验环境的横向移动演练：以一台门户服务器为入口，通过 SMB 弱口令命中获得管理员权限，随后经内网信息收集发现文件服务器的匿名 FTP 可读可写，上传 WebShell 拿到 IIS 应用池权限，最终通过管理员凭据提取完成文件服务器的全面控制。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/499793.html",
-      "title": "CVE-2026-42271:公告的\"版本区间\"被我实测推翻了——LiteLLM MCP 端点的审计与残余风险",
-      "url": "https://www.freebuf.com/articles/vuls/499793.html",
-      "pubDate": "Wed, 09 Sep 2026 20:25:32 +0800",
-      "extra": {
-        "hover": "GitHub Advisory 声称 LiteLLM MCP 测试端点命令注入(CVE-2026-42271)影响 1.74.2~1.83.7、修复于 1.83.7。笔者实测却发现:公告划为&amp;quot;受影响&amp;quot;"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/499751.html",
-      "title": "用 LLM Agent + MCP 把密码学攻击做成工具链：46 个可调用工具",
-      "url": "https://www.freebuf.com/articles/sectool/499751.html",
-      "pubDate": "Wed, 09 Sep 2026 19:01:42 +0800",
-      "extra": {
-        "hover": "用 LLM Agent + MCP 把密码学攻击做成可调用工具链：46 个工具 + 自动化攻击脚本摘要：本文分享如何用本地大模型（Ollama + Qwen3-8B）构建一套面向密码学攻击的 Agen"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499745.html",
-      "title": "FreeBuf早报 | 微软发布史上最大补丁更新修复974个CVE；ChatGPT沙箱漏洞被利用窃取Gmail数据",
-      "url": "https://www.freebuf.com/news/499745.html",
-      "pubDate": "Wed, 09 Sep 2026 18:47:24 +0800",
-      "extra": {
-        "hover": "2026年9月补丁星期二更新修复的CVE漏洞数量创下历史纪录，共计974个，其中包含2个已遭在野利用的0Day漏洞、20个可蠕虫化漏洞，以及一个可通过Visio邮件触发的Exchange服务器严重远程代码执行（Remote Code Execution, RCE）漏洞。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499789.html",
-      "title": "DeepSeekHarness漏洞可导致AIAgent无需用户批准自行关闭文件沙箱",
-      "url": "https://www.freebuf.com/articles/ai-security/499789.html",
-      "pubDate": "Wed, 09 Sep 2026 16:47:07 +0800",
-      "extra": {
-        "hover": "DeepSeek Harness存高危漏洞，AI Agent一条命令即可关闭沙箱逃逸，无需用户批准，风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/499987.html",
-      "title": "ByteSRC发布《测试红线10条》及违规白帽处罚公告",
-      "url": "https://www.freebuf.com/articles/499987.html",
-      "pubDate": "Wed, 09 Sep 2026 16:11:47 +0800",
-      "extra": {
-        "hover": "AI批量生成无效报告、Agent越界拖库已威胁业务与数据安全，ByteSRC警告12人、封禁4人，发布测试红线10条。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499688.html",
-      "title": "我给公司AI客服做了一次渗透测试，结果吓出一身冷汗",
-      "url": "https://www.freebuf.com/articles/ai-security/499688.html",
-      "pubDate": "Wed, 09 Sep 2026 15:20:36 +0800",
-      "extra": {
-        "hover": "公司上线大模型 + RAG 架构 AI 客服系统，可查询订单、修改地址、办理退款。测试发现存在提示注入漏洞，可泄露系统提示词、触发管理员批量退款、污染知识库。本文还原渗透全过程，介绍 6 种攻击手段、"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499752.html",
-      "title": "ChromeV8引擎0Day漏洞遭在野利用可在沙箱内执行任意代码",
-      "url": "https://www.freebuf.com/news/499752.html",
-      "pubDate": "Wed, 09 Sep 2026 14:41:03 +0800",
-      "extra": {
-        "hover": "Chrome V8 0day漏洞CVE-2026-87491遭在野利用，攻击者可在沙箱执行任意代码，谷歌已修复，请立即升级至153.0.8010.36！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499629.html",
-      "title": "AI 2 天写 RCE，1 周做蠕虫",
-      "url": "https://www.freebuf.com/articles/ai-security/499629.html",
-      "pubDate": "Wed, 09 Sep 2026 12:41:53 +0800",
-      "extra": {
-        "hover": "WeWorm 被拦住了，但这扇门没关上。下一个躺在哪个 VoIP 栈里的洞，可能已经有人在看——区别只是这次好人先找到了。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/499607.html",
-      "title": "透明加密落地一年之后:文档防泄密体系里的真实缺口",
-      "url": "https://www.freebuf.com/articles/endpoint/499607.html",
-      "pubDate": "Wed, 09 Sep 2026 10:15:48 +0800",
-      "extra": {
-        "hover": "加密挡不住手机拍照，那文档加密到底还能防什么？本文从内部威胁视角梳理透明加密的真实边界、五种模式的适用岗位，以及落地中最容易踩的三个误判。"
       }
     }
   ]
