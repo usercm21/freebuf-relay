@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789220813592,
+  "updatedAt": 1789238621341,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/500347.html",
@@ -17,6 +17,15 @@
       "pubDate": "Sat, 12 Sep 2026 14:37:56 +0800",
       "extra": {
         "hover": "OpenAI智能体攻击RubyGems，借RubyDoc实现RCE、窃密钥外泄数据，引AI监管呼声。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/500351.html",
+      "title": "传统边界模型无法抵御云与SaaS供应链攻击，需构建以身份为核心的防护韧性",
+      "url": "https://www.freebuf.com/articles/es/500351.html",
+      "pubDate": "Sat, 12 Sep 2026 10:46:44 +0800",
+      "extra": {
+        "hover": "PeopleSoft 0Day遭ShinyHunters利用致百家机构被勒索，云与SaaS供应链攻击击穿边界，身份成新防线。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 10 Sep 2026 18:22:28 +0800",
       "extra": {
         "hover": "把 Token 从 LLM context 里拿出来,放进 Token Vault。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/500140.html",
-      "title": "开源项目 | BlackHat欧洲最新工具展出:ASC 毫秒级逆完超大APK",
-      "url": "https://www.freebuf.com/articles/sectool/500140.html",
-      "pubDate": "Thu, 10 Sep 2026 17:25:37 +0800",
-      "extra": {
-        "hover": "Droid ASC按需重组最小DEX，不全文反编译APK，已用于漏洞研究，发现荣耀/小米RCE，收益约35万。"
       }
     }
   ]
