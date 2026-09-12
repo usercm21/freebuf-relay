@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1789168920780,
+  "updatedAt": 1789220813592,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500347.html",
+      "title": "企业全面部署AI工具改变SOC告警格局，四月内告警量增长685%",
+      "url": "https://www.freebuf.com/articles/ai-security/500347.html",
+      "pubDate": "Sat, 12 Sep 2026 15:54:44 +0800",
+      "extra": {
+        "hover": "AI告警四月内增685%，94%为噪声，真实攻击仅0.02%，SOC恐被淹没。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500331.html",
+      "title": "OpenAI Agents关联RubyGems恶意攻击活动，已在RubyDoc服务器实现RCE",
+      "url": "https://www.freebuf.com/articles/ai-security/500331.html",
+      "pubDate": "Sat, 12 Sep 2026 14:37:56 +0800",
+      "extra": {
+        "hover": "OpenAI智能体攻击RubyGems，借RubyDoc实现RCE、窃密钥外泄数据，引AI监管呼声。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500318.html",
+      "title": "研究人员将新黑客行动关联至OpenAI Agent，目标为RubyGems代码托管平台",
+      "url": "https://www.freebuf.com/articles/ai-security/500318.html",
+      "pubDate": "Sat, 12 Sep 2026 01:25:10 +0800",
+      "extra": {
+        "hover": "OpenAI Agent失控！入侵RubyGems、绕过验证、发现0Day，API密钥险被窃。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/500296.html",
+      "title": "GitLab修复CVSS 10分文件读取漏洞，披露数小时即遭探测",
+      "url": "https://www.freebuf.com/news/500296.html",
+      "pubDate": "Fri, 11 Sep 2026 22:00:18 +0800",
+      "extra": {
+        "hover": "GitLab CVSS 10分文件读取漏洞披露数小时即遭探测，未授权可读服务器文件，请尽快打补丁。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/500215.html",
       "title": "AI中转站实测：428个里26个在动手脚，你的数据在替谁打工",
@@ -8,6 +44,15 @@
       "pubDate": "Fri, 11 Sep 2026 17:58:04 +0800",
       "extra": {
         "hover": "你以为花 1 块钱买了 285 万 Token 省了钱，实际上你才是被卖的那个。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/500212.html",
+      "title": "首个利用微信通话实现“0交互入侵”的蠕虫出现；DeepSeek Harness曝高危漏洞  | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/500212.html",
+      "pubDate": "Fri, 11 Sep 2026 17:32:58 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     },
     {
@@ -38,12 +83,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/500159.html",
+      "title": "AI Agent 错层校验漏洞模型：从 CoreBreak、GuardFall 到 TOCTOU 的执行边界审计",
+      "url": "https://www.freebuf.com/articles/ai-security/500159.html",
+      "pubDate": "Fri, 11 Sep 2026 13:37:18 +0800",
+      "extra": {
+        "hover": "AI Agent 被攻破，未必是模型失控，而是安全检查放错了层。本文从 CoreBreak、GuardFall 到 TOCTOU，抽象“错层校验漏洞”，并用实验日志复现三类执行边界失效。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/500152.html",
       "title": "当告警日志被洗白：AI-SOC 判读幻觉的测量、不可复现性与证据链反击",
       "url": "https://www.freebuf.com/articles/ai-security/500152.html",
       "pubDate": "Fri, 11 Sep 2026 13:06:57 +0800",
       "extra": {
         "hover": "针对 AI-SOC 告警判读中的幻觉问题，本文提出一种基于多维度证据链的检测与评估方法，用于识别虚假告警、验证模型判决一致性，并提升安全运营中 AI 输出的可信度与可复现性。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/500119.html",
+      "title": "SSRF新姿势——从云元数据到内部服务网格的横向渗透",
+      "url": "https://www.freebuf.com/articles/vuls/500119.html",
+      "pubDate": "Fri, 11 Sep 2026 10:18:14 +0800",
+      "extra": {
+        "hover": "SSRF不只是内网探测2025年HackerOne年度安全报告中，SSRF连续第三年进入Web漏洞赏金排行榜前五。但报告中的一个数据更值得关注：SSRF漏洞的平均赏金从2022年的980美元攀升至2025年的2850美元，涨幅接近三倍。赏金上涨的背后是攻击面的质变。传统SSRF的天花板是&quot;读取云元数据中的AK/SK&quot;，而在云原生架构下，一个SSRF漏洞可以串联K8s API Server访问、Se"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Thu, 10 Sep 2026 17:25:37 +0800",
       "extra": {
         "hover": "Droid ASC按需重组最小DEX，不全文反编译APK，已用于漏洞研究，发现荣耀/小米RCE，收益约35万。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/499941.html",
-      "title": "FreeBuf早报 | BlueMoon串联Chrome与Windows漏洞；2026年十大最佳端点权限管理工具",
-      "url": "https://www.freebuf.com/news/499941.html",
-      "pubDate": "Thu, 10 Sep 2026 17:15:08 +0800",
-      "extra": {
-        "hover": "四间谍组织共用BlueMoon，链式利用Chrome与Windows 0day，多国遭袭，CISA限期修复！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499937.html",
-      "title": "Anthropic披露第四起涉及ClaudeOpus4.6的AI入侵真实系统事件",
-      "url": "https://www.freebuf.com/articles/ai-security/499937.html",
-      "pubDate": "Thu, 10 Sep 2026 12:34:01 +0800",
-      "extra": {
-        "hover": "Anthropic披露第四起Claude入侵真实系统事件，AI对齐缺陷引全行业安全担忧。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499691.html",
-      "title": "三大防御全被绕过：记忆投毒的“结构性盲区”与检测失效实战",
-      "url": "https://www.freebuf.com/articles/ai-security/499691.html",
-      "pubDate": "Thu, 10 Sep 2026 11:49:14 +0800",
-      "extra": {
-        "hover": "三类主流防御（输入过滤 / 模型对齐 / 执行审计）都被系统性绕过，且这不是三个 bug，而是&amp;quot;写时防御&amp;quot;与&amp;quot;延迟恶意性&amp;quot;之间的结构性错位。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/499861.html",
-      "title": "终端数据出口收敛实践：USB、打印、网盘七类通道的管控设计与灰度",
-      "url": "https://www.freebuf.com/articles/endpoint/499861.html",
-      "pubDate": "Thu, 10 Sep 2026 09:19:02 +0800",
-      "extra": {
-        "hover": "能力以 XTCM（迪康端点安全一体化管理系统）为例落地，但盘点方法、分级思路、灰度顺序与产品无关，换一套终端安全产品同样适用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499940.html",
-      "title": "OWASP更新十大最严重LLM漏洞榜单",
-      "url": "https://www.freebuf.com/articles/ai-security/499940.html",
-      "pubDate": "Thu, 10 Sep 2026 08:25:00 +0800",
-      "extra": {
-        "hover": "OWASP更新LLM十大漏洞：提示注入、敏感信息泄露居首，过度自主权限跃升第三，Agent与供应链风险加剧。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499967.html",
-      "title": "黑客利用Claude与GPT工具实施入侵，波及拉美政企金融网络",
-      "url": "https://www.freebuf.com/articles/ai-security/499967.html",
-      "pubDate": "Thu, 10 Sep 2026 08:06:02 +0800",
-      "extra": {
-        "hover": "黑客借Claude与GPT入侵拉美政企金融网络，AI加速攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/500237.html",
-      "title": "中国工程院院士吴世忠：大模型系统安全的观察与思考",
-      "url": "https://www.freebuf.com/articles/500237.html",
-      "pubDate": "Thu, 10 Sep 2026 08:01:36 +0800",
-      "extra": {
-        "hover": "人工智能安全与网络安全加速深度耦合，传统安全防护体系面临严峻挑战，成为关乎国家主权、安全、发展利益的重大议题。"
       }
     }
   ]
