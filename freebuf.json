@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789238621341,
+  "updatedAt": 1789254027633,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500383.html",
+      "title": "黑客利用Claude搜寻180万安卓应用密钥，Anthropic报告揭示AI滥用新态势",
+      "url": "https://www.freebuf.com/articles/ai-security/500383.html",
+      "pubDate": "Sat, 12 Sep 2026 16:46:56 +0800",
+      "extra": {
+        "hover": "AI正成恶意运营核心：从网络犯罪到监控、宣传、武器，攻击成本骤降、规模激增。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/500347.html",
       "title": "企业全面部署AI工具改变SOC告警格局，四月内告警量增长685%",
@@ -146,6 +155,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/sectool/500379.html",
+      "title": "红队攻防 | GitHub C2 —— MCP接入AI、全自动渗透必备",
+      "url": "https://www.freebuf.com/articles/sectool/500379.html",
+      "pubDate": "Fri, 11 Sep 2026 07:30:28 +0800",
+      "extra": {
+        "hover": "GitHub C2红队平台：Worker主通道+GitHub Issue备用，Agent自动提权、进程隐藏、持久化自愈，MCP接入AI，全自动渗透必备。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/500162.html",
       "title": "蜂窝设备挂失机制存在漏洞，数美元就可以远程切断陌生设备网络",
       "url": "https://www.freebuf.com/news/500162.html",
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 11 Sep 2026 01:19:01 +0800",
       "extra": {
         "hover": "一次批量扫描中，我把目标站的一堆 `/.git/config`都扫出了 200，兴奋地准备当「信息泄露」提交——结果全是假的。这篇文章聊聊「软 404」，以及怎么用几个 curl 参数一眼识破它。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/500023.html",
-      "title": "Jenkins Remoting 反序列化 RCE（CVE-2026-70426）分析与利用",
-      "url": "https://www.freebuf.com/articles/vuls/500023.html",
-      "pubDate": "Fri, 11 Sep 2026 00:10:12 +0800",
-      "extra": {
-        "hover": "\t 绕过 JEP-200 类过滤器：Jenkins Remoting 反序列化 RCE（CVE-2026-70426）分析与利用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499966.html",
-      "title": "AI Agent 权限继承漏洞:OAuthToken 在 Agent 链中的 5 个误用模式",
-      "url": "https://www.freebuf.com/articles/ai-security/499966.html",
-      "pubDate": "Thu, 10 Sep 2026 18:22:28 +0800",
-      "extra": {
-        "hover": "把 Token 从 LLM context 里拿出来,放进 Token Vault。"
       }
     }
   ]
