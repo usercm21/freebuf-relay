@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789260953725,
+  "updatedAt": 1789310442989,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/500407.html",
+      "title": "针对浏览器Cookie和密码提取的免杀研究",
+      "url": "https://www.freebuf.com/articles/endpoint/500407.html",
+      "pubDate": "Sat, 12 Sep 2026 16:57:28 +0800",
+      "extra": {
+        "hover": "内网渗透中浏览器凭据提取常被EDR拦截，本文分享一套Chromium系浏览器Cookie/密码取证工具链，可绕过主流杀软与EDR。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/500383.html",
       "title": "黑客利用Claude搜寻180万安卓应用密钥，Anthropic报告揭示AI滥用新态势",
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 11 Sep 2026 07:30:28 +0800",
       "extra": {
         "hover": "GitHub C2红队平台：Worker主通道+GitHub Issue备用，Agent自动提权、进程隐藏、持久化自愈，MCP接入AI，全自动渗透必备。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/500162.html",
-      "title": "蜂窝设备挂失机制存在漏洞，数美元就可以远程切断陌生设备网络",
-      "url": "https://www.freebuf.com/news/500162.html",
-      "pubDate": "Fri, 11 Sep 2026 06:00:16 +0800",
-      "extra": {
-        "hover": "花2.5美元、20秒，就能远程封禁陌生手机，全新未拆封机也中招。"
       }
     }
   ]
