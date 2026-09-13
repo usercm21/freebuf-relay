@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789254027633,
+  "updatedAt": 1789260953725,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/500383.html",
@@ -35,6 +35,15 @@
       "pubDate": "Sat, 12 Sep 2026 10:46:44 +0800",
       "extra": {
         "hover": "PeopleSoft 0Day遭ShinyHunters利用致百家机构被勒索，云与SaaS供应链攻击击穿边界，身份成新防线。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/500364.html",
+      "title": "Anthropic正在构建一个大规模监控系统",
+      "url": "https://www.freebuf.com/articles/500364.html",
+      "pubDate": "Sat, 12 Sep 2026 08:30:56 +0800",
+      "extra": {
+        "hover": "Anthropic被曝构建预测性监控体系，与Samdesk合作监视抗议、长期跟踪个人，与其公开反对大规模监控的立场形成尖锐矛盾。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 11 Sep 2026 06:00:16 +0800",
       "extra": {
         "hover": "花2.5美元、20秒，就能远程封禁陌生手机，全新未拆封机也中招。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/500065.html",
-      "title": "状态码 200 背后的陷阱：识别「软 404」",
-      "url": "https://www.freebuf.com/articles/web/500065.html",
-      "pubDate": "Fri, 11 Sep 2026 01:19:01 +0800",
-      "extra": {
-        "hover": "一次批量扫描中，我把目标站的一堆 `/.git/config`都扫出了 200，兴奋地准备当「信息泄露」提交——结果全是假的。这篇文章聊聊「软 404」，以及怎么用几个 curl 参数一眼识破它。"
       }
     }
   ]
