@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789381159839,
+  "updatedAt": 1789403070242,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/web/500603.html",
+      "title": "基于 Microsoft PyRIT 的 LLM 红队自动化测试实战",
+      "url": "https://www.freebuf.com/articles/web/500603.html",
+      "pubDate": "Mon, 14 Sep 2026 19:40:28 +0800",
+      "extra": {
+        "hover": "本文深入介绍微软开源的 PyRIT（Python Risk Identification Toolkit）框架，通过实战案例演示如何利用该工具对大语言模型进行自动化红队测试。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/500556.html",
       "title": "DARWIN 把安全评测改成了攻防军备竞赛",
@@ -38,6 +47,33 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/500590.html",
+      "title": "大模型安全周报：越狱进入「零成本」时代，防御端转向「主动诱导与轨迹感知」",
+      "url": "https://www.freebuf.com/articles/500590.html",
+      "pubDate": "Mon, 14 Sep 2026 09:47:09 +0800",
+      "extra": {
+        "hover": "越狱门槛崩塌，一句乱码、一声打断即可让前沿模型破防；代码生成护栏越狱后攻击成功率逼近100%。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/500540.html",
+      "title": "攻击者可构造请求执行命令，存在供应链攻击风险",
+      "url": "https://www.freebuf.com/articles/development/500540.html",
+      "pubDate": "Mon, 14 Sep 2026 08:50:25 +0800",
+      "extra": {
+        "hover": "CVE-2026-3854：GitHub Git推送管道曝严重RCE，未认证可执行任意命令，付10万美元赏金，供应链告急！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ics-articles/500512.html",
+      "title": "KTH研发自主防御Agent，自动复位响应关键基础设施入侵",
+      "url": "https://www.freebuf.com/articles/ics-articles/500512.html",
+      "pubDate": "Mon, 14 Sep 2026 06:00:04 +0800",
+      "extra": {
+        "hover": "KTH训练自主防御Agent，仅凭流量计数即可判断工控入侵并复位主机，但依赖预设攻击者行为模型，泛化未验证。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/web/498682.html",
       "title": "Autonomous Injection Agent 实战：让 AI 自己去找 Prompt 注入点并自动变异攻击载荷",
       "url": "https://www.freebuf.com/articles/web/498682.html",
@@ -47,12 +83,48 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/web/500442.html",
+      "title": "当AI Agent学会自己装插件——MCP工具链投毒从注入到RCE的完整攻击链",
+      "url": "https://www.freebuf.com/articles/web/500442.html",
+      "pubDate": "Sun, 13 Sep 2026 20:36:21 +0800",
+      "extra": {
+        "hover": "一个被投毒的翻译插件2026年7月，一位开发者在使用Claude Desktop时发现了一个奇怪的现象：每次使用&quot;translate-text&quot;这个MCP翻译工具，终端都会短暂闪现一个curl请求。他用Wireshark抓包后发现，这个&quot;翻译工具&quot;在执行翻译之前，会先将本地的~/.ssh/id_rsa文件内容发送到一个境外IP。这个工具在MCP工具市场上有超过2000次下载，工具描述写的是&quot;高精度"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500438.html",
+      "title": "当AI助手变成后门：MCP Server恶意投毒攻击实战与检测",
+      "url": "https://www.freebuf.com/articles/ai-security/500438.html",
+      "pubDate": "Sun, 13 Sep 2026 19:16:03 +0800",
+      "extra": {
+        "hover": "当AI助手变成后门：MCP Server恶意投毒攻击实战与检测一、前言1.1 背景：MCP协议的崛起与安全隐患2024年底，Anthropic推出了Model Context Protocol（MCP"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/es/500452.html",
       "title": "Q-Day到来时间大幅提前，多数机构后量子迁移准备不足",
       "url": "https://www.freebuf.com/articles/es/500452.html",
       "pubDate": "Sun, 13 Sep 2026 16:49:54 +0800",
       "extra": {
         "hover": "Q-Day提前：量子破解公钥加密门槛骤降，多数机构迁移滞后，逐应用改造恐难赶上2029大限。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500422.html",
+      "title": "当“AI 同事”被策反：多智能体流水线的注入传播测量与最小权限防御",
+      "url": "https://www.freebuf.com/articles/ai-security/500422.html",
+      "pubDate": "Sun, 13 Sep 2026 16:06:07 +0800",
+      "extra": {
+        "hover": "本文基于实测实验剖析多智能体流水线提示注入链式传播，对比四层防御优劣，证实最小权限执行器是可靠兜底，揭示 LLM 不可复现风险，给出工程落地防御清单"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/500418.html",
+      "title": "一个开机自建的会话，把 root 交了出去：Cisco FMC 认证绕过（CVE-2026-20079）拆解",
+      "url": "https://www.freebuf.com/articles/vuls/500418.html",
+      "pubDate": "Sun, 13 Sep 2026 15:21:31 +0800",
+      "extra": {
+        "hover": "如果有人在统计&quot;KEV 收录后多久出现大规模利用&quot;，FMC 这个案例的价值在于：它同时具备满分、在野、无缓解措施、管理面设备四个属性，是一个极端的样本。"
       }
     },
     {
@@ -101,84 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/es/500351.html",
-      "title": "传统边界模型无法抵御云与SaaS供应链攻击，需构建以身份为核心的防护韧性",
-      "url": "https://www.freebuf.com/articles/es/500351.html",
-      "pubDate": "Sat, 12 Sep 2026 10:46:44 +0800",
+      "id": "https://www.freebuf.com/articles/web/500319.html",
+      "title": "新手勇闯网络安全 | Linux安全基础（二）",
+      "url": "https://www.freebuf.com/articles/web/500319.html",
+      "pubDate": "Sat, 12 Sep 2026 11:23:02 +0800",
       "extra": {
-        "hover": "PeopleSoft 0Day遭ShinyHunters利用致百家机构被勒索，云与SaaS供应链攻击击穿边界，身份成新防线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/500364.html",
-      "title": "Anthropic正在构建一个大规模监控系统",
-      "url": "https://www.freebuf.com/articles/500364.html",
-      "pubDate": "Sat, 12 Sep 2026 08:30:56 +0800",
-      "extra": {
-        "hover": "Anthropic被曝构建预测性监控体系，与Samdesk合作监视抗议、长期跟踪个人，与其公开反对大规模监控的立场形成尖锐矛盾。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500318.html",
-      "title": "研究人员将新黑客行动关联至OpenAI Agent，目标为RubyGems代码托管平台",
-      "url": "https://www.freebuf.com/articles/ai-security/500318.html",
-      "pubDate": "Sat, 12 Sep 2026 01:25:10 +0800",
-      "extra": {
-        "hover": "OpenAI Agent失控！入侵RubyGems、绕过验证、发现0Day，API密钥险被窃。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/500296.html",
-      "title": "GitLab修复CVSS 10分文件读取漏洞，披露数小时即遭探测",
-      "url": "https://www.freebuf.com/news/500296.html",
-      "pubDate": "Fri, 11 Sep 2026 22:00:18 +0800",
-      "extra": {
-        "hover": "GitLab CVSS 10分文件读取漏洞披露数小时即遭探测，未授权可读服务器文件，请尽快打补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/500216.html",
-      "title": "FreeBuf早报 | 蜂窝设备挂失机制存在漏洞；黑客利用Claude与GPT工具实施入侵",
-      "url": "https://www.freebuf.com/news/500216.html",
-      "pubDate": "Fri, 11 Sep 2026 18:02:10 +0800",
-      "extra": {
-        "hover": "花2.5美元、20秒，就能远程封禁陌生手机，全新未拆封机也中招。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500215.html",
-      "title": "AI中转站实测：428个里26个在动手脚，你的数据在替谁打工",
-      "url": "https://www.freebuf.com/articles/ai-security/500215.html",
-      "pubDate": "Fri, 11 Sep 2026 17:58:04 +0800",
-      "extra": {
-        "hover": "你以为花 1 块钱买了 285 万 Token 省了钱，实际上你才是被卖的那个。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500213.html",
-      "title": "当违规内容学会“说好话”：LLM 审核判官的可操纵性测量与三层防御",
-      "url": "https://www.freebuf.com/articles/ai-security/500213.html",
-      "pubDate": "Fri, 11 Sep 2026 17:43:03 +0800",
-      "extra": {
-        "hover": "本文通过实测剖析LLM内容审核判官的语义操纵漏洞，对比格式规避与话术攻击效果，验证三层防御方案，揭示AI审核的幻觉、置信度陷阱与误杀代价。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/500212.html",
-      "title": "首个利用微信通话实现“0交互入侵”的蠕虫出现；DeepSeek Harness曝高危漏洞  | FreeBuf周报",
-      "url": "https://www.freebuf.com/articles/500212.html",
-      "pubDate": "Fri, 11 Sep 2026 17:32:58 +0800",
-      "extra": {
-        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/500186.html",
-      "title": "Anthropic 9 月报告点名 7 家中国 AI 实验室：事实、影响与应对",
-      "url": "https://www.freebuf.com/articles/vuls/500186.html",
-      "pubDate": "Fri, 11 Sep 2026 16:01:59 +0800",
-      "extra": {
-        "hover": "AI 行业的下半场，不在谁的算力更大，而在谁的合规更扎实、谁的供应链更可控、谁的训练数据更经得起尽调。"
+        "hover": "用户管理（root / 系统 / 普通用户、su 与 sudo）、文件权限机制（UGO 模型、chmod/chown）、SUID 特殊权限提权原理与 find 命令实战演示，GTFOBins 提权手册"
       }
     }
   ]
