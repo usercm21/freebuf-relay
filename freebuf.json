@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1789344526479,
+  "updatedAt": 1789381159839,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500556.html",
+      "title": "DARWIN 把安全评测改成了攻防军备竞赛",
+      "url": "https://www.freebuf.com/articles/ai-security/500556.html",
+      "pubDate": "Mon, 14 Sep 2026 17:26:48 +0800",
+      "extra": {
+        "hover": "\t DARWIN 把安全评测改成了攻防军备竞赛把攻防两端一起冻住再做评测，是这两年 AI 安全圈默认的玩法。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/500544.html",
+      "title": "AI 自己动手勒索：首个全自主代理勒索软件复盘",
+      "url": "https://www.freebuf.com/articles/vuls/500544.html",
+      "pubDate": "Mon, 14 Sep 2026 17:13:35 +0800",
+      "extra": {
+        "hover": "你可以在模型外面加一万道安全对齐护栏，但如果承载模型的进程本身能执行 shell 能做的一切，那当模型被攻破（或本身就是攻击者）时，所有护栏都是摆设。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500531.html",
+      "title": "SGLang 的 SafeUnpickler 没拦住 builtins：十八天四个 CVE，AI 推理层的鉴权真空",
+      "url": "https://www.freebuf.com/articles/ai-security/500531.html",
+      "pubDate": "Mon, 14 Sep 2026 16:44:41 +0800",
+      "extra": {
+        "hover": "SGLang、Ollama、vLLM 各自用 CVE 把同一句话讲了一遍：先把「谁能路由到我的推理进程」这道题答了，再谈别的。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500490.html",
+      "title": "你给AI Agent的代码权限，变成了攻击者的后门",
+      "url": "https://www.freebuf.com/articles/ai-security/500490.html",
+      "pubDate": "Mon, 14 Sep 2026 12:45:02 +0800",
+      "extra": {
+        "hover": "当提示词变成 Shell，你给 Agent 的每一项权限，都可能变成攻击者手里的武器。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/498682.html",
+      "title": "Autonomous Injection Agent 实战：让 AI 自己去找 Prompt 注入点并自动变异攻击载荷",
+      "url": "https://www.freebuf.com/articles/web/498682.html",
+      "pubDate": "Sun, 13 Sep 2026 21:54:02 +0800",
+      "extra": {
+        "hover": "一、前言：从手工注入到 AI 自主攻击1.1 问题的本质Prompt 注入已连续两年位居 OWASP LLM Top 10 榜首（2025、2026）。核心矛盾很简单：LLM 没有可靠的能力区分&amp;am"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/es/500452.html",
       "title": "Q-Day到来时间大幅提前，多数机构后量子迁移准备不足",
@@ -92,12 +137,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/500216.html",
+      "title": "FreeBuf早报 | 蜂窝设备挂失机制存在漏洞；黑客利用Claude与GPT工具实施入侵",
+      "url": "https://www.freebuf.com/news/500216.html",
+      "pubDate": "Fri, 11 Sep 2026 18:02:10 +0800",
+      "extra": {
+        "hover": "花2.5美元、20秒，就能远程封禁陌生手机，全新未拆封机也中招。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/500215.html",
       "title": "AI中转站实测：428个里26个在动手脚，你的数据在替谁打工",
       "url": "https://www.freebuf.com/articles/ai-security/500215.html",
       "pubDate": "Fri, 11 Sep 2026 17:58:04 +0800",
       "extra": {
         "hover": "你以为花 1 块钱买了 285 万 Token 省了钱，实际上你才是被卖的那个。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500213.html",
+      "title": "当违规内容学会“说好话”：LLM 审核判官的可操纵性测量与三层防御",
+      "url": "https://www.freebuf.com/articles/ai-security/500213.html",
+      "pubDate": "Fri, 11 Sep 2026 17:43:03 +0800",
+      "extra": {
+        "hover": "本文通过实测剖析LLM内容审核判官的语义操纵漏洞，对比格式规避与话术攻击效果，验证三层防御方案，揭示AI审核的幻觉、置信度陷阱与误杀代价。"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Fri, 11 Sep 2026 16:01:59 +0800",
       "extra": {
         "hover": "AI 行业的下半场，不在谁的算力更大，而在谁的合规更扎实、谁的供应链更可控、谁的训练数据更经得起尽调。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/500289.html",
-      "title": "新型KATARU IoT恶意软件现身，集成Linux提权与Mirai式DDoS能力",
-      "url": "https://www.freebuf.com/articles/system/500289.html",
-      "pubDate": "Fri, 11 Sep 2026 14:17:53 +0800",
-      "extra": {
-        "hover": "新型KATARU IoT恶意软件现身，集成Linux提权与Mirai式DDoS能力，可将设备变为攻击节点。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/500262.html",
-      "title": "黑客发送百万封邮件冒充CEO，诱骗员工支付近5万美元",
-      "url": "https://www.freebuf.com/articles/es/500262.html",
-      "pubDate": "Fri, 11 Sep 2026 13:38:23 +0800",
-      "extra": {
-        "hover": "黑客发送超百万邮件冒充CEO，以假发票诱骗员工转账近5万美元。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500159.html",
-      "title": "AI Agent 错层校验漏洞模型：从 CoreBreak、GuardFall 到 TOCTOU 的执行边界审计",
-      "url": "https://www.freebuf.com/articles/ai-security/500159.html",
-      "pubDate": "Fri, 11 Sep 2026 13:37:18 +0800",
-      "extra": {
-        "hover": "AI Agent 被攻破，未必是模型失控，而是安全检查放错了层。本文从 CoreBreak、GuardFall 到 TOCTOU，抽象“错层校验漏洞”，并用实验日志复现三类执行边界失效。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500152.html",
-      "title": "当告警日志被洗白：AI-SOC 判读幻觉的测量、不可复现性与证据链反击",
-      "url": "https://www.freebuf.com/articles/ai-security/500152.html",
-      "pubDate": "Fri, 11 Sep 2026 13:06:57 +0800",
-      "extra": {
-        "hover": "针对 AI-SOC 告警判读中的幻觉问题，本文提出一种基于多维度证据链的检测与评估方法，用于识别虚假告警、验证模型判决一致性，并提升安全运营中 AI 输出的可信度与可复现性。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/500119.html",
-      "title": "SSRF新姿势——从云元数据到内部服务网格的横向渗透",
-      "url": "https://www.freebuf.com/articles/vuls/500119.html",
-      "pubDate": "Fri, 11 Sep 2026 10:18:14 +0800",
-      "extra": {
-        "hover": "SSRF不只是内网探测2025年HackerOne年度安全报告中，SSRF连续第三年进入Web漏洞赏金排行榜前五。但报告中的一个数据更值得关注：SSRF漏洞的平均赏金从2022年的980美元攀升至2025年的2850美元，涨幅接近三倍。赏金上涨的背后是攻击面的质变。传统SSRF的天花板是&quot;读取云元数据中的AK/SK&quot;，而在云原生架构下，一个SSRF漏洞可以串联K8s API Server访问、Se"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/500110.html",
-      "title": "挖洞SOP-从资产测绘到漏洞提交全流程",
-      "url": "https://www.freebuf.com/articles/web/500110.html",
-      "pubDate": "Fri, 11 Sep 2026 09:27:11 +0800",
-      "extra": {
-        "hover": "挖洞 SOP：从资产测绘到漏洞提交的完整流程摘要：挖洞不是玄学，而是一条可复现的流程。本文把「选目标 → 找域名 → 资产枚举 → 存活判断 → 挖接口 → 漏洞验证 → 提交」七步串成一套 SOP。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/500108.html",
-      "title": "绕开 DLP 的那条光路：屏幕翻拍泄密与三类防线的技术拆解",
-      "url": "https://www.freebuf.com/articles/endpoint/500108.html",
-      "pubDate": "Fri, 11 Sep 2026 09:17:13 +0800",
-      "extra": {
-        "hover": "企业在 U 盘、网盘、邮件附件这些数字出口上投入了大量预算，DLP 也确实把文件外发管住了。但手机对着屏幕拍一张照，整条防护链上没有任何一个环节会告警——没有文件生成，没有网络流量，没有外设写入。"
       }
     }
   ]
