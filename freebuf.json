@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789403070242,
+  "updatedAt": 1789436044167,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/web/500603.html",
@@ -35,6 +35,15 @@
       "pubDate": "Mon, 14 Sep 2026 16:44:41 +0800",
       "extra": {
         "hover": "SGLang、Ollama、vLLM 各自用 CVE 把同一句话讲了一遍：先把「谁能路由到我的推理进程」这道题答了，再谈别的。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/500530.html",
+      "title": "FreeBuf早报 | 黑客利用Claude搜寻180万安卓应用密钥；新型KATARU IoT恶意软件现身",
+      "url": "https://www.freebuf.com/news/500530.html",
+      "pubDate": "Mon, 14 Sep 2026 16:44:01 +0800",
+      "extra": {
+        "hover": "AI正成恶意运营核心：从网络犯罪到监控、宣传、武器，攻击成本骤降、规模激增。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Sat, 12 Sep 2026 14:37:56 +0800",
       "extra": {
         "hover": "OpenAI智能体攻击RubyGems，借RubyDoc实现RCE、窃密钥外泄数据，引AI监管呼声。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/500319.html",
-      "title": "新手勇闯网络安全 | Linux安全基础（二）",
-      "url": "https://www.freebuf.com/articles/web/500319.html",
-      "pubDate": "Sat, 12 Sep 2026 11:23:02 +0800",
-      "extra": {
-        "hover": "用户管理（root / 系统 / 普通用户、su 与 sudo）、文件权限机制（UGO 模型、chmod/chown）、SUID 特殊权限提权原理与 find 命令实战演示，GTFOBins 提权手册"
       }
     }
   ]
