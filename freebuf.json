@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1789538261080,
+  "updatedAt": 1789557136592,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/501081.html",
+      "title": "DeepZero开源引擎发布，大模型辅助狩猎Windows驱动可利用漏洞",
+      "url": "https://www.freebuf.com/articles/system/501081.html",
+      "pubDate": "Wed, 16 Sep 2026 05:30:38 +0800",
+      "extra": {
+        "hover": "开源DeepZero引擎结合大模型自动排查可被利用的Windows内核驱动漏洞，有效防御可获取内核权限的BYOVD攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/501080.html",
+      "title": "现代Google Workspace攻击链出现新特征，OAuth成入口需覆盖AI Agent风险",
+      "url": "https://www.freebuf.com/articles/es/501080.html",
+      "pubDate": "Wed, 16 Sep 2026 05:00:49 +0800",
+      "extra": {
+        "hover": "Google Workspace攻击链已生变，难监测的OAuth取代邮件成入侵入口，传统防护过时，未覆盖AI Agent风险，需构建全链路防护体系。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501045.html",
+      "title": "Google发布Chrome 153安全更新，修复42个漏洞含3个严重级",
+      "url": "https://www.freebuf.com/news/501045.html",
+      "pubDate": "Wed, 16 Sep 2026 03:01:19 +0800",
+      "extra": {
+        "hover": "谷歌发布Chrome 153安全更新，修复42个漏洞，其中3个严重级漏洞可致任意代码执行，更新已分批推送，用户需尽快升级防范风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501117.html",
+      "title": "Neo4j推出图原生金融犯罪防控套件，覆盖案件全处置流程",
+      "url": "https://www.freebuf.com/news/501117.html",
+      "pubDate": "Wed, 16 Sep 2026 03:00:00 +0800",
+      "extra": {
+        "hover": "图数据库厂商Neo4j整合收购技术推出图原生金融犯罪防控套件，打通风险处置全流程，响应监管合规需求，凭可解释等差异化优势布局多行业场景。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/501023.html",
       "title": "OpenAI、Anthropic与Google秘密联手，协作制定AI安全框架",
@@ -143,42 +179,6 @@
       "pubDate": "Mon, 14 Sep 2026 16:44:41 +0800",
       "extra": {
         "hover": "SGLang、Ollama、vLLM 各自用 CVE 把同一句话讲了一遍：先把「谁能路由到我的推理进程」这道题答了，再谈别的。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/500530.html",
-      "title": "FreeBuf早报 | 黑客利用Claude搜寻180万安卓应用密钥；新型KATARU IoT恶意软件现身",
-      "url": "https://www.freebuf.com/news/500530.html",
-      "pubDate": "Mon, 14 Sep 2026 16:44:01 +0800",
-      "extra": {
-        "hover": "AI正成恶意运营核心：从网络犯罪到监控、宣传、武器，攻击成本骤降、规模激增。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500528.html",
-      "title": "AI 包幻觉抢注投毒攻击的实证复现与防御分析",
-      "url": "https://www.freebuf.com/articles/ai-security/500528.html",
-      "pubDate": "Mon, 14 Sep 2026 16:37:02 +0800",
-      "extra": {
-        "hover": "AI 包幻觉不止是生成缺陷，可被利用实施 slopsquatting 供应链投毒。本文本地闭环复现完整攻击链，揭示安装期隐蔽执行风险，给出全链路落地防御手段。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500715.html",
-      "title": "微软上线AI漏洞专项赏金计划，最高3万美元征集Dynamics 365、Power Platform关键漏洞",
-      "url": "https://www.freebuf.com/articles/ai-security/500715.html",
-      "pubDate": "Mon, 14 Sep 2026 16:11:38 +0800",
-      "extra": {
-        "hover": "微软AI漏洞赏金计划上线，最高3万美元征集Dynamics 365和Power Platform关键AI漏洞，聚焦推理操纵与信息泄露。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500490.html",
-      "title": "你给AI Agent的代码权限，变成了攻击者的后门",
-      "url": "https://www.freebuf.com/articles/ai-security/500490.html",
-      "pubDate": "Mon, 14 Sep 2026 12:45:02 +0800",
-      "extra": {
-        "hover": "当提示词变成 Shell，你给 Agent 的每一项权限，都可能变成攻击者手里的武器。"
       }
     }
   ]
