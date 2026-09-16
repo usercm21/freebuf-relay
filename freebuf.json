@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789474073867,
+  "updatedAt": 1789520732515,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/500818.html",
@@ -164,21 +164,21 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/500478.html",
+      "title": "调试平台成了泄密平台？Langfuse中的Agent敏感数据实测",
+      "url": "https://www.freebuf.com/articles/ai-security/500478.html",
+      "pubDate": "Mon, 14 Sep 2026 11:14:19 +0800",
+      "extra": {
+        "hover": "Agent能力越强，Trace就越接近完整的业务执行录像。可观测性不应成为数据治理的豁免区。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/500590.html",
       "title": "大模型安全周报：越狱进入「零成本」时代，防御端转向「主动诱导与轨迹感知」",
       "url": "https://www.freebuf.com/articles/500590.html",
       "pubDate": "Mon, 14 Sep 2026 09:47:09 +0800",
       "extra": {
         "hover": "越狱门槛崩塌，一句乱码、一声打断即可让前沿模型破防；代码生成护栏越狱后攻击成功率逼近100%。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/500540.html",
-      "title": "攻击者可构造请求执行命令，存在供应链攻击风险",
-      "url": "https://www.freebuf.com/articles/development/500540.html",
-      "pubDate": "Mon, 14 Sep 2026 08:50:25 +0800",
-      "extra": {
-        "hover": "CVE-2026-3854：GitHub Git推送管道曝严重RCE，未认证可执行任意命令，付10万美元赏金，供应链告急！"
       }
     }
   ]
