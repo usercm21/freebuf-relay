@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1789520732515,
+  "updatedAt": 1789538261080,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501023.html",
+      "title": "OpenAI、Anthropic与Google秘密联手，协作制定AI安全框架",
+      "url": "https://www.freebuf.com/articles/ai-security/501023.html",
+      "pubDate": "Wed, 16 Sep 2026 01:38:21 +0800",
+      "extra": {
+        "hover": "OpenAI、Anthropic、谷歌秘密协作推进AI安全框架，遭中小AI厂商痛斥为反竞争卡特尔，引发反垄断、中美AI竞赛争议。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/500871.html",
+      "title": "FreeBuf早报 | 微软上线AI漏洞专项赏金计划；泰国大型宽带商3BB遭网络入侵",
+      "url": "https://www.freebuf.com/news/500871.html",
+      "pubDate": "Tue, 15 Sep 2026 17:49:06 +0800",
+      "extra": {
+        "hover": "微软AI漏洞赏金计划上线，最高3万美元征集Dynamics 365和Power Platform关键AI漏洞，聚焦推理操纵与信息泄露。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/500818.html",
       "title": "直播预告｜漏洞刚披露，攻击已经开始：企业的响应窗口还剩多久？",
@@ -161,24 +179,6 @@
       "pubDate": "Mon, 14 Sep 2026 12:45:02 +0800",
       "extra": {
         "hover": "当提示词变成 Shell，你给 Agent 的每一项权限，都可能变成攻击者手里的武器。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500478.html",
-      "title": "调试平台成了泄密平台？Langfuse中的Agent敏感数据实测",
-      "url": "https://www.freebuf.com/articles/ai-security/500478.html",
-      "pubDate": "Mon, 14 Sep 2026 11:14:19 +0800",
-      "extra": {
-        "hover": "Agent能力越强，Trace就越接近完整的业务执行录像。可观测性不应成为数据治理的豁免区。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/500590.html",
-      "title": "大模型安全周报：越狱进入「零成本」时代，防御端转向「主动诱导与轨迹感知」",
-      "url": "https://www.freebuf.com/articles/500590.html",
-      "pubDate": "Mon, 14 Sep 2026 09:47:09 +0800",
-      "extra": {
-        "hover": "越狱门槛崩塌，一句乱码、一声打断即可让前沿模型破防；代码生成护栏越狱后攻击成功率逼近100%。"
       }
     }
   ]
