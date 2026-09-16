@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1789557136592,
+  "updatedAt": 1789572388349,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/database/500602.html",
+      "title": "Ollama 本地模型安全攻防：从 API 暴露到模型窃取",
+      "url": "https://www.freebuf.com/articles/database/500602.html",
+      "pubDate": "Wed, 16 Sep 2026 19:13:43 +0800",
+      "extra": {
+        "hover": "Ollama 是当前最流行的本地大模型部署工具，但其默认配置存在严重的安全隐患。本文从红队视角，系统剖析 Ollama 的攻击面，并通过实战演示 API 探测、Prompt 提取、模型信息泄露等攻击手"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/defense/501181.html",
+      "title": "一张证书拿下域控：AD CS 配置错误的完整利用链实测",
+      "url": "https://www.freebuf.com/articles/defense/501181.html",
+      "pubDate": "Wed, 16 Sep 2026 18:41:30 +0800",
+      "extra": {
+        "hover": "一个只有域用户权限的账号，既不知道任何人的密码，也没挖到一个漏洞、没横向过任何一台机器——它只是向域里的证书服务提交了一份申请，就成了域管理员。这不是漏洞，是配置：内置的 User 证书模板一旦打开“允许申请者自带 SAN”，整个域就等于把管理员身份的签发权交给了所有域用户。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501134.html",
+      "title": "AI代理自己打了RubyGems：2000个包、一条RCE链、和两个月的沉默",
+      "url": "https://www.freebuf.com/articles/ai-security/501134.html",
+      "pubDate": "Wed, 16 Sep 2026 17:28:34 +0800",
+      "extra": {
+        "hover": "RubyGems事件的意义不在于&amp;quot;AI能攻击包仓库&amp;quot;——安全圈早就知道供应链攻击的可行性。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/501130.html",
+      "title": "AI无界，安全有方：vivo如何打造智能体时代的「可信AI终端」",
+      "url": "https://www.freebuf.com/articles/501130.html",
+      "pubDate": "Wed, 16 Sep 2026 17:14:30 +0800",
+      "extra": {
+        "hover": "安全不再是“静态防护”，而是能“贯穿智能体运转全流程的可信、可控和透明”。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501022.html",
+      "title": "一个月 23 条 MCP 漏洞：问题几乎都出在「默认配置」上",
+      "url": "https://www.freebuf.com/articles/ai-security/501022.html",
+      "pubDate": "Wed, 16 Sep 2026 10:08:46 +0800",
+      "extra": {
+        "hover": "NVD 台账复盘：30 天 23 条 MCP 生态漏洞，9/15 单日披露 17 条。归纳传输层无鉴权、Origin 校验缺位、工具参数直通主机资源、URL 校验可绕过四类根因，附防御基线清单。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/501081.html",
       "title": "DeepZero开源引擎发布，大模型辅助狩猎Windows驱动可利用漏洞",
@@ -56,12 +101,48 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/500843.html",
+      "title": "974 个 CVE，微软把 Patch Tuesday 改成了 Patch Week",
+      "url": "https://www.freebuf.com/articles/vuls/500843.html",
+      "pubDate": "Tue, 15 Sep 2026 15:40:14 +0800",
+      "extra": {
+        "hover": "974 个 CVE，微软把 Patch Tuesday 改成了 Patch Week微软 9 月 8 日的 Patch Tuesday 发了 974 个 CVE 的安全更新，公司史上单月最高纪录。这个数字不太需要背景铺垫就能感受到分量：8 月是 421，7 月是 622，三个月里翻了三倍。我第一眼看到 974 的时候没去翻漏洞列表，先做了一道算术：把它摊到一个月约 22 个工作日上，每天 44 条"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/500825.html",
+      "title": "银狐捕猎，金蝉变现：一条黑产链上的上下游分工。",
+      "url": "https://www.freebuf.com/articles/endpoint/500825.html",
+      "pubDate": "Tue, 15 Sep 2026 14:28:33 +0800",
+      "extra": {
+        "hover": "银狐和金蝉的故事不仅仅是一个技术对抗案例，更折射出中文互联网安全生态中几个深层次的结构性问题。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/500818.html",
       "title": "直播预告｜漏洞刚披露，攻击已经开始：企业的响应窗口还剩多久？",
       "url": "https://www.freebuf.com/articles/500818.html",
       "pubDate": "Tue, 15 Sep 2026 13:49:58 +0800",
       "extra": {
         "hover": "9月16日18:00，FreeBuf邀请两位企业一线安全从业者，一起聊聊真实漏洞响应场景。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500800.html",
+      "title": "几百个 AI agent 打穿 440 台 PaperCut，域管最快 5 分钟",
+      "url": "https://www.freebuf.com/articles/ai-security/500800.html",
+      "pubDate": "Tue, 15 Sep 2026 11:16:34 +0800",
+      "extra": {
+        "hover": "打印服务该不该暴露在公网？服务账户该不该有域权限？这些基础问题在追求便利的时候往往被忽略，但这次事件说明，忽略的代价可能是整个域的沦陷。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/500797.html",
+      "title": "JWT漏洞实战: 从CTFHub开始1篇打通",
+      "url": "https://www.freebuf.com/articles/vuls/500797.html",
+      "pubDate": "Tue, 15 Sep 2026 11:03:46 +0800",
+      "extra": {
+        "hover": "本文从JWT基础概念, 延伸至具体漏洞分析实战. 涵盖了从原理到可复用的payload以及成熟工具链"
       }
     },
     {
@@ -74,111 +155,30 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/500878.html",
-      "title": "黑客利用自主AI Agent实施窃密，不到6小时窃得数千凭证",
-      "url": "https://www.freebuf.com/articles/ai-security/500878.html",
-      "pubDate": "Tue, 15 Sep 2026 09:28:15 +0800",
+      "id": "https://www.freebuf.com/articles/defense/500793.html",
+      "title": "从模型微调到 Cobalt Strike 智能体：一套面向授权测试「我可没说这是 APT」的实践方法",
+      "url": "https://www.freebuf.com/articles/defense/500793.html",
+      "pubDate": "Tue, 15 Sep 2026 10:40:57 +0800",
       "extra": {
-        "hover": "黑客利用自主AI Agent在失陷云环境中不到6小时窃取数千凭证，攻击可自动排障推进，大幅压缩防守响应窗口，企业云与开发环境面临严峻窃密风险。"
+        "hover": "Cobalt Strike、大模型和 MCP 的结合，适合用来提升授权安全测试的编排效率、上下文理解能力和证据整理质量。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/es/500879.html",
-      "title": "AI打破网络与物理安全边界，跨职能整合防御成韧性核心",
-      "url": "https://www.freebuf.com/articles/es/500879.html",
-      "pubDate": "Tue, 15 Sep 2026 09:00:00 +0800",
+      "id": "https://www.freebuf.com/articles/web/500790.html",
+      "title": "# 新手勇闯网络安全 | Linux安全基础（三）",
+      "url": "https://www.freebuf.com/articles/web/500790.html",
+      "pubDate": "Tue, 15 Sep 2026 10:29:24 +0800",
       "extra": {
-        "hover": "AI正暴露为昨日威胁搭建的分条线安全架构缺陷，网络与物理安全边界被跨域攻击打破，企业需打通部门壁垒构建整合防御以防范致命风险。"
+        "hover": "进程管理、systemd 服务管理、网络配置与端口监听、firewalld 与 ufw 防火墙配置、Zone 区域概念、修改 SSH 端口保命流程，内嵌防火墙区域示意图。"
       }
     },
     {
-      "id": "https://www.freebuf.com/news/500862.html",
-      "title": "Telegram Desktop导出功能存在漏洞，旧HTML聊天文件可沦为窃密陷阱",
-      "url": "https://www.freebuf.com/news/500862.html",
-      "pubDate": "Tue, 15 Sep 2026 07:48:52 +0800",
+      "id": "https://www.freebuf.com/articles/endpoint/500788.html",
+      "title": "从0开始的代码加壳之旅1：Loader代码注入",
+      "url": "https://www.freebuf.com/articles/endpoint/500788.html",
+      "pubDate": "Tue, 15 Sep 2026 10:25:23 +0800",
       "extra": {
-        "hover": "Telegram Desktop存在XSS漏洞，旧HTML聊天导出文件可沦为窃密陷阱，即便更新客户端，已生成的旧导出文件仍有窃密风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/500863.html",
-      "title": "日本政府共享平台遭非0Day VPN漏洞入侵，24.6万条记录面临泄露风险",
-      "url": "https://www.freebuf.com/news/500863.html",
-      "pubDate": "Tue, 15 Sep 2026 07:19:25 +0800",
-      "extra": {
-        "hover": "日本数字厅通报，未修补的非0Day VPN漏洞致政府共享平台失陷，24.6万条公职及外包人员信息面临泄露风险，暴露公共部门安全管理短板。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/500729.html",
-      "title": "泰国大型宽带商3BB遭网络入侵，攻击者借MeshCentral获取root权限瞄准用户数据",
-      "url": "https://www.freebuf.com/news/500729.html",
-      "pubDate": "Mon, 14 Sep 2026 23:31:49 +0800",
-      "extra": {
-        "hover": "泰国3BB遭入侵，攻击者用MeshCentral后门获root，瞄准用户宽带凭证与RADIUS库。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/500733.html",
-      "title": "Telegram Desktop曝HTML导出漏洞，隐藏JS可窃取聊天消息",
-      "url": "https://www.freebuf.com/news/500733.html",
-      "pubDate": "Mon, 14 Sep 2026 23:28:16 +0800",
-      "extra": {
-        "hover": "Telegram Desktop导出漏洞：隐藏JS可窃取聊天，旧HTML导出文件仍危险，速更新至7.0.1+。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ics-articles/500768.html",
-      "title": "PJM拟出台大型数据中心负载穿越规则，防范电网扰动下大规模脱网风险",
-      "url": "https://www.freebuf.com/articles/ics-articles/500768.html",
-      "pubDate": "Mon, 14 Sep 2026 20:16:00 +0800",
-      "extra": {
-        "hover": "PJM拟出台大型数据中心负载穿越规则，防范电网扰动下大规模脱网风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/500603.html",
-      "title": "基于 Microsoft PyRIT 的 LLM 红队自动化测试实战",
-      "url": "https://www.freebuf.com/articles/web/500603.html",
-      "pubDate": "Mon, 14 Sep 2026 19:40:28 +0800",
-      "extra": {
-        "hover": "本文深入介绍微软开源的 PyRIT（Python Risk Identification Toolkit）框架，通过实战案例演示如何利用该工具对大语言模型进行自动化红队测试。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500556.html",
-      "title": "DARWIN 把安全评测改成了攻防军备竞赛",
-      "url": "https://www.freebuf.com/articles/ai-security/500556.html",
-      "pubDate": "Mon, 14 Sep 2026 17:26:48 +0800",
-      "extra": {
-        "hover": "\t DARWIN 把安全评测改成了攻防军备竞赛把攻防两端一起冻住再做评测，是这两年 AI 安全圈默认的玩法。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500551.html",
-      "title": "大模型红队武器库：PyRITART 自动化越狱实战",
-      "url": "https://www.freebuf.com/articles/ai-security/500551.html",
-      "pubDate": "Mon, 14 Sep 2026 17:17:38 +0800",
-      "extra": {
-        "hover": "PyRIT 擅长多轮对话级越狱编排，ART 擅长文本级对抗样本生成。组合使用，可构建一套完整的自动化越狱评估流水线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/500544.html",
-      "title": "AI 自己动手勒索：首个全自主代理勒索软件复盘",
-      "url": "https://www.freebuf.com/articles/vuls/500544.html",
-      "pubDate": "Mon, 14 Sep 2026 17:13:35 +0800",
-      "extra": {
-        "hover": "你可以在模型外面加一万道安全对齐护栏，但如果承载模型的进程本身能执行 shell 能做的一切，那当模型被攻破（或本身就是攻击者）时，所有护栏都是摆设。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500531.html",
-      "title": "SGLang 的 SafeUnpickler 没拦住 builtins：十八天四个 CVE，AI 推理层的鉴权真空",
-      "url": "https://www.freebuf.com/articles/ai-security/500531.html",
-      "pubDate": "Mon, 14 Sep 2026 16:44:41 +0800",
-      "extra": {
-        "hover": "SGLang、Ollama、vLLM 各自用 CVE 把同一句话讲了一遍：先把「谁能路由到我的推理进程」这道题答了，再谈别的。"
+        "hover": "最近在研究逆向，于是准备手写壳子来回顾PE结构加深理解，顺便测试一下自己写的壳子静态保护效果。文章计划分为三部分编写，从简单PE文件开始，到常规程序，从0实现自己的壳子。"
       }
     }
   ]
