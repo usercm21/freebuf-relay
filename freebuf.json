@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1789639065453,
+  "updatedAt": 1789656453190,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501526.html",
+      "title": "Google推出Agent异常检测系统，可检测工具误用、执行循环与越界行为",
+      "url": "https://www.freebuf.com/articles/ai-security/501526.html",
+      "pubDate": "Thu, 17 Sep 2026 11:57:31 +0800",
+      "extra": {
+        "hover": "谷歌推出Agent异常检测审计层，可识别工具误用、越权、执行循环、Agent失控等风险，告警同步至安全平台供安全团队分诊处置。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501523.html",
+      "title": "思科发布ISE高危0Day漏洞预警，CVSS满分且已遭在野利用",
+      "url": "https://www.freebuf.com/news/501523.html",
+      "pubDate": "Thu, 17 Sep 2026 11:10:16 +0800",
+      "extra": {
+        "hover": "思科紧急预警：旗下ISE存在CVSS10分满分已遭在野利用的0Day漏洞，攻击者可获root权限，无临时规避方案，需尽快升级官方补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/501524.html",
+      "title": "Kubernetes单节点遭root攻陷，可绕过SPIFFE/SPIRE窃取所有工作负载身份",
+      "url": "https://www.freebuf.com/articles/system/501524.html",
+      "pubDate": "Thu, 17 Sep 2026 11:02:59 +0800",
+      "extra": {
+        "hover": "Kubernetes单节点遭root攻陷，可绕过SPIFFE/SPIRE窃取全节点工作负载身份，横向渗透内网，需强化节点分层防护。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/499121.html",
       "title": "AI幻觉包名的供应链投毒攻防：可控复现、检测指标与企业防御实践",
@@ -8,6 +35,105 @@
       "pubDate": "Thu, 17 Sep 2026 10:20:37 +0800",
       "extra": {
         "hover": "本文聚焦AI编程助手输出“幻觉包名”所带来的供应链风险，提出一套面向社区可发布的工程化方案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501510.html",
+      "title": "APT36利用U盘传播恶意软件，渗透物理隔离政务网络",
+      "url": "https://www.freebuf.com/news/501510.html",
+      "pubDate": "Thu, 17 Sep 2026 10:17:21 +0800",
+      "extra": {
+        "hover": "APT36发起RapidRust行动，借带毒U盘突破物理隔离渗透印阿政务网络，可横向窃密，物理隔离防护绝非牢不可破。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501507.html",
+      "title": "BlackHatSect0r利用DeepSeek驱动AI Agent自动化攻击，累计窃取16834份凭证",
+      "url": "https://www.freebuf.com/articles/ai-security/501507.html",
+      "pubDate": "Thu, 17 Sep 2026 09:59:30 +0800",
+      "extra": {
+        "hover": "BlackHatSect0r解除AI安全限制，用DeepSeek驱动Agent仅凭常见配置漏洞窃得1.6万余凭证，自动化攻击放大配置缺陷危害。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501361.html",
+      "title": "一份文档就能骗走 Agent 的内部令牌：48 次实测，八类防御只有两类真拦得住",
+      "url": "https://www.freebuf.com/articles/ai-security/501361.html",
+      "pubDate": "Thu, 17 Sep 2026 09:55:19 +0800",
+      "extra": {
+        "hover": "只要你的 Agent 既能读外部文档、又能发外网请求，一份看起来很合规的巡检通知就能让它把内部令牌发出去——不需要越狱，也不需要花哨技巧。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501359.html",
+      "title": "AI代理间接提示注入漏洞深度研究：从发现到防御的完整攻防实践",
+      "url": "https://www.freebuf.com/articles/ai-security/501359.html",
+      "pubDate": "Thu, 17 Sep 2026 09:47:08 +0800",
+      "extra": {
+        "hover": "要理解提示注入攻击的本质，必须从大语言模型的核心机制入手。我们提出了&amp;quot;指令-数据二元性困境&amp;quot;理论模型来解释这一现象。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501356.html",
+      "title": "Cursor信任链劫持：一个 .cursorrules 文件如何控制整个项目",
+      "url": "https://www.freebuf.com/articles/ai-security/501356.html",
+      "pubDate": "Thu, 17 Sep 2026 09:30:36 +0800",
+      "extra": {
+        "hover": "本文通过实战演示如何利用这一机制，通过恶意Rules实现环境变量窃取、代码注入和持久化驻留，最终完成从&amp;quot;克隆项目&amp;quot;到&amp;quot;控制机器&amp;quot;的完整攻击链。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501222.html",
+      "title": "提示注入防御实测：六类防御里只有两类不靠模型自觉，其余都被同一份文档绕过了",
+      "url": "https://www.freebuf.com/articles/ai-security/501222.html",
+      "pubDate": "Wed, 16 Sep 2026 21:03:06 +0800",
+      "extra": {
+        "hover": "判断依据里只要含&amp;quot;内容&amp;quot;，就会被绕过；只看&amp;quot;目的地&amp;quot;和&amp;quot;能力&amp;quot;的两类，一直有效。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501221.html",
+      "title": "大模型安全评估红队实战：用 PyRIT 对三款国产模型做越狱测试",
+      "url": "https://www.freebuf.com/articles/ai-security/501221.html",
+      "pubDate": "Wed, 16 Sep 2026 21:02:13 +0800",
+      "extra": {
+        "hover": "2026 年国产大模型正在快速渗透到企业生产环境，但它们的安全防护能力到底如何？本文用微软开源的 PyRIT 红队测试框架，对 DeepSeek、Qwen、Kimi 三款国产模型进行系统性越狱评估，覆"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/501220.html",
+      "title": "23 个 redirect_uri 用例实测：9 个存在解析器分歧，3 个能骗过白名单",
+      "url": "https://www.freebuf.com/articles/web/501220.html",
+      "pubDate": "Wed, 16 Sep 2026 20:49:21 +0800",
+      "extra": {
+        "hover": "同一串 URL，校验器认为是合法域名，浏览器却解析到攻击者域名。23 个 redirect_uri 用例 x 4 个解析器实测：9 个存在分歧，其中 3 个能骗过白名单"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/501216.html",
+      "title": "一个 .yardopts 文件：RubyDoc.info 上的代码执行链拆解",
+      "url": "https://www.freebuf.com/articles/vuls/501216.html",
+      "pubDate": "Wed, 16 Sep 2026 20:24:27 +0800",
+      "extra": {
+        "hover": "RubyDoc.info 在 gem 里读到一行 --load，构建机便执行任意代码；AI agent 借这条链批量投包、抓取外泄数据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/501213.html",
+      "title": "输入法怎么就成了后门入口",
+      "url": "https://www.freebuf.com/articles/vuls/501213.html",
+      "pubDate": "Wed, 16 Sep 2026 20:16:41 +0800",
+      "extra": {
+        "hover": "本文拆解这条完整链路：漏洞在哪个组件、参数怎么从一条 URL 流到代码执行、旧浏览器内核为什么让这一步变得毫无难度、后门落地后干了什么，以及你现在该怎么自查。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501203.html",
+      "title": "AI Coding Agent 安全审计实战：Cursor  Claude Code  Windsurf 的安全边界到底在哪",
+      "url": "https://www.freebuf.com/articles/ai-security/501203.html",
+      "pubDate": "Wed, 16 Sep 2026 19:59:13 +0800",
+      "extra": {
+        "hover": "本文横向审计三款工具的安全能力，实测 7 条审计规则，并开源检测工具 AgentAudit。"
       }
     },
     {
@@ -53,132 +179,6 @@
       "pubDate": "Wed, 16 Sep 2026 17:14:30 +0800",
       "extra": {
         "hover": "安全不再是“静态防护”，而是能“贯穿智能体运转全流程的可信、可控和透明”。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/501114.html",
-      "title": "12 款 AI 红队工具全军覆没，Cracken 团队测出一条通用杀伤链",
-      "url": "https://www.freebuf.com/articles/defense/501114.html",
-      "pubDate": "Wed, 16 Sep 2026 16:30:26 +0800",
-      "extra": {
-        "hover": "大多数工具共享同一批设计缺陷，攻击者能借这些缺陷偷走 API key、建立持久据点，一路打到跑工具的那台机器，哪怕 agent 关在沙箱容器里。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/501101.html",
-      "title": "CVE-2025-64111：Gogs符号链接绕过原理与Hook RCE边界辨析",
-      "url": "https://www.freebuf.com/articles/vuls/501101.html",
-      "pubDate": "Wed, 16 Sep 2026 15:47:25 +0800",
-      "extra": {
-        "hover": "本文面向防御与代码审计，重点说明漏洞原理、产品设计缺陷、风险边界及授权靶场中的复现结果。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501257.html",
-      "title": "黑客可租用VectraRAT远控工具，每月250美元就可以接管Windows PC",
-      "url": "https://www.freebuf.com/news/501257.html",
-      "pubDate": "Wed, 16 Sep 2026 14:36:15 +0800",
-      "extra": {
-        "hover": "黑客每月只需250美元即可租用VectraRAT远控，低门槛接管Windows设备，近半受害设备为企业系统，严重威胁个人与企业安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501044.html",
-      "title": "当 AI Agent 开始互相\"洗脑\"：多智能体系统中的思想传播攻击剖析与实战复现",
-      "url": "https://www.freebuf.com/articles/ai-security/501044.html",
-      "pubDate": "Wed, 16 Sep 2026 11:55:58 +0800",
-      "extra": {
-        "hover": "本文剖析六种跨 Agent 传播方式，实测防御工具 AgentGuard，并给出四层纵深防御方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501022.html",
-      "title": "一个月 23 条 MCP 漏洞：问题几乎都出在「默认配置」上",
-      "url": "https://www.freebuf.com/articles/ai-security/501022.html",
-      "pubDate": "Wed, 16 Sep 2026 10:08:46 +0800",
-      "extra": {
-        "hover": "NVD 台账复盘：30 天 23 条 MCP 生态漏洞，9/15 单日披露 17 条。归纳传输层无鉴权、Origin 校验缺位、工具参数直通主机资源、URL 校验可绕过四类根因，附防御基线清单。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/501018.html",
-      "title": "从0开始的代码加壳之旅3：修复重定位",
-      "url": "https://www.freebuf.com/articles/endpoint/501018.html",
-      "pubDate": "Wed, 16 Sep 2026 09:54:46 +0800",
-      "extra": {
-        "hover": "前两篇文章，分别实现了壳子框架和导入表修复，壳子目前能够正常加密未开始ASLR、包含API调用的程序。本文继续完善壳子功能，修复重定位，实现一个“活起来”的壳子，并尝试对程序进行加壳，检测其保护能力。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/501081.html",
-      "title": "DeepZero开源引擎发布，大模型辅助狩猎Windows驱动可利用漏洞",
-      "url": "https://www.freebuf.com/articles/system/501081.html",
-      "pubDate": "Wed, 16 Sep 2026 05:30:38 +0800",
-      "extra": {
-        "hover": "开源DeepZero引擎结合大模型自动排查可被利用的Windows内核驱动漏洞，有效防御可获取内核权限的BYOVD攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/501080.html",
-      "title": "现代Google Workspace攻击链出现新特征，OAuth成入口需覆盖AI Agent风险",
-      "url": "https://www.freebuf.com/articles/es/501080.html",
-      "pubDate": "Wed, 16 Sep 2026 05:00:49 +0800",
-      "extra": {
-        "hover": "Google Workspace攻击链已生变，难监测的OAuth取代邮件成入侵入口，传统防护过时，未覆盖AI Agent风险，需构建全链路防护体系。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501045.html",
-      "title": "Google发布Chrome 153安全更新，修复42个漏洞含3个严重级",
-      "url": "https://www.freebuf.com/news/501045.html",
-      "pubDate": "Wed, 16 Sep 2026 03:01:19 +0800",
-      "extra": {
-        "hover": "谷歌发布Chrome 153安全更新，修复42个漏洞，其中3个严重级漏洞可致任意代码执行，更新已分批推送，用户需尽快升级防范风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501117.html",
-      "title": "Neo4j推出图原生金融犯罪防控套件，覆盖案件全处置流程",
-      "url": "https://www.freebuf.com/news/501117.html",
-      "pubDate": "Wed, 16 Sep 2026 03:00:00 +0800",
-      "extra": {
-        "hover": "图数据库厂商Neo4j整合收购技术推出图原生金融犯罪防控套件，打通风险处置全流程，响应监管合规需求，凭可解释等差异化优势布局多行业场景。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501023.html",
-      "title": "OpenAI、Anthropic与Google秘密联手，协作制定AI安全框架",
-      "url": "https://www.freebuf.com/articles/ai-security/501023.html",
-      "pubDate": "Wed, 16 Sep 2026 01:38:21 +0800",
-      "extra": {
-        "hover": "OpenAI、Anthropic、谷歌秘密协作推进AI安全框架，遭中小AI厂商痛斥为反竞争卡特尔，引发反垄断、中美AI竞赛争议。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500925.html",
-      "title": "ChatGPT沙箱里藏了一块共享剪贴板：植入一条指令，你的Gmail就到了别人手里",
-      "url": "https://www.freebuf.com/articles/ai-security/500925.html",
-      "pubDate": "Tue, 15 Sep 2026 22:11:23 +0800",
-      "extra": {
-        "hover": "攻击者只需要在受害者会话里植入一条隐蔽指令，就能让受害者的ChatGPT一边正常回答问题，一边偷偷访问连接的Gmail账号，把邮件数据通过这块&amp;quot;共享剪贴板&amp;quot;传给攻击者。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/500917.html",
-      "title": "GitLab 把 10.0 分挂在了文件上传接口上：CVE-2026-85706 未认证任意文件读复盘",
-      "url": "https://www.freebuf.com/articles/vuls/500917.html",
-      "pubDate": "Tue, 15 Sep 2026 21:35:10 +0800",
-      "extra": {
-        "hover": "CVE-2026-85706 的技术含量不在于复杂，而在于它同时暴露了两个独立的问题，而且这两个问题单独看都不致命。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/500882.html",
-      "title": "WebLogic 反序列化漏洞（中）：JRMP、JNDI 与 IIOP 入口",
-      "url": "https://www.freebuf.com/articles/web/500882.html",
-      "pubDate": "Tue, 15 Sep 2026 18:59:12 +0800",
-      "extra": {
-        "hover": "针对 CVE-2016-0638 和 CVE-2016-3510，WebLogic 采用了更严格的反序列化过滤策略：先检查外层对象是否命中黑名单，再继续检查内层对象。"
       }
     }
   ]
