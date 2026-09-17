@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789572388349,
+  "updatedAt": 1789621681221,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499121.html",
+      "title": "AI幻觉包名的供应链投毒攻防：可控复现、检测指标与企业防御实践",
+      "url": "https://www.freebuf.com/articles/ai-security/499121.html",
+      "pubDate": "Thu, 17 Sep 2026 10:20:37 +0800",
+      "extra": {
+        "hover": "本文聚焦AI编程助手输出“幻觉包名”所带来的供应链风险，提出一套面向社区可发布的工程化方案。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/database/500602.html",
       "title": "Ollama 本地模型安全攻防：从 API 暴露到模型窃取",
@@ -20,6 +29,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/501174.html",
+      "title": "FreeBuf早报 | DeepZero开源引擎发布；OpenAI、Anthropic与Google秘密联手，协作制定AI安全框架",
+      "url": "https://www.freebuf.com/news/501174.html",
+      "pubDate": "Wed, 16 Sep 2026 18:37:59 +0800",
+      "extra": {
+        "hover": "开源DeepZero引擎结合大模型自动排查可被利用的Windows内核驱动漏洞，有效防御可获取内核权限的BYOVD攻击。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/501134.html",
       "title": "AI代理自己打了RubyGems：2000个包、一条RCE链、和两个月的沉默",
       "url": "https://www.freebuf.com/articles/ai-security/501134.html",
@@ -35,6 +53,15 @@
       "pubDate": "Wed, 16 Sep 2026 17:14:30 +0800",
       "extra": {
         "hover": "安全不再是“静态防护”，而是能“贯穿智能体运转全流程的可信、可控和透明”。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501257.html",
+      "title": "黑客可租用VectraRAT远控工具，每月250美元就可以接管Windows PC",
+      "url": "https://www.freebuf.com/news/501257.html",
+      "pubDate": "Wed, 16 Sep 2026 14:36:15 +0800",
+      "extra": {
+        "hover": "黑客每月只需250美元即可租用VectraRAT远控，低门槛接管Windows设备，近半受害设备为企业系统，严重威胁个人与企业安全。"
       }
     },
     {
@@ -101,6 +128,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/500844.html",
+      "title": "搜狗输入法的 sgbiz: 协议，一次点击装后门（CVE-2026-51990）",
+      "url": "https://www.freebuf.com/articles/vuls/500844.html",
+      "pubDate": "Tue, 15 Sep 2026 15:41:54 +0800",
+      "extra": {
+        "hover": "这个洞值得看的地方在于它是个组合体，三个零件各自在别的地方都见过。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/vuls/500843.html",
       "title": "974 个 CVE，微软把 Patch Tuesday 改成了 Patch Week",
       "url": "https://www.freebuf.com/articles/vuls/500843.html",
@@ -143,42 +179,6 @@
       "pubDate": "Tue, 15 Sep 2026 11:03:46 +0800",
       "extra": {
         "hover": "本文从JWT基础概念, 延伸至具体漏洞分析实战. 涵盖了从原理到可复用的payload以及成熟工具链"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500892.html",
-      "title": "微软发布AI模型安全准则草案，公开征求公众反馈",
-      "url": "https://www.freebuf.com/articles/ai-security/500892.html",
-      "pubDate": "Tue, 15 Sep 2026 10:50:36 +0800",
-      "extra": {
-        "hover": "微软发布首版Humanist AI行为准则草案，公开征集六周公众意见，划定AI安全红线，后续将指导MAI模型开发。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/500793.html",
-      "title": "从模型微调到 Cobalt Strike 智能体：一套面向授权测试「我可没说这是 APT」的实践方法",
-      "url": "https://www.freebuf.com/articles/defense/500793.html",
-      "pubDate": "Tue, 15 Sep 2026 10:40:57 +0800",
-      "extra": {
-        "hover": "Cobalt Strike、大模型和 MCP 的结合，适合用来提升授权安全测试的编排效率、上下文理解能力和证据整理质量。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/500790.html",
-      "title": "# 新手勇闯网络安全 | Linux安全基础（三）",
-      "url": "https://www.freebuf.com/articles/web/500790.html",
-      "pubDate": "Tue, 15 Sep 2026 10:29:24 +0800",
-      "extra": {
-        "hover": "进程管理、systemd 服务管理、网络配置与端口监听、firewalld 与 ufw 防火墙配置、Zone 区域概念、修改 SSH 端口保命流程，内嵌防火墙区域示意图。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/500788.html",
-      "title": "从0开始的代码加壳之旅1：Loader代码注入",
-      "url": "https://www.freebuf.com/articles/endpoint/500788.html",
-      "pubDate": "Tue, 15 Sep 2026 10:25:23 +0800",
-      "extra": {
-        "hover": "最近在研究逆向，于是准备手写壳子来回顾PE结构加深理解，顺便测试一下自己写的壳子静态保护效果。文章计划分为三部分编写，从简单PE文件开始，到常规程序，从0实现自己的壳子。"
       }
     }
   ]
