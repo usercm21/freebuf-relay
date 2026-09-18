@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789656453190,
+  "updatedAt": 1789695340257,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/501487.html",
+      "title": "FreeBuf早报 | 黑客可租用VectraRAT远控工具；虚假AI交易Agent网站投放窃密木马",
+      "url": "https://www.freebuf.com/news/501487.html",
+      "pubDate": "Thu, 17 Sep 2026 18:34:26 +0800",
+      "extra": {
+        "hover": "黑客每月只需250美元即可租用VectraRAT远控，低门槛接管Windows设备，近半受害设备为企业系统，严重威胁个人与企业安全。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/501526.html",
       "title": "Google推出Agent异常检测系统，可检测工具误用、执行循环与越界行为",
@@ -83,6 +92,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/501619.html",
+      "title": "上海市信息安全测评认证中心发布全国首个生成式人工智能安全测试公共服务平台",
+      "url": "https://www.freebuf.com/articles/501619.html",
+      "pubDate": "Thu, 17 Sep 2026 08:58:12 +0800",
+      "extra": {
+        "hover": "全国首个生成式AI安全测试公共服务平台“智测能手”发布，提供大模型测评、AIGC标识验证、内容检测、代码审计。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/501222.html",
       "title": "提示注入防御实测：六类防御里只有两类不靠模型自觉，其余都被同一份文档绕过了",
       "url": "https://www.freebuf.com/articles/ai-security/501222.html",
@@ -161,24 +179,6 @@
       "pubDate": "Wed, 16 Sep 2026 18:37:59 +0800",
       "extra": {
         "hover": "开源DeepZero引擎结合大模型自动排查可被利用的Windows内核驱动漏洞，有效防御可获取内核权限的BYOVD攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501134.html",
-      "title": "AI代理自己打了RubyGems：2000个包、一条RCE链、和两个月的沉默",
-      "url": "https://www.freebuf.com/articles/ai-security/501134.html",
-      "pubDate": "Wed, 16 Sep 2026 17:28:34 +0800",
-      "extra": {
-        "hover": "RubyGems事件的意义不在于&amp;quot;AI能攻击包仓库&amp;quot;——安全圈早就知道供应链攻击的可行性。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/501130.html",
-      "title": "AI无界，安全有方：vivo如何打造智能体时代的「可信AI终端」",
-      "url": "https://www.freebuf.com/articles/501130.html",
-      "pubDate": "Wed, 16 Sep 2026 17:14:30 +0800",
-      "extra": {
-        "hover": "安全不再是“静态防护”，而是能“贯穿智能体运转全流程的可信、可控和透明”。"
       }
     }
   ]
