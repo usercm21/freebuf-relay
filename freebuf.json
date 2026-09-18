@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1789732088058,
+  "updatedAt": 1789744393484,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/501797.html",
+      "title": "整个代码库被悄悄打包，智谱ZCode上传机制曝光",
+      "url": "https://www.freebuf.com/articles/501797.html",
+      "pubDate": "Fri, 18 Sep 2026 21:31:24 +0800",
+      "extra": {
+        "hover": "智谱旗下AI编程工具ZCode陷入代码上传争议。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501794.html",
+      "title": "黑客仿冒ChatGPT订阅提醒邮件，窃取OpenAI账号凭证",
+      "url": "https://www.freebuf.com/news/501794.html",
+      "pubDate": "Fri, 18 Sep 2026 12:30:16 +0800",
+      "extra": {
+        "hover": "近期黑客仿冒ChatGPT订阅提醒发钓鱼邮件，诱导用户访问虚假登录页窃取OpenAI账号凭证，可致信息泄露、身份被盗，务必警惕。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/501731.html",
       "title": "四大AI编码Agent曝0-Click RCE漏洞，两款尚未修复",
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 14:40:37 +0800",
       "extra": {
         "hover": "本文拆利用链、给排查命令，文末附可打钩的排查清单。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/501381.html",
-      "title": "变电站监控系统（SCADA）等保测评：现场最容易被忽略的 7 个坑",
-      "url": "https://www.freebuf.com/articles/system/501381.html",
-      "pubDate": "Thu, 17 Sep 2026 12:25:36 +0800",
-      "extra": {
-        "hover": "电力工控行业典型的测评场景容易踩坑的点，个人进行了总结分享"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501526.html",
-      "title": "Google推出Agent异常检测系统，可检测工具误用、执行循环与越界行为",
-      "url": "https://www.freebuf.com/articles/ai-security/501526.html",
-      "pubDate": "Thu, 17 Sep 2026 11:57:31 +0800",
-      "extra": {
-        "hover": "谷歌推出Agent异常检测审计层，可识别工具误用、越权、执行循环、Agent失控等风险，告警同步至安全平台供安全团队分诊处置。"
       }
     }
   ]
