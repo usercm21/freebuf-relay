@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789756327379,
+  "updatedAt": 1789765993003,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/501797.html",
@@ -53,6 +53,15 @@
       "pubDate": "Fri, 18 Sep 2026 08:05:49 +0800",
       "extra": {
         "hover": "恶意VS Code项目暗藏一键攻击漏洞，可绕过信任防护，单次点击即让攻击者持久访问开发者工作站，窃取凭证引发供应链风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/501853.html",
+      "title": "以色列内盖夫核研究中心(迪莫纳中心)数据泄露分析",
+      "url": "https://www.freebuf.com/articles/501853.html",
+      "pubDate": "Fri, 18 Sep 2026 07:30:51 +0800",
+      "extra": {
+        "hover": "1877 Team 宣称窃取迪莫纳核设施机密，12页样本却自标“演示”，高威胁低可信。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 17:22:03 +0800",
       "extra": {
         "hover": "软件安装、SSH 密码与公钥认证原理及配置、SSH 服务加固五板斧、libprocesshider 进程隐藏原理与防御。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/501411.html",
-      "title": "SGLang 的漏洞报告压了 74 天没等来补丁：四周四个洞，自托管 LLM 栈的安全债到期了（CVE-2026-86793）",
-      "url": "https://www.freebuf.com/articles/vuls/501411.html",
-      "pubDate": "Thu, 17 Sep 2026 14:42:41 +0800",
-      "extra": {
-        "hover": "本文拆四个洞的因果链，文末给三个能照跑的排查动作。"
       }
     }
   ]
