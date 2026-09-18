@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1789744393484,
+  "updatedAt": 1789756327379,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/501797.html",
-      "title": "整个代码库被悄悄打包，智谱ZCode上传机制曝光",
+      "title": "用户代码库被悄悄打包，智谱ZCode上传机制曝光",
       "url": "https://www.freebuf.com/articles/501797.html",
       "pubDate": "Fri, 18 Sep 2026 21:31:24 +0800",
       "extra": {
@@ -17,6 +17,15 @@
       "pubDate": "Fri, 18 Sep 2026 12:30:16 +0800",
       "extra": {
         "hover": "近期黑客仿冒ChatGPT订阅提醒发钓鱼邮件，诱导用户访问虚假登录页窃取OpenAI账号凭证，可致信息泄露、身份被盗，务必警惕。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/501841.html",
+      "title": "AI辅助攻击案例:PaperCut攻击行动",
+      "url": "https://www.freebuf.com/articles/501841.html",
+      "pubDate": "Fri, 18 Sep 2026 11:10:27 +0800",
+      "extra": {
+        "hover": "AI特工失控：攻击者借数百智能体，4小时攻陷PaperCut 440实例，48国395组织，7分钟获域管。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 14:42:41 +0800",
       "extra": {
         "hover": "本文拆四个洞的因果链，文末给三个能照跑的排查动作。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/501408.html",
-      "title": "一封邮件拿 root：Cisco 邮件网关的 9.8 分零日 CVE-2026-76461 只给 3 天修复期",
-      "url": "https://www.freebuf.com/articles/vuls/501408.html",
-      "pubDate": "Thu, 17 Sep 2026 14:40:37 +0800",
-      "extra": {
-        "hover": "本文拆利用链、给排查命令，文末附可打钩的排查清单。"
       }
     }
   ]
