@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1789695340257,
+  "updatedAt": 1789713434889,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/501657.html",
+      "title": "ThreatsDay发布本周安全动态，自改写Agent、800余漏洞修复在列",
+      "url": "https://www.freebuf.com/news/501657.html",
+      "pubDate": "Thu, 17 Sep 2026 23:02:22 +0800",
+      "extra": {
+        "hover": "本周安全动态涵盖AI新型攻击、高危漏洞、新型恶意软件、网络犯罪执法进展，AI已成攻击新利器，老旧漏洞仍被利用，整体威胁态势十分严峻。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501656.html",
+      "title": "Docker Sandboxes曝严重逃逸漏洞，恶意代码可读写macOS主机文件",
+      "url": "https://www.freebuf.com/news/501656.html",
+      "pubDate": "Thu, 17 Sep 2026 21:07:56 +0800",
+      "extra": {
+        "hover": "macOS版Docker Sandboxes曝严重沙箱逃逸漏洞，恶意代码可越权读写主机任意文件，官方已发布修复版本。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/501487.html",
       "title": "FreeBuf早报 | 黑客可租用VectraRAT远控工具；虚假AI交易Agent网站投放窃密木马",
@@ -8,6 +26,24 @@
       "pubDate": "Thu, 17 Sep 2026 18:34:26 +0800",
       "extra": {
         "hover": "黑客每月只需250美元即可租用VectraRAT远控，低门槛接管Windows设备，近半受害设备为企业系统，严重威胁个人与企业安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/501408.html",
+      "title": "一封邮件拿 root：Cisco 邮件网关的 9.8 分零日 CVE-2026-76461 只给 3 天修复期",
+      "url": "https://www.freebuf.com/articles/vuls/501408.html",
+      "pubDate": "Thu, 17 Sep 2026 14:40:37 +0800",
+      "extra": {
+        "hover": "本文拆利用链、给排查命令，文末附可打钩的排查清单。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/501381.html",
+      "title": "变电站监控系统（SCADA）等保测评：现场最容易被忽略的 7 个坑",
+      "url": "https://www.freebuf.com/articles/system/501381.html",
+      "pubDate": "Thu, 17 Sep 2026 12:25:36 +0800",
+      "extra": {
+        "hover": "电力工控行业典型的测评场景容易踩坑的点，个人进行了总结分享"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Wed, 16 Sep 2026 20:16:41 +0800",
       "extra": {
         "hover": "本文拆解这条完整链路：漏洞在哪个组件、参数怎么从一条 URL 流到代码执行、旧浏览器内核为什么让这一步变得毫无难度、后门落地后干了什么，以及你现在该怎么自查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501203.html",
-      "title": "AI Coding Agent 安全审计实战：Cursor  Claude Code  Windsurf 的安全边界到底在哪",
-      "url": "https://www.freebuf.com/articles/ai-security/501203.html",
-      "pubDate": "Wed, 16 Sep 2026 19:59:13 +0800",
-      "extra": {
-        "hover": "本文横向审计三款工具的安全能力，实测 7 条审计规则，并开源检测工具 AgentAudit。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/500602.html",
-      "title": "Ollama 本地模型安全攻防：从 API 暴露到模型窃取",
-      "url": "https://www.freebuf.com/articles/database/500602.html",
-      "pubDate": "Wed, 16 Sep 2026 19:13:43 +0800",
-      "extra": {
-        "hover": "Ollama 是当前最流行的本地大模型部署工具，但其默认配置存在严重的安全隐患。本文从红队视角，系统剖析 Ollama 的攻击面，并通过实战演示 API 探测、Prompt 提取、模型信息泄露等攻击手"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/501181.html",
-      "title": "一张证书拿下域控：AD CS 配置错误的完整利用链实测",
-      "url": "https://www.freebuf.com/articles/defense/501181.html",
-      "pubDate": "Wed, 16 Sep 2026 18:41:30 +0800",
-      "extra": {
-        "hover": "一个只有域用户权限的账号，既不知道任何人的密码，也没挖到一个漏洞、没横向过任何一台机器——它只是向域里的证书服务提交了一份申请，就成了域管理员。这不是漏洞，是配置：内置的 User 证书模板一旦打开“允许申请者自带 SAN”，整个域就等于把管理员身份的签发权交给了所有域用户。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501174.html",
-      "title": "FreeBuf早报 | DeepZero开源引擎发布；OpenAI、Anthropic与Google秘密联手，协作制定AI安全框架",
-      "url": "https://www.freebuf.com/news/501174.html",
-      "pubDate": "Wed, 16 Sep 2026 18:37:59 +0800",
-      "extra": {
-        "hover": "开源DeepZero引擎结合大模型自动排查可被利用的Windows内核驱动漏洞，有效防御可获取内核权限的BYOVD攻击。"
       }
     }
   ]
