@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789798625843,
+  "updatedAt": 1789816252185,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501967.html",
+      "title": "Gemini在安全测试中入侵3家真实企业，配置失误致沙箱失效",
+      "url": "https://www.freebuf.com/articles/ai-security/501967.html",
+      "pubDate": "Sat, 19 Sep 2026 08:59:08 +0800",
+      "extra": {
+        "hover": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/501930.html",
       "title": "BragJack攻击可让恶意扩展劫持AI Agent，波及5款主流浏览器",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 20:13:51 +0800",
       "extra": {
         "hover": "三年架构演进线被一次模型升级拦腰截过。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/501518.html",
-      "title": "修复已提交不是已修复，27 天补丁差，AI 把 CVE-2026-85046 武器化压到三周",
-      "url": "https://www.freebuf.com/articles/vuls/501518.html",
-      "pubDate": "Thu, 17 Sep 2026 19:28:37 +0800",
-      "extra": {
-        "hover": "这篇文章回答三个问题：修复代码都已经公开在源码仓库里了，用户为什么反而更危险？AI 在补丁到货前的这段窗口里，到底改变了哪一环？企业防守这边，真正值钱的动作是哪几个？"
       }
     }
   ]
