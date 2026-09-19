@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789781011718,
+  "updatedAt": 1789798625843,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/501930.html",
+      "title": "BragJack攻击可让恶意扩展劫持AI Agent，波及5款主流浏览器",
+      "url": "https://www.freebuf.com/articles/ai-security/501930.html",
+      "pubDate": "Sat, 19 Sep 2026 03:05:12 +0800",
+      "extra": {
+        "hover": "新型BragJack攻击可借恶意扩展劫持5款主流浏览器内置AI Agent，模型防护失效，可窃密越权，相关漏洞已部分修复，需及时升级防护。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/501893.html",
       "title": "研究人员公开四个Linux内核漏洞利用代码，可本地获取root权限",
@@ -26,6 +35,15 @@
       "pubDate": "Fri, 18 Sep 2026 21:31:24 +0800",
       "extra": {
         "hover": "智谱旗下AI编程工具ZCode陷入代码上传争议。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/501784.html",
+      "title": "微软上线AI漏洞专项赏金计划；OpenAI、Anthropic与Google协作制定AI安全框架  | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/501784.html",
+      "pubDate": "Fri, 18 Sep 2026 20:42:50 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 19:28:37 +0800",
       "extra": {
         "hover": "这篇文章回答三个问题：修复代码都已经公开在源码仓库里了，用户为什么反而更危险？AI 在补丁到货前的这段窗口里，到底改变了哪一环？企业防守这边，真正值钱的动作是哪几个？"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501517.html",
-      "title": "15 次干净发布，换来 300 家组织的凭据：MCP 供应链投毒的量化测量与驻留防护",
-      "url": "https://www.freebuf.com/articles/ai-security/501517.html",
-      "pubDate": "Thu, 17 Sep 2026 19:27:31 +0800",
-      "extra": {
-        "hover": "11 个 MCP 注册中心 9 个不做筛查，1184 个恶意 skills 在流通，15 次干净发布换来 300 家组织凭据。量化测量 + 概念验证：两条收割路径与六环节防护的有效性。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501513.html",
-      "title": "OWASP Agent 标准族选型地图：AOS  ACS  AISVS  AST10 四标准实测对照与分期落地指南",
-      "url": "https://www.freebuf.com/articles/ai-security/501513.html",
-      "pubDate": "Thu, 17 Sep 2026 19:17:41 +0800",
-      "extra": {
-        "hover": "OWASP Agent四大安全标准怎么选？基于同一Agent轨迹实测AOS/ACS/AISVS/AST10能力边界，梳理分期选型组合，给出可落地的落地避坑指南。"
       }
     }
   ]
