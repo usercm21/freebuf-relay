@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789816252185,
+  "updatedAt": 1789828170687,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/501978.html",
+      "title": "研究员借助Claude Opus 5串联漏洞，接管OpenAI员工账号",
+      "url": "https://www.freebuf.com/news/501978.html",
+      "pubDate": "Sat, 19 Sep 2026 15:31:10 +0800",
+      "extra": {
+        "hover": "研究员借助Claude Opus 5，72小时内串联漏洞接管OpenAI员工账号、访问内部代码库，漏洞已修复，OpenAI已发放漏洞赏金。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/501967.html",
       "title": "Gemini在安全测试中入侵3家真实企业，配置失误致沙箱失效",
@@ -53,6 +62,15 @@
       "pubDate": "Fri, 18 Sep 2026 20:42:50 +0800",
       "extra": {
         "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/501972.html",
+      "title": "ZCode 静默上传全量 Git 历史",
+      "url": "https://www.freebuf.com/articles/501972.html",
+      "pubDate": "Fri, 18 Sep 2026 16:10:35 +0800",
+      "extra": {
+        "hover": "ZCode 被曝骚操作：登录即静默上传全量 Git 历史，云端独占私钥，UI 无开关，删包只是打地鼠。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 21:01:16 +0800",
       "extra": {
         "hover": "同一个 MCP 协议，两种传输的安全模型完全不同：stdio 的配置字段就是一条待执行的命令，HTTP 的会话 ID 就是一把万能钥匙。两个本地实测都验证成立。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501529.html",
-      "title": "AI Agent 拿下域控：同一条 AD CS 链路，人打 7.2 秒、AI 打 6 分 17 秒",
-      "url": "https://www.freebuf.com/articles/ai-security/501529.html",
-      "pubDate": "Thu, 17 Sep 2026 20:45:02 +0800",
-      "extra": {
-        "hover": "同一个域、同一条攻击链、同一套工具、同一个检测配置。人工执行用了 7.2 秒、4 条命令；让 AI Agent 自己做，用了 6 分 17 秒、44 次工具调用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501522.html",
-      "title": "裸 Codex 把专用 AI 渗透框架的 benchmark 优势抹平了",
-      "url": "https://www.freebuf.com/articles/ai-security/501522.html",
-      "pubDate": "Thu, 17 Sep 2026 20:13:51 +0800",
-      "extra": {
-        "hover": "三年架构演进线被一次模型升级拦腰截过。"
       }
     }
   ]
