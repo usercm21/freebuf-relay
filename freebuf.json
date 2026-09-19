@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1789765993003,
+  "updatedAt": 1789781011718,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/501893.html",
+      "title": "研究人员公开四个Linux内核漏洞利用代码，可本地获取root权限",
+      "url": "https://www.freebuf.com/articles/system/501893.html",
+      "pubDate": "Fri, 18 Sep 2026 23:32:24 +0800",
+      "extra": {
+        "hover": "四个Linux内核漏洞利用代码已公开，可本地提权获取root权限，运行旧内核的设备必须尽快打补丁防入侵。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501898.html",
+      "title": "Brevo供应链攻击感染超10万网站，盗用Cloudflare密钥在边缘注入恶意代码",
+      "url": "https://www.freebuf.com/news/501898.html",
+      "pubDate": "Fri, 18 Sep 2026 21:38:15 +0800",
+      "extra": {
+        "hover": "Brevo遭供应链攻击，攻击者盗用Cloudflare密钥在CDN边缘注入恶意代码，源站文件无异常，常规检测完全失效，超10万网站已受感染。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/501797.html",
       "title": "用户代码库被悄悄打包，智谱ZCode上传机制曝光",
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 19:17:41 +0800",
       "extra": {
         "hover": "OWASP Agent四大安全标准怎么选？基于同一Agent轨迹实测AOS/ACS/AISVS/AST10能力边界，梳理分期选型组合，给出可落地的落地避坑指南。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501487.html",
-      "title": "FreeBuf早报 | 黑客可租用VectraRAT远控工具；虚假AI交易Agent网站投放窃密木马",
-      "url": "https://www.freebuf.com/news/501487.html",
-      "pubDate": "Thu, 17 Sep 2026 18:34:26 +0800",
-      "extra": {
-        "hover": "黑客每月只需250美元即可租用VectraRAT远控，低门槛接管Windows设备，近半受害设备为企业系统，严重威胁个人与企业安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/501460.html",
-      "title": "新手勇闯网络安全 | Linux 安全基础（四）",
-      "url": "https://www.freebuf.com/articles/web/501460.html",
-      "pubDate": "Thu, 17 Sep 2026 17:22:03 +0800",
-      "extra": {
-        "hover": "软件安装、SSH 密码与公钥认证原理及配置、SSH 服务加固五板斧、libprocesshider 进程隐藏原理与防御。"
       }
     }
   ]
