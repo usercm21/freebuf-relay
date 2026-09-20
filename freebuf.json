@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789906062783,
+  "updatedAt": 1789920070869,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/web/496897.html",
@@ -26,6 +26,15 @@
       "pubDate": "Sun, 20 Sep 2026 10:36:32 +0800",
       "extra": {
         "hover": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502078.html",
+      "title": "Hugging Face遭AI意外入侵，实测数据校验自主攻击真实能力",
+      "url": "https://www.freebuf.com/articles/ai-security/502078.html",
+      "pubDate": "Sun, 20 Sep 2026 05:09:00 +0800",
+      "extra": {
+        "hover": "OpenAI测试的AI Agent意外入侵Hugging Face，潜伏4天半未被察觉，自主AI攻击噪音极高，企业无需迷信AI对抗，应回归基础安全防控。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 18 Sep 2026 13:56:02 +0800",
       "extra": {
         "hover": "你随口一句“帮我记一下”。可能就是在AI助手脑子里埋了颗定时炸弹，一周后引爆。85500次模拟：约每4次投毒炸1次，近七成误判无人察觉；但五层纵深防御把触发率从31.0%压到0.5%，全部独立可复现。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501668.html",
-      "title": "给 AI Agent 埋了 5 档蜜罐账号：前 3 档毫无察觉，第 4 档认出陷阱后仍有三分之二照用",
-      "url": "https://www.freebuf.com/articles/ai-security/501668.html",
-      "pubDate": "Fri, 18 Sep 2026 13:03:17 +0800",
-      "extra": {
-        "hover": "把同一个蜜罐账号的口令放在域成员 Linux 服务器的运维脚本里，只改「可疑线索」的强度，分 5 档：从完全看不出异常，到正文里写明这是蜜罐。同一个 AI Agent 每档跑 3 次。结果：前 3 档"
       }
     }
   ]
