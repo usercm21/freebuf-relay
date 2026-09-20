@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789828170687,
+  "updatedAt": 1789868111872,
   "items": [
     {
       "id": "https://www.freebuf.com/news/501978.html",
@@ -62,6 +62,15 @@
       "pubDate": "Fri, 18 Sep 2026 20:42:50 +0800",
       "extra": {
         "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/501781.html",
+      "title": "FreeBuf早报 | BlackHatSect0r利用DeepSeek驱动AI Agent自动化攻击；Docker Sandboxes曝严重逃逸漏洞",
+      "url": "https://www.freebuf.com/news/501781.html",
+      "pubDate": "Fri, 18 Sep 2026 20:35:24 +0800",
+      "extra": {
+        "hover": "BlackHatSect0r解除AI安全限制，用DeepSeek驱动Agent仅凭常见配置漏洞窃得1.6万余凭证，自动化攻击放大配置缺陷危害。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 17 Sep 2026 21:07:56 +0800",
       "extra": {
         "hover": "macOS版Docker Sandboxes曝严重沙箱逃逸漏洞，恶意代码可越权读写主机任意文件，官方已发布修复版本。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501531.html",
-      "title": "从配置即执行到会话劫持：MCP 两种传输方式的安全属性对决",
-      "url": "https://www.freebuf.com/articles/ai-security/501531.html",
-      "pubDate": "Thu, 17 Sep 2026 21:01:16 +0800",
-      "extra": {
-        "hover": "同一个 MCP 协议，两种传输的安全模型完全不同：stdio 的配置字段就是一条待执行的命令，HTTP 的会话 ID 就是一把万能钥匙。两个本地实测都验证成立。"
       }
     }
   ]
