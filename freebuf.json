@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789887443785,
+  "updatedAt": 1789906062783,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/web/496897.html",
@@ -8,6 +8,24 @@
       "pubDate": "Sun, 20 Sep 2026 10:52:11 +0800",
       "extra": {
         "hover": "SRC 漏洞挖掘不是玄学,是工程化。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/defense/502053.html",
+      "title": "改一条组策略，几千台机器跟着执行，SharpGPOAbuse 把它变成全域后门",
+      "url": "https://www.freebuf.com/articles/defense/502053.html",
+      "pubDate": "Sun, 20 Sep 2026 10:42:03 +0800",
+      "extra": {
+        "hover": "组策略是什么：一套集中配置下发机制，GPC（AD 对象）定范围，GPT（SYSVOL 文件）存内容，LSDOU 顺序决定谁覆盖谁，后台每 90 分钟刷新。为什么值得单写一篇：对 GPO 拿到写权限等于"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/defense/502050.html",
+      "title": "补零到21字节切三段：MS-NLMP拆开NTLM，v2修好了预计算但没修中继",
+      "url": "https://www.freebuf.com/articles/defense/502050.html",
+      "pubDate": "Sun, 20 Sep 2026 10:36:32 +0800",
+      "extra": {
+        "hover": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di"
       }
     },
     {
@@ -119,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/defense/501748.html",
+      "title": "两小时画穿整个域，SharpHound 把九千条权限关系连成攻击地图",
+      "url": "https://www.freebuf.com/articles/defense/501748.html",
+      "pubDate": "Fri, 18 Sep 2026 17:56:43 +0800",
+      "extra": {
+        "hover": "两小时画穿整个域，SharpHound 把九千条权限关系连成攻击地图1990 年代 MIT 设计 Kerberos → 2000 非约束委派 → 2003 约束委派+协议转换 → 2012 RBCD"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/501972.html",
       "title": "ZCode 静默上传全量 Git 历史",
       "url": "https://www.freebuf.com/articles/501972.html",
@@ -128,57 +155,30 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/news/501794.html",
-      "title": "黑客仿冒ChatGPT订阅提醒邮件，窃取OpenAI账号凭证",
-      "url": "https://www.freebuf.com/news/501794.html",
-      "pubDate": "Fri, 18 Sep 2026 12:30:16 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/501695.html",
+      "title": "AI被一条摩斯密码骗走20万美金的那天，另一个AI正在自己挖0day",
+      "url": "https://www.freebuf.com/articles/ai-security/501695.html",
+      "pubDate": "Fri, 18 Sep 2026 15:33:36 +0800",
       "extra": {
-        "hover": "近期黑客仿冒ChatGPT订阅提醒发钓鱼邮件，诱导用户访问虚假登录页窃取OpenAI账号凭证，可致信息泄露、身份被盗，务必警惕。"
+        "hover": "AI被一条摩斯密码骗走20万美金的那天，另一个AI正在自己挖0day一句话2026年5月4日，一个人在X上发了一条摩斯码，Grok AI解码后当作指令执行，从自己的加密钱包里转走了30亿枚DRB代币（约20万美金）。四个月后，OpenAI发布GPT-6 Astra，在测试中自主发现了2个人类尚未公开的0day漏洞。同一个2026年，AI既展示了它被一条编码文本操纵的愚蠢，又展示了它自主挖掘漏洞的聪"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/501841.html",
-      "title": "AI辅助攻击案例:PaperCut攻击行动",
-      "url": "https://www.freebuf.com/articles/501841.html",
-      "pubDate": "Fri, 18 Sep 2026 11:10:27 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/501679.html",
+      "title": "Agent 记忆的「时间炸弹」：延迟触发型记忆投毒的跨会话攻击实验与五层纵深防御",
+      "url": "https://www.freebuf.com/articles/ai-security/501679.html",
+      "pubDate": "Fri, 18 Sep 2026 13:56:02 +0800",
       "extra": {
-        "hover": "AI特工失控：攻击者借数百智能体，4小时攻陷PaperCut 440实例，48国395组织，7分钟获域管。"
+        "hover": "你随口一句“帮我记一下”。可能就是在AI助手脑子里埋了颗定时炸弹，一周后引爆。85500次模拟：约每4次投毒炸1次，近七成误判无人察觉；但五层纵深防御把触发率从31.0%压到0.5%，全部独立可复现。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/501731.html",
-      "title": "四大AI编码Agent曝0-Click RCE漏洞，两款尚未修复",
-      "url": "https://www.freebuf.com/articles/ai-security/501731.html",
-      "pubDate": "Fri, 18 Sep 2026 08:49:00 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/501668.html",
+      "title": "给 AI Agent 埋了 5 档蜜罐账号：前 3 档毫无察觉，第 4 档认出陷阱后仍有三分之二照用",
+      "url": "https://www.freebuf.com/articles/ai-security/501668.html",
+      "pubDate": "Fri, 18 Sep 2026 13:03:17 +0800",
       "extra": {
-        "hover": "四款主流AI编码Agent曝0-Click RCE漏洞Plugin4Shell，用户无需操作即可遭权限窃取、数据泄露，两款产品至今无补丁可用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501734.html",
-      "title": "AI驱动恶意软件每小时重写自身，规避特征检测规则",
-      "url": "https://www.freebuf.com/articles/ai-security/501734.html",
-      "pubDate": "Fri, 18 Sep 2026 08:12:27 +0800",
-      "extra": {
-        "hover": "AI驱动恶意软件每小时重写自身，可轻松突破传统特征检测防线，企业需前置阻断执行环节，聚焦行为特征强化防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/501740.html",
-      "title": "恶意VS Code项目暗藏One Click攻击路径，攻击者可持久访问开发者工作站",
-      "url": "https://www.freebuf.com/articles/development/501740.html",
-      "pubDate": "Fri, 18 Sep 2026 08:05:49 +0800",
-      "extra": {
-        "hover": "恶意VS Code项目暗藏一键攻击漏洞，可绕过信任防护，单次点击即让攻击者持久访问开发者工作站，窃取凭证引发供应链风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/501853.html",
-      "title": "以色列内盖夫核研究中心(迪莫纳中心)数据泄露分析",
-      "url": "https://www.freebuf.com/articles/501853.html",
-      "pubDate": "Fri, 18 Sep 2026 07:30:51 +0800",
-      "extra": {
-        "hover": "1877 Team 宣称窃取迪莫纳核设施机密，12页样本却自标“演示”，高威胁低可信。"
+        "hover": "把同一个蜜罐账号的口令放在域成员 Linux 服务器的运维脚本里，只改「可疑线索」的强度，分 5 档：从完全看不出异常，到正文里写明这是蜜罐。同一个 AI Agent 每档跑 3 次。结果：前 3 档"
       }
     }
   ]
