@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1789868111872,
+  "updatedAt": 1789887443785,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/web/496897.html",
+      "title": "网易 SRC 实战:一天 4 份 finding 的工具化流程",
+      "url": "https://www.freebuf.com/articles/web/496897.html",
+      "pubDate": "Sun, 20 Sep 2026 10:52:11 +0800",
+      "extra": {
+        "hover": "SRC 漏洞挖掘不是玄学,是工程化。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502065.html",
+      "title": "勒索软件开始定向攻击AI模型和算力",
+      "url": "https://www.freebuf.com/articles/ai-security/502065.html",
+      "pubDate": "Sun, 20 Sep 2026 04:42:15 +0800",
+      "extra": {
+        "hover": "勒索软件已将AI模型锁定为新的高价值目标，JADEPUFFER迭代专用工具定向加密AI全链路资产，传统备份失效，这不是预警是常态，需即刻构建针对性防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/501995.html",
+      "title": "2026年身份可见性是身份安全核心基础，破解多云与Agentic AI身份盲区",
+      "url": "https://www.freebuf.com/articles/es/501995.html",
+      "pubDate": "Sat, 19 Sep 2026 18:58:41 +0800",
+      "extra": {
+        "hover": "2026年身份可见性是身份安全核心基础，多云、Agentic AI催生的身份暗物质已成数据泄露核心突破口，需落地全链路身份管控筑牢安全防线。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/501978.html",
       "title": "研究员借助Claude Opus 5串联漏洞，接管OpenAI员工账号",
@@ -8,6 +35,24 @@
       "pubDate": "Sat, 19 Sep 2026 15:31:10 +0800",
       "extra": {
         "hover": "研究员借助Claude Opus 5，72小时内串联漏洞接管OpenAI员工账号、访问内部代码库，漏洞已修复，OpenAI已发放漏洞赏金。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/500396.html",
+      "title": "AutoRAN 复现：用 8B 弱模型自动化劫持大推理模型的“安全思维链”",
+      "url": "https://www.freebuf.com/articles/ai-security/500396.html",
+      "pubDate": "Sat, 19 Sep 2026 15:17:38 +0800",
+      "extra": {
+        "hover": "一个去对齐的 8B 小模型，为什么能黑盒攻破 o3、Gemini-2.5-Flash、DeepSeek-R1 这类千亿参数级推理模型？"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/502005.html",
+      "title": "CISA通报Linux内核漏洞遭在野利用，要求3日内完成修复与取证排查",
+      "url": "https://www.freebuf.com/articles/system/502005.html",
+      "pubDate": "Sat, 19 Sep 2026 15:09:43 +0800",
+      "extra": {
+        "hover": "CISA紧急通报：3个Linux内核漏洞正遭在野利用，最高CVSS评分9.8，要求3日内完成修复并排查入侵痕迹。"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Fri, 18 Sep 2026 07:30:51 +0800",
       "extra": {
         "hover": "1877 Team 宣称窃取迪莫纳核设施机密，12页样本却自标“演示”，高威胁低可信。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501669.html",
-      "title": "研究人员借助Claude Opus 5入侵OpenAI论坛，触及内部代码仓库",
-      "url": "https://www.freebuf.com/articles/ai-security/501669.html",
-      "pubDate": "Fri, 18 Sep 2026 04:52:30 +0800",
-      "extra": {
-        "hover": "研究人员借助Claude Opus 5，将图片解析漏洞武器化，入侵OpenAI论坛，触及内部核心源码仓库。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501557.html",
-      "title": "26秒攻破11家组织：数百AI代理涌向PaperCut，打印服务器怎么变成了域控跳板",
-      "url": "https://www.freebuf.com/articles/ai-security/501557.html",
-      "pubDate": "Thu, 17 Sep 2026 23:43:05 +0800",
-      "extra": {
-        "hover": "本文基于GreyNoise于2026年9月9日发布的报告《Agents Gone Wild》及Blackpoint Cyber、Arctic Wolf的联合分析撰写。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501657.html",
-      "title": "ThreatsDay发布本周安全动态，自改写Agent、800余漏洞修复在列",
-      "url": "https://www.freebuf.com/news/501657.html",
-      "pubDate": "Thu, 17 Sep 2026 23:02:22 +0800",
-      "extra": {
-        "hover": "本周安全动态涵盖AI新型攻击、高危漏洞、新型恶意软件、网络犯罪执法进展，AI已成攻击新利器，老旧漏洞仍被利用，整体威胁态势十分严峻。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/501537.html",
-      "title": "八类错配三条合法命令，AD CS 把域控钥匙签给了攻击者",
-      "url": "https://www.freebuf.com/articles/system/501537.html",
-      "pubDate": "Thu, 17 Sep 2026 21:57:08 +0800",
-      "extra": {
-        "hover": "这篇就把这条路线完整过一遍：AD CS 为什么能当跳板，八类错配各自长什么样，一条完整的攻击路径怎么走，以及站在防守侧怎么抢在攻击者前面把自己域扫一遍。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501656.html",
-      "title": "Docker Sandboxes曝严重逃逸漏洞，恶意代码可读写macOS主机文件",
-      "url": "https://www.freebuf.com/news/501656.html",
-      "pubDate": "Thu, 17 Sep 2026 21:07:56 +0800",
-      "extra": {
-        "hover": "macOS版Docker Sandboxes曝严重沙箱逃逸漏洞，恶意代码可越权读写主机任意文件，官方已发布修复版本。"
       }
     }
   ]
