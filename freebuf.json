@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789972078229,
+  "updatedAt": 1789996378534,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/502356.html",
+      "title": "比亚迪Shark 6实测遭远程破解，暴露联网汽车多重安全风险",
+      "url": "https://www.freebuf.com/news/502356.html",
+      "pubDate": "Mon, 21 Sep 2026 10:32:03 +0800",
+      "extra": {
+        "hover": "比亚迪Shark 6遭无密码远程破解，可被操控车载功能、窃听信息、实时定位，研究员称“比亚迪直接把前门敞开着”，暴露联网车安全风险与监管空白。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/502210.html",
       "title": "6个月6.2k星！78个技能包让Claude秒变红队老炮，SQL注入到EDR规避全自动陪打",
@@ -8,6 +17,33 @@
       "pubDate": "Mon, 21 Sep 2026 09:45:10 +0800",
       "extra": {
         "hover": "实测：全部 78 个技能文件结构完整、无空壳，但仅约 1/3 有明确自动触发声明，部分需手动点名调用。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/502350.html",
+      "title": "8天639星！一个MCP服务器装下一支渗透武器库：Blitz Strike实测",
+      "url": "https://www.freebuf.com/articles/sectool/502350.html",
+      "pubDate": "Mon, 21 Sep 2026 09:00:25 +0800",
+      "extra": {
+        "hover": "Blitz Strike 8天639星，MCP红队工具带；实测3链全中，却漏内联包含——“扫描命中只是假设”。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502323.html",
+      "title": "网络攻击目标已转向Agent，完整攻击杀伤链已成型",
+      "url": "https://www.freebuf.com/articles/ai-security/502323.html",
+      "pubDate": "Mon, 21 Sep 2026 08:27:47 +0800",
+      "extra": {
+        "hover": "网络攻击目标已从AI模型转向Agent，完整攻击杀伤链成型，可致窃密、跨Agent传播等严重危害，防御亟待补齐Agent安全防护短板。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/502318.html",
+      "title": "攻击者可利用Web缓存键拼接缺陷，访问受限数据并投毒网站",
+      "url": "https://www.freebuf.com/articles/502318.html",
+      "pubDate": "Mon, 21 Sep 2026 08:01:01 +0800",
+      "extra": {
+        "hover": "缓存键注入攻击可利用Web缓存键拼接缺陷，绕过访问控制、投毒站点窃密甚至发起XSS攻击，需规范缓存键配置防范风险。"
       }
     },
     {
@@ -62,6 +98,15 @@
       "pubDate": "Sun, 20 Sep 2026 10:36:32 +0800",
       "extra": {
         "hover": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502038.html",
+      "title": "工具说明也是指令：把外发指令写进 MCP 工具描述，Agent 照样把令牌发到攻击者域名",
+      "url": "https://www.freebuf.com/articles/ai-security/502038.html",
+      "pubDate": "Sun, 20 Sep 2026 09:30:57 +0800",
+      "extra": {
+        "hover": "一句话：我把同一句外发指令放在四个不同的位置上做对照——①投递进来的文档 ②工具说明（直白写法）③工具说明（伪装成&quot;参数规范&quot;）④工具说明（委婉写法）。三个位置都以&quot;攻击者域名 + 内部令牌&quot;完成了真实外发，其中一个位置是工具说明：那段文字来自第三方（MCP server 的 schema），模型却把它当系统规则读。这件事的现实含义是：你审完了文档、清干净了知识库，但工具清单是别人给的。而工具说明"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Sat, 19 Sep 2026 03:05:12 +0800",
       "extra": {
         "hover": "新型BragJack攻击可借恶意扩展劫持5款主流浏览器内置AI Agent，模型防护失效，可窃密越权，相关漏洞已部分修复，需及时升级防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/501893.html",
-      "title": "研究人员公开四个Linux内核漏洞利用代码，可本地获取root权限",
-      "url": "https://www.freebuf.com/articles/system/501893.html",
-      "pubDate": "Fri, 18 Sep 2026 23:32:24 +0800",
-      "extra": {
-        "hover": "四个Linux内核漏洞利用代码已公开，可本地提权获取root权限，运行旧内核的设备必须尽快打补丁防入侵。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501898.html",
-      "title": "Brevo供应链攻击感染超10万网站，盗用Cloudflare密钥在边缘注入恶意代码",
-      "url": "https://www.freebuf.com/news/501898.html",
-      "pubDate": "Fri, 18 Sep 2026 21:38:15 +0800",
-      "extra": {
-        "hover": "Brevo遭供应链攻击，攻击者盗用Cloudflare密钥在CDN边缘注入恶意代码，源站文件无异常，常规检测完全失效，超10万网站已受感染。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/501797.html",
-      "title": "用户代码库被悄悄打包，智谱ZCode上传机制曝光",
-      "url": "https://www.freebuf.com/articles/501797.html",
-      "pubDate": "Fri, 18 Sep 2026 21:31:24 +0800",
-      "extra": {
-        "hover": "智谱旗下AI编程工具ZCode陷入代码上传争议。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/501784.html",
-      "title": "微软上线AI漏洞专项赏金计划；OpenAI、Anthropic与Google协作制定AI安全框架  | FreeBuf周报",
-      "url": "https://www.freebuf.com/articles/501784.html",
-      "pubDate": "Fri, 18 Sep 2026 20:42:50 +0800",
-      "extra": {
-        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501781.html",
-      "title": "FreeBuf早报 | BlackHatSect0r利用DeepSeek驱动AI Agent自动化攻击；Docker Sandboxes曝严重逃逸漏洞",
-      "url": "https://www.freebuf.com/news/501781.html",
-      "pubDate": "Fri, 18 Sep 2026 20:35:24 +0800",
-      "extra": {
-        "hover": "BlackHatSect0r解除AI安全限制，用DeepSeek驱动Agent仅凭常见配置漏洞窃得1.6万余凭证，自动化攻击放大配置缺陷危害。"
       }
     }
   ]
