@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1789929810024,
+  "updatedAt": 1789972078229,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/502210.html",
+      "title": "6个月6.2k星！78个技能包让Claude秒变红队老炮，SQL注入到EDR规避全自动陪打",
+      "url": "https://www.freebuf.com/articles/502210.html",
+      "pubDate": "Mon, 21 Sep 2026 09:45:10 +0800",
+      "extra": {
+        "hover": "实测：全部 78 个技能文件结构完整、无空壳，但仅约 1/3 有明确自动触发声明，部分需手动点名调用。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/498860.html",
+      "title": "看不见的指令：提示注入载荷的文档载体存活率矩阵与语料金丝雀防御",
+      "url": "https://www.freebuf.com/articles/ai-security/498860.html",
+      "pubDate": "Sun, 20 Sep 2026 19:21:17 +0800",
+      "extra": {
+        "hover": "本文聚焦间接提示注入的“投递第一公里”，将同一无害指令封装进13种载体并打向5类解析器，得出45格存活率矩阵与两轮独立复现实测结果：隐藏文本/RAG解析器全存活，关键词规则仅75%，加上隐形字符直方图"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502131.html",
+      "title": "FreeBuf早报 | Gemini在安全测试中入侵3家真实企业；Brevo供应链攻击感染超10万网站",
+      "url": "https://www.freebuf.com/news/502131.html",
+      "pubDate": "Sun, 20 Sep 2026 18:50:07 +0800",
+      "extra": {
+        "hover": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/502157.html",
       "title": "AI幻觉生成虚假军事情报，险些触发中美军事对抗",
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 18 Sep 2026 20:35:24 +0800",
       "extra": {
         "hover": "BlackHatSect0r解除AI安全限制，用DeepSeek驱动Agent仅凭常见配置漏洞窃得1.6万余凭证，自动化攻击放大配置缺陷危害。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/501748.html",
-      "title": "两小时画穿整个域，SharpHound 把九千条权限关系连成攻击地图",
-      "url": "https://www.freebuf.com/articles/defense/501748.html",
-      "pubDate": "Fri, 18 Sep 2026 17:56:43 +0800",
-      "extra": {
-        "hover": "两小时画穿整个域，SharpHound 把九千条权限关系连成攻击地图1990 年代 MIT 设计 Kerberos → 2000 非约束委派 → 2003 约束委派+协议转换 → 2012 RBCD"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/501972.html",
-      "title": "ZCode 静默上传全量 Git 历史",
-      "url": "https://www.freebuf.com/articles/501972.html",
-      "pubDate": "Fri, 18 Sep 2026 16:10:35 +0800",
-      "extra": {
-        "hover": "ZCode 被曝骚操作：登录即静默上传全量 Git 历史，云端独占私钥，UI 无开关，删包只是打地鼠。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501695.html",
-      "title": "AI被一条摩斯密码骗走20万美金的那天，另一个AI正在自己挖0day",
-      "url": "https://www.freebuf.com/articles/ai-security/501695.html",
-      "pubDate": "Fri, 18 Sep 2026 15:33:36 +0800",
-      "extra": {
-        "hover": "AI被一条摩斯密码骗走20万美金的那天，另一个AI正在自己挖0day一句话2026年5月4日，一个人在X上发了一条摩斯码，Grok AI解码后当作指令执行，从自己的加密钱包里转走了30亿枚DRB代币（约20万美金）。四个月后，OpenAI发布GPT-6 Astra，在测试中自主发现了2个人类尚未公开的0day漏洞。同一个2026年，AI既展示了它被一条编码文本操纵的愚蠢，又展示了它自主挖掘漏洞的聪"
       }
     }
   ]
