@@ -1,6 +1,78 @@
 {
-  "updatedAt": 1790056291956,
+  "updatedAt": 1790074721730,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/502566.html",
+      "title": "阿里云欧阳欣：重塑Agentic时代的安全体系",
+      "url": "https://www.freebuf.com/articles/502566.html",
+      "pubDate": "Tue, 22 Sep 2026 18:08:36 +0800",
+      "extra": {
+        "hover": "阿里云AI安全最新实践。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/502543.html",
+      "title": "100小时长征：史上首个Agent自主不间断渗透完整战报",
+      "url": "https://www.freebuf.com/articles/502543.html",
+      "pubDate": "Tue, 22 Sep 2026 16:08:52 +0800",
+      "extra": {
+        "hover": "蛙池AI100小时战报总览。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502532.html",
+      "title": "WordPress核心曝出Comment2Shell漏洞，可借管理员会话将匿名评论XSS转为RCE",
+      "url": "https://www.freebuf.com/news/502532.html",
+      "pubDate": "Tue, 22 Sep 2026 11:33:14 +0800",
+      "extra": {
+        "hover": "WordPress核心曝出Comment2Shell高危漏洞，匿名攻击者可借管理员会话将评论XSS转为RCE，站点需立即升级修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502533.html",
+      "title": "Zyxel与Veeam漏洞遭在野利用，可执行命令获取SYSTEM权限",
+      "url": "https://www.freebuf.com/news/502533.html",
+      "pubDate": "Tue, 22 Sep 2026 11:01:59 +0800",
+      "extra": {
+        "hover": "Zyxel交换机、Veeam Windows代理漏洞正遭在野利用，可执行命令、获取SYSTEM最高权限，务必尽快安装补丁防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502556.html",
+      "title": "诈骗者售卖高价未验证AI订阅，靠正版谷歌登录页骗取信任",
+      "url": "https://www.freebuf.com/news/502556.html",
+      "pubDate": "Tue, 22 Sep 2026 08:54:30 +0800",
+      "extra": {
+        "hover": "诈骗者用249美元低价模板搭建百余个仿冒AI订阅站，借正版谷歌登录页骗取信任，售卖年费最高2000美元的假服务，用户维权极难，需核验站点真伪。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502555.html",
+      "title": "Splunk与美国高校合作落地学生运营SOC模式",
+      "url": "https://www.freebuf.com/news/502555.html",
+      "pubDate": "Tue, 22 Sep 2026 04:30:00 +0800",
+      "extra": {
+        "hover": "曾直言让学生运营SOC是“疯了”的NJIT高校CISO，落地Splunk支撑的学生SOC，兼顾校园安防、实战网安人才培养，审慎探索AI安全应用。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502486.html",
+      "title": "Meta Muse AI Agent存在0Day漏洞，可被劫持滥用高权限",
+      "url": "https://www.freebuf.com/articles/ai-security/502486.html",
+      "pubDate": "Tue, 22 Sep 2026 03:13:18 +0800",
+      "extra": {
+        "hover": "Meta旗下Muse AI Agent曝极高危0Day漏洞，本地恶意软件可劫持其滥用高权限、窃凭证、跨设备攻击，官方暂未回应，用户需警惕相关风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502509.html",
+      "title": "NTU研发AI agents驱动检测工具，发现4G/5G核心网84处漏洞",
+      "url": "https://www.freebuf.com/news/502509.html",
+      "pubDate": "Tue, 22 Sep 2026 01:43:00 +0800",
+      "extra": {
+        "hover": "新加坡南洋理工大学用AI agents在4G/5G移动核心网挖出84个漏洞，高危漏洞可劫持用户流量、暗中监控受害者数据，多数漏洞已获CVE编号。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/502330.html",
       "title": "FreeBuf早报 | AI幻觉生成虚假军事情报；CISA通报Linux内核漏洞遭在野利用",
@@ -107,78 +179,6 @@
       "pubDate": "Sun, 20 Sep 2026 10:36:32 +0800",
       "extra": {
         "hover": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502038.html",
-      "title": "工具说明也是指令：把外发指令写进 MCP 工具描述，Agent 照样把令牌发到攻击者域名",
-      "url": "https://www.freebuf.com/articles/ai-security/502038.html",
-      "pubDate": "Sun, 20 Sep 2026 09:30:57 +0800",
-      "extra": {
-        "hover": "一句话：我把同一句外发指令放在四个不同的位置上做对照——①投递进来的文档 ②工具说明（直白写法）③工具说明（伪装成&quot;参数规范&quot;）④工具说明（委婉写法）。三个位置都以&quot;攻击者域名 + 内部令牌&quot;完成了真实外发，其中一个位置是工具说明：那段文字来自第三方（MCP server 的 schema），模型却把它当系统规则读。这件事的现实含义是：你审完了文档、清干净了知识库，但工具清单是别人给的。而工具说明"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502078.html",
-      "title": "Hugging Face遭AI意外入侵，实测数据校验自主攻击真实能力",
-      "url": "https://www.freebuf.com/articles/ai-security/502078.html",
-      "pubDate": "Sun, 20 Sep 2026 05:09:00 +0800",
-      "extra": {
-        "hover": "OpenAI测试的AI Agent意外入侵Hugging Face，潜伏4天半未被察觉，自主AI攻击噪音极高，企业无需迷信AI对抗，应回归基础安全防控。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502065.html",
-      "title": "勒索软件开始定向攻击AI模型和算力",
-      "url": "https://www.freebuf.com/articles/ai-security/502065.html",
-      "pubDate": "Sun, 20 Sep 2026 04:42:15 +0800",
-      "extra": {
-        "hover": "勒索软件已将AI模型锁定为新的高价值目标，JADEPUFFER迭代专用工具定向加密AI全链路资产，传统备份失效，这不是预警是常态，需即刻构建针对性防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/502433.html",
-      "title": "一个Word文档，就能“远程控制”你的Microsoft Copilot",
-      "url": "https://www.freebuf.com/articles/502433.html",
-      "pubDate": "Sat, 19 Sep 2026 22:36:32 +0800",
-      "extra": {
-        "hover": "一份 Word 文档变成 Copilot 远程 Shell：“底价多少？”Copilot 答“$760 million”，RPE 已来。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/501995.html",
-      "title": "2026年身份可见性是身份安全核心基础，破解多云与Agentic AI身份盲区",
-      "url": "https://www.freebuf.com/articles/es/501995.html",
-      "pubDate": "Sat, 19 Sep 2026 18:58:41 +0800",
-      "extra": {
-        "hover": "2026年身份可见性是身份安全核心基础，多云、Agentic AI催生的身份暗物质已成数据泄露核心突破口，需落地全链路身份管控筑牢安全防线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/501978.html",
-      "title": "研究员借助Claude Opus 5串联漏洞，接管OpenAI员工账号",
-      "url": "https://www.freebuf.com/news/501978.html",
-      "pubDate": "Sat, 19 Sep 2026 15:31:10 +0800",
-      "extra": {
-        "hover": "研究员借助Claude Opus 5，72小时内串联漏洞接管OpenAI员工账号、访问内部代码库，漏洞已修复，OpenAI已发放漏洞赏金。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/500396.html",
-      "title": "AutoRAN 复现：用 8B 弱模型自动化劫持大推理模型的“安全思维链”",
-      "url": "https://www.freebuf.com/articles/ai-security/500396.html",
-      "pubDate": "Sat, 19 Sep 2026 15:17:38 +0800",
-      "extra": {
-        "hover": "一个去对齐的 8B 小模型，为什么能黑盒攻破 o3、Gemini-2.5-Flash、DeepSeek-R1 这类千亿参数级推理模型？"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/502005.html",
-      "title": "CISA通报Linux内核漏洞遭在野利用，要求3日内完成修复与取证排查",
-      "url": "https://www.freebuf.com/articles/system/502005.html",
-      "pubDate": "Sat, 19 Sep 2026 15:09:43 +0800",
-      "extra": {
-        "hover": "CISA紧急通报：3个Linux内核漏洞正遭在野利用，最高CVSS评分9.8，要求3日内完成修复并排查入侵痕迹。"
       }
     }
   ]
