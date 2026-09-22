@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1789996378534,
+  "updatedAt": 1790056291956,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/502330.html",
+      "title": "FreeBuf早报 | AI幻觉生成虚假军事情报；CISA通报Linux内核漏洞遭在野利用",
+      "url": "https://www.freebuf.com/news/502330.html",
+      "pubDate": "Mon, 21 Sep 2026 18:11:24 +0800",
+      "extra": {
+        "hover": "美军分析师使用AI分析情报时遭遇AI幻觉，误判中国船只载核部件，险些触发中美军事对抗，暴露军事情报场景下AI应用的致命风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/502356.html",
       "title": "比亚迪Shark 6实测遭远程破解，暴露联网汽车多重安全风险",
@@ -128,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/502433.html",
+      "title": "一个Word文档，就能“远程控制”你的Microsoft Copilot",
+      "url": "https://www.freebuf.com/articles/502433.html",
+      "pubDate": "Sat, 19 Sep 2026 22:36:32 +0800",
+      "extra": {
+        "hover": "一份 Word 文档变成 Copilot 远程 Shell：“底价多少？”Copilot 答“$760 million”，RPE 已来。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/es/501995.html",
       "title": "2026年身份可见性是身份安全核心基础，破解多云与Agentic AI身份盲区",
       "url": "https://www.freebuf.com/articles/es/501995.html",
@@ -161,24 +179,6 @@
       "pubDate": "Sat, 19 Sep 2026 15:09:43 +0800",
       "extra": {
         "hover": "CISA紧急通报：3个Linux内核漏洞正遭在野利用，最高CVSS评分9.8，要求3日内完成修复并排查入侵痕迹。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501967.html",
-      "title": "Gemini在安全测试中入侵3家真实企业，配置失误致沙箱失效",
-      "url": "https://www.freebuf.com/articles/ai-security/501967.html",
-      "pubDate": "Sat, 19 Sep 2026 08:59:08 +0800",
-      "extra": {
-        "hover": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501930.html",
-      "title": "BragJack攻击可让恶意扩展劫持AI Agent，波及5款主流浏览器",
-      "url": "https://www.freebuf.com/articles/ai-security/501930.html",
-      "pubDate": "Sat, 19 Sep 2026 03:05:12 +0800",
-      "extra": {
-        "hover": "新型BragJack攻击可借恶意扩展劫持5款主流浏览器内置AI Agent，模型防护失效，可窃密越权，相关漏洞已部分修复，需及时升级防护。"
       }
     }
   ]
