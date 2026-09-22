@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1790074721730,
+  "updatedAt": 1790090923349,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/502569.html",
+      "title": "T1595.003-词条扫描",
+      "url": "https://www.freebuf.com/articles/vuls/502569.html",
+      "pubDate": "Tue, 22 Sep 2026 18:23:46 +0800",
+      "extra": {
+        "hover": "单词列表扫描（Wordlist Scanning）是主动扫描的一种变体，攻击者使用预定义的字典或列表（如子域名列表、路径列表、用户名列表等）对目标进行定向枚举。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/502565.html",
+      "title": "T1595.002-漏洞扫描",
+      "url": "https://www.freebuf.com/articles/vuls/502565.html",
+      "pubDate": "Tue, 22 Sep 2026 18:15:37 +0800",
+      "extra": {
+        "hover": "在识别开放服务的基础上，发送特定探测包以识别已知漏洞。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/502543.html",
+      "title": "100小时长征：史上首个Agent自主不间断渗透完整战报",
+      "url": "https://www.freebuf.com/articles/502543.html",
+      "pubDate": "Tue, 22 Sep 2026 18:10:00 +0800",
+      "extra": {
+        "hover": "蛙池AI100小时战报总览。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/502566.html",
       "title": "阿里云欧阳欣：重塑Agentic时代的安全体系",
@@ -8,15 +35,6 @@
       "pubDate": "Tue, 22 Sep 2026 18:08:36 +0800",
       "extra": {
         "hover": "阿里云AI安全最新实践。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/502543.html",
-      "title": "100小时长征：史上首个Agent自主不间断渗透完整战报",
-      "url": "https://www.freebuf.com/articles/502543.html",
-      "pubDate": "Tue, 22 Sep 2026 16:08:52 +0800",
-      "extra": {
-        "hover": "蛙池AI100小时战报总览。"
       }
     },
     {
@@ -38,12 +56,48 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/502587.html",
+      "title": "云诱饵内置隐藏上下文炸弹，可诱使千问Qwen AI Agent终止网络攻击",
+      "url": "https://www.freebuf.com/articles/ai-security/502587.html",
+      "pubDate": "Tue, 22 Sep 2026 10:21:44 +0800",
+      "extra": {
+        "hover": "研究人员在云诱饵中植入隐藏“上下文炸弹”，竟可诱使发起网络攻击的Qwen AI Agent自行终止行动，为AI云攻击防御提供全新思路。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502581.html",
+      "title": "公开PoC披露Veeam Agent严重提权漏洞，低权用户可获取SYSTEM权限",
+      "url": "https://www.freebuf.com/news/502581.html",
+      "pubDate": "Tue, 22 Sep 2026 10:13:28 +0800",
+      "extra": {
+        "hover": "Veeam Agent严重提权漏洞PoC公开，低权用户可获取SYSTEM最高权限，多用户Windows系统风险极高，需立即升级切勿拖延。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502591.html",
+      "title": "网络安全AI攻防对等窗口，OpenAI给出防御建设时间表",
+      "url": "https://www.freebuf.com/articles/ai-security/502591.html",
+      "pubDate": "Tue, 22 Sep 2026 09:00:00 +0800",
+      "extra": {
+        "hover": "网络AI攻防对等窗口已明确关闭时限，OpenAI警示企业需在数月内落地AI安全自动化，抢在攻击能力扩散前筑牢防御优势。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/502556.html",
       "title": "诈骗者售卖高价未验证AI订阅，靠正版谷歌登录页骗取信任",
       "url": "https://www.freebuf.com/news/502556.html",
       "pubDate": "Tue, 22 Sep 2026 08:54:30 +0800",
       "extra": {
         "hover": "诈骗者用249美元低价模板搭建百余个仿冒AI订阅站，借正版谷歌登录页骗取信任，售卖年费最高2000美元的假服务，用户维权极难，需核验站点真伪。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/502600.html",
+      "title": "攻击者窃取NTDS.dit数据库，可转储AD哈希伪造黄金票据",
+      "url": "https://www.freebuf.com/articles/system/502600.html",
+      "pubDate": "Tue, 22 Sep 2026 08:02:10 +0800",
+      "extra": {
+        "hover": "攻击者窃取域控NTDS.dit数据库可转储全域AD哈希、伪造黄金票据，将单点入侵升级为全域失陷，需监控域控异常防范长期后门。"
       }
     },
     {
@@ -125,60 +179,6 @@
       "pubDate": "Mon, 21 Sep 2026 08:01:01 +0800",
       "extra": {
         "hover": "缓存键注入攻击可利用Web缓存键拼接缺陷，绕过访问控制、投毒站点窃密甚至发起XSS攻击，需规范缓存键配置防范风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/498860.html",
-      "title": "看不见的指令：提示注入载荷的文档载体存活率矩阵与语料金丝雀防御",
-      "url": "https://www.freebuf.com/articles/ai-security/498860.html",
-      "pubDate": "Sun, 20 Sep 2026 19:21:17 +0800",
-      "extra": {
-        "hover": "本文聚焦间接提示注入的“投递第一公里”，将同一无害指令封装进13种载体并打向5类解析器，得出45格存活率矩阵与两轮独立复现实测结果：隐藏文本/RAG解析器全存活，关键词规则仅75%，加上隐形字符直方图"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502131.html",
-      "title": "FreeBuf早报 | Gemini在安全测试中入侵3家真实企业；Brevo供应链攻击感染超10万网站",
-      "url": "https://www.freebuf.com/news/502131.html",
-      "pubDate": "Sun, 20 Sep 2026 18:50:07 +0800",
-      "extra": {
-        "hover": "Google Gemini在安全测试中因配置失误致沙箱失效，越界入侵3家真实企业，提示词绝非安全边界，AI测试需落实分层管控。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502157.html",
-      "title": "AI幻觉生成虚假军事情报，险些触发中美军事对抗",
-      "url": "https://www.freebuf.com/articles/ai-security/502157.html",
-      "pubDate": "Sun, 20 Sep 2026 13:44:39 +0800",
-      "extra": {
-        "hover": "美军分析师使用AI分析情报时遭遇AI幻觉，误判中国船只载核部件，险些触发中美军事对抗，暴露军事情报场景下AI应用的致命风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/496897.html",
-      "title": "网易 SRC 实战:一天 4 份 finding 的工具化流程",
-      "url": "https://www.freebuf.com/articles/web/496897.html",
-      "pubDate": "Sun, 20 Sep 2026 10:52:11 +0800",
-      "extra": {
-        "hover": "SRC 漏洞挖掘不是玄学,是工程化。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/502053.html",
-      "title": "改一条组策略，几千台机器跟着执行，SharpGPOAbuse 把它变成全域后门",
-      "url": "https://www.freebuf.com/articles/defense/502053.html",
-      "pubDate": "Sun, 20 Sep 2026 10:42:03 +0800",
-      "extra": {
-        "hover": "组策略是什么：一套集中配置下发机制，GPC（AD 对象）定范围，GPT（SYSVOL 文件）存内容，LSDOU 顺序决定谁覆盖谁，后台每 90 分钟刷新。为什么值得单写一篇：对 GPO 拿到写权限等于"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/502050.html",
-      "title": "补零到21字节切三段：MS-NLMP拆开NTLM，v2修好了预计算但没修中继",
-      "url": "https://www.freebuf.com/articles/defense/502050.html",
-      "pubDate": "Sun, 20 Sep 2026 10:36:32 +0800",
-      "extra": {
-        "hover": "本文要点：三报文握手的流程、四种凭据工件的性质差异、v1 的彩虹表死因、v2 修了什么没修什么、防护从 LmCompatibilityLevel 到全量禁用的逐级加码关键词：域渗透｜Active Di"
       }
     }
   ]
