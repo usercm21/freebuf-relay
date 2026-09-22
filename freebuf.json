@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790103798712,
+  "updatedAt": 1790114540364,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/502569.html",
@@ -35,6 +35,15 @@
       "pubDate": "Tue, 22 Sep 2026 18:08:36 +0800",
       "extra": {
         "hover": "阿里云AI安全最新实践。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/502660.html",
+      "title": "「间谍标记」之争，人工智能隐形水印会暴露身份吗",
+      "url": "https://www.freebuf.com/articles/502660.html",
+      "pubDate": "Tue, 22 Sep 2026 17:16:29 +0800",
+      "extra": {
+        "hover": "Thomas 斥隐形水印为「间谍标记」：匿名图片、无署名文字或成追查身份线索，但公开证据仍不足。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Tue, 22 Sep 2026 03:13:18 +0800",
       "extra": {
         "hover": "Meta旗下Muse AI Agent曝极高危0Day漏洞，本地恶意软件可劫持其滥用高权限、窃凭证、跨设备攻击，官方暂未回应，用户需警惕相关风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502509.html",
-      "title": "NTU研发AI agents驱动检测工具，发现4G/5G核心网84处漏洞",
-      "url": "https://www.freebuf.com/news/502509.html",
-      "pubDate": "Tue, 22 Sep 2026 01:43:00 +0800",
-      "extra": {
-        "hover": "新加坡南洋理工大学用AI agents在4G/5G移动核心网挖出84个漏洞，高危漏洞可劫持用户流量、暗中监控受害者数据，多数漏洞已获CVE编号。"
       }
     }
   ]
