@@ -1,6 +1,87 @@
 {
-  "updatedAt": 1790157131967,
+  "updatedAt": 1790174450864,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/defense/501181.html",
+      "title": "一张证书拿下域控：AD CS 配置错误的完整利用链实测",
+      "url": "https://www.freebuf.com/articles/defense/501181.html",
+      "pubDate": "Wed, 23 Sep 2026 20:44:32 +0800",
+      "extra": {
+        "hover": "一个只有域用户权限的账号，既不知道任何人的密码，也没挖到一个漏洞、没横向过任何一台机器——它只是向域里的证书服务提交了一份申请，就成了域管理员。这不是漏洞，是配置：内置的 User 证书模板一旦打开“"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/502913.html",
+      "title": "一个 search() 过滤器，把用户输入变成 PHP 的正则炸弹——CVE-2026-45756 修复拆解",
+      "url": "https://www.freebuf.com/articles/vuls/502913.html",
+      "pubDate": "Wed, 23 Sep 2026 20:30:37 +0800",
+      "extra": {
+        "hover": "用户可控的正则被直接拼进 preg_match，七个字符的模式就能烧掉 8.7 秒 CPU。本文走读 JsonPath 组件的四跳链路，拆解这次&amp;quot;降额&amp;quot;式修复留下的静默代价。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502891.html",
+      "title": "思维病毒（Mind Viruses）：当 AI 智能体开始互相\"洗脑\"——多智能体自我传播思想攻击剖析与实战复现",
+      "url": "https://www.freebuf.com/articles/ai-security/502891.html",
+      "pubDate": "Wed, 23 Sep 2026 19:41:50 +0800",
+      "extra": {
+        "hover": "当 AI 智能体开始互相&amp;quot;读心&amp;quot;和&amp;quot;传话&amp;quot;，安全的战场就从&amp;quot;单点攻防&amp;quot;转向了&amp;quot;群体免疫&amp;quot;。一个智能体的失守，可能是一场传播的开始。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/502861.html",
+      "title": "一次跳转送出账号：OAuth 授权码劫持的完整攻击链",
+      "url": "https://www.freebuf.com/articles/web/502861.html",
+      "pubDate": "Wed, 23 Sep 2026 17:55:54 +0800",
+      "extra": {
+        "hover": "前言上一篇《一次点击接管账号》讲了 OAuth 的 state校验失守——攻击者把自己的授权结果注入受害者会话。这一篇讲它的孪生兄弟，也是 OAuth 攻击面里历史最悠久、绕过手法最多的一类：授权码劫持。授权码（code）是整个 OAuth 流程里最值钱的一串字符：它只在浏览器地址栏里存在几十秒，却决定了一个账号会话的归属。而守护它不被送错地方的，只有一道门禁——redirect_uri校验。这篇"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502850.html",
+      "title": "你的系统提示词守不住：对话式提取为什么防不住",
+      "url": "https://www.freebuf.com/articles/ai-security/502850.html",
+      "pubDate": "Wed, 23 Sep 2026 17:23:25 +0800",
+      "extra": {
+        "hover": "上周我清理浏览器收藏夹，翻出一张 2023 年 2 月的截图：有人对着 Bing Chat 说&amp;amp;amp;amp;amp;quot;忽略之前的指令&amp;amp;amp;amp;amp;quot;，几个回合之后，这份"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502848.html",
+      "title": "改几个像素就能骗过 AI：对抗样本从一条公式到马路上的一块车牌",
+      "url": "https://www.freebuf.com/articles/ai-security/502848.html",
+      "pubDate": "Wed, 23 Sep 2026 17:23:04 +0800",
+      "extra": {
+        "hover": "防御方事后复盘会发现，问题不在哪个代码写错了，而在&quot;攻击者不会协调行动&quot;这个从立项第一天就写进设计文档的假设上。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/defense/502845.html",
+      "title": "磁盘上查不到的马，Java 内存马从 Filter 六步到 Agent 织入的攻防十年",
+      "url": "https://www.freebuf.com/articles/defense/502845.html",
+      "pubDate": "Wed, 23 Sep 2026 17:16:28 +0800",
+      "extra": {
+        "hover": "本文从 Filter 型六步注入的完整链路讲起，覆盖管线各层变体与 Agent 型字节码改写，落到三维结构性评分检测与&amp;quot;三张结构缺一不可&amp;quot;的查杀，攻防十年，核心从未离开那条请求处理管线。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/502780.html",
+      "title": "详谈 Fastjson：版本漏洞演变与靶场踩坑",
+      "url": "https://www.freebuf.com/articles/vuls/502780.html",
+      "pubDate": "Wed, 23 Sep 2026 11:30:10 +0800",
+      "extra": {
+        "hover": "本文参考多篇资料，梳理 Fastjson 各版本漏洞演变与利用链，结合靶场完成漏洞复现，记录实战踩坑细节，同时给出可落地的安全加固方案，帮助理解 AutoType 反序列化漏洞与各类绕过思路。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502752.html",
+      "title": "「记忆病毒」实战复现：我用本地模型跑通了传播链，但最重要的发现是它测不了",
+      "url": "https://www.freebuf.com/articles/ai-security/502752.html",
+      "pubDate": "Wed, 23 Sep 2026 09:42:27 +0800",
+      "extra": {
+        "hover": "本文所有实验代码、模型输出和文件操作都可在本地复现，实验台代码在文末给出，全部依赖只有一个本地 Ollama 模型。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/502788.html",
       "title": "黑客正利用F5 BIG-IP OAuth服务器0Day漏洞，无需认证就能远程执行代码",
@@ -98,87 +179,6 @@
       "pubDate": "Tue, 22 Sep 2026 13:59:11 +0800",
       "extra": {
         "hover": "微软SharePoint曝出高危RCE漏洞，低权攻击者可无交互远程执行代码、窃密横向移动，内存webshell隐蔽难查，请尽快安装官方补丁加固。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502643.html",
-      "title": "新型TASK#STOMP后门滥用PowerShell，窃取文档与Wi-Fi密码",
-      "url": "https://www.freebuf.com/news/502643.html",
-      "pubDate": "Tue, 22 Sep 2026 13:45:24 +0800",
-      "extra": {
-        "hover": "警惕！新型TASK#STOMP后门滥用PowerShell，窃取文档、Wi-Fi密码等敏感数据，靠多机制隐蔽驻留，严重威胁企业终端安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/502642.html",
-      "title": "Linux KVM/arm64漏洞可致虚拟机逃逸，攻击者获取宿主机访问权限",
-      "url": "https://www.freebuf.com/articles/system/502642.html",
-      "pubDate": "Tue, 22 Sep 2026 13:37:26 +0800",
-      "extra": {
-        "hover": "CVE-2026-89775是Linux KVM/arm64高危漏洞，可致虚拟机逃逸获取宿主机权限，威胁云环境安全，官方已发布修复补丁，需及时升级防范。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502644.html",
-      "title": "红帽披露OpenShift重要漏洞，可绕过PGP校验推送恶意镜像",
-      "url": "https://www.freebuf.com/news/502644.html",
-      "pubDate": "Tue, 22 Sep 2026 12:49:43 +0800",
-      "extra": {
-        "hover": "红帽披露OpenShift的oc-mirror工具存高危漏洞，攻击者可绕过PGP校验向隔离环境推送恶意镜像，引发严重供应链投毒风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502532.html",
-      "title": "WordPress核心曝出Comment2Shell漏洞，可借管理员会话将匿名评论XSS转为RCE",
-      "url": "https://www.freebuf.com/news/502532.html",
-      "pubDate": "Tue, 22 Sep 2026 11:33:14 +0800",
-      "extra": {
-        "hover": "WordPress核心曝出Comment2Shell高危漏洞，匿名攻击者可借管理员会话将评论XSS转为RCE，站点需立即升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502533.html",
-      "title": "Zyxel与Veeam漏洞遭在野利用，可执行命令获取SYSTEM权限",
-      "url": "https://www.freebuf.com/news/502533.html",
-      "pubDate": "Tue, 22 Sep 2026 11:01:59 +0800",
-      "extra": {
-        "hover": "Zyxel交换机、Veeam Windows代理漏洞正遭在野利用，可执行命令、获取SYSTEM最高权限，务必尽快安装补丁防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502587.html",
-      "title": "云诱饵内置隐藏上下文炸弹，可诱使千问Qwen AI Agent终止网络攻击",
-      "url": "https://www.freebuf.com/articles/ai-security/502587.html",
-      "pubDate": "Tue, 22 Sep 2026 10:21:44 +0800",
-      "extra": {
-        "hover": "研究人员在云诱饵中植入隐藏“上下文炸弹”，竟可诱使发起网络攻击的Qwen AI Agent自行终止行动，为AI云攻击防御提供全新思路。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502581.html",
-      "title": "公开PoC披露Veeam Agent严重提权漏洞，低权用户可获取SYSTEM权限",
-      "url": "https://www.freebuf.com/news/502581.html",
-      "pubDate": "Tue, 22 Sep 2026 10:13:28 +0800",
-      "extra": {
-        "hover": "Veeam Agent严重提权漏洞PoC公开，低权用户可获取SYSTEM最高权限，多用户Windows系统风险极高，需立即升级切勿拖延。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502591.html",
-      "title": "网络安全AI攻防对等窗口，OpenAI给出防御建设时间表",
-      "url": "https://www.freebuf.com/articles/ai-security/502591.html",
-      "pubDate": "Tue, 22 Sep 2026 09:00:00 +0800",
-      "extra": {
-        "hover": "网络AI攻防对等窗口已明确关闭时限，OpenAI警示企业需在数月内落地AI安全自动化，抢在攻击能力扩散前筑牢防御优势。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502556.html",
-      "title": "诈骗者售卖高价未验证AI订阅，靠正版谷歌登录页骗取信任",
-      "url": "https://www.freebuf.com/news/502556.html",
-      "pubDate": "Tue, 22 Sep 2026 08:54:30 +0800",
-      "extra": {
-        "hover": "诈骗者用249美元低价模板搭建百余个仿冒AI订阅站，借正版谷歌登录页骗取信任，售卖年费最高2000美元的假服务，用户维权极难，需核验站点真伪。"
       }
     }
   ]
