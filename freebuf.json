@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790139563863,
+  "updatedAt": 1790157131967,
   "items": [
     {
       "id": "https://www.freebuf.com/news/502788.html",
@@ -26,6 +26,15 @@
       "pubDate": "Tue, 22 Sep 2026 19:31:18 +0800",
       "extra": {
         "hover": "比亚迪Shark 6遭无密码远程破解，可被操控车载功能、窃听信息、实时定位，研究员称“比亚迪直接把前门敞开着”，暴露联网车安全风险与监管空白。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/499121.html",
+      "title": "AI幻觉包名的供应链投毒攻防：可控复现、检测指标与企业防御实践",
+      "url": "https://www.freebuf.com/articles/ai-security/499121.html",
+      "pubDate": "Tue, 22 Sep 2026 19:25:34 +0800",
+      "extra": {
+        "hover": "AI编程助手推荐的包名未必真实存在，攻击者可预注册幻觉包名并植入安装钩子，形成供应链风险。本文在本地镜像与合成项目环境下，对&quot;幻觉包名→安装触发→行为记录&quot;链路做了无害化实验验证，给出静态、行为、策"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Tue, 22 Sep 2026 08:54:30 +0800",
       "extra": {
         "hover": "诈骗者用249美元低价模板搭建百余个仿冒AI订阅站，借正版谷歌登录页骗取信任，售卖年费最高2000美元的假服务，用户维权极难，需核验站点真伪。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/502667.html",
-      "title": "WAF 绕过实战：用 `/???/??t /???/??ss??` 读你的 passwd 文件",
-      "url": "https://www.freebuf.com/articles/web/502667.html",
-      "pubDate": "Tue, 22 Sep 2026 08:32:38 +0800",
-      "extra": {
-        "hover": "“我可以用 /???/??t /???/??ss?? 读取你的 passwd 文件！”Linux 通配符可绕 Sucuri/ModSecurity WAF，执行命令、读 /etc/passwd、反弹 shell。"
       }
     }
   ]
