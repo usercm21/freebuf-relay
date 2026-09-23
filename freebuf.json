@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1790123123545,
+  "updatedAt": 1790139563863,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/502788.html",
+      "title": "黑客正利用F5 BIG-IP OAuth服务器0Day漏洞，无需认证就能远程执行代码",
+      "url": "https://www.freebuf.com/news/502788.html",
+      "pubDate": "Wed, 23 Sep 2026 03:24:27 +0800",
+      "extra": {
+        "hover": "黑客正主动利用F5 BIG-IP OAuth服务器严重0Day漏洞，无需认证即可远程执行代码，官方已发布补丁，CISA已将其纳入已知被利用漏洞目录，请相关用户紧急处置。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502742.html",
+      "title": "Cisco Talos披露新型AI恶意软件，四模型投票决策战术行动",
+      "url": "https://www.freebuf.com/articles/ai-security/502742.html",
+      "pubDate": "Tue, 22 Sep 2026 23:44:32 +0800",
+      "extra": {
+        "hover": "思科Talos发现无需C2与人工操控、靠四个大模型投票决策战术行动的AI窃密恶意软件，同步开源专用狩猎工具CAIRN，提醒防御方把握应对窗口期。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/502585.html",
+      "title": "FreeBuf早报 | 比亚迪Shark 6实测遭远程破解；Meta Muse AI Agent存在0Day漏洞",
+      "url": "https://www.freebuf.com/news/502585.html",
+      "pubDate": "Tue, 22 Sep 2026 19:31:18 +0800",
+      "extra": {
+        "hover": "比亚迪Shark 6遭无密码远程破解，可被操控车载功能、窃听信息、实时定位，研究员称“比亚迪直接把前门敞开着”，暴露联网车安全风险与监管空白。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/502569.html",
       "title": "T1595.003-词条扫描",
@@ -152,33 +179,6 @@
       "pubDate": "Tue, 22 Sep 2026 08:32:38 +0800",
       "extra": {
         "hover": "“我可以用 /???/??t /???/??ss?? 读取你的 passwd 文件！”Linux 通配符可绕 Sucuri/ModSecurity WAF，执行命令、读 /etc/passwd、反弹 shell。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/502664.html",
-      "title": "CVE-2026-43786：macOS本地提权漏洞深度分析（含PoC）",
-      "url": "https://www.freebuf.com/articles/vuls/502664.html",
-      "pubDate": "Tue, 22 Sep 2026 08:32:38 +0800",
-      "extra": {
-        "hover": "macOS CoreServices 缺权限检查，攻击者可 root 执行任意代码，PoC 已公开，速修。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/502600.html",
-      "title": "攻击者窃取NTDS.dit数据库，可转储AD哈希伪造黄金票据",
-      "url": "https://www.freebuf.com/articles/system/502600.html",
-      "pubDate": "Tue, 22 Sep 2026 08:02:10 +0800",
-      "extra": {
-        "hover": "攻击者窃取域控NTDS.dit数据库可转储全域AD哈希、伪造黄金票据，将单点入侵升级为全域失陷，需监控域控异常防范长期后门。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502555.html",
-      "title": "Splunk与美国高校合作落地学生运营SOC模式",
-      "url": "https://www.freebuf.com/news/502555.html",
-      "pubDate": "Tue, 22 Sep 2026 04:30:00 +0800",
-      "extra": {
-        "hover": "曾直言让学生运营SOC是“疯了”的NJIT高校CISO，落地Splunk支撑的学生SOC，兼顾校园安防、实战网安人才培养，审慎探索AI安全应用。"
       }
     }
   ]
