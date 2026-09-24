@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790242364490,
+  "updatedAt": 1790259849146,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/503045.html",
@@ -62,6 +62,15 @@
       "pubDate": "Thu, 24 Sep 2026 10:29:17 +0800",
       "extra": {
         "hover": "抽样复核标签、训练后看准确率，这是标注外包验收仅有的两道关卡。本文证明二者对后门投毒同时失明：3% 投毒就能通过验收，拿到 0.42 后门增益，而准确率看不出异常。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ics-articles/503033.html",
+      "title": "OT安全建设聚焦核心工控设备，遗漏电梯等楼宇层设施",
+      "url": "https://www.freebuf.com/articles/ics-articles/503033.html",
+      "pubDate": "Thu, 24 Sep 2026 04:30:14 +0800",
+      "extra": {
+        "hover": "美国多州供水系统遭OT攻击，霍尼韦尔调研显示多数企业OT安全遗漏楼宇层设施，资产可见性差易致长时间停机，合规通过也难防攻击风险。"
       }
     },
     {
@@ -128,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/503112.html",
+      "title": "微软在Defender推出集成安全运营中心，围绕AI agents重构安全产品",
+      "url": "https://www.freebuf.com/articles/ai-security/503112.html",
+      "pubDate": "Wed, 23 Sep 2026 22:10:51 +0800",
+      "extra": {
+        "hover": "微软在Defender推出集成安全运营中心，围绕AI agents重构安全体系，避免防御被动，应对已出现的agent驱动攻击，相关功能现已开启公共预览。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/vuls/502913.html",
       "title": "一个 search() 过滤器，把用户输入变成 PHP 的正则炸弹——CVE-2026-45756 修复拆解",
       "url": "https://www.freebuf.com/articles/vuls/502913.html",
@@ -161,24 +179,6 @@
       "pubDate": "Wed, 23 Sep 2026 19:41:50 +0800",
       "extra": {
         "hover": "当 AI 智能体开始互相&amp;quot;读心&amp;quot;和&amp;quot;传话&amp;quot;，安全的战场就从&amp;quot;单点攻防&amp;quot;转向了&amp;quot;群体免疫&amp;quot;。一个智能体的失守，可能是一场传播的开始。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/502861.html",
-      "title": "一次跳转送出账号：OAuth 授权码劫持的完整攻击链",
-      "url": "https://www.freebuf.com/articles/web/502861.html",
-      "pubDate": "Wed, 23 Sep 2026 17:55:54 +0800",
-      "extra": {
-        "hover": "前言上一篇《一次点击接管账号》讲了 OAuth 的 state校验失守——攻击者把自己的授权结果注入受害者会话。这一篇讲它的孪生兄弟，也是 OAuth 攻击面里历史最悠久、绕过手法最多的一类：授权码劫持。授权码（code）是整个 OAuth 流程里最值钱的一串字符：它只在浏览器地址栏里存在几十秒，却决定了一个账号会话的归属。而守护它不被送错地方的，只有一道门禁——redirect_uri校验。这篇"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502850.html",
-      "title": "你的系统提示词守不住：对话式提取为什么防不住",
-      "url": "https://www.freebuf.com/articles/ai-security/502850.html",
-      "pubDate": "Wed, 23 Sep 2026 17:23:25 +0800",
-      "extra": {
-        "hover": "上周我清理浏览器收藏夹，翻出一张 2023 年 2 月的截图：有人对着 Bing Chat 说&amp;amp;amp;amp;amp;quot;忽略之前的指令&amp;amp;amp;amp;amp;quot;，几个回合之后，这份"
       }
     }
   ]
