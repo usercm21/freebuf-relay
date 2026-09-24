@@ -1,6 +1,69 @@
 {
-  "updatedAt": 1790224787134,
+  "updatedAt": 1790242364490,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/503045.html",
+      "title": "扫描器拦了个寂寞？Hugging Face 模型投毒的攻防账本：2.2M 仓库、63% 逃逸、100 个被下架的模型",
+      "url": "https://www.freebuf.com/articles/vuls/503045.html",
+      "pubDate": "Thu, 24 Sep 2026 13:54:49 +0800",
+      "extra": {
+        "hover": "扫描器拦了个寂寞？Hugging Face 模型投毒的攻防账本：2.2M 仓库、63% 逃逸、100 个被下架的模型前言：给本地知识库挑语音模型，下载前顺手扫了一遍，全绿。手贱多做了步反汇编，才发现&amp;amp;"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/503016.html",
+      "title": "Web 安全零基础入门：写给想学、却不知道怎么开始的你",
+      "url": "https://www.freebuf.com/articles/web/503016.html",
+      "pubDate": "Thu, 24 Sep 2026 12:31:21 +0800",
+      "extra": {
+        "hover": "针对零基础读者梳理 Web 安全学习规划，分为短周期快速上手、长周期系统深耕两套方案，附带新手优先练习的 Web 与 Misc 靶场清单，为本专辑的开篇导读。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/503014.html",
+      "title": "VulnHub DC-1 靶机渗透实战 — 初学者的复现之路",
+      "url": "https://www.freebuf.com/articles/web/503014.html",
+      "pubDate": "Thu, 24 Sep 2026 12:09:19 +0800",
+      "extra": {
+        "hover": "每条命令实操可复现，非常适合刚入门渗透测试的同学跟着走一遍，建立对&amp;quot;从 Web 到系统、从低权限到 root&amp;quot;整体流程的认知。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503011.html",
+      "title": "克隆一个仓库，你的 AI Agent 就开始执行攻击者的代码——GitSpawn 八条 CVE 全解析",
+      "url": "https://www.freebuf.com/articles/ai-security/503011.html",
+      "pubDate": "Thu, 24 Sep 2026 11:55:03 +0800",
+      "extra": {
+        "hover": "本文走读八条 CVE 的 root cause、patch diff 对比、清洗 vs 截断 vs 拒绝三种修复策略的设计取舍，最后给出一份可运行的检测脚本和审计 checklist。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502999.html",
+      "title": "一个 Agent 被打穿，全家凭据跟着走：多 Agent 系统的信任是怎么层层失守的",
+      "url": "https://www.freebuf.com/articles/ai-security/502999.html",
+      "pubDate": "Thu, 24 Sep 2026 11:33:46 +0800",
+      "extra": {
+        "hover": "真正要做的判断只有一件事：等你的 agent 出事那天，你希望自己当时是选过，还是没想过。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502976.html",
+      "title": "AI 时代下，我对进攻性安全 Agent 的一些思考",
+      "url": "https://www.freebuf.com/articles/ai-security/502976.html",
+      "pubDate": "Thu, 24 Sep 2026 10:35:03 +0800",
+      "extra": {
+        "hover": "不仅要把状态从模型脑子里拿出来，还应该把状态的演化过程本身保存下来。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/502973.html",
+      "title": "验收通过，模型已经坏了：外包标注的投毒预算与检测盲区",
+      "url": "https://www.freebuf.com/articles/ai-security/502973.html",
+      "pubDate": "Thu, 24 Sep 2026 10:29:17 +0800",
+      "extra": {
+        "hover": "抽样复核标签、训练后看准确率，这是标注外包验收仅有的两道关卡。本文证明二者对后门投毒同时失明：3% 投毒就能通过验收，拿到 0.42 后门增益，而准确率看不出异常。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/defense/501811.html",
       "title": "打了三遍都没打通：一条被写烂的中继链，卡在五个默认配置上",
@@ -56,6 +119,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/endpoint/502940.html",
+      "title": "基于自定义指令集虚拟机的无 shellcode 加载技术：VMLoader 的设计与实现",
+      "url": "https://www.freebuf.com/articles/endpoint/502940.html",
+      "pubDate": "Wed, 23 Sep 2026 23:10:58 +0800",
+      "extra": {
+        "hover": "自实现VM虚拟机实现完全无shellcode内存特征的loader"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/vuls/502913.html",
       "title": "一个 search() 过滤器，把用户输入变成 PHP 的正则炸弹——CVE-2026-45756 修复拆解",
       "url": "https://www.freebuf.com/articles/vuls/502913.html",
@@ -107,78 +179,6 @@
       "pubDate": "Wed, 23 Sep 2026 17:23:25 +0800",
       "extra": {
         "hover": "上周我清理浏览器收藏夹，翻出一张 2023 年 2 月的截图：有人对着 Bing Chat 说&amp;amp;amp;amp;amp;quot;忽略之前的指令&amp;amp;amp;amp;amp;quot;，几个回合之后，这份"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502848.html",
-      "title": "改几个像素就能骗过 AI：对抗样本从一条公式到马路上的一块车牌",
-      "url": "https://www.freebuf.com/articles/ai-security/502848.html",
-      "pubDate": "Wed, 23 Sep 2026 17:23:04 +0800",
-      "extra": {
-        "hover": "防御方事后复盘会发现，问题不在哪个代码写错了，而在&quot;攻击者不会协调行动&quot;这个从立项第一天就写进设计文档的假设上。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/502845.html",
-      "title": "磁盘上查不到的马，Java 内存马从 Filter 六步到 Agent 织入的攻防十年",
-      "url": "https://www.freebuf.com/articles/defense/502845.html",
-      "pubDate": "Wed, 23 Sep 2026 17:16:28 +0800",
-      "extra": {
-        "hover": "本文从 Filter 型六步注入的完整链路讲起，覆盖管线各层变体与 Agent 型字节码改写，落到三维结构性评分检测与&amp;quot;三张结构缺一不可&amp;quot;的查杀，攻防十年，核心从未离开那条请求处理管线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/502780.html",
-      "title": "详谈 Fastjson：版本漏洞演变与靶场踩坑",
-      "url": "https://www.freebuf.com/articles/vuls/502780.html",
-      "pubDate": "Wed, 23 Sep 2026 11:30:10 +0800",
-      "extra": {
-        "hover": "本文参考多篇资料，梳理 Fastjson 各版本漏洞演变与利用链，结合靶场完成漏洞复现，记录实战踩坑细节，同时给出可落地的安全加固方案，帮助理解 AutoType 反序列化漏洞与各类绕过思路。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502752.html",
-      "title": "「记忆病毒」实战复现：我用本地模型跑通了传播链，但最重要的发现是它测不了",
-      "url": "https://www.freebuf.com/articles/ai-security/502752.html",
-      "pubDate": "Wed, 23 Sep 2026 09:42:27 +0800",
-      "extra": {
-        "hover": "本文所有实验代码、模型输出和文件操作都可在本地复现，实验台代码在文末给出，全部依赖只有一个本地 Ollama 模型。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502788.html",
-      "title": "黑客正利用F5 BIG-IP OAuth服务器0Day漏洞，无需认证就能远程执行代码",
-      "url": "https://www.freebuf.com/news/502788.html",
-      "pubDate": "Wed, 23 Sep 2026 03:24:27 +0800",
-      "extra": {
-        "hover": "黑客正主动利用F5 BIG-IP OAuth服务器严重0Day漏洞，无需认证即可远程执行代码，官方已发布补丁，CISA已将其纳入已知被利用漏洞目录，请相关用户紧急处置。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502742.html",
-      "title": "Cisco Talos披露新型AI恶意软件，四模型投票决策战术行动",
-      "url": "https://www.freebuf.com/articles/ai-security/502742.html",
-      "pubDate": "Tue, 22 Sep 2026 23:44:32 +0800",
-      "extra": {
-        "hover": "思科Talos发现无需C2与人工操控、靠四个大模型投票决策战术行动的AI窃密恶意软件，同步开源专用狩猎工具CAIRN，提醒防御方把握应对窗口期。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502585.html",
-      "title": "FreeBuf早报 | 比亚迪Shark 6实测遭远程破解；Meta Muse AI Agent存在0Day漏洞",
-      "url": "https://www.freebuf.com/news/502585.html",
-      "pubDate": "Tue, 22 Sep 2026 19:31:18 +0800",
-      "extra": {
-        "hover": "比亚迪Shark 6遭无密码远程破解，可被操控车载功能、窃听信息、实时定位，研究员称“比亚迪直接把前门敞开着”，暴露联网车安全风险与监管空白。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/499121.html",
-      "title": "AI幻觉包名的供应链投毒攻防：可控复现、检测指标与企业防御实践",
-      "url": "https://www.freebuf.com/articles/ai-security/499121.html",
-      "pubDate": "Tue, 22 Sep 2026 19:25:34 +0800",
-      "extra": {
-        "hover": "AI编程助手推荐的包名未必真实存在，攻击者可预注册幻觉包名并植入安装钩子，形成供应链风险。本文在本地镜像与合成项目环境下，对&quot;幻觉包名→安装触发→行为记录&quot;链路做了无害化实验验证，给出静态、行为、策"
       }
     }
   ]
