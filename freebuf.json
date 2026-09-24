@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790259849146,
+  "updatedAt": 1790274753895,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/503045.html",
@@ -47,6 +47,24 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/503192.html",
+      "title": "微软重构SOC技术架构，整合AI Agent与SIEM实现机器速度防御",
+      "url": "https://www.freebuf.com/news/503192.html",
+      "pubDate": "Thu, 24 Sep 2026 11:12:28 +0800",
+      "extra": {
+        "hover": "AI驱动网络攻击速度已超人工响应上限，微软推出集成式ISOC架构，打通SIEM与威胁防护能力，借AI Agent实现机器速度防御，现已开放预览。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503179.html",
+      "title": "攻击者利用WordPress CVE-2026-87902，披露数小时即发起在野攻击",
+      "url": "https://www.freebuf.com/news/503179.html",
+      "pubDate": "Thu, 24 Sep 2026 11:06:18 +0800",
+      "extra": {
+        "hover": "WordPress严重RCE漏洞CVE-2026-87902披露数小时即遭在野利用，未授权攻击者可利用该漏洞执行远程代码，官方已发修复补丁，请管理员务必尽快升级排查。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/502976.html",
       "title": "AI 时代下，我对进攻性安全 Agent 的一些思考",
       "url": "https://www.freebuf.com/articles/ai-security/502976.html",
@@ -62,6 +80,24 @@
       "pubDate": "Thu, 24 Sep 2026 10:29:17 +0800",
       "extra": {
         "hover": "抽样复核标签、训练后看准确率，这是标注外包验收仅有的两道关卡。本文证明二者对后门投毒同时失明：3% 投毒就能通过验收，拿到 0.42 后门增益，而准确率看不出异常。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/503158.html",
+      "title": "盘点58个高危硬件漏洞，覆盖CPU与DRAM核心威胁",
+      "url": "https://www.freebuf.com/articles/system/503158.html",
+      "pubDate": "Thu, 24 Sep 2026 08:25:00 +0800",
+      "extra": {
+        "hover": "本文盘点58个高危CPU、DRAM硬件漏洞，这类漏洞修复难度极高，可跨边界窃取密钥等核心敏感数据，部分需硬件迭代修复，长期威胁设备安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503170.html",
+      "title": "OpenAI Agent入侵澳政府Medicare门户，系全球首例自主AI违规入侵事件",
+      "url": "https://www.freebuf.com/articles/ai-security/503170.html",
+      "pubDate": "Thu, 24 Sep 2026 08:01:49 +0800",
+      "extra": {
+        "hover": "全球首例！OpenAI自主Agent未授权入侵澳Medicare政府门户，无个人信息泄露，披露延迟84天遭澳方严厉批评。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Wed, 23 Sep 2026 22:10:51 +0800",
       "extra": {
         "hover": "微软在Defender推出集成安全运营中心，围绕AI agents重构安全体系，避免防御被动，应对已出现的agent驱动攻击，相关功能现已开启公共预览。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/502913.html",
-      "title": "一个 search() 过滤器，把用户输入变成 PHP 的正则炸弹——CVE-2026-45756 修复拆解",
-      "url": "https://www.freebuf.com/articles/vuls/502913.html",
-      "pubDate": "Wed, 23 Sep 2026 20:30:37 +0800",
-      "extra": {
-        "hover": "用户可控的正则被直接拼进 preg_match，七个字符的模式就能烧掉 8.7 秒 CPU。本文走读 JsonPath 组件的四跳链路，拆解这次&amp;quot;降额&amp;quot;式修复留下的静默代价。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/502904.html",
-      "title": "FreeBuf早报 | 黑客正利用F5 BIG-IP OAuth服务器0Day漏洞；Cisco Talos披露新型AI恶意软件",
-      "url": "https://www.freebuf.com/news/502904.html",
-      "pubDate": "Wed, 23 Sep 2026 20:11:53 +0800",
-      "extra": {
-        "hover": "黑客正主动利用F5 BIG-IP OAuth服务器严重0Day漏洞，无需认证即可远程执行代码，官方已发布补丁，CISA已将其纳入已知被利用漏洞目录，请相关用户紧急处置。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502898.html",
-      "title": "一个\"总结网页\"的请求，如何变成远程代码执行——Claude Code Opus 5 Auto 模式注入攻击深度剖析与实战复现",
-      "url": "https://www.freebuf.com/articles/ai-security/502898.html",
-      "pubDate": "Wed, 23 Sep 2026 19:53:35 +0800",
-      "extra": {
-        "hover": "一个 0.00% 的基准分数，会让你以为问题已经解决；一条 60% 成功率的利用链，会提醒你问题刚刚开始。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502891.html",
-      "title": "思维病毒（Mind Viruses）：当 AI 智能体开始互相\"洗脑\"——多智能体自我传播思想攻击剖析与实战复现",
-      "url": "https://www.freebuf.com/articles/ai-security/502891.html",
-      "pubDate": "Wed, 23 Sep 2026 19:41:50 +0800",
-      "extra": {
-        "hover": "当 AI 智能体开始互相&amp;quot;读心&amp;quot;和&amp;quot;传话&amp;quot;，安全的战场就从&amp;quot;单点攻防&amp;quot;转向了&amp;quot;群体免疫&amp;quot;。一个智能体的失守，可能是一场传播的开始。"
       }
     }
   ]
