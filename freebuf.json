@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790274753895,
+  "updatedAt": 1790286367064,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/503242.html",
+      "title": "从8086到x64：逆向工程视角下的汇编语言核心知识与实战解析",
+      "url": "https://www.freebuf.com/articles/system/503242.html",
+      "pubDate": "Fri, 25 Sep 2026 00:00:27 +0800",
+      "extra": {
+        "hover": "汇编是逆向“母语”：从8086分段寻址到x64调用约定与LEA惯用法，读懂历史代码与现代二进制。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/503045.html",
       "title": "扫描器拦了个寂寞？Hugging Face 模型投毒的攻防账本：2.2M 仓库、63% 逃逸、100 个被下架的模型",
@@ -170,15 +179,6 @@
       "pubDate": "Wed, 23 Sep 2026 23:10:58 +0800",
       "extra": {
         "hover": "自实现VM虚拟机实现完全无shellcode内存特征的loader"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503112.html",
-      "title": "微软在Defender推出集成安全运营中心，围绕AI agents重构安全产品",
-      "url": "https://www.freebuf.com/articles/ai-security/503112.html",
-      "pubDate": "Wed, 23 Sep 2026 22:10:51 +0800",
-      "extra": {
-        "hover": "微软在Defender推出集成安全运营中心，围绕AI agents重构安全体系，避免防御被动，应对已出现的agent驱动攻击，相关功能现已开启公共预览。"
       }
     }
   ]
