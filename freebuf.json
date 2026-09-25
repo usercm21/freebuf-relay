@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1790329921970,
+  "updatedAt": 1790348391527,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/503357.html",
+      "title": "CISA发布安全预警，攻击者在野利用Check Point多款产品漏洞",
+      "url": "https://www.freebuf.com/news/503357.html",
+      "pubDate": "Fri, 25 Sep 2026 10:30:18 +0800",
+      "extra": {
+        "hover": "CISA发布高风险预警，Check Point两款产品漏洞遭在野利用，攻击者无需授权即可执行恶意代码，要求相关机构限期整改。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503359.html",
+      "title": "微软披露Storm-2570攻击活动，跨多勒索家族复用同一攻击蓝图",
+      "url": "https://www.freebuf.com/news/503359.html",
+      "pubDate": "Fri, 25 Sep 2026 10:11:25 +0800",
+      "extra": {
+        "hover": "微软披露勒索团伙Storm-2570跨多行业、多勒索家族复用同一攻击蓝图，窃密加密双威胁，需识别前期行为早拦截。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/503342.html",
+      "title": "Sudo曝出高危安全漏洞，本地攻击者可绕过时间限制提权",
+      "url": "https://www.freebuf.com/articles/system/503342.html",
+      "pubDate": "Fri, 25 Sep 2026 09:29:32 +0800",
+      "extra": {
+        "hover": "Sudo曝出CVE-2026-96512高危漏洞，本地攻击者可绕过时间访问限制提权，相关用户需及时排查加固。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503321.html",
+      "title": "威胁狩猎的数据问题为最大阻碍，云日志与身份遥测缺口最突出",
+      "url": "https://www.freebuf.com/news/503321.html",
+      "pubDate": "Fri, 25 Sep 2026 05:00:56 +0800",
+      "extra": {
+        "hover": "SANS2026威胁狩猎调查显示，半数从业者受困数据质量问题，云日志、身份遥测缺口突出，易漏掉真实入侵，狩猎流程、成效量化普遍存在短板。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/503242.html",
       "title": "从8086到x64：逆向工程视角下的汇编语言核心知识与实战解析",
@@ -143,42 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 01:26:37 +0800",
       "extra": {
         "hover": "把域控机器账号的 NTLM 认证中继到 AD CS 的 Web 注册端点，是这几年引用最多的一条域内提权路径。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501589.html",
-      "title": "从 alice 到域控：AI Agent 用 105 秒，人只用 9 秒，多出来的 96 秒被 4 条规则盯上了",
-      "url": "https://www.freebuf.com/articles/ai-security/501589.html",
-      "pubDate": "Thu, 24 Sep 2026 01:26:14 +0800",
-      "extra": {
-        "hover": "同一条 AD CS 攻击链，人工 9.3 秒打完，AI Agent 用了 105.4 秒、35 次工具调用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/501529.html",
-      "title": "AI Agent 拿下域控：同一条 AD CS 链路，人打 7.2 秒、AI 打 6 分 17 秒",
-      "url": "https://www.freebuf.com/articles/ai-security/501529.html",
-      "pubDate": "Thu, 24 Sep 2026 01:25:45 +0800",
-      "extra": {
-        "hover": "同一个域、同一条攻击链、同一套工具、同一个检测配置。人工执行用了 7.2 秒、4 条命令；让 AI Agent 自己做，用了 6 分 17 秒、44 次工具调用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/501181.html",
-      "title": "一张证书拿下域控：AD CS 配置错误的完整利用链实测",
-      "url": "https://www.freebuf.com/articles/defense/501181.html",
-      "pubDate": "Thu, 24 Sep 2026 01:25:22 +0800",
-      "extra": {
-        "hover": "一个只有域用户权限的账号，既不知道任何人的密码，也没挖到一个漏洞、没横向过任何一台机器——它只是向域里的证书服务提交了一份申请，就成了域管理员。这不是漏洞，是配置：内置的 User 证书模板一旦打开“"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/500455.html",
-      "title": "12 步打穿内网，安全日志里命令留痕 0 条：同一条链重放三遍，只改防守方配置",
-      "url": "https://www.freebuf.com/articles/defense/500455.html",
-      "pubDate": "Thu, 24 Sep 2026 01:25:04 +0800",
-      "extra": {
-        "hover": "上一篇我人工打穿了一条两跳内网链路，文末列了 8 条「疑似」检测点却没验证过，这次我把它补上了。"
       }
     }
   ]
