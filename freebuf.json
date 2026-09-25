@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790286367064,
+  "updatedAt": 1790294588939,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/system/503242.html",
@@ -8,6 +8,15 @@
       "pubDate": "Fri, 25 Sep 2026 00:00:27 +0800",
       "extra": {
         "hover": "汇编是逆向“母语”：从8086分段寻址到x64调用约定与LEA惯用法，读懂历史代码与现代二进制。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/503254.html",
+      "title": "研究人员发现RSA新型破解方法，无需分解公钥模数",
+      "url": "https://www.freebuf.com/articles/503254.html",
+      "pubDate": "Thu, 24 Sep 2026 17:48:12 +0800",
+      "extra": {
+        "hover": "研究人员发现无需分解公钥模数的RSA新型破解法，算力成本较传统分解法低数百倍，特定场景下可伪造签名、解密选定密文，需警惕相关安全风险。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 01:24:34 +0800",
       "extra": {
         "hover": "HVV 2026 实测：把 AI Agent 关进内网，25 分钟它打到了哪一步本文为第一手实测记录。全部实验在自建、隔离的 VMware 靶场完成，目标为自建虚拟机，未涉及任何真实系统。导读HVV"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/502940.html",
-      "title": "基于自定义指令集虚拟机的无 shellcode 加载技术：VMLoader 的设计与实现",
-      "url": "https://www.freebuf.com/articles/endpoint/502940.html",
-      "pubDate": "Wed, 23 Sep 2026 23:10:58 +0800",
-      "extra": {
-        "hover": "自实现VM虚拟机实现完全无shellcode内存特征的loader"
       }
     }
   ]
