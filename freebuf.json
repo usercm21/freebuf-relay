@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790294588939,
+  "updatedAt": 1790329921970,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/system/503242.html",
@@ -17,6 +17,15 @@
       "pubDate": "Thu, 24 Sep 2026 17:48:12 +0800",
       "extra": {
         "hover": "研究人员发现无需分解公钥模数的RSA新型破解法，算力成本较传统分解法低数百倍，特定场景下可伪造签名、解密选定密文，需警惕相关安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/503296.html",
+      "title": "韩国上调数据泄露最高罚款至年营收10%，加剧全球合规复杂度",
+      "url": "https://www.freebuf.com/articles/database/503296.html",
+      "pubDate": "Thu, 24 Sep 2026 17:02:00 +0800",
+      "extra": {
+        "hover": "韩国将数据泄露最高罚款提至年营收10%，加剧全球合规复杂度，跨国企业按最严标准搭建合规体系反而更省成本。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 01:25:04 +0800",
       "extra": {
         "hover": "上一篇我人工打穿了一条两跳内网链路，文末列了 8 条「疑似」检测点却没验证过，这次我把它补上了。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/500302.html",
-      "title": "HVV 2026 实测：把 AI Agent 关进内网，25 分钟它打到了哪一步",
-      "url": "https://www.freebuf.com/articles/defense/500302.html",
-      "pubDate": "Thu, 24 Sep 2026 01:24:34 +0800",
-      "extra": {
-        "hover": "HVV 2026 实测：把 AI Agent 关进内网，25 分钟它打到了哪一步本文为第一手实测记录。全部实验在自建、隔离的 VMware 靶场完成，目标为自建虚拟机，未涉及任何真实系统。导读HVV"
       }
     }
   ]
