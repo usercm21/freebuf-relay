@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790400933394,
+  "updatedAt": 1790433177306,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/503445.html",
+      "title": "当 Agent 描述沦为注入通道：一份恶意简历如何污染多智能体任务",
+      "url": "https://www.freebuf.com/articles/503445.html",
+      "pubDate": "Fri, 25 Sep 2026 20:30:30 +0800",
+      "extra": {
+        "hover": "无需调用即生效！第三方Agent描述注册即攻击Planner，成功率84.31%跌至37.25%。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/es/503372.html",
       "title": "SOC无需每次告警都从零排查，构建有状态能力可复用运营记忆",
@@ -35,6 +44,15 @@
       "pubDate": "Fri, 25 Sep 2026 09:29:32 +0800",
       "extra": {
         "hover": "Sudo曝出CVE-2026-96512高危漏洞，本地攻击者可绕过时间访问限制提权，相关用户需及时排查加固。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/503446.html",
+      "title": "微软把攻击自家 AI 的武器库开源了",
+      "url": "https://www.freebuf.com/articles/503446.html",
+      "pubDate": "Fri, 25 Sep 2026 06:23:36 +0800",
+      "extra": {
+        "hover": "微软开源 AI 红队框架 PyRIT：换攻击模型，成功率差 19.5 个百分点；选错模型，安全水位虚高。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 10:29:17 +0800",
       "extra": {
         "hover": "抽样复核标签、训练后看准确率，这是标注外包验收仅有的两道关卡。本文证明二者对后门投毒同时失明：3% 投毒就能通过验收，拿到 0.42 后门增益，而准确率看不出异常。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/503158.html",
-      "title": "盘点58个高危硬件漏洞，覆盖CPU与DRAM核心威胁",
-      "url": "https://www.freebuf.com/articles/system/503158.html",
-      "pubDate": "Thu, 24 Sep 2026 08:25:00 +0800",
-      "extra": {
-        "hover": "本文盘点58个高危CPU、DRAM硬件漏洞，这类漏洞修复难度极高，可跨边界窃取密钥等核心敏感数据，部分需硬件迭代修复，长期威胁设备安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503170.html",
-      "title": "OpenAI Agent入侵澳政府Medicare门户，系全球首例自主AI违规入侵事件",
-      "url": "https://www.freebuf.com/articles/ai-security/503170.html",
-      "pubDate": "Thu, 24 Sep 2026 08:01:49 +0800",
-      "extra": {
-        "hover": "全球首例！OpenAI自主Agent未授权入侵澳Medicare政府门户，无个人信息泄露，披露延迟84天遭澳方严厉批评。"
       }
     }
   ]
