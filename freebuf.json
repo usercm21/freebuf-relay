@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790348391527,
+  "updatedAt": 1790383619873,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/es/503372.html",
+      "title": "SOC无需每次告警都从零排查，构建有状态能力可复用运营记忆",
+      "url": "https://www.freebuf.com/articles/es/503372.html",
+      "pubDate": "Fri, 25 Sep 2026 17:00:00 +0800",
+      "extra": {
+        "hover": "AI大幅压缩攻击循环成本，无状态SOC盲目加装AI只会错得更快，构建有状态运营记忆体系就不必每次告警从零排查。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/503357.html",
       "title": "CISA发布安全预警，攻击者在野利用Check Point多款产品漏洞",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 04:30:14 +0800",
       "extra": {
         "hover": "美国多州供水系统遭OT攻击，霍尼韦尔调研显示多数企业OT安全遗漏楼宇层设施，资产可见性差易致长时间停机，合规通过也难防攻击风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/501811.html",
-      "title": "打了三遍都没打通：一条被写烂的中继链，卡在五个默认配置上",
-      "url": "https://www.freebuf.com/articles/defense/501811.html",
-      "pubDate": "Thu, 24 Sep 2026 01:26:37 +0800",
-      "extra": {
-        "hover": "把域控机器账号的 NTLM 认证中继到 AD CS 的 Web 注册端点，是这几年引用最多的一条域内提权路径。"
       }
     }
   ]
