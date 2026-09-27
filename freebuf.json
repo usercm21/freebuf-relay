@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790492984358,
+  "updatedAt": 1790514070008,
   "items": [
     {
       "id": "https://www.freebuf.com/news/503496.html",
@@ -53,6 +53,15 @@
       "pubDate": "Fri, 25 Sep 2026 17:00:00 +0800",
       "extra": {
         "hover": "AI大幅压缩攻击循环成本，无状态SOC盲目加装AI只会错得更快，构建有状态运营记忆体系就不必每次告警从零排查。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503472.html",
+      "title": "“我决定退出PS5破解圈！”PS5 Linux大神被AI搞到「退圈」：有人用LLM找Bug写Hack，几个月心血“全打水漂”",
+      "url": "https://www.freebuf.com/news/503472.html",
+      "pubDate": "Fri, 25 Sep 2026 12:09:32 +0800",
+      "extra": {
+        "hover": "TheFloW 怒斥 AI 垃圾小子抢先报告漏洞，退出 PS5 破解圈，PS5 Pro 支持全打水漂。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 12:09:19 +0800",
       "extra": {
         "hover": "每条命令实操可复现，非常适合刚入门渗透测试的同学跟着走一遍，建立对&amp;quot;从 Web 到系统、从低权限到 root&amp;quot;整体流程的认知。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503011.html",
-      "title": "克隆一个仓库，你的 AI Agent 就开始执行攻击者的代码——GitSpawn 八条 CVE 全解析",
-      "url": "https://www.freebuf.com/articles/ai-security/503011.html",
-      "pubDate": "Thu, 24 Sep 2026 11:55:03 +0800",
-      "extra": {
-        "hover": "本文走读八条 CVE 的 root cause、patch diff 对比、清洗 vs 截断 vs 拒绝三种修复策略的设计取舍，最后给出一份可运行的检测脚本和审计 checklist。"
       }
     }
   ]
