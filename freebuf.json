@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1790473540858,
+  "updatedAt": 1790492984358,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/503496.html",
+      "title": "Citrix NetScaler 0Day RCE漏洞遭在野利用，官方暂未发布补丁公告",
+      "url": "https://www.freebuf.com/news/503496.html",
+      "pubDate": "Sun, 27 Sep 2026 04:07:25 +0800",
+      "extra": {
+        "hover": "Citrix NetScaler两款高危0Day RCE漏洞已遭在野利用，官方暂未发布补丁，需紧急排查风险、严防设备失陷。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503454.html",
+      "title": "攻击者绕过WAF利用Oracle PeopleSoft漏洞，全球多行业遭入侵部署WebShell",
+      "url": "https://www.freebuf.com/news/503454.html",
+      "pubDate": "Sat, 26 Sep 2026 17:16:40 +0800",
+      "extra": {
+        "hover": "攻击者绕过WAF利用Oracle PeopleSoft高危RCE漏洞，全球多行业遭入侵部署WebShell，ShinyHunters承认入侵FBI招聘门户。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/sectool/503440.html",
       "title": "网络安全应急响应中IP摄像头攻防实战，有新工具(pwneye)使用",
@@ -8,6 +26,15 @@
       "pubDate": "Sat, 26 Sep 2026 14:41:02 +0800",
       "extra": {
         "hover": "IP摄像头默认配置薄弱，长期成攻击重点；一旦攻破影响巨大，RTSP/ONVIF攻击面与pwneye工具。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503482.html",
+      "title": "惊天劫案：疑似朝鲜黑客窃取新加坡Bitget交易所3.516亿美元",
+      "url": "https://www.freebuf.com/news/503482.html",
+      "pubDate": "Sat, 26 Sep 2026 07:48:59 +0800",
+      "extra": {
+        "hover": "Bitget遭窃3.516亿美元，疑朝鲜黑客；CEO一度称3.875亿，并称提现“不应数周”。"
       }
     },
     {
@@ -53,6 +80,15 @@
       "pubDate": "Fri, 25 Sep 2026 09:29:32 +0800",
       "extra": {
         "hover": "Sudo曝出CVE-2026-96512高危漏洞，本地攻击者可绕过时间访问限制提权，相关用户需及时排查加固。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/503464.html",
+      "title": "LogonTracer - 可视化分析Windows AD登录日志的威胁检测工具",
+      "url": "https://www.freebuf.com/articles/sectool/503464.html",
+      "pubDate": "Fri, 25 Sep 2026 08:32:35 +0800",
+      "extra": {
+        "hover": "LogonTracer：图形化 Windows 登录日志，AI 定位异常登录与威胁账户。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 11:55:03 +0800",
       "extra": {
         "hover": "本文走读八条 CVE 的 root cause、patch diff 对比、清洗 vs 截断 vs 拒绝三种修复策略的设计取舍，最后给出一份可运行的检测脚本和审计 checklist。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502999.html",
-      "title": "一个 Agent 被打穿，全家凭据跟着走：多 Agent 系统的信任是怎么层层失守的",
-      "url": "https://www.freebuf.com/articles/ai-security/502999.html",
-      "pubDate": "Thu, 24 Sep 2026 11:33:46 +0800",
-      "extra": {
-        "hover": "真正要做的判断只有一件事：等你的 agent 出事那天，你希望自己当时是选过，还是没想过。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503192.html",
-      "title": "微软重构SOC技术架构，整合AI Agent与SIEM实现机器速度防御",
-      "url": "https://www.freebuf.com/news/503192.html",
-      "pubDate": "Thu, 24 Sep 2026 11:12:28 +0800",
-      "extra": {
-        "hover": "AI驱动网络攻击速度已超人工响应上限，微软推出集成式ISOC架构，打通SIEM与威胁防护能力，借AI Agent实现机器速度防御，现已开放预览。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503179.html",
-      "title": "攻击者利用WordPress CVE-2026-87902，披露数小时即发起在野攻击",
-      "url": "https://www.freebuf.com/news/503179.html",
-      "pubDate": "Thu, 24 Sep 2026 11:06:18 +0800",
-      "extra": {
-        "hover": "WordPress严重RCE漏洞CVE-2026-87902披露数小时即遭在野利用，未授权攻击者可利用该漏洞执行远程代码，官方已发修复补丁，请管理员务必尽快升级排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502976.html",
-      "title": "AI 时代下，我对进攻性安全 Agent 的一些思考",
-      "url": "https://www.freebuf.com/articles/ai-security/502976.html",
-      "pubDate": "Thu, 24 Sep 2026 10:35:03 +0800",
-      "extra": {
-        "hover": "不仅要把状态从模型脑子里拿出来，还应该把状态的演化过程本身保存下来。"
       }
     }
   ]
