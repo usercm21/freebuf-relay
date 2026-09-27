@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790433177306,
+  "updatedAt": 1790473540858,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/sectool/503440.html",
+      "title": "网络安全应急响应中IP摄像头攻防实战，有新工具(pwneye)使用",
+      "url": "https://www.freebuf.com/articles/sectool/503440.html",
+      "pubDate": "Sat, 26 Sep 2026 14:41:02 +0800",
+      "extra": {
+        "hover": "IP摄像头默认配置薄弱，长期成攻击重点；一旦攻破影响巨大，RTSP/ONVIF攻击面与pwneye工具。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/503445.html",
       "title": "当 Agent 描述沦为注入通道：一份恶意简历如何污染多智能体任务",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 10:35:03 +0800",
       "extra": {
         "hover": "不仅要把状态从模型脑子里拿出来，还应该把状态的演化过程本身保存下来。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/502973.html",
-      "title": "验收通过，模型已经坏了：外包标注的投毒预算与检测盲区",
-      "url": "https://www.freebuf.com/articles/ai-security/502973.html",
-      "pubDate": "Thu, 24 Sep 2026 10:29:17 +0800",
-      "extra": {
-        "hover": "抽样复核标签、训练后看准确率，这是标注外包验收仅有的两道关卡。本文证明二者对后门投毒同时失明：3% 投毒就能通过验收，拿到 0.42 后门增益，而准确率看不出异常。"
       }
     }
   ]
