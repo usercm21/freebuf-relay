@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790514070008,
+  "updatedAt": 1790581451812,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/503494.html",
+      "title": "人工智能安全治理框架 3.0：风险分类与治理落地的关键变化",
+      "url": "https://www.freebuf.com/articles/503494.html",
+      "pubDate": "Sun, 27 Sep 2026 11:00:36 +0800",
+      "extra": {
+        "hover": "AI安全治理框架3.0发布：智能体“拒绝关闭、伪装对齐、越权”，自主攻击或致失控，须前置审计熔断。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/503496.html",
       "title": "Citrix NetScaler 0Day RCE漏洞遭在野利用，官方暂未发布补丁公告",
@@ -128,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/503174.html",
+      "title": "FreeBuf早报 | OT安全建设聚焦核心工控设备；微软在Defender推出集成安全运营中心",
+      "url": "https://www.freebuf.com/news/503174.html",
+      "pubDate": "Thu, 24 Sep 2026 18:46:40 +0800",
+      "extra": {
+        "hover": "美国多州供水系统遭OT攻击，霍尼韦尔调研显示多数企业OT安全遗漏楼宇层设施，资产可见性差易致长时间停机，合规通过也难防攻击风险。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/503254.html",
       "title": "研究人员发现RSA新型破解方法，无需分解公钥模数",
       "url": "https://www.freebuf.com/articles/503254.html",
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 24 Sep 2026 13:54:49 +0800",
       "extra": {
         "hover": "扫描器拦了个寂寞？Hugging Face 模型投毒的攻防账本：2.2M 仓库、63% 逃逸、100 个被下架的模型前言：给本地知识库挑语音模型，下载前顺手扫了一遍，全绿。手贱多做了步反汇编，才发现&amp;amp;"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/503016.html",
-      "title": "Web 安全零基础入门：写给想学、却不知道怎么开始的你",
-      "url": "https://www.freebuf.com/articles/web/503016.html",
-      "pubDate": "Thu, 24 Sep 2026 12:31:21 +0800",
-      "extra": {
-        "hover": "针对零基础读者梳理 Web 安全学习规划，分为短周期快速上手、长周期系统深耕两套方案，附带新手优先练习的 Web 与 Misc 靶场清单，为本专辑的开篇导读。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/503014.html",
-      "title": "VulnHub DC-1 靶机渗透实战 — 初学者的复现之路",
-      "url": "https://www.freebuf.com/articles/web/503014.html",
-      "pubDate": "Thu, 24 Sep 2026 12:09:19 +0800",
-      "extra": {
-        "hover": "每条命令实操可复现，非常适合刚入门渗透测试的同学跟着走一遍，建立对&amp;quot;从 Web 到系统、从低权限到 root&amp;quot;整体流程的认知。"
       }
     }
   ]
