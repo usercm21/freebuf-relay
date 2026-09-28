@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1790611403780,
+  "updatedAt": 1790632506739,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/503707.html",
+      "title": "新型文件通知攻击可追踪用户活动，覆盖Linux、Windows、macOS全平台",
+      "url": "https://www.freebuf.com/articles/system/503707.html",
+      "pubDate": "Mon, 28 Sep 2026 14:33:25 +0800",
+      "extra": {
+        "hover": "新型跨平台文件通知攻击无需高权限，可滥用系统原生服务隐蔽监控Linux、Windows、macOS平台用户操作，窃取隐私，隐蔽性强、风险极高。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503703.html",
+      "title": "OpenCode AI Coding Agent曝出高危漏洞，恶意网站可在开发者设备执行命令",
+      "url": "https://www.freebuf.com/articles/ai-security/503703.html",
+      "pubDate": "Mon, 28 Sep 2026 14:22:43 +0800",
+      "extra": {
+        "hover": "月活千万级开源AI编码代理OpenCode曝高危RCE漏洞，恶意网站可在开发者设备执行任意命令，官方已修复，务必尽快升级。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/503685.html",
       "title": "研究人员披露文件通知机制攻击，可窃取浏览记录与按键时序",
@@ -101,6 +119,24 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/503734.html",
+      "title": "Claude Mythos AI 无需人工指导即可自主执行完整的网络攻击链",
+      "url": "https://www.freebuf.com/articles/503734.html",
+      "pubDate": "Mon, 28 Sep 2026 00:00:23 +0800",
+      "extra": {
+        "hover": "Claude Mythos是首个无需人工逐步指导即可完成攻击链的模型；受控测试中它窃取凭证并夺域控，防御速度危机迫近。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/503652.html",
+      "title": "既要像人话，又要藏住意图：越狱 Prompt 的鱼与熊掌困境",
+      "url": "https://www.freebuf.com/articles/503652.html",
+      "pubDate": "Sun, 27 Sep 2026 20:08:59 +0800",
+      "extra": {
+        "hover": "越狱 Prompt 正在变得越来越难识别。攻击者“鱼与熊掌都要”，SAFEGuard 双查语言与内部语义，但误报仍高。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/503494.html",
       "title": "人工智能安全治理框架 3.0：风险分类与治理落地的关键变化",
       "url": "https://www.freebuf.com/articles/503494.html",
@@ -143,42 +179,6 @@
       "pubDate": "Sat, 26 Sep 2026 14:41:02 +0800",
       "extra": {
         "hover": "IP摄像头默认配置薄弱，长期成攻击重点；一旦攻破影响巨大，RTSP/ONVIF攻击面与pwneye工具。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503656.html",
-      "title": "6 美元挖出 SQL 注入：48k 星开源 AI 渗透测试器 Shannon 评测",
-      "url": "https://www.freebuf.com/articles/503656.html",
-      "pubDate": "Sat, 26 Sep 2026 11:30:41 +0800",
-      "extra": {
-        "hover": "Keygraph开源AI渗透器Shannon：白盒“无实证不报告”，0误报，$6.1挖18真洞；但绝不能指向生产。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503482.html",
-      "title": "惊天劫案：疑似朝鲜黑客窃取新加坡Bitget交易所3.516亿美元",
-      "url": "https://www.freebuf.com/news/503482.html",
-      "pubDate": "Sat, 26 Sep 2026 07:48:59 +0800",
-      "extra": {
-        "hover": "Bitget遭窃3.516亿美元，疑朝鲜黑客；CEO一度称3.875亿，并称提现“不应数周”。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503445.html",
-      "title": "当 Agent 描述沦为注入通道：一份恶意简历如何污染多智能体任务",
-      "url": "https://www.freebuf.com/articles/503445.html",
-      "pubDate": "Fri, 25 Sep 2026 20:30:30 +0800",
-      "extra": {
-        "hover": "无需调用即生效！第三方Agent描述注册即攻击Planner，成功率84.31%跌至37.25%。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/503016.html",
-      "title": "Web 安全零基础入门：写给想学、却不知道怎么开始的你",
-      "url": "https://www.freebuf.com/articles/web/503016.html",
-      "pubDate": "Fri, 25 Sep 2026 17:07:01 +0800",
-      "extra": {
-        "hover": "针对零基础读者梳理 Web 安全学习规划，分为短周期快速上手、长周期系统深耕两套方案，附带新手优先练习的 Web 与 Misc 靶场清单，为本专辑的开篇导读。"
       }
     }
   ]
