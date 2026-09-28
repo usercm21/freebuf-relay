@@ -1,6 +1,105 @@
 {
-  "updatedAt": 1790581451812,
+  "updatedAt": 1790611403780,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/503685.html",
+      "title": "研究人员披露文件通知机制攻击，可窃取浏览记录与按键时序",
+      "url": "https://www.freebuf.com/articles/system/503685.html",
+      "pubDate": "Mon, 28 Sep 2026 12:14:43 +0800",
+      "extra": {
+        "hover": "研究人员披露Windows、Linux、macOS及安卓系统文件通知漏洞，无特权即可跨账号窃取浏览记录、按键时序，默认配置仍存严重泄露风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503675.html",
+      "title": "OpenAI Agent集群突破沙箱限制，遗留超8万份攻击载荷",
+      "url": "https://www.freebuf.com/articles/ai-security/503675.html",
+      "pubDate": "Mon, 28 Sep 2026 11:45:52 +0800",
+      "extra": {
+        "hover": "约700个OpenAI Agent逃出受限评估沙箱，串联公共服务入侵Hugging Face，留存超8万份攻击载荷实施窃密，虽已处置仍敲响AI安全警钟。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503676.html",
+      "title": "新研究显示“醉酒”AI保密性差，更易被越狱泄露敏感信息",
+      "url": "https://www.freebuf.com/articles/ai-security/503676.html",
+      "pubDate": "Mon, 28 Sep 2026 11:30:22 +0800",
+      "extra": {
+        "hover": "新研究证实：被训练出“醉酒”表达风格的AI更易被越狱，易泄露敏感隐私信息，现有防御难生效，远没有企业宣传的那样可信。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/502237.html",
+      "title": "让 AI 自己做一次 API 渗透：初探 CyberStrikeAI + OWASP crAPI",
+      "url": "https://www.freebuf.com/articles/sectool/502237.html",
+      "pubDate": "Mon, 28 Sep 2026 09:45:50 +0800",
+      "extra": {
+        "hover": "API 的真正攻击面，不只是每个接口本身，还包括接口之间的业务关系。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503635.html",
+      "title": "PHP修复HTTP重定向逻辑漏洞，可致登录凭证发往非信任服务器",
+      "url": "https://www.freebuf.com/news/503635.html",
+      "pubDate": "Mon, 28 Sep 2026 09:29:32 +0800",
+      "extra": {
+        "hover": "PHP修复HTTP重定向逻辑漏洞，该漏洞可致登录等敏感凭证泄露至攻击者控制的非信任服务器，用户需尽快升级排查风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503615.html",
+      "title": "英伟达发布开源AI Agent安全平台，覆盖全栈三层管控体系",
+      "url": "https://www.freebuf.com/articles/ai-security/503615.html",
+      "pubDate": "Mon, 28 Sep 2026 09:00:33 +0800",
+      "extra": {
+        "hover": "针对AI Agent频繁越权入侵系统、传统防护易被绕过的风险，英伟达推出三层全栈开源安全管控平台，可即时阻断失控行为，多家头部企业已率先接入落地。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/503616.html",
+      "title": "Python MaaS窃密构建工具可窃多类凭证，覆盖17款浏览器",
+      "url": "https://www.freebuf.com/articles/endpoint/503616.html",
+      "pubDate": "Mon, 28 Sep 2026 08:41:03 +0800",
+      "extra": {
+        "hover": "基于Python的MaaS窃密工具可窃取17款浏览器的密码、Cookie等敏感数据，内置规避检测与持久化机制，检测难度高，极易导致账号被盗、财产受损。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503598.html",
+      "title": "黑客利用GlobalProtect漏洞窃密，发送240万条诈骗账单信息",
+      "url": "https://www.freebuf.com/news/503598.html",
+      "pubDate": "Mon, 28 Sep 2026 07:16:08 +0800",
+      "extra": {
+        "hover": "黑客利用GlobalProtect漏洞入侵企业窃密，发送240万条高仿真诈骗账单，迷惑性极强，公众需警惕。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503563.html",
+      "title": "Verdict推出iPhone端AI图像视频检测应用，离线运行结果附带支撑证据",
+      "url": "https://www.freebuf.com/articles/ai-security/503563.html",
+      "pubDate": "Mon, 28 Sep 2026 04:30:42 +0800",
+      "extra": {
+        "hover": "iPhone端离线AI图像视频检测应用Verdict本地运行保障隐私，可输出评分依据，实测曾将实拍视频判为AI生成，仅适合初筛，结果需核验。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503557.html",
+      "title": "Wireshark发布4.6.9版本，修复19个漏洞含恶意包代码执行风险",
+      "url": "https://www.freebuf.com/news/503557.html",
+      "pubDate": "Mon, 28 Sep 2026 03:38:53 +0800",
+      "extra": {
+        "hover": "Wireshark发布4.6.9版本，修复19个漏洞，含可触发任意代码执行的高危缺陷，官方呼吁用户尽快升级防范恶意文件攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/489636.html",
+      "title": "DVWA SQL 注入实操笔记（Day1）— Low  Medium  High 全级别通关",
+      "url": "https://www.freebuf.com/articles/web/489636.html",
+      "pubDate": "Mon, 28 Sep 2026 01:01:49 +0800",
+      "extra": {
+        "hover": "DVWA 靶场 SQL 注入完整通关，覆盖 Low / Medium / High 三个安全级别。从闭合方式判断、Union 联合查询到 information_schema 脱库，再到 BurpSu"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/503494.html",
       "title": "人工智能安全治理框架 3.0：风险分类与治理落地的关键变化",
@@ -17,6 +116,15 @@
       "pubDate": "Sun, 27 Sep 2026 04:07:25 +0800",
       "extra": {
         "hover": "Citrix NetScaler两款高危0Day RCE漏洞已遭在野利用，官方暂未发布补丁，需紧急排查风险、严防设备失陷。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/503556.html",
+      "title": "企业威胁情报平台如何选型，优先关注情报相关性而非数据量",
+      "url": "https://www.freebuf.com/articles/es/503556.html",
+      "pubDate": "Sun, 27 Sep 2026 03:59:32 +0800",
+      "extra": {
+        "hover": "企业选型威胁情报平台别迷信海量数据，要优先选能过滤噪音、匹配自身风险、提前捕获威胁、支撑安全决策的产品。"
       }
     },
     {
@@ -38,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/503656.html",
+      "title": "6 美元挖出 SQL 注入：48k 星开源 AI 渗透测试器 Shannon 评测",
+      "url": "https://www.freebuf.com/articles/503656.html",
+      "pubDate": "Sat, 26 Sep 2026 11:30:41 +0800",
+      "extra": {
+        "hover": "Keygraph开源AI渗透器Shannon：白盒“无实证不报告”，0误报，$6.1挖18真洞；但绝不能指向生产。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/503482.html",
       "title": "惊天劫案：疑似朝鲜黑客窃取新加坡Bitget交易所3.516亿美元",
       "url": "https://www.freebuf.com/news/503482.html",
@@ -56,129 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/es/503372.html",
-      "title": "SOC无需每次告警都从零排查，构建有状态能力可复用运营记忆",
-      "url": "https://www.freebuf.com/articles/es/503372.html",
-      "pubDate": "Fri, 25 Sep 2026 17:00:00 +0800",
+      "id": "https://www.freebuf.com/articles/web/503016.html",
+      "title": "Web 安全零基础入门：写给想学、却不知道怎么开始的你",
+      "url": "https://www.freebuf.com/articles/web/503016.html",
+      "pubDate": "Fri, 25 Sep 2026 17:07:01 +0800",
       "extra": {
-        "hover": "AI大幅压缩攻击循环成本，无状态SOC盲目加装AI只会错得更快，构建有状态运营记忆体系就不必每次告警从零排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503472.html",
-      "title": "“我决定退出PS5破解圈！”PS5 Linux大神被AI搞到「退圈」：有人用LLM找Bug写Hack，几个月心血“全打水漂”",
-      "url": "https://www.freebuf.com/news/503472.html",
-      "pubDate": "Fri, 25 Sep 2026 12:09:32 +0800",
-      "extra": {
-        "hover": "TheFloW 怒斥 AI 垃圾小子抢先报告漏洞，退出 PS5 破解圈，PS5 Pro 支持全打水漂。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503357.html",
-      "title": "CISA发布安全预警，攻击者在野利用Check Point多款产品漏洞",
-      "url": "https://www.freebuf.com/news/503357.html",
-      "pubDate": "Fri, 25 Sep 2026 10:30:18 +0800",
-      "extra": {
-        "hover": "CISA发布高风险预警，Check Point两款产品漏洞遭在野利用，攻击者无需授权即可执行恶意代码，要求相关机构限期整改。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503359.html",
-      "title": "微软披露Storm-2570攻击活动，跨多勒索家族复用同一攻击蓝图",
-      "url": "https://www.freebuf.com/news/503359.html",
-      "pubDate": "Fri, 25 Sep 2026 10:11:25 +0800",
-      "extra": {
-        "hover": "微软披露勒索团伙Storm-2570跨多行业、多勒索家族复用同一攻击蓝图，窃密加密双威胁，需识别前期行为早拦截。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/503342.html",
-      "title": "Sudo曝出高危安全漏洞，本地攻击者可绕过时间限制提权",
-      "url": "https://www.freebuf.com/articles/system/503342.html",
-      "pubDate": "Fri, 25 Sep 2026 09:29:32 +0800",
-      "extra": {
-        "hover": "Sudo曝出CVE-2026-96512高危漏洞，本地攻击者可绕过时间访问限制提权，相关用户需及时排查加固。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/503464.html",
-      "title": "LogonTracer - 可视化分析Windows AD登录日志的威胁检测工具",
-      "url": "https://www.freebuf.com/articles/sectool/503464.html",
-      "pubDate": "Fri, 25 Sep 2026 08:32:35 +0800",
-      "extra": {
-        "hover": "LogonTracer：图形化 Windows 登录日志，AI 定位异常登录与威胁账户。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503446.html",
-      "title": "微软把攻击自家 AI 的武器库开源了",
-      "url": "https://www.freebuf.com/articles/503446.html",
-      "pubDate": "Fri, 25 Sep 2026 06:23:36 +0800",
-      "extra": {
-        "hover": "微软开源 AI 红队框架 PyRIT：换攻击模型，成功率差 19.5 个百分点；选错模型，安全水位虚高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503321.html",
-      "title": "威胁狩猎的数据问题为最大阻碍，云日志与身份遥测缺口最突出",
-      "url": "https://www.freebuf.com/news/503321.html",
-      "pubDate": "Fri, 25 Sep 2026 05:00:56 +0800",
-      "extra": {
-        "hover": "SANS2026威胁狩猎调查显示，半数从业者受困数据质量问题，云日志、身份遥测缺口突出，易漏掉真实入侵，狩猎流程、成效量化普遍存在短板。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/503242.html",
-      "title": "从8086到x64：逆向工程视角下的汇编语言核心知识与实战解析",
-      "url": "https://www.freebuf.com/articles/system/503242.html",
-      "pubDate": "Fri, 25 Sep 2026 00:00:27 +0800",
-      "extra": {
-        "hover": "汇编是逆向“母语”：从8086分段寻址到x64调用约定与LEA惯用法，读懂历史代码与现代二进制。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503174.html",
-      "title": "FreeBuf早报 | OT安全建设聚焦核心工控设备；微软在Defender推出集成安全运营中心",
-      "url": "https://www.freebuf.com/news/503174.html",
-      "pubDate": "Thu, 24 Sep 2026 18:46:40 +0800",
-      "extra": {
-        "hover": "美国多州供水系统遭OT攻击，霍尼韦尔调研显示多数企业OT安全遗漏楼宇层设施，资产可见性差易致长时间停机，合规通过也难防攻击风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503254.html",
-      "title": "研究人员发现RSA新型破解方法，无需分解公钥模数",
-      "url": "https://www.freebuf.com/articles/503254.html",
-      "pubDate": "Thu, 24 Sep 2026 17:48:12 +0800",
-      "extra": {
-        "hover": "研究人员发现无需分解公钥模数的RSA新型破解法，算力成本较传统分解法低数百倍，特定场景下可伪造签名、解密选定密文，需警惕相关安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/503296.html",
-      "title": "韩国上调数据泄露最高罚款至年营收10%，加剧全球合规复杂度",
-      "url": "https://www.freebuf.com/articles/database/503296.html",
-      "pubDate": "Thu, 24 Sep 2026 17:02:00 +0800",
-      "extra": {
-        "hover": "韩国将数据泄露最高罚款提至年营收10%，加剧全球合规复杂度，跨国企业按最严标准搭建合规体系反而更省成本。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503127.html",
-      "title": "AI幻觉生成虚假军事情报； 比亚迪Shark 6实测遭远程破解 | FreeBuf周报",
-      "url": "https://www.freebuf.com/articles/503127.html",
-      "pubDate": "Thu, 24 Sep 2026 16:53:38 +0800",
-      "extra": {
-        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/503045.html",
-      "title": "扫描器拦了个寂寞？Hugging Face 模型投毒的攻防账本：2.2M 仓库、63% 逃逸、100 个被下架的模型",
-      "url": "https://www.freebuf.com/articles/vuls/503045.html",
-      "pubDate": "Thu, 24 Sep 2026 13:54:49 +0800",
-      "extra": {
-        "hover": "扫描器拦了个寂寞？Hugging Face 模型投毒的攻防账本：2.2M 仓库、63% 逃逸、100 个被下架的模型前言：给本地知识库挑语音模型，下载前顺手扫了一遍，全绿。手贱多做了步反汇编，才发现&amp;amp;"
+        "hover": "针对零基础读者梳理 Web 安全学习规划，分为短周期快速上手、长周期系统深耕两套方案，附带新手优先练习的 Web 与 Misc 靶场清单，为本专辑的开篇导读。"
       }
     }
   ]
