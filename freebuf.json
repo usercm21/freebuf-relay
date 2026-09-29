@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790666723018,
+  "updatedAt": 1790691247297,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503874.html",
+      "title": "官方MCP Python SDK曝安全漏洞，恶意服务器可窃取OAuth凭证",
+      "url": "https://www.freebuf.com/articles/ai-security/503874.html",
+      "pubDate": "Tue, 29 Sep 2026 11:38:25 +0800",
+      "extra": {
+        "hover": "官方MCP Python SDK曝高危漏洞，恶意服务器可窃取OAuth凭证获取全量权限，需及时升级修复、补全配置。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/503825.html",
       "title": "企业开始用AI了，安全怎么测？今晚19点直播聊聊",
@@ -17,6 +26,33 @@
       "pubDate": "Tue, 29 Sep 2026 10:18:50 +0800",
       "extra": {
         "hover": "我们把Sonic Harness的技术报告从头到尾扒了一遍，发现它能撑住100小时，靠的不是让模型更聪明，而是从工程上确保模型无法绕过校验流程。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503868.html",
+      "title": "OpenAI暂停最强模型工具使用，Agent绕过网络管控访问外部聊天机器人",
+      "url": "https://www.freebuf.com/articles/ai-security/503868.html",
+      "pubDate": "Tue, 29 Sep 2026 10:15:20 +0800",
+      "extra": {
+        "hover": "OpenAI训练中的Agent突破网络管控越权访问，已暂停最强模型工具使用，敲响前沿AI安全警钟。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/503884.html",
+      "title": "BotHelper RAT瞄准Windows用户，加密载荷实现实时屏幕监控",
+      "url": "https://www.freebuf.com/articles/endpoint/503884.html",
+      "pubDate": "Tue, 29 Sep 2026 07:36:41 +0800",
+      "extra": {
+        "hover": "BotHelper RAT瞄准Windows用户，利用加密载荷隐蔽驻留，可实时监控屏幕、执行远控，窃密风险极高，需及时排查防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503877.html",
+      "title": "苹果发布系统更新修复高危0Day漏洞，已遭高级针对性攻击利用",
+      "url": "https://www.freebuf.com/news/503877.html",
+      "pubDate": "Tue, 29 Sep 2026 06:34:38 +0800",
+      "extra": {
+        "hover": "苹果紧急推送更新修复已遭在野定向利用、可致任意代码执行的高危0Day漏洞，提醒iPhone、iPad用户尽快升级防范风险。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Mon, 28 Sep 2026 08:41:03 +0800",
       "extra": {
         "hover": "基于Python的MaaS窃密工具可窃取17款浏览器的密码、Cookie等敏感数据，内置规避检测与持久化机制，检测难度高，极易导致账号被盗、财产受损。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503782.html",
-      "title": "卧底Discord：日入几千刀的“影子代面”？揭秘背后的跨国黑产链路",
-      "url": "https://www.freebuf.com/news/503782.html",
-      "pubDate": "Mon, 28 Sep 2026 08:01:53 +0800",
-      "extra": {
-        "hover": "多国警告：“毒面试”已黑掉至少3万台设备、卷走1071万美元，黑客叫嚣“你露脸，我远程写代码”。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503598.html",
-      "title": "黑客利用GlobalProtect漏洞窃密，发送240万条诈骗账单信息",
-      "url": "https://www.freebuf.com/news/503598.html",
-      "pubDate": "Mon, 28 Sep 2026 07:16:08 +0800",
-      "extra": {
-        "hover": "黑客利用GlobalProtect漏洞入侵企业窃密，发送240万条高仿真诈骗账单，迷惑性极强，公众需警惕。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503563.html",
-      "title": "Verdict推出iPhone端AI图像视频检测应用，离线运行结果附带支撑证据",
-      "url": "https://www.freebuf.com/articles/ai-security/503563.html",
-      "pubDate": "Mon, 28 Sep 2026 04:30:42 +0800",
-      "extra": {
-        "hover": "iPhone端离线AI图像视频检测应用Verdict本地运行保障隐私，可输出评分依据，实测曾将实拍视频判为AI生成，仅适合初筛，结果需核验。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503557.html",
-      "title": "Wireshark发布4.6.9版本，修复19个漏洞含恶意包代码执行风险",
-      "url": "https://www.freebuf.com/news/503557.html",
-      "pubDate": "Mon, 28 Sep 2026 03:38:53 +0800",
-      "extra": {
-        "hover": "Wireshark发布4.6.9版本，修复19个漏洞，含可触发任意代码执行的高危缺陷，官方呼吁用户尽快升级防范恶意文件攻击。"
       }
     }
   ]
