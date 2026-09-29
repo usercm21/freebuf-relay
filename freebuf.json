@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790632506739,
+  "updatedAt": 1790645309006,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/503681.html",
+      "title": "FreeBuf早报 | 英伟达发布开源AI Agent安全平台；PHP修复HTTP重定向逻辑漏洞",
+      "url": "https://www.freebuf.com/news/503681.html",
+      "pubDate": "Mon, 28 Sep 2026 21:16:59 +0800",
+      "extra": {
+        "hover": "针对AI Agent频繁越权入侵系统、传统防护易被绕过的风险，英伟达推出三层全栈开源安全管控平台，可即时阻断失控行为，多家头部企业已率先接入落地。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/503707.html",
       "title": "新型文件通知攻击可追踪用户活动，覆盖Linux、Windows、macOS全平台",
@@ -170,15 +179,6 @@
       "pubDate": "Sat, 26 Sep 2026 17:16:40 +0800",
       "extra": {
         "hover": "攻击者绕过WAF利用Oracle PeopleSoft高危RCE漏洞，全球多行业遭入侵部署WebShell，ShinyHunters承认入侵FBI招聘门户。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/503440.html",
-      "title": "网络安全应急响应中IP摄像头攻防实战，有新工具(pwneye)使用",
-      "url": "https://www.freebuf.com/articles/sectool/503440.html",
-      "pubDate": "Sat, 26 Sep 2026 14:41:02 +0800",
-      "extra": {
-        "hover": "IP摄像头默认配置薄弱，长期成攻击重点；一旦攻破影响巨大，RTSP/ONVIF攻击面与pwneye工具。"
       }
     }
   ]
