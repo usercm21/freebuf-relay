@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1790645309006,
+  "updatedAt": 1790666723018,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/503825.html",
+      "title": "企业开始用AI了，安全怎么测？今晚19点直播聊聊",
+      "url": "https://www.freebuf.com/articles/503825.html",
+      "pubDate": "Tue, 29 Sep 2026 11:22:42 +0800",
+      "extra": {
+        "hover": "今晚19点，FreeBuf直播间等你，一起聊聊企业AI安全评测与Agent权限边界。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/503813.html",
+      "title": "我发现了渗透Agent长程任务的秘密",
+      "url": "https://www.freebuf.com/articles/503813.html",
+      "pubDate": "Tue, 29 Sep 2026 10:18:50 +0800",
+      "extra": {
+        "hover": "我们把Sonic Harness的技术报告从头到尾扒了一遍，发现它能撑住100小时，靠的不是让模型更聪明，而是从工程上确保模型无法绕过校验流程。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503845.html",
+      "title": "2026年9月热门开源网络安全工具盘点，覆盖多场景防护需求",
+      "url": "https://www.freebuf.com/news/503845.html",
+      "pubDate": "Tue, 29 Sep 2026 04:30:00 +0800",
+      "extra": {
+        "hover": "Help Net Security发布2026年9月精选开源网络安全工具盘点，覆盖密钥扫描、AI防护、权限管控等多场景，可有效提升防护能力。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/503841.html",
+      "title": "五角大楼证实发生重大数据泄露，300余万人敏感信息遭访问",
+      "url": "https://www.freebuf.com/articles/database/503841.html",
+      "pubDate": "Tue, 29 Sep 2026 04:09:30 +0800",
+      "extra": {
+        "hover": "美国五角大楼证实DMDC系统遭入侵长达9个月，超300万人未加密敏感信息外泄，数据可被用于身份盗窃、情报活动，风险极高。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/503756.html",
+      "title": "Bitget披露3.88亿美元被盗事件调查结果，攻击者利用第三方安全产品0Day漏洞入侵",
+      "url": "https://www.freebuf.com/news/503756.html",
+      "pubDate": "Mon, 28 Sep 2026 23:12:18 +0800",
+      "extra": {
+        "hover": "加密交易所Bitget因第三方安全产品0Day漏洞遭攻击，被盗3.88亿美元，冷钱包未受波及，正逐步恢复服务、追踪被盗资金。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/503681.html",
       "title": "FreeBuf早报 | 英伟达发布开源AI Agent安全平台；PHP修复HTTP重定向逻辑漏洞",
@@ -56,6 +101,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/503632.html",
+      "title": "Citrix修复NetScaler两RCE 0Day漏洞，相关攻击已全球持续数周",
+      "url": "https://www.freebuf.com/news/503632.html",
+      "pubDate": "Mon, 28 Sep 2026 09:51:32 +0800",
+      "extra": {
+        "hover": "Citrix修复已被全球活跃利用数周的两个高危NetScaler RCE 0day漏洞，打补丁后仍需排查webshell确认是否失陷。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/sectool/502237.html",
       "title": "让 AI 自己做一次 API 渗透：初探 CyberStrikeAI + OWASP crAPI",
       "url": "https://www.freebuf.com/articles/sectool/502237.html",
@@ -92,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/503782.html",
+      "title": "卧底Discord：日入几千刀的“影子代面”？揭秘背后的跨国黑产链路",
+      "url": "https://www.freebuf.com/news/503782.html",
+      "pubDate": "Mon, 28 Sep 2026 08:01:53 +0800",
+      "extra": {
+        "hover": "多国警告：“毒面试”已黑掉至少3万台设备、卷走1071万美元，黑客叫嚣“你露脸，我远程写代码”。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/503598.html",
       "title": "黑客利用GlobalProtect漏洞窃密，发送240万条诈骗账单信息",
       "url": "https://www.freebuf.com/news/503598.html",
@@ -116,69 +179,6 @@
       "pubDate": "Mon, 28 Sep 2026 03:38:53 +0800",
       "extra": {
         "hover": "Wireshark发布4.6.9版本，修复19个漏洞，含可触发任意代码执行的高危缺陷，官方呼吁用户尽快升级防范恶意文件攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/489636.html",
-      "title": "DVWA SQL 注入实操笔记（Day1）— Low  Medium  High 全级别通关",
-      "url": "https://www.freebuf.com/articles/web/489636.html",
-      "pubDate": "Mon, 28 Sep 2026 01:01:49 +0800",
-      "extra": {
-        "hover": "DVWA 靶场 SQL 注入完整通关，覆盖 Low / Medium / High 三个安全级别。从闭合方式判断、Union 联合查询到 information_schema 脱库，再到 BurpSu"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503734.html",
-      "title": "Claude Mythos AI 无需人工指导即可自主执行完整的网络攻击链",
-      "url": "https://www.freebuf.com/articles/503734.html",
-      "pubDate": "Mon, 28 Sep 2026 00:00:23 +0800",
-      "extra": {
-        "hover": "Claude Mythos是首个无需人工逐步指导即可完成攻击链的模型；受控测试中它窃取凭证并夺域控，防御速度危机迫近。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503652.html",
-      "title": "既要像人话，又要藏住意图：越狱 Prompt 的鱼与熊掌困境",
-      "url": "https://www.freebuf.com/articles/503652.html",
-      "pubDate": "Sun, 27 Sep 2026 20:08:59 +0800",
-      "extra": {
-        "hover": "越狱 Prompt 正在变得越来越难识别。攻击者“鱼与熊掌都要”，SAFEGuard 双查语言与内部语义，但误报仍高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503494.html",
-      "title": "人工智能安全治理框架 3.0：风险分类与治理落地的关键变化",
-      "url": "https://www.freebuf.com/articles/503494.html",
-      "pubDate": "Sun, 27 Sep 2026 11:00:36 +0800",
-      "extra": {
-        "hover": "AI安全治理框架3.0发布：智能体“拒绝关闭、伪装对齐、越权”，自主攻击或致失控，须前置审计熔断。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503496.html",
-      "title": "Citrix NetScaler 0Day RCE漏洞遭在野利用，官方暂未发布补丁公告",
-      "url": "https://www.freebuf.com/news/503496.html",
-      "pubDate": "Sun, 27 Sep 2026 04:07:25 +0800",
-      "extra": {
-        "hover": "Citrix NetScaler两款高危0Day RCE漏洞已遭在野利用，官方暂未发布补丁，需紧急排查风险、严防设备失陷。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/503556.html",
-      "title": "企业威胁情报平台如何选型，优先关注情报相关性而非数据量",
-      "url": "https://www.freebuf.com/articles/es/503556.html",
-      "pubDate": "Sun, 27 Sep 2026 03:59:32 +0800",
-      "extra": {
-        "hover": "企业选型威胁情报平台别迷信海量数据，要优先选能过滤噪音、匹配自身风险、提前捕获威胁、支撑安全决策的产品。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503454.html",
-      "title": "攻击者绕过WAF利用Oracle PeopleSoft漏洞，全球多行业遭入侵部署WebShell",
-      "url": "https://www.freebuf.com/news/503454.html",
-      "pubDate": "Sat, 26 Sep 2026 17:16:40 +0800",
-      "extra": {
-        "hover": "攻击者绕过WAF利用Oracle PeopleSoft高危RCE漏洞，全球多行业遭入侵部署WebShell，ShinyHunters承认入侵FBI招聘门户。"
       }
     }
   ]
