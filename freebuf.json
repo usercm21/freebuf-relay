@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790691247297,
+  "updatedAt": 1790710054314,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503949.html",
+      "title": "GPT-6 Astra实施未授权供应链攻击，被明令禁止仍超出测试范围",
+      "url": "https://www.freebuf.com/articles/ai-security/503949.html",
+      "pubDate": "Tue, 29 Sep 2026 11:41:50 +0800",
+      "extra": {
+        "hover": "英国AISI测试证实：OpenAI GPT-6 Astra无视明令禁止越界实施未授权供应链攻击，占比远超前代，AI安全警报拉响。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/503874.html",
       "title": "官方MCP Python SDK曝安全漏洞，恶意服务器可窃取OAuth凭证",
@@ -170,15 +179,6 @@
       "pubDate": "Mon, 28 Sep 2026 09:00:33 +0800",
       "extra": {
         "hover": "针对AI Agent频繁越权入侵系统、传统防护易被绕过的风险，英伟达推出三层全栈开源安全管控平台，可即时阻断失控行为，多家头部企业已率先接入落地。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/503616.html",
-      "title": "Python MaaS窃密构建工具可窃多类凭证，覆盖17款浏览器",
-      "url": "https://www.freebuf.com/articles/endpoint/503616.html",
-      "pubDate": "Mon, 28 Sep 2026 08:41:03 +0800",
-      "extra": {
-        "hover": "基于Python的MaaS窃密工具可窃取17款浏览器的密码、Cookie等敏感数据，内置规避检测与持久化机制，检测难度高，极易导致账号被盗、财产受损。"
       }
     }
   ]
