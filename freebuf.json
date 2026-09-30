@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1790733874726,
+  "updatedAt": 1790756781818,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/development/504113.html",
+      "title": "OpenAI推出Codex Security Cloud，提供常驻应用安全服务",
+      "url": "https://www.freebuf.com/articles/development/504113.html",
+      "pubDate": "Wed, 30 Sep 2026 04:36:20 +0800",
+      "extra": {
+        "hover": "OpenAI推出Codex Security Cloud常驻应用安全服务，可自动扫描代码仓库、验证漏洞、生成修复补丁，降低告警疲劳，补丁需人工审核。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/504000.html",
+      "title": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
+      "url": "https://www.freebuf.com/articles/web/504000.html",
+      "pubDate": "Tue, 29 Sep 2026 22:30:14 +0800",
+      "extra": {
+        "hover": "越权/未授权极易出货；不是没鉴权，而是鉴权没覆盖所有接口，登录任意低权限账户即可垂直越权。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/504033.html",
+      "title": "新型Spectre-v2 BTR攻击披露，可绕过现有防护泄露Linux内存",
+      "url": "https://www.freebuf.com/articles/system/504033.html",
+      "pubDate": "Tue, 29 Sep 2026 22:30:00 +0800",
+      "extra": {
+        "hover": "Spectre v2新变种BTR可绕过现有防护泄露Linux内存，数分钟即可窃取root哈希，目前Linux内核已合入缓解补丁。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/503960.html",
       "title": "FreeBuf早报 | 五角大楼证实发生重大数据泄露；OpenAI暂停最强模型工具使用",
@@ -8,6 +35,24 @@
       "pubDate": "Tue, 29 Sep 2026 21:00:10 +0800",
       "extra": {
         "hover": "美国五角大楼证实DMDC系统遭入侵长达9个月，超300万人未加密敏感信息外泄，数据可被用于身份盗窃、情报活动，风险极高。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504045.html",
+      "title": "日本京王电铁与东京地铁披露安全事件，京王遭勒索攻击列车仍正常运行",
+      "url": "https://www.freebuf.com/news/504045.html",
+      "pubDate": "Tue, 29 Sep 2026 20:54:29 +0800",
+      "extra": {
+        "hover": "日本两家铁路运营商披露安全事件：京王遭勒索攻击紧急断网阻止事态扩散，东京地铁5.9万会员邮箱遭未授权访问。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504043.html",
+      "title": "Glasswing项目公布五月实测数据，AI漏洞末日预言言过其实",
+      "url": "https://www.freebuf.com/articles/ai-security/504043.html",
+      "pubDate": "Tue, 29 Sep 2026 14:50:00 +0800",
+      "extra": {
+        "hover": "Anthropic Glasswing项目实测显示，AI发现的漏洞有效率极低，所谓AI漏洞末日论言过其实，AI部署本身正快速扩张企业攻击面。"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Mon, 28 Sep 2026 12:14:43 +0800",
       "extra": {
         "hover": "研究人员披露Windows、Linux、macOS及安卓系统文件通知漏洞，无特权即可跨账号窃取浏览记录、按键时序，默认配置仍存严重泄露风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503675.html",
-      "title": "OpenAI Agent集群突破沙箱限制，遗留超8万份攻击载荷",
-      "url": "https://www.freebuf.com/articles/ai-security/503675.html",
-      "pubDate": "Mon, 28 Sep 2026 11:45:52 +0800",
-      "extra": {
-        "hover": "约700个OpenAI Agent逃出受限评估沙箱，串联公共服务入侵Hugging Face，留存超8万份攻击载荷实施窃密，虽已处置仍敲响AI安全警钟。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503676.html",
-      "title": "新研究显示“醉酒”AI保密性差，更易被越狱泄露敏感信息",
-      "url": "https://www.freebuf.com/articles/ai-security/503676.html",
-      "pubDate": "Mon, 28 Sep 2026 11:30:22 +0800",
-      "extra": {
-        "hover": "新研究证实：被训练出“醉酒”表达风格的AI更易被越狱，易泄露敏感隐私信息，现有防御难生效，远没有企业宣传的那样可信。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503632.html",
-      "title": "Citrix修复NetScaler两RCE 0Day漏洞，相关攻击已全球持续数周",
-      "url": "https://www.freebuf.com/news/503632.html",
-      "pubDate": "Mon, 28 Sep 2026 09:51:32 +0800",
-      "extra": {
-        "hover": "Citrix修复已被全球活跃利用数周的两个高危NetScaler RCE 0day漏洞，打补丁后仍需排查webshell确认是否失陷。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/502237.html",
-      "title": "让 AI 自己做一次 API 渗透：初探 CyberStrikeAI + OWASP crAPI",
-      "url": "https://www.freebuf.com/articles/sectool/502237.html",
-      "pubDate": "Mon, 28 Sep 2026 09:45:50 +0800",
-      "extra": {
-        "hover": "API 的真正攻击面，不只是每个接口本身，还包括接口之间的业务关系。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503635.html",
-      "title": "PHP修复HTTP重定向逻辑漏洞，可致登录凭证发往非信任服务器",
-      "url": "https://www.freebuf.com/news/503635.html",
-      "pubDate": "Mon, 28 Sep 2026 09:29:32 +0800",
-      "extra": {
-        "hover": "PHP修复HTTP重定向逻辑漏洞，该漏洞可致登录等敏感凭证泄露至攻击者控制的非信任服务器，用户需尽快升级排查风险。"
       }
     }
   ]
