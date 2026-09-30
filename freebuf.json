@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1790756781818,
+  "updatedAt": 1790780861607,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/504184.html",
+      "title": "Anthropic亲自测了GLM-5.3：绕过率64-100%，20美元链出浏览器0day",
+      "url": "https://www.freebuf.com/articles/504184.html",
+      "pubDate": "Wed, 30 Sep 2026 09:19:14 +0800",
+      "extra": {
+        "hover": "GLM-5.3：“你是红队”致64%绕过，“已评估执行”达92%；$20+20分钟组合N-day利用链。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/504147.html",
+      "title": "AI Agent发现Linux内核漏洞，微量内存写入可获取root权限",
+      "url": "https://www.freebuf.com/articles/system/504147.html",
+      "pubDate": "Wed, 30 Sep 2026 08:50:27 +0800",
+      "extra": {
+        "hover": "AI Agent发现Linux内核高危漏洞，仅靠16字节零写入即可本地提权获取root权限，官方已发布修复补丁，请及时更新。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/development/504113.html",
       "title": "OpenAI推出Codex Security Cloud，提供常驻应用安全服务",
@@ -161,24 +179,6 @@
       "pubDate": "Mon, 28 Sep 2026 14:33:25 +0800",
       "extra": {
         "hover": "新型跨平台文件通知攻击无需高权限，可滥用系统原生服务隐蔽监控Linux、Windows、macOS平台用户操作，窃取隐私，隐蔽性强、风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503703.html",
-      "title": "OpenCode AI Coding Agent曝出高危漏洞，恶意网站可在开发者设备执行命令",
-      "url": "https://www.freebuf.com/articles/ai-security/503703.html",
-      "pubDate": "Mon, 28 Sep 2026 14:22:43 +0800",
-      "extra": {
-        "hover": "月活千万级开源AI编码代理OpenCode曝高危RCE漏洞，恶意网站可在开发者设备执行任意命令，官方已修复，务必尽快升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/503685.html",
-      "title": "研究人员披露文件通知机制攻击，可窃取浏览记录与按键时序",
-      "url": "https://www.freebuf.com/articles/system/503685.html",
-      "pubDate": "Mon, 28 Sep 2026 12:14:43 +0800",
-      "extra": {
-        "hover": "研究人员披露Windows、Linux、macOS及安卓系统文件通知漏洞，无特权即可跨账号窃取浏览记录、按键时序，默认配置仍存严重泄露风险。"
       }
     }
   ]
