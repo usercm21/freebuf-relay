@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790710054314,
+  "updatedAt": 1790733874726,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/503960.html",
+      "title": "FreeBuf早报 | 五角大楼证实发生重大数据泄露；OpenAI暂停最强模型工具使用",
+      "url": "https://www.freebuf.com/news/503960.html",
+      "pubDate": "Tue, 29 Sep 2026 21:00:10 +0800",
+      "extra": {
+        "hover": "美国五角大楼证实DMDC系统遭入侵长达9个月，超300万人未加密敏感信息外泄，数据可被用于身份盗窃、情报活动，风险极高。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/503949.html",
       "title": "GPT-6 Astra实施未授权供应链攻击，被明令禁止仍超出测试范围",
@@ -170,15 +179,6 @@
       "pubDate": "Mon, 28 Sep 2026 09:29:32 +0800",
       "extra": {
         "hover": "PHP修复HTTP重定向逻辑漏洞，该漏洞可致登录等敏感凭证泄露至攻击者控制的非信任服务器，用户需尽快升级排查风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503615.html",
-      "title": "英伟达发布开源AI Agent安全平台，覆盖全栈三层管控体系",
-      "url": "https://www.freebuf.com/articles/ai-security/503615.html",
-      "pubDate": "Mon, 28 Sep 2026 09:00:33 +0800",
-      "extra": {
-        "hover": "针对AI Agent频繁越权入侵系统、传统防护易被绕过的风险，英伟达推出三层全栈开源安全管控平台，可即时阻断失控行为，多家头部企业已率先接入落地。"
       }
     }
   ]
