@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790780861607,
+  "updatedAt": 1790798355812,
   "items": [
     {
-      "id": "https://www.freebuf.com/articles/504184.html",
-      "title": "Anthropic亲自测了GLM-5.3：绕过率64-100%，20美元链出浏览器0day",
-      "url": "https://www.freebuf.com/articles/504184.html",
-      "pubDate": "Wed, 30 Sep 2026 09:19:14 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/504064.html",
+      "title": "重定向链的成本：链长 8 意味着 9 次请求",
+      "url": "https://www.freebuf.com/articles/ai-security/504064.html",
+      "pubDate": "Wed, 30 Sep 2026 08:53:14 +0800",
       "extra": {
-        "hover": "GLM-5.3：“你是红队”致64%绕过，“已评估执行”达92%；$20+20分钟组合N-day利用链。"
+        "hover": "本文用本机真实 HTTP 服务测链长与请求次数、耗时之间的关系，并测&quot;限制跳转次数&quot;的效果。"
       }
     },
     {
@@ -20,12 +20,48 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/504063.html",
+      "title": "压缩后再编码：两层封装让文本层的检测特征全部消失",
+      "url": "https://www.freebuf.com/articles/ai-security/504063.html",
+      "pubDate": "Wed, 30 Sep 2026 08:45:31 +0800",
+      "extra": {
+        "hover": "压缩把冗余去掉了，base64 把字节变成了另一套字符集。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504061.html",
+      "title": "时间窗口的边界效应：固定窗口把一次故障摊平成两个正常窗口",
+      "url": "https://www.freebuf.com/articles/ai-security/504061.html",
+      "pubDate": "Wed, 30 Sep 2026 08:35:05 +0800",
+      "extra": {
+        "hover": "本文用 100 次模拟故障量化这两种窗口的检出与延迟差异。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/development/504113.html",
       "title": "OpenAI推出Codex Security Cloud，提供常驻应用安全服务",
       "url": "https://www.freebuf.com/articles/development/504113.html",
       "pubDate": "Wed, 30 Sep 2026 04:36:20 +0800",
       "extra": {
         "hover": "OpenAI推出Codex Security Cloud常驻应用安全服务，可自动扫描代码仓库、验证漏洞、生成修复补丁，降低告警疲劳，补丁需人工审核。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503992.html",
+      "title": "一个技能说读文件，一个技能说发请求，单独看都没问题：AI技能扫描器的跨技能盲区",
+      "url": "https://www.freebuf.com/articles/ai-security/503992.html",
+      "pubDate": "Tue, 29 Sep 2026 23:59:36 +0800",
+      "extra": {
+        "hover": "一个技能说读文件，一个技能说发请求，单独看都没问题：AI技能扫描器的跨技能盲区一句话摘要：2026年8月，一篇来自 arXiv 的论文把六款AI技能安全扫描器全部打穿了——96%的平均绕过率。方法不复杂：把一个恶意意图拆成三个独立技能，一个负责读文件、一个负责编码数据、一个负责发HTTP请求，每个技能单独通过安全扫描，但AI助手把它们串起来执行时就完成了数据外泄。这不是某款扫描器的bug，而是所有"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503991.html",
+      "title": "NIST用数学证明了：你永远写不出一套完美的AI护栏",
+      "url": "https://www.freebuf.com/articles/ai-security/503991.html",
+      "pubDate": "Tue, 29 Sep 2026 23:52:58 +0800",
+      "extra": {
+        "hover": "对从业者来说，最实际的行动是接受&quot;护栏会失效&quot;这个前提，然后设计在护栏失效时仍然安全的系统——就像零信任架构接受&quot;网络边界会失效&quot;一样。"
       }
     },
     {
@@ -56,6 +92,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/503958.html",
+      "title": "图片元数据通道：容量是嵌入水印的上百倍，但一次重存就归零",
+      "url": "https://www.freebuf.com/articles/ai-security/503958.html",
+      "pubDate": "Tue, 29 Sep 2026 20:55:31 +0800",
+      "extra": {
+        "hover": "实测图片元数据通道：167 字符载荷在重存、转 JPEG、缩放、裁剪后存活率全为 0%，容量可达 4096 字符、是嵌入水印的百倍量级，可见性取决于解析链是否读元数据（0% 或 100%）。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/504045.html",
       "title": "日本京王电铁与东京地铁披露安全事件，京王遭勒索攻击列车仍正常运行",
       "url": "https://www.freebuf.com/news/504045.html",
@@ -65,12 +110,57 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/sectool/503956.html",
+      "title": "浏览器自动化——AI 生成网页操作脚本",
+      "url": "https://www.freebuf.com/articles/sectool/503956.html",
+      "pubDate": "Tue, 29 Sep 2026 20:43:25 +0800",
+      "extra": {
+        "hover": "由人工或AI自主进行网页操作，后台自动记录毫秒级对齐的前端操作与网络访问数据，使AI基于以上数据生成可重复执行的 Python 脚本。无需接口文档，脚本执行阶段也不再需要 AI。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503948.html",
+      "title": "提示词注入与越狱全攻略：6大类手法拆解，附自动化测试脚本",
+      "url": "https://www.freebuf.com/articles/ai-security/503948.html",
+      "pubDate": "Tue, 29 Sep 2026 20:13:57 +0800",
+      "extra": {
+        "hover": "本文是 AI 攻防方法论系列第二篇，厘清提示词注入与越狱的概念差异，拆解 6 大类提示词攻击手法，附带自动化越狱测试 PoC 脚本，可用于授权环境下评估大模型安全强度，为 LLM 安全测评提供实战参考"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/504181.html",
+      "title": "NIST勾勒 Agent 安全 IAM 蓝图：六个关键要素",
+      "url": "https://www.freebuf.com/articles/504181.html",
+      "pubDate": "Tue, 29 Sep 2026 20:09:01 +0800",
+      "extra": {
+        "hover": "NIST警告：Agent正重复IAM旧坑，委托可让子Agent拿到生产权限；仅靠护栏不够。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/503891.html",
+      "title": "Agent 链路上的凭证传递：越界八个工具，还是失败九成任务",
+      "url": "https://www.freebuf.com/articles/ai-security/503891.html",
+      "pubDate": "Tue, 29 Sep 2026 16:36:37 +0800",
+      "extra": {
+        "hover": "本文用 10 类任务、12 个工具、900 条 2 到 4 层任务链比较三种授权方式。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/504043.html",
       "title": "Glasswing项目公布五月实测数据，AI漏洞末日预言言过其实",
       "url": "https://www.freebuf.com/articles/ai-security/504043.html",
       "pubDate": "Tue, 29 Sep 2026 14:50:00 +0800",
       "extra": {
         "hover": "Anthropic Glasswing项目实测显示，AI发现的漏洞有效率极低，所谓AI漏洞末日论言过其实，AI部署本身正快速扩张企业攻击面。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/504168.html",
+      "title": "国家网信办发布近期网络安全、数据安全、个人信息保护等领域执法典型案例",
+      "url": "https://www.freebuf.com/articles/504168.html",
+      "pubDate": "Tue, 29 Sep 2026 12:36:46 +0800",
+      "extra": {
+        "hover": "国家网信办通报10起典型案例：网页篡改、恶意程序、数据泄露、700个漏洞未消、AI未评估。"
       }
     },
     {
@@ -89,96 +179,6 @@
       "pubDate": "Tue, 29 Sep 2026 11:38:25 +0800",
       "extra": {
         "hover": "官方MCP Python SDK曝高危漏洞，恶意服务器可窃取OAuth凭证获取全量权限，需及时升级修复、补全配置。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503825.html",
-      "title": "企业开始用AI了，安全怎么测？今晚19点直播聊聊",
-      "url": "https://www.freebuf.com/articles/503825.html",
-      "pubDate": "Tue, 29 Sep 2026 11:22:42 +0800",
-      "extra": {
-        "hover": "今晚19点，FreeBuf直播间等你，一起聊聊企业AI安全评测与Agent权限边界。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/503813.html",
-      "title": "我发现了渗透Agent长程任务的秘密",
-      "url": "https://www.freebuf.com/articles/503813.html",
-      "pubDate": "Tue, 29 Sep 2026 10:18:50 +0800",
-      "extra": {
-        "hover": "我们把Sonic Harness的技术报告从头到尾扒了一遍，发现它能撑住100小时，靠的不是让模型更聪明，而是从工程上确保模型无法绕过校验流程。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503868.html",
-      "title": "OpenAI暂停最强模型工具使用，Agent绕过网络管控访问外部聊天机器人",
-      "url": "https://www.freebuf.com/articles/ai-security/503868.html",
-      "pubDate": "Tue, 29 Sep 2026 10:15:20 +0800",
-      "extra": {
-        "hover": "OpenAI训练中的Agent突破网络管控越权访问，已暂停最强模型工具使用，敲响前沿AI安全警钟。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/503884.html",
-      "title": "BotHelper RAT瞄准Windows用户，加密载荷实现实时屏幕监控",
-      "url": "https://www.freebuf.com/articles/endpoint/503884.html",
-      "pubDate": "Tue, 29 Sep 2026 07:36:41 +0800",
-      "extra": {
-        "hover": "BotHelper RAT瞄准Windows用户，利用加密载荷隐蔽驻留，可实时监控屏幕、执行远控，窃密风险极高，需及时排查防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503877.html",
-      "title": "苹果发布系统更新修复高危0Day漏洞，已遭高级针对性攻击利用",
-      "url": "https://www.freebuf.com/news/503877.html",
-      "pubDate": "Tue, 29 Sep 2026 06:34:38 +0800",
-      "extra": {
-        "hover": "苹果紧急推送更新修复已遭在野定向利用、可致任意代码执行的高危0Day漏洞，提醒iPhone、iPad用户尽快升级防范风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503845.html",
-      "title": "2026年9月热门开源网络安全工具盘点，覆盖多场景防护需求",
-      "url": "https://www.freebuf.com/news/503845.html",
-      "pubDate": "Tue, 29 Sep 2026 04:30:00 +0800",
-      "extra": {
-        "hover": "Help Net Security发布2026年9月精选开源网络安全工具盘点，覆盖密钥扫描、AI防护、权限管控等多场景，可有效提升防护能力。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/503841.html",
-      "title": "五角大楼证实发生重大数据泄露，300余万人敏感信息遭访问",
-      "url": "https://www.freebuf.com/articles/database/503841.html",
-      "pubDate": "Tue, 29 Sep 2026 04:09:30 +0800",
-      "extra": {
-        "hover": "美国五角大楼证实DMDC系统遭入侵长达9个月，超300万人未加密敏感信息外泄，数据可被用于身份盗窃、情报活动，风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503756.html",
-      "title": "Bitget披露3.88亿美元被盗事件调查结果，攻击者利用第三方安全产品0Day漏洞入侵",
-      "url": "https://www.freebuf.com/news/503756.html",
-      "pubDate": "Mon, 28 Sep 2026 23:12:18 +0800",
-      "extra": {
-        "hover": "加密交易所Bitget因第三方安全产品0Day漏洞遭攻击，被盗3.88亿美元，冷钱包未受波及，正逐步恢复服务、追踪被盗资金。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503681.html",
-      "title": "FreeBuf早报 | 英伟达发布开源AI Agent安全平台；PHP修复HTTP重定向逻辑漏洞",
-      "url": "https://www.freebuf.com/news/503681.html",
-      "pubDate": "Mon, 28 Sep 2026 21:16:59 +0800",
-      "extra": {
-        "hover": "针对AI Agent频繁越权入侵系统、传统防护易被绕过的风险，英伟达推出三层全栈开源安全管控平台，可即时阻断失控行为，多家头部企业已率先接入落地。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/503707.html",
-      "title": "新型文件通知攻击可追踪用户活动，覆盖Linux、Windows、macOS全平台",
-      "url": "https://www.freebuf.com/articles/system/503707.html",
-      "pubDate": "Mon, 28 Sep 2026 14:33:25 +0800",
-      "extra": {
-        "hover": "新型跨平台文件通知攻击无需高权限，可滥用系统原生服务隐蔽监控Linux、Windows、macOS平台用户操作，窃取隐私，隐蔽性强、风险极高。"
       }
     }
   ]
