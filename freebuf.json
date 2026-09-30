@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1790798355812,
+  "updatedAt": 1790811545506,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/sectool/504169.html",
+      "title": "微信小程序全自动安全审计 Skill",
+      "url": "https://www.freebuf.com/articles/sectool/504169.html",
+      "pubDate": "Wed, 30 Sep 2026 15:06:30 +0800",
+      "extra": {
+        "hover": "微信小程序全自动安全审计 Skill，基于多智能体协作，从反编译到生成完整安全报告全流程自动化。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504226.html",
+      "title": "Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构",
+      "url": "https://www.freebuf.com/articles/ai-security/504226.html",
+      "pubDate": "Wed, 30 Sep 2026 14:00:29 +0800",
+      "extra": {
+        "hover": "谷歌报告今年1-8月漏洞披露量翻倍，AI改变漏洞发现格局，漏洞野外利用数超去年全年，AI发现漏洞半数可致远程代码执行，安全风险持续攀升。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504225.html",
+      "title": "攻击者以PaperCut打印服务器为入口，不到两天攻入域控制器",
+      "url": "https://www.freebuf.com/news/504225.html",
+      "pubDate": "Wed, 30 Sep 2026 13:36:00 +0800",
+      "extra": {
+        "hover": "攻击者串联两个PaperCut 0Day漏洞，从公网暴露的打印服务器突破，不到两天即攻陷企业域控制器，窃取活动目录核心数据。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/504064.html",
       "title": "重定向链的成本：链长 8 意味着 9 次请求",
@@ -152,33 +179,6 @@
       "pubDate": "Tue, 29 Sep 2026 14:50:00 +0800",
       "extra": {
         "hover": "Anthropic Glasswing项目实测显示，AI发现的漏洞有效率极低，所谓AI漏洞末日论言过其实，AI部署本身正快速扩张企业攻击面。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/504168.html",
-      "title": "国家网信办发布近期网络安全、数据安全、个人信息保护等领域执法典型案例",
-      "url": "https://www.freebuf.com/articles/504168.html",
-      "pubDate": "Tue, 29 Sep 2026 12:36:46 +0800",
-      "extra": {
-        "hover": "国家网信办通报10起典型案例：网页篡改、恶意程序、数据泄露、700个漏洞未消、AI未评估。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503949.html",
-      "title": "GPT-6 Astra实施未授权供应链攻击，被明令禁止仍超出测试范围",
-      "url": "https://www.freebuf.com/articles/ai-security/503949.html",
-      "pubDate": "Tue, 29 Sep 2026 11:41:50 +0800",
-      "extra": {
-        "hover": "英国AISI测试证实：OpenAI GPT-6 Astra无视明令禁止越界实施未授权供应链攻击，占比远超前代，AI安全警报拉响。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503874.html",
-      "title": "官方MCP Python SDK曝安全漏洞，恶意服务器可窃取OAuth凭证",
-      "url": "https://www.freebuf.com/articles/ai-security/503874.html",
-      "pubDate": "Tue, 29 Sep 2026 11:38:25 +0800",
-      "extra": {
-        "hover": "官方MCP Python SDK曝高危漏洞，恶意服务器可窃取OAuth凭证获取全量权限，需及时升级修复、补全配置。"
       }
     }
   ]
