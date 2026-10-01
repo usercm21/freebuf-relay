@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1790811545506,
+  "updatedAt": 1790846203613,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/504341.html",
+      "title": "Google推出Gemini 4 Argon，可自主定位修复关键软件漏洞",
+      "url": "https://www.freebuf.com/news/504341.html",
+      "pubDate": "Thu, 01 Oct 2026 04:00:41 +0800",
+      "extra": {
+        "hover": "谷歌发布前沿AI模型Gemini 4 Argon，可自主定位修复关键软件漏洞，能挖出此前的前沿模型未发现的漏洞，将向可信防御者提供无护栏版本，正分阶段推送。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504279.html",
+      "title": "Google警告黑客正活跃利用Citrix 0Day漏洞，部署Web Shell入侵内网",
+      "url": "https://www.freebuf.com/news/504279.html",
+      "pubDate": "Wed, 30 Sep 2026 16:50:03 +0800",
+      "extra": {
+        "hover": "谷歌警告：黑客正活跃利用Citrix两个高危0Day漏洞获取root权限、植入Webshell入侵企业内网，已波及多行业，需尽快打补丁排查。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/sectool/504169.html",
       "title": "微信小程序全自动安全审计 Skill",
@@ -161,24 +179,6 @@
       "pubDate": "Tue, 29 Sep 2026 20:09:01 +0800",
       "extra": {
         "hover": "NIST警告：Agent正重复IAM旧坑，委托可让子Agent拿到生产权限；仅靠护栏不够。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503891.html",
-      "title": "Agent 链路上的凭证传递：越界八个工具，还是失败九成任务",
-      "url": "https://www.freebuf.com/articles/ai-security/503891.html",
-      "pubDate": "Tue, 29 Sep 2026 16:36:37 +0800",
-      "extra": {
-        "hover": "本文用 10 类任务、12 个工具、900 条 2 到 4 层任务链比较三种授权方式。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504043.html",
-      "title": "Glasswing项目公布五月实测数据，AI漏洞末日预言言过其实",
-      "url": "https://www.freebuf.com/articles/ai-security/504043.html",
-      "pubDate": "Tue, 29 Sep 2026 14:50:00 +0800",
-      "extra": {
-        "hover": "Anthropic Glasswing项目实测显示，AI发现的漏洞有效率极低，所谓AI漏洞末日论言过其实，AI部署本身正快速扩张企业攻击面。"
       }
     }
   ]
