@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790846203613,
+  "updatedAt": 1790872298437,
   "items": [
     {
       "id": "https://www.freebuf.com/news/504341.html",
@@ -8,6 +8,15 @@
       "pubDate": "Thu, 01 Oct 2026 04:00:41 +0800",
       "extra": {
         "hover": "谷歌发布前沿AI模型Gemini 4 Argon，可自主定位修复关键软件漏洞，能挖出此前的前沿模型未发现的漏洞，将向可信防御者提供无护栏版本，正分阶段推送。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/504367.html",
+      "title": "下载的python也可能是木马？pythonw.exe 木马全链路复现",
+      "url": "https://www.freebuf.com/articles/system/504367.html",
+      "pubDate": "Wed, 30 Sep 2026 17:23:11 +0800",
+      "extra": {
+        "hover": "zip潜入pythonw.exe同目录，签名校验无感，encodings启动即替攻击者按下执行键。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Tue, 29 Sep 2026 20:13:57 +0800",
       "extra": {
         "hover": "本文是 AI 攻防方法论系列第二篇，厘清提示词注入与越狱的概念差异，拆解 6 大类提示词攻击手法，附带自动化越狱测试 PoC 脚本，可用于授权环境下评估大模型安全强度，为 LLM 安全测评提供实战参考"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/504181.html",
-      "title": "NIST勾勒 Agent 安全 IAM 蓝图：六个关键要素",
-      "url": "https://www.freebuf.com/articles/504181.html",
-      "pubDate": "Tue, 29 Sep 2026 20:09:01 +0800",
-      "extra": {
-        "hover": "NIST警告：Agent正重复IAM旧坑，委托可让子Agent拿到生产权限；仅靠护栏不够。"
       }
     }
   ]
