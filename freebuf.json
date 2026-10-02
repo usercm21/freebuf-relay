@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790923263759,
+  "updatedAt": 1790965778593,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/504499.html",
+      "title": "攻击者可利用免费iCloud账号伪造任意@icloud.com地址，通过邮件安全校验",
+      "url": "https://www.freebuf.com/news/504499.html",
+      "pubDate": "Fri, 02 Oct 2026 11:50:18 +0800",
+      "extra": {
+        "hover": "苹果iCloud邮件存在伪造漏洞，攻击者凭免费账号即可冒充任意@icloud.com地址发信，甚至能绕过SPF等三类核心邮件安全校验，目前漏洞已修复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/504396.html",
       "title": "Agentic AI利用Zammad 0Day发起攻击，攻破荷兰漏洞披露机构DIVD",
@@ -170,15 +179,6 @@
       "pubDate": "Tue, 29 Sep 2026 20:55:31 +0800",
       "extra": {
         "hover": "实测图片元数据通道：167 字符载荷在重存、转 JPEG、缩放、裁剪后存活率全为 0%，容量可达 4096 字符、是嵌入水印的百倍量级，可见性取决于解析链是否读元数据（0% 或 100%）。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504045.html",
-      "title": "日本京王电铁与东京地铁披露安全事件，京王遭勒索攻击列车仍正常运行",
-      "url": "https://www.freebuf.com/news/504045.html",
-      "pubDate": "Tue, 29 Sep 2026 20:54:29 +0800",
-      "extra": {
-        "hover": "日本两家铁路运营商披露安全事件：京王遭勒索攻击紧急断网阻止事态扩散，东京地铁5.9万会员邮箱遭未授权访问。"
       }
     }
   ]
