@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790872298437,
+  "updatedAt": 1790923263759,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504396.html",
+      "title": "Agentic AI利用Zammad 0Day发起攻击，攻破荷兰漏洞披露机构DIVD",
+      "url": "https://www.freebuf.com/articles/ai-security/504396.html",
+      "pubDate": "Thu, 01 Oct 2026 13:13:14 +0800",
+      "extra": {
+        "hover": "Agentic AI利用Zammad两个0Day漏洞攻破荷兰漏洞披露机构DIVD，攻击自动化速度极快，数秒即可提权，用户需尽快升级或下线系统防范风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/504341.html",
       "title": "Google推出Gemini 4 Argon，可自主定位修复关键软件漏洞",
@@ -53,6 +62,15 @@
       "pubDate": "Wed, 30 Sep 2026 13:36:00 +0800",
       "extra": {
         "hover": "攻击者串联两个PaperCut 0Day漏洞，从公网暴露的打印服务器突破，不到两天即攻陷企业域控制器，窃取活动目录核心数据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504105.html",
+      "title": "AI Agent武器化：AutoGPTCrewAI攻击面深度剖析",
+      "url": "https://www.freebuf.com/articles/ai-security/504105.html",
+      "pubDate": "Wed, 30 Sep 2026 13:06:37 +0800",
+      "extra": {
+        "hover": "一、引言：AI Agent时代的安全挑战1.1 从Copilot到Autopilot的安全边界变化2024-2026年，AI Agent经历了从概念验证到大规模部署的爆发式增长。以AutoGPT、CrewAI、LangChain Agent为代表的自主智能体框架，正在被企业广泛应用于客服自动化、数据分析、代码生成、安全运营等关键业务场景。与传统Copilot模式（人类审核后再执行）不同，AI Ag"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Tue, 29 Sep 2026 20:54:29 +0800",
       "extra": {
         "hover": "日本两家铁路运营商披露安全事件：京王遭勒索攻击紧急断网阻止事态扩散，东京地铁5.9万会员邮箱遭未授权访问。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/503956.html",
-      "title": "浏览器自动化——AI 生成网页操作脚本",
-      "url": "https://www.freebuf.com/articles/sectool/503956.html",
-      "pubDate": "Tue, 29 Sep 2026 20:43:25 +0800",
-      "extra": {
-        "hover": "由人工或AI自主进行网页操作，后台自动记录毫秒级对齐的前端操作与网络访问数据，使AI基于以上数据生成可重复执行的 Python 脚本。无需接口文档，脚本执行阶段也不再需要 AI。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503948.html",
-      "title": "提示词注入与越狱全攻略：6大类手法拆解，附自动化测试脚本",
-      "url": "https://www.freebuf.com/articles/ai-security/503948.html",
-      "pubDate": "Tue, 29 Sep 2026 20:13:57 +0800",
-      "extra": {
-        "hover": "本文是 AI 攻防方法论系列第二篇，厘清提示词注入与越狱的概念差异，拆解 6 大类提示词攻击手法，附带自动化越狱测试 PoC 脚本，可用于授权环境下评估大模型安全强度，为 LLM 安全测评提供实战参考"
       }
     }
   ]
