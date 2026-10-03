@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1790965778593,
+  "updatedAt": 1791010267565,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504606.html",
+      "title": "GitLab发布AI Gateway紧急更新，修复严重远程代码执行漏洞",
+      "url": "https://www.freebuf.com/articles/ai-security/504606.html",
+      "pubDate": "Sat, 03 Oct 2026 04:11:34 +0800",
+      "extra": {
+        "hover": "GitLab紧急修复AI Gateway严重RCE漏洞（CVSS9.9），认证攻击者可远程执行任意代码，自托管用户需立即升级。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/504499.html",
       "title": "攻击者可利用免费iCloud账号伪造任意@icloud.com地址，通过邮件安全校验",
@@ -17,6 +26,15 @@
       "pubDate": "Thu, 01 Oct 2026 13:13:14 +0800",
       "extra": {
         "hover": "Agentic AI利用Zammad两个0Day漏洞攻破荷兰漏洞披露机构DIVD，攻击自动化速度极快，数秒即可提权，用户需尽快升级或下线系统防范风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/504561.html",
+      "title": "仅用一个字符绕过WAF！Oracle PeopleSoft 顶级漏洞 (CVE-2026-35273) 攻击链深度解析",
+      "url": "https://www.freebuf.com/articles/vuls/504561.html",
+      "pubDate": "Thu, 01 Oct 2026 10:15:46 +0800",
+      "extra": {
+        "hover": "ShinyHunters 借 %50 绕过 WAF，利用 Oracle PeopleSoft 高危 RCE 大规模入侵。"
       }
     },
     {
@@ -83,6 +101,24 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/504104.html",
+      "title": "LLM安全Fuzzing实战：基于garak的自动化大模型漏洞扫描",
+      "url": "https://www.freebuf.com/articles/ai-security/504104.html",
+      "pubDate": "Wed, 30 Sep 2026 12:53:19 +0800",
+      "extra": {
+        "hover": "基于Garak开展LLM大模型Fuzzing模糊测试实战，覆盖OWASP‑LLM‑Top10风险。讲解环境部署与扫描实操，剖析工具能力边界，对比同类测试框架，分享大模型安全风险与防御加固方案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504080.html",
+      "title": "检测规则不是护栏：我在 247 条真实 Agent 轨迹上评测了 6 条外泄检测规则",
+      "url": "https://www.freebuf.com/articles/ai-security/504080.html",
+      "pubDate": "Wed, 30 Sep 2026 10:30:11 +0800",
+      "extra": {
+        "hover": "6 条规则里只有 1 条既不误报也不误伤——而它恰好不是&quot;检测&quot;，是&quot;白名单&quot;。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/504064.html",
       "title": "重定向链的成本：链长 8 意味着 9 次请求",
       "url": "https://www.freebuf.com/articles/ai-security/504064.html",
@@ -143,42 +179,6 @@
       "pubDate": "Tue, 29 Sep 2026 23:52:58 +0800",
       "extra": {
         "hover": "对从业者来说，最实际的行动是接受&quot;护栏会失效&quot;这个前提，然后设计在护栏失效时仍然安全的系统——就像零信任架构接受&quot;网络边界会失效&quot;一样。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/504000.html",
-      "title": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
-      "url": "https://www.freebuf.com/articles/web/504000.html",
-      "pubDate": "Tue, 29 Sep 2026 22:30:14 +0800",
-      "extra": {
-        "hover": "越权/未授权极易出货；不是没鉴权，而是鉴权没覆盖所有接口，登录任意低权限账户即可垂直越权。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/504033.html",
-      "title": "新型Spectre-v2 BTR攻击披露，可绕过现有防护泄露Linux内存",
-      "url": "https://www.freebuf.com/articles/system/504033.html",
-      "pubDate": "Tue, 29 Sep 2026 22:30:00 +0800",
-      "extra": {
-        "hover": "Spectre v2新变种BTR可绕过现有防护泄露Linux内存，数分钟即可窃取root哈希，目前Linux内核已合入缓解补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/503960.html",
-      "title": "FreeBuf早报 | 五角大楼证实发生重大数据泄露；OpenAI暂停最强模型工具使用",
-      "url": "https://www.freebuf.com/news/503960.html",
-      "pubDate": "Tue, 29 Sep 2026 21:00:10 +0800",
-      "extra": {
-        "hover": "美国五角大楼证实DMDC系统遭入侵长达9个月，超300万人未加密敏感信息外泄，数据可被用于身份盗窃、情报活动，风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503958.html",
-      "title": "图片元数据通道：容量是嵌入水印的上百倍，但一次重存就归零",
-      "url": "https://www.freebuf.com/articles/ai-security/503958.html",
-      "pubDate": "Tue, 29 Sep 2026 20:55:31 +0800",
-      "extra": {
-        "hover": "实测图片元数据通道：167 字符载荷在重存、转 JPEG、缩放、裁剪后存活率全为 0%，容量可达 4096 字符、是嵌入水印的百倍量级，可见性取决于解析链是否读元数据（0% 或 100%）。"
       }
     }
   ]
