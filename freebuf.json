@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791095106802,
+  "updatedAt": 1791117808241,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/system/504651.html",
@@ -8,6 +8,15 @@
       "pubDate": "Sun, 04 Oct 2026 02:05:48 +0800",
       "extra": {
         "hover": "Vercel确认存在可致完整虚拟机逃逸的KVM 0Day漏洞，利用该漏洞可从客户机获取宿主机root权限，上报该漏洞的研究员获5万美元最高奖励。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/504663.html",
+      "title": "FortiMail 在野0day：邮件网关被拆门锁，全部邮件遭外传（附PoC）",
+      "url": "https://www.freebuf.com/articles/vuls/504663.html",
+      "pubDate": "Sat, 03 Oct 2026 09:41:25 +0800",
+      "extra": {
+        "hover": "FortiMail IBE 未认证路径穿越+NULL字节写任意文件，在野0day无补丁，防御组件武器化。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Wed, 30 Sep 2026 08:45:31 +0800",
       "extra": {
         "hover": "压缩把冗余去掉了，base64 把字节变成了另一套字符集。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504061.html",
-      "title": "时间窗口的边界效应：固定窗口把一次故障摊平成两个正常窗口",
-      "url": "https://www.freebuf.com/articles/ai-security/504061.html",
-      "pubDate": "Wed, 30 Sep 2026 08:35:05 +0800",
-      "extra": {
-        "hover": "本文用 100 次模拟故障量化这两种窗口的检出与延迟差异。"
       }
     }
   ]
