@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1791010267565,
+  "updatedAt": 1791095106802,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/504651.html",
+      "title": "Vercel确认KVM 0Day虚拟机逃逸漏洞，研究员获5万美元最高奖励",
+      "url": "https://www.freebuf.com/articles/system/504651.html",
+      "pubDate": "Sun, 04 Oct 2026 02:05:48 +0800",
+      "extra": {
+        "hover": "Vercel确认存在可致完整虚拟机逃逸的KVM 0Day漏洞，利用该漏洞可从客户机获取宿主机root权限，上报该漏洞的研究员获5万美元最高奖励。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/504646.html",
+      "title": "当 AI 开始自己打渗透：One's Vibe 上的安全工具巡礼",
+      "url": "https://www.freebuf.com/articles/504646.html",
+      "pubDate": "Sat, 03 Oct 2026 05:23:21 +0800",
+      "extra": {
+        "hover": "一万多个 AI 应用中 342 个做安全：在攻击者之前攻破你的 AI endpoint，漏洞正被批量生产。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/504606.html",
       "title": "GitLab发布AI Gateway紧急更新，修复严重远程代码执行漏洞",
@@ -44,6 +62,15 @@
       "pubDate": "Thu, 01 Oct 2026 04:00:41 +0800",
       "extra": {
         "hover": "谷歌发布前沿AI模型Gemini 4 Argon，可自主定位修复关键软件漏洞，能挖出此前的前沿模型未发现的漏洞，将向可信防御者提供无护栏版本，正分阶段推送。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504188.html",
+      "title": "回车即沦陷：TrustFall 本地复现——恶意仓库如何让 Claude Code 全权限执行 MCP",
+      "url": "https://www.freebuf.com/articles/ai-security/504188.html",
+      "pubDate": "Wed, 30 Sep 2026 18:49:14 +0800",
+      "extra": {
+        "hover": "一次回车，Claude Code 便以你的身份无沙箱运行攻击者的 MCP Server。2.1.263 实测：链仍通、零二次确认。厂商八个月修了五个同根 CVE，却只修对话框之前。"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Wed, 30 Sep 2026 08:35:05 +0800",
       "extra": {
         "hover": "本文用 100 次模拟故障量化这两种窗口的检出与延迟差异。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/504113.html",
-      "title": "OpenAI推出Codex Security Cloud，提供常驻应用安全服务",
-      "url": "https://www.freebuf.com/articles/development/504113.html",
-      "pubDate": "Wed, 30 Sep 2026 04:36:20 +0800",
-      "extra": {
-        "hover": "OpenAI推出Codex Security Cloud常驻应用安全服务，可自动扫描代码仓库、验证漏洞、生成修复补丁，降低告警疲劳，补丁需人工审核。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503992.html",
-      "title": "一个技能说读文件，一个技能说发请求，单独看都没问题：AI技能扫描器的跨技能盲区",
-      "url": "https://www.freebuf.com/articles/ai-security/503992.html",
-      "pubDate": "Tue, 29 Sep 2026 23:59:36 +0800",
-      "extra": {
-        "hover": "一个技能说读文件，一个技能说发请求，单独看都没问题：AI技能扫描器的跨技能盲区一句话摘要：2026年8月，一篇来自 arXiv 的论文把六款AI技能安全扫描器全部打穿了——96%的平均绕过率。方法不复杂：把一个恶意意图拆成三个独立技能，一个负责读文件、一个负责编码数据、一个负责发HTTP请求，每个技能单独通过安全扫描，但AI助手把它们串起来执行时就完成了数据外泄。这不是某款扫描器的bug，而是所有"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/503991.html",
-      "title": "NIST用数学证明了：你永远写不出一套完美的AI护栏",
-      "url": "https://www.freebuf.com/articles/ai-security/503991.html",
-      "pubDate": "Tue, 29 Sep 2026 23:52:58 +0800",
-      "extra": {
-        "hover": "对从业者来说，最实际的行动是接受&quot;护栏会失效&quot;这个前提，然后设计在护栏失效时仍然安全的系统——就像零信任架构接受&quot;网络边界会失效&quot;一样。"
       }
     }
   ]
