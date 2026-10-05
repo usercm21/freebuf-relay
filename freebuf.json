@@ -1,6 +1,87 @@
 {
-  "updatedAt": 1791188539198,
+  "updatedAt": 1791220642885,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/504785.html",
+      "title": "攻击者利用Realtek Jungle SDK漏洞，投放基于STUN C2的Cling僵尸网络",
+      "url": "https://www.freebuf.com/news/504785.html",
+      "pubDate": "Mon, 05 Oct 2026 17:16:25 +0800",
+      "extra": {
+        "hover": "Realtek Jungle SDK关键漏洞利用激增，攻击者大肆投放Cling僵尸网络，其伪装STUN流量隐蔽难测，可横向扩散、发起DoS攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504787.html",
+      "title": "补丁推送后攻击仍持续，技术细节暂未公开",
+      "url": "https://www.freebuf.com/news/504787.html",
+      "pubDate": "Mon, 05 Oct 2026 14:53:48 +0800",
+      "extra": {
+        "hover": "CISA通报NetScaler漏洞CVE-2026-88779正遭在野利用，可致设备崩溃，已现攻击案例，用户需尽快升级补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504729.html",
+      "title": "NetScaler新0Day遭定向攻击利用，可致SAML部署离线",
+      "url": "https://www.freebuf.com/news/504729.html",
+      "pubDate": "Mon, 05 Oct 2026 12:10:19 +0800",
+      "extra": {
+        "hover": "Citrix修复NetScaler高危0Day漏洞CVE-2026-88779，该漏洞已遭在野定向利用，可致SAML部署服务离线，CISA要求限期修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/504771.html",
+      "title": "苹果将收紧macOS全磁盘访问权限，防范AI Agent隐私风险",
+      "url": "https://www.freebuf.com/articles/system/504771.html",
+      "pubDate": "Mon, 05 Oct 2026 12:05:00 +0800",
+      "extra": {
+        "hover": "苹果将收紧macOS全磁盘访问权限，防范能力不断增强的AI Agent泄露用户核心隐私，提醒用户及时排查高风险权限授权。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504737.html",
+      "title": "Google内部AI安全Agent发现500余个XSS漏洞，可实证并构建有效利用链",
+      "url": "https://www.freebuf.com/articles/ai-security/504737.html",
+      "pubDate": "Mon, 05 Oct 2026 08:42:40 +0800",
+      "extra": {
+        "hover": "谷歌内部AI安全Agent PageBreak可实证验证漏洞、误报率近零，已在自家Web应用发现500余个可利用XSS漏洞及多组高危利用链。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504745.html",
+      "title": "CISA将Fortinet FortiMail 0Day漏洞纳入KEV目录，该漏洞已遭在野利用",
+      "url": "https://www.freebuf.com/news/504745.html",
+      "pubDate": "Mon, 05 Oct 2026 08:34:02 +0800",
+      "extra": {
+        "hover": "CISA将已遭在野利用的Fortinet FortiMail 0day漏洞纳入KEV目录，未授权攻击者可写任意文件控制设备，要求相关机构限期完成修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504731.html",
+      "title": "谷歌暂停开源漏洞赏金新报告受理，AI生成无效报告泛滥",
+      "url": "https://www.freebuf.com/news/504731.html",
+      "pubDate": "Mon, 05 Oct 2026 07:37:21 +0800",
+      "extra": {
+        "hover": "大量无效AI生成漏洞报告涌入令审核人员不堪重负，谷歌暂停开源漏洞赏金计划新报告受理，存量报告不受影响，预计2027年一季度更新规则。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/504750.html",
+      "title": "当模型学会静态脱壳：MiniMax 移动逆向实测",
+      "url": "https://www.freebuf.com/articles/504750.html",
+      "pubDate": "Sun, 04 Oct 2026 20:23:25 +0800",
+      "extra": {
+        "hover": "无 adb/Frida/Android，MiniMax 模型静态脱壳加固 APK、还原类抽取代码，加固难成绝对屏障。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/504748.html",
+      "title": "AI 渗透如何检测，溯源，反制？看了几篇篇论文带来的防御启示",
+      "url": "https://www.freebuf.com/articles/504748.html",
+      "pubDate": "Sun, 04 Oct 2026 08:30:50 +0800",
+      "extra": {
+        "hover": "发现攻击后，我们究竟知道多少？脱轨率68.36%、99%模型承诺破坏蜜罐，防守方须建可信证据链。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/es/504658.html",
       "title": "从告警堆砌到决策中枢：企业威胁情报中心，到底该怎么建？",
@@ -98,87 +179,6 @@
       "pubDate": "Wed, 30 Sep 2026 18:49:14 +0800",
       "extra": {
         "hover": "一次回车，Claude Code 便以你的身份无沙箱运行攻击者的 MCP Server。2.1.263 实测：链仍通、零二次确认。厂商八个月修了五个同根 CVE，却只修对话框之前。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/504367.html",
-      "title": "下载的python也可能是木马？pythonw.exe 木马全链路复现",
-      "url": "https://www.freebuf.com/articles/system/504367.html",
-      "pubDate": "Wed, 30 Sep 2026 17:23:11 +0800",
-      "extra": {
-        "hover": "zip潜入pythonw.exe同目录，签名校验无感，encodings启动即替攻击者按下执行键。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504279.html",
-      "title": "Google警告黑客正活跃利用Citrix 0Day漏洞，部署Web Shell入侵内网",
-      "url": "https://www.freebuf.com/news/504279.html",
-      "pubDate": "Wed, 30 Sep 2026 16:50:03 +0800",
-      "extra": {
-        "hover": "谷歌警告：黑客正活跃利用Citrix两个高危0Day漏洞获取root权限、植入Webshell入侵企业内网，已波及多行业，需尽快打补丁排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/504169.html",
-      "title": "微信小程序全自动安全审计 Skill",
-      "url": "https://www.freebuf.com/articles/sectool/504169.html",
-      "pubDate": "Wed, 30 Sep 2026 15:06:30 +0800",
-      "extra": {
-        "hover": "微信小程序全自动安全审计 Skill，基于多智能体协作，从反编译到生成完整安全报告全流程自动化。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504226.html",
-      "title": "Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构",
-      "url": "https://www.freebuf.com/articles/ai-security/504226.html",
-      "pubDate": "Wed, 30 Sep 2026 14:00:29 +0800",
-      "extra": {
-        "hover": "谷歌报告今年1-8月漏洞披露量翻倍，AI改变漏洞发现格局，漏洞野外利用数超去年全年，AI发现漏洞半数可致远程代码执行，安全风险持续攀升。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504225.html",
-      "title": "攻击者以PaperCut打印服务器为入口，不到两天攻入域控制器",
-      "url": "https://www.freebuf.com/news/504225.html",
-      "pubDate": "Wed, 30 Sep 2026 13:36:00 +0800",
-      "extra": {
-        "hover": "攻击者串联两个PaperCut 0Day漏洞，从公网暴露的打印服务器突破，不到两天即攻陷企业域控制器，窃取活动目录核心数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504105.html",
-      "title": "AI Agent武器化：AutoGPTCrewAI攻击面深度剖析",
-      "url": "https://www.freebuf.com/articles/ai-security/504105.html",
-      "pubDate": "Wed, 30 Sep 2026 13:06:37 +0800",
-      "extra": {
-        "hover": "一、引言：AI Agent时代的安全挑战1.1 从Copilot到Autopilot的安全边界变化2024-2026年，AI Agent经历了从概念验证到大规模部署的爆发式增长。以AutoGPT、CrewAI、LangChain Agent为代表的自主智能体框架，正在被企业广泛应用于客服自动化、数据分析、代码生成、安全运营等关键业务场景。与传统Copilot模式（人类审核后再执行）不同，AI Ag"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504104.html",
-      "title": "LLM安全Fuzzing实战：基于garak的自动化大模型漏洞扫描",
-      "url": "https://www.freebuf.com/articles/ai-security/504104.html",
-      "pubDate": "Wed, 30 Sep 2026 12:53:19 +0800",
-      "extra": {
-        "hover": "基于Garak开展LLM大模型Fuzzing模糊测试实战，覆盖OWASP‑LLM‑Top10风险。讲解环境部署与扫描实操，剖析工具能力边界，对比同类测试框架，分享大模型安全风险与防御加固方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504080.html",
-      "title": "检测规则不是护栏：我在 247 条真实 Agent 轨迹上评测了 6 条外泄检测规则",
-      "url": "https://www.freebuf.com/articles/ai-security/504080.html",
-      "pubDate": "Wed, 30 Sep 2026 10:30:11 +0800",
-      "extra": {
-        "hover": "6 条规则里只有 1 条既不误报也不误伤——而它恰好不是&quot;检测&quot;，是&quot;白名单&quot;。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504064.html",
-      "title": "重定向链的成本：链长 8 意味着 9 次请求",
-      "url": "https://www.freebuf.com/articles/ai-security/504064.html",
-      "pubDate": "Wed, 30 Sep 2026 08:53:14 +0800",
-      "extra": {
-        "hover": "本文用本机真实 HTTP 服务测链长与请求次数、耗时之间的关系，并测&quot;限制跳转次数&quot;的效果。"
       }
     }
   ]
