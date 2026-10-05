@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791133502559,
+  "updatedAt": 1791188539198,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/es/504658.html",
@@ -26,6 +26,15 @@
       "pubDate": "Sat, 03 Oct 2026 09:41:25 +0800",
       "extra": {
         "hover": "FortiMail IBE 未认证路径穿越+NULL字节写任意文件，在野0day无补丁，防御组件武器化。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/504713.html",
+      "title": "Google开源AI安全审计工具包Mantis：自动发现、重现、修补漏洞的代理技能集",
+      "url": "https://www.freebuf.com/articles/sectool/504713.html",
+      "pubDate": "Sat, 03 Oct 2026 09:23:41 +0800",
+      "extra": {
+        "hover": "Google 开源 Mantis，AI 代理自动挖漏洞、写 PoC、打补丁。警告：仅限隔离环境，勿碰生产数据，须人工复核。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Wed, 30 Sep 2026 08:53:14 +0800",
       "extra": {
         "hover": "本文用本机真实 HTTP 服务测链长与请求次数、耗时之间的关系，并测&quot;限制跳转次数&quot;的效果。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/504147.html",
-      "title": "AI Agent发现Linux内核漏洞，微量内存写入可获取root权限",
-      "url": "https://www.freebuf.com/articles/system/504147.html",
-      "pubDate": "Wed, 30 Sep 2026 08:50:27 +0800",
-      "extra": {
-        "hover": "AI Agent发现Linux内核高危漏洞，仅靠16字节零写入即可本地提权获取root权限，官方已发布修复补丁，请及时更新。"
       }
     }
   ]
