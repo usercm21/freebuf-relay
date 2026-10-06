@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791220642885,
+  "updatedAt": 1791255901355,
   "items": [
     {
       "id": "https://www.freebuf.com/news/504785.html",
@@ -137,12 +137,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/504510.html",
+      "title": "从恶意 hook 到主机 RCE:一条插件就够——AI 编码 Agent 生命周期钩子供应链攻击复现",
+      "url": "https://www.freebuf.com/articles/ai-security/504510.html",
+      "pubDate": "Fri, 02 Oct 2026 21:25:27 +0800",
+      "extra": {
+        "hover": "一条插件更新 + 一次会话启动 = 主机 RCE,全程无需提示注入、无需漏洞利用、用户和模型都毫无察觉。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/504499.html",
       "title": "攻击者可利用免费iCloud账号伪造任意@icloud.com地址，通过邮件安全校验",
       "url": "https://www.freebuf.com/news/504499.html",
       "pubDate": "Fri, 02 Oct 2026 11:50:18 +0800",
       "extra": {
         "hover": "苹果iCloud邮件存在伪造漏洞，攻击者凭免费账号即可冒充任意@icloud.com地址发信，甚至能绕过SPF等三类核心邮件安全校验，目前漏洞已修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504397.html",
+      "title": "当 Agent 开始点鼠标：Computer-Use 浏览器代理的页面注入、DOM 混淆与跨站数据外带链",
+      "url": "https://www.freebuf.com/articles/ai-security/504397.html",
+      "pubDate": "Thu, 01 Oct 2026 22:28:59 +0800",
+      "extra": {
+        "hover": "浏览器代理把读网页和动手点鼠标拼一起，间接提示注入走向生产。真实浏览器实测：注入能否生效，先看代理喂了哪一层——像素 2/17，可见 DOM 5/17，原始 HTML 13/17。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 01 Oct 2026 10:15:46 +0800",
       "extra": {
         "hover": "ShinyHunters 借 %50 绕过 WAF，利用 Oracle PeopleSoft 高危 RCE 大规模入侵。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504341.html",
-      "title": "Google推出Gemini 4 Argon，可自主定位修复关键软件漏洞",
-      "url": "https://www.freebuf.com/news/504341.html",
-      "pubDate": "Thu, 01 Oct 2026 04:00:41 +0800",
-      "extra": {
-        "hover": "谷歌发布前沿AI模型Gemini 4 Argon，可自主定位修复关键软件漏洞，能挖出此前的前沿模型未发现的漏洞，将向可信防御者提供无护栏版本，正分阶段推送。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504188.html",
-      "title": "回车即沦陷：TrustFall 本地复现——恶意仓库如何让 Claude Code 全权限执行 MCP",
-      "url": "https://www.freebuf.com/articles/ai-security/504188.html",
-      "pubDate": "Wed, 30 Sep 2026 18:49:14 +0800",
-      "extra": {
-        "hover": "一次回车，Claude Code 便以你的身份无沙箱运行攻击者的 MCP Server。2.1.263 实测：链仍通、零二次确认。厂商八个月修了五个同根 CVE，却只修对话框之前。"
       }
     }
   ]
