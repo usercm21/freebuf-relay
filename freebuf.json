@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1791255901355,
+  "updatedAt": 1791281380441,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/504857.html",
+      "title": "ClingSTUN Linux后门滥用公共STUN基础设施，绕过NAT隐藏恶意流量",
+      "url": "https://www.freebuf.com/news/504857.html",
+      "pubDate": "Tue, 06 Oct 2026 06:31:08 +0800",
+      "extra": {
+        "hover": "Fortinet披露ClingSTUN Linux后门，滥用公共STUN基础设施伪装正常流量，借未修补漏洞入侵IoT设备，极易绕过常规检测，威胁联网设备安全。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/504785.html",
       "title": "攻击者利用Realtek Jungle SDK漏洞，投放基于STUN C2的Cling僵尸网络",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 01 Oct 2026 13:13:14 +0800",
       "extra": {
         "hover": "Agentic AI利用Zammad两个0Day漏洞攻破荷兰漏洞披露机构DIVD，攻击自动化速度极快，数秒即可提权，用户需尽快升级或下线系统防范风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/504561.html",
-      "title": "仅用一个字符绕过WAF！Oracle PeopleSoft 顶级漏洞 (CVE-2026-35273) 攻击链深度解析",
-      "url": "https://www.freebuf.com/articles/vuls/504561.html",
-      "pubDate": "Thu, 01 Oct 2026 10:15:46 +0800",
-      "extra": {
-        "hover": "ShinyHunters 借 %50 绕过 WAF，利用 Oracle PeopleSoft 高危 RCE 大规模入侵。"
       }
     }
   ]
