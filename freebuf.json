@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1791281380441,
+  "updatedAt": 1791305290206,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504898.html",
+      "title": "Wikimedia披露OpenAI Agents异常活动，试图入侵Etherpad滥用代理",
+      "url": "https://www.freebuf.com/articles/ai-security/504898.html",
+      "pubDate": "Tue, 06 Oct 2026 16:56:25 +0800",
+      "extra": {
+        "hover": "维基媒体证实OpenAI失控Agent试图入侵其平台、爬取数据干扰服务，指责AI企业未尽责，绝不能放任此类风险成为开放网络新常态。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504890.html",
+      "title": "Meta与微软限制员工使用Claude AI，主推自有编码工具",
+      "url": "https://www.freebuf.com/news/504890.html",
+      "pubDate": "Tue, 06 Oct 2026 10:23:02 +0800",
+      "extra": {
+        "hover": "Meta与微软收紧内部员工对竞品Claude AI的使用权限，主推自有AI编码工具、管控AI支出，面向客户的Claude相关服务不受影响。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504894.html",
+      "title": "常用AI构建工具Langflow存在root级高危漏洞，无认证即可远程执行代码",
+      "url": "https://www.freebuf.com/articles/ai-security/504894.html",
+      "pubDate": "Tue, 06 Oct 2026 10:00:00 +0800",
+      "extra": {
+        "hover": "AI构建工具Langflow存在无认证root级致命漏洞，攻击者正批量利用窃取云与AI凭证，企业需立刻打补丁、轮换相关凭证。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/504882.html",
+      "title": "Gartner推出ISOC新安全工具类别，打通检测响应无需堆叠工具",
+      "url": "https://www.freebuf.com/articles/es/504882.html",
+      "pubDate": "Tue, 06 Oct 2026 09:00:00 +0800",
+      "extra": {
+        "hover": "Gartner推出ISOC新安全工具类别，以SIEM为核心打通检测响应，消除工具堆叠摩擦，应对AI时代机器速度传播的安全威胁。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/504857.html",
       "title": "ClingSTUN Linux后门滥用公共STUN基础设施，绕过NAT隐藏恶意流量",
@@ -143,42 +179,6 @@
       "pubDate": "Sat, 03 Oct 2026 04:11:34 +0800",
       "extra": {
         "hover": "GitLab紧急修复AI Gateway严重RCE漏洞（CVSS9.9），认证攻击者可远程执行任意代码，自托管用户需立即升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504510.html",
-      "title": "从恶意 hook 到主机 RCE:一条插件就够——AI 编码 Agent 生命周期钩子供应链攻击复现",
-      "url": "https://www.freebuf.com/articles/ai-security/504510.html",
-      "pubDate": "Fri, 02 Oct 2026 21:25:27 +0800",
-      "extra": {
-        "hover": "一条插件更新 + 一次会话启动 = 主机 RCE,全程无需提示注入、无需漏洞利用、用户和模型都毫无察觉。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504499.html",
-      "title": "攻击者可利用免费iCloud账号伪造任意@icloud.com地址，通过邮件安全校验",
-      "url": "https://www.freebuf.com/news/504499.html",
-      "pubDate": "Fri, 02 Oct 2026 11:50:18 +0800",
-      "extra": {
-        "hover": "苹果iCloud邮件存在伪造漏洞，攻击者凭免费账号即可冒充任意@icloud.com地址发信，甚至能绕过SPF等三类核心邮件安全校验，目前漏洞已修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504397.html",
-      "title": "当 Agent 开始点鼠标：Computer-Use 浏览器代理的页面注入、DOM 混淆与跨站数据外带链",
-      "url": "https://www.freebuf.com/articles/ai-security/504397.html",
-      "pubDate": "Thu, 01 Oct 2026 22:28:59 +0800",
-      "extra": {
-        "hover": "浏览器代理把读网页和动手点鼠标拼一起，间接提示注入走向生产。真实浏览器实测：注入能否生效，先看代理喂了哪一层——像素 2/17，可见 DOM 5/17，原始 HTML 13/17。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504396.html",
-      "title": "Agentic AI利用Zammad 0Day发起攻击，攻破荷兰漏洞披露机构DIVD",
-      "url": "https://www.freebuf.com/articles/ai-security/504396.html",
-      "pubDate": "Thu, 01 Oct 2026 13:13:14 +0800",
-      "extra": {
-        "hover": "Agentic AI利用Zammad两个0Day漏洞攻破荷兰漏洞披露机构DIVD，攻击自动化速度极快，数秒即可提权，用户需尽快升级或下线系统防范风险。"
       }
     }
   ]
