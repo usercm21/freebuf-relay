@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791305290206,
+  "updatedAt": 1791321481994,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/504898.html",
@@ -8,6 +8,24 @@
       "pubDate": "Tue, 06 Oct 2026 16:56:25 +0800",
       "extra": {
         "hover": "维基媒体证实OpenAI失控Agent试图入侵其平台、爬取数据干扰服务，指责AI企业未尽责，绝不能放任此类风险成为开放网络新常态。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504927.html",
+      "title": "勒索软件攻击者将AI编码助手用作攻击通道，入侵企业网络",
+      "url": "https://www.freebuf.com/articles/ai-security/504927.html",
+      "pubDate": "Tue, 06 Oct 2026 14:09:29 +0800",
+      "extra": {
+        "hover": "勒索软件攻击者将AI编码助手改造为攻击通道，入侵6国24家多行业机构窃密勒索，造成严重损失，AI已从辅助工具升级为攻击执行载体。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504920.html",
+      "title": "OpenAI Agent被发现擅自编辑维基站点，海量请求引发服务中断",
+      "url": "https://www.freebuf.com/articles/ai-security/504920.html",
+      "pubDate": "Tue, 06 Oct 2026 13:26:37 +0800",
+      "extra": {
+        "hover": "OpenAI旗下AI Agent被曝擅自编辑维基站点、海量爬取或致服务中断，还尝试恶意篡改平台引用工具配置，未造成数据泄露。"
       }
     },
     {
@@ -26,6 +44,24 @@
       "pubDate": "Tue, 06 Oct 2026 10:00:00 +0800",
       "extra": {
         "hover": "AI构建工具Langflow存在无认证root级致命漏洞，攻击者正批量利用窃取云与AI凭证，企业需立刻打补丁、轮换相关凭证。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/504949.html",
+      "title": "我渗透到一个黑客集团：一年半时间，35 万美元换 7500 万美元冻结",
+      "url": "https://www.freebuf.com/articles/504949.html",
+      "pubDate": "Tue, 06 Oct 2026 09:32:33 +0800",
+      "extra": {
+        "hover": "ZachXBT 卧底“能接 Bybit 盗案赃币”的洗钱团伙，自掏35万美元，撬动7500万美元冻结。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/504884.html",
+      "title": "OpenAI 开源 AI 漏洞挖掘神器：Codex Security 实测，3 个月 10.9k Star",
+      "url": "https://www.freebuf.com/articles/504884.html",
+      "pubDate": "Tue, 06 Oct 2026 09:17:50 +0800",
+      "extra": {
+        "hover": "OpenAI 开源 Codex Security，一条命令代理式挖洞，把误报摁死在本地；大仓库先设成本上限。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Sun, 04 Oct 2026 02:05:48 +0800",
       "extra": {
         "hover": "Vercel确认存在可致完整虚拟机逃逸的KVM 0Day漏洞，利用该漏洞可从客户机获取宿主机root权限，上报该漏洞的研究员获5万美元最高奖励。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/504663.html",
-      "title": "FortiMail 在野0day：邮件网关被拆门锁，全部邮件遭外传（附PoC）",
-      "url": "https://www.freebuf.com/articles/vuls/504663.html",
-      "pubDate": "Sat, 03 Oct 2026 09:41:25 +0800",
-      "extra": {
-        "hover": "FortiMail IBE 未认证路径穿越+NULL字节写任意文件，在野0day无补丁，防御组件武器化。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/504713.html",
-      "title": "Google开源AI安全审计工具包Mantis：自动发现、重现、修补漏洞的代理技能集",
-      "url": "https://www.freebuf.com/articles/sectool/504713.html",
-      "pubDate": "Sat, 03 Oct 2026 09:23:41 +0800",
-      "extra": {
-        "hover": "Google 开源 Mantis，AI 代理自动挖漏洞、写 PoC、打补丁。警告：仅限隔离环境，勿碰生产数据，须人工复核。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/504646.html",
-      "title": "当 AI 开始自己打渗透：One's Vibe 上的安全工具巡礼",
-      "url": "https://www.freebuf.com/articles/504646.html",
-      "pubDate": "Sat, 03 Oct 2026 05:23:21 +0800",
-      "extra": {
-        "hover": "一万多个 AI 应用中 342 个做安全：在攻击者之前攻破你的 AI endpoint，漏洞正被批量生产。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504606.html",
-      "title": "GitLab发布AI Gateway紧急更新，修复严重远程代码执行漏洞",
-      "url": "https://www.freebuf.com/articles/ai-security/504606.html",
-      "pubDate": "Sat, 03 Oct 2026 04:11:34 +0800",
-      "extra": {
-        "hover": "GitLab紧急修复AI Gateway严重RCE漏洞（CVSS9.9），认证攻击者可远程执行任意代码，自托管用户需立即升级。"
       }
     }
   ]
