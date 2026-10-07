@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1791354993576,
+  "updatedAt": 1791381215000,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505056.html",
+      "title": "OpenAI曝出沙箱逃逸漏洞，无需API密钥就能免费调用付费模型",
+      "url": "https://www.freebuf.com/articles/ai-security/505056.html",
+      "pubDate": "Wed, 07 Oct 2026 10:34:52 +0800",
+      "extra": {
+        "hover": "OpenAI曝出无需账号、API密钥即可调用付费模型的沙箱逃逸漏洞，仅300美元奖励引发研究员不满，称今后绝不再向其上报问题。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505034.html",
+      "title": "OpenSSH 10.6修复多项高危漏洞，可致明文恢复、文件写入与注入",
+      "url": "https://www.freebuf.com/news/505034.html",
+      "pubDate": "Wed, 07 Oct 2026 08:47:31 +0800",
+      "extra": {
+        "hover": "OpenSSH 10.6正式发布，修复可致明文恢复、越权写入、命令注入的多项高危漏洞，用户需尽快升级防范攻击风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505035.html",
+      "title": "Pwn2Own 2026首日赛果出炉，32个0Day攻破三星S26、OpenAI Codex等产品",
+      "url": "https://www.freebuf.com/news/505035.html",
+      "pubDate": "Wed, 07 Oct 2026 08:27:31 +0800",
+      "extra": {
+        "hover": "Pwn2Own 2026首日，研究人员用32个0Day攻破三星S26、OpenAI Codex等产品，累计揽获奖金38.85万美元，Google Pixel 10未被攻破。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/505003.html",
       "title": "Anthropic放宽Claude访问限制，向认证安全人员开放三级权限",
@@ -152,33 +179,6 @@
       "pubDate": "Mon, 05 Oct 2026 12:05:00 +0800",
       "extra": {
         "hover": "苹果将收紧macOS全磁盘访问权限，防范能力不断增强的AI Agent泄露用户核心隐私，提醒用户及时排查高风险权限授权。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504737.html",
-      "title": "Google内部AI安全Agent发现500余个XSS漏洞，可实证并构建有效利用链",
-      "url": "https://www.freebuf.com/articles/ai-security/504737.html",
-      "pubDate": "Mon, 05 Oct 2026 08:42:40 +0800",
-      "extra": {
-        "hover": "谷歌内部AI安全Agent PageBreak可实证验证漏洞、误报率近零，已在自家Web应用发现500余个可利用XSS漏洞及多组高危利用链。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504745.html",
-      "title": "CISA将Fortinet FortiMail 0Day漏洞纳入KEV目录，该漏洞已遭在野利用",
-      "url": "https://www.freebuf.com/news/504745.html",
-      "pubDate": "Mon, 05 Oct 2026 08:34:02 +0800",
-      "extra": {
-        "hover": "CISA将已遭在野利用的Fortinet FortiMail 0day漏洞纳入KEV目录，未授权攻击者可写任意文件控制设备，要求相关机构限期完成修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504731.html",
-      "title": "谷歌暂停开源漏洞赏金新报告受理，AI生成无效报告泛滥",
-      "url": "https://www.freebuf.com/news/504731.html",
-      "pubDate": "Mon, 05 Oct 2026 07:37:21 +0800",
-      "extra": {
-        "hover": "大量无效AI生成漏洞报告涌入令审核人员不堪重负，谷歌暂停开源漏洞赏金计划新报告受理，存量报告不受影响，预计2027年一季度更新规则。"
       }
     }
   ]
