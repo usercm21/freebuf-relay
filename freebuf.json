@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1791321481994,
+  "updatedAt": 1791354993576,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/505003.html",
+      "title": "Anthropic放宽Claude访问限制，向认证安全人员开放三级权限",
+      "url": "https://www.freebuf.com/news/505003.html",
+      "pubDate": "Wed, 07 Oct 2026 03:26:17 +0800",
+      "extra": {
+        "hover": "Anthropic扩展网络验证计划，放宽Claude访问限制，分三级向认证安全人员开放高级模型权限，兼顾安全研究与滥用风险防控。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/504898.html",
       "title": "Wikimedia披露OpenAI Agents异常活动，试图入侵Etherpad滥用代理",
@@ -8,6 +17,24 @@
       "pubDate": "Tue, 06 Oct 2026 16:56:25 +0800",
       "extra": {
         "hover": "维基媒体证实OpenAI失控Agent试图入侵其平台、爬取数据干扰服务，指责AI企业未尽责，绝不能放任此类风险成为开放网络新常态。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/504957.html",
+      "title": "Apache Struts披露多个安全漏洞，可导致远程代码执行",
+      "url": "https://www.freebuf.com/news/504957.html",
+      "pubDate": "Tue, 06 Oct 2026 16:02:50 +0800",
+      "extra": {
+        "hover": "Apache Struts披露4个安全漏洞，可引发远程代码执行、拒绝服务等风险，官方已发修复版本，管理员需尽快升级排查。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/504986.html",
+      "title": "Android逆向工程终极利器：Claude Code + jadx双引擎，混淆代码也能秒变明文",
+      "url": "https://www.freebuf.com/articles/sectool/504986.html",
+      "pubDate": "Tue, 06 Oct 2026 16:00:42 +0800",
+      "extra": {
+        "hover": "Claude Code安卓逆向插件：多格式反编译、双引擎对比、API提取与调用链追踪。"
       }
     },
     {
@@ -26,6 +53,15 @@
       "pubDate": "Tue, 06 Oct 2026 13:26:37 +0800",
       "extra": {
         "hover": "OpenAI旗下AI Agent被曝擅自编辑维基站点、海量爬取或致服务中断，还尝试恶意篡改平台引用工具配置，未造成数据泄露。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/504989.html",
+      "title": "【一个人的SOC】(00) 中小企业为什么需要自己的安全运营中心",
+      "url": "https://www.freebuf.com/articles/es/504989.html",
+      "pubDate": "Tue, 06 Oct 2026 12:36:11 +0800",
+      "extra": {
+        "hover": "“日志没有，告警没有，报告更没有。”出事是聋子瞎子，小公司直接出局；旧服务器+AI，一人建 SOC。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Mon, 05 Oct 2026 07:37:21 +0800",
       "extra": {
         "hover": "大量无效AI生成漏洞报告涌入令审核人员不堪重负，谷歌暂停开源漏洞赏金计划新报告受理，存量报告不受影响，预计2027年一季度更新规则。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/504750.html",
-      "title": "当模型学会静态脱壳：MiniMax 移动逆向实测",
-      "url": "https://www.freebuf.com/articles/504750.html",
-      "pubDate": "Sun, 04 Oct 2026 20:23:25 +0800",
-      "extra": {
-        "hover": "无 adb/Frida/Android，MiniMax 模型静态脱壳加固 APK、还原类抽取代码，加固难成绝对屏障。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/504748.html",
-      "title": "AI 渗透如何检测，溯源，反制？看了几篇篇论文带来的防御启示",
-      "url": "https://www.freebuf.com/articles/504748.html",
-      "pubDate": "Sun, 04 Oct 2026 08:30:50 +0800",
-      "extra": {
-        "hover": "发现攻击后，我们究竟知道多少？脱轨率68.36%、99%模型承诺破坏蜜罐，防守方须建可信证据链。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/504658.html",
-      "title": "从告警堆砌到决策中枢：企业威胁情报中心，到底该怎么建？",
-      "url": "https://www.freebuf.com/articles/es/504658.html",
-      "pubDate": "Sun, 04 Oct 2026 08:20:06 +0800",
-      "extra": {
-        "hover": "很多企业TIS做成高级日志聚合器，误报泛滥，检出率不足1%；杭州企业缺APT预警泄露15万数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/504651.html",
-      "title": "Vercel确认KVM 0Day虚拟机逃逸漏洞，研究员获5万美元最高奖励",
-      "url": "https://www.freebuf.com/articles/system/504651.html",
-      "pubDate": "Sun, 04 Oct 2026 02:05:48 +0800",
-      "extra": {
-        "hover": "Vercel确认存在可致完整虚拟机逃逸的KVM 0Day漏洞，利用该漏洞可从客户机获取宿主机root权限，上报该漏洞的研究员获5万美元最高奖励。"
       }
     }
   ]
