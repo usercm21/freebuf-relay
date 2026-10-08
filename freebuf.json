@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1791433958188,
+  "updatedAt": 1791459331280,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/505229.html",
+      "title": "Atlassian高危漏洞遭在野利用，细节公开数小时即现攻击",
+      "url": "https://www.freebuf.com/news/505229.html",
+      "pubDate": "Thu, 08 Oct 2026 07:26:49 +0800",
+      "extra": {
+        "hover": "Atlassian高危漏洞CVE-2026-21589细节公开数小时即遭在野攻击，未授权即可窃取敏感文件，用户需尽快升级修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505227.html",
+      "title": "Splunk修复Enterprise高危漏洞，CVSS 9.8可致未授权远程命令执行",
+      "url": "https://www.freebuf.com/news/505227.html",
+      "pubDate": "Thu, 08 Oct 2026 07:04:19 +0800",
+      "extra": {
+        "hover": "Splunk修复Enterprise高危漏洞，该漏洞CVSS9.8分，无需登录即可被利用远程执行命令，受影响用户需尽快升级或采取缓解措施。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505189.html",
+      "title": "Elastic修复14个安全漏洞，高危缺陷可拦截跨用户数据",
+      "url": "https://www.freebuf.com/news/505189.html",
+      "pubDate": "Thu, 08 Oct 2026 03:41:40 +0800",
+      "extra": {
+        "hover": "Elastic修复14个安全漏洞，其中Kibana高危漏洞可拦截跨用户数据，删恶意包无法彻底清除风险，用户需尽快升级补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505188.html",
+      "title": "SonicWall再曝CVSS 10分严重漏洞，非偶发事件属系统性安全问题",
+      "url": "https://www.freebuf.com/news/505188.html",
+      "pubDate": "Thu, 08 Oct 2026 03:19:05 +0800",
+      "extra": {
+        "hover": "SonicWall核心网络设备再曝CVSS满分漏洞，未认证即可远程接管，属系统性问题而非偶发，暂无在野利用证据，用户需尽快修复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/505056.html",
       "title": "OpenAI曝出沙箱逃逸漏洞，无需API密钥就能免费调用付费模型",
@@ -26,6 +62,15 @@
       "pubDate": "Wed, 07 Oct 2026 08:27:31 +0800",
       "extra": {
         "hover": "Pwn2Own 2026首日，研究人员用32个0Day攻破三星S26、OpenAI Codex等产品，累计揽获奖金38.85万美元，Google Pixel 10未被攻破。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/505115.html",
+      "title": "日经新闻再曝安全事件：微软和谷歌邮箱被入侵",
+      "url": "https://www.freebuf.com/articles/505115.html",
+      "pubDate": "Wed, 07 Oct 2026 07:55:05 +0800",
+      "extra": {
+        "hover": "日经云邮箱遭非法访问，被攻陷账户成“可信攻击渠道”，约9000封钓鱼邮件发出，1646人信息或泄露。"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Tue, 06 Oct 2026 09:17:50 +0800",
       "extra": {
         "hover": "OpenAI 开源 Codex Security，一条命令代理式挖洞，把误报摁死在本地；大仓库先设成本上限。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/504882.html",
-      "title": "Gartner推出ISOC新安全工具类别，打通检测响应无需堆叠工具",
-      "url": "https://www.freebuf.com/articles/es/504882.html",
-      "pubDate": "Tue, 06 Oct 2026 09:00:00 +0800",
-      "extra": {
-        "hover": "Gartner推出ISOC新安全工具类别，以SIEM为核心打通检测响应，消除工具堆叠摩擦，应对AI时代机器速度传播的安全威胁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504857.html",
-      "title": "ClingSTUN Linux后门滥用公共STUN基础设施，绕过NAT隐藏恶意流量",
-      "url": "https://www.freebuf.com/news/504857.html",
-      "pubDate": "Tue, 06 Oct 2026 06:31:08 +0800",
-      "extra": {
-        "hover": "Fortinet披露ClingSTUN Linux后门，滥用公共STUN基础设施伪装正常流量，借未修补漏洞入侵IoT设备，极易绕过常规检测，威胁联网设备安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504785.html",
-      "title": "攻击者利用Realtek Jungle SDK漏洞，投放基于STUN C2的Cling僵尸网络",
-      "url": "https://www.freebuf.com/news/504785.html",
-      "pubDate": "Mon, 05 Oct 2026 17:16:25 +0800",
-      "extra": {
-        "hover": "Realtek Jungle SDK关键漏洞利用激增，攻击者大肆投放Cling僵尸网络，其伪装STUN流量隐蔽难测，可横向扩散、发起DoS攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504787.html",
-      "title": "补丁推送后攻击仍持续，技术细节暂未公开",
-      "url": "https://www.freebuf.com/news/504787.html",
-      "pubDate": "Mon, 05 Oct 2026 14:53:48 +0800",
-      "extra": {
-        "hover": "CISA通报NetScaler漏洞CVE-2026-88779正遭在野利用，可致设备崩溃，已现攻击案例，用户需尽快升级补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/504729.html",
-      "title": "NetScaler新0Day遭定向攻击利用，可致SAML部署离线",
-      "url": "https://www.freebuf.com/news/504729.html",
-      "pubDate": "Mon, 05 Oct 2026 12:10:19 +0800",
-      "extra": {
-        "hover": "Citrix修复NetScaler高危0Day漏洞CVE-2026-88779，该漏洞已遭在野定向利用，可致SAML部署服务离线，CISA要求限期修复。"
       }
     }
   ]
