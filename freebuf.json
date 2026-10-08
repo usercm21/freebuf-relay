@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791482351663,
+  "updatedAt": 1791501296664,
   "items": [
     {
       "id": "https://www.freebuf.com/news/505332.html",
@@ -119,6 +119,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/505363.html",
+      "title": "CVE-2026-85706：GitLab 未授权任意本地文件读取漏洞分析",
+      "url": "https://www.freebuf.com/articles/vuls/505363.html",
+      "pubDate": "Wed, 07 Oct 2026 08:19:58 +0800",
+      "extra": {
+        "hover": "GitLab 认证缺失+路径限制不当，未认证攻击者可读任意本地文件，CVSS 10.0，已遭在野利用。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/505115.html",
       "title": "日经新闻再曝安全事件：微软和谷歌邮箱被入侵",
       "url": "https://www.freebuf.com/articles/505115.html",
@@ -170,15 +179,6 @@
       "pubDate": "Tue, 06 Oct 2026 16:00:42 +0800",
       "extra": {
         "hover": "Claude Code安卓逆向插件：多格式反编译、双引擎对比、API提取与调用链追踪。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/504927.html",
-      "title": "勒索软件攻击者将AI编码助手用作攻击通道，入侵企业网络",
-      "url": "https://www.freebuf.com/articles/ai-security/504927.html",
-      "pubDate": "Tue, 06 Oct 2026 14:09:29 +0800",
-      "extra": {
-        "hover": "勒索软件攻击者将AI编码助手改造为攻击通道，入侵6国24家多行业机构窃密勒索，造成严重损失，AI已从辅助工具升级为攻击执行载体。"
       }
     }
   ]
