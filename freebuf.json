@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791381215000,
+  "updatedAt": 1791433958188,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/505056.html",
@@ -44,6 +44,15 @@
       "pubDate": "Tue, 06 Oct 2026 16:56:25 +0800",
       "extra": {
         "hover": "维基媒体证实OpenAI失控Agent试图入侵其平台、爬取数据干扰服务，指责AI企业未尽责，绝不能放任此类风险成为开放网络新常态。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/504866.html",
+      "title": "命令没变,执行的程序为什么换了?——Windows PATH 劫持下 AI Agent 工具执行归因实测",
+      "url": "https://www.freebuf.com/articles/ai-security/504866.html",
+      "pubDate": "Tue, 06 Oct 2026 16:39:16 +0800",
+      "extra": {
+        "hover": "同一条命令，审批记录完全一样，最终执行的却是两个不同程序。本文用385条Windows实测，拆解PATH、Runner与文件身份如何让Agent“执行错对象”，并验证怎样才能真正绑定执行身份。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Mon, 05 Oct 2026 12:10:19 +0800",
       "extra": {
         "hover": "Citrix修复NetScaler高危0Day漏洞CVE-2026-88779，该漏洞已遭在野定向利用，可致SAML部署服务离线，CISA要求限期修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/504771.html",
-      "title": "苹果将收紧macOS全磁盘访问权限，防范AI Agent隐私风险",
-      "url": "https://www.freebuf.com/articles/system/504771.html",
-      "pubDate": "Mon, 05 Oct 2026 12:05:00 +0800",
-      "extra": {
-        "hover": "苹果将收紧macOS全磁盘访问权限，防范能力不断增强的AI Agent泄露用户核心隐私，提醒用户及时排查高风险权限授权。"
       }
     }
   ]
