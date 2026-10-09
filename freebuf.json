@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1791514702952,
+  "updatedAt": 1791541200063,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505455.html",
+      "title": "PCI SSC发布支付场景AI安全指引，涉持卡人数据的Agent操作需人工审批",
+      "url": "https://www.freebuf.com/articles/ai-security/505455.html",
+      "pubDate": "Fri, 09 Oct 2026 05:00:25 +0800",
+      "extra": {
+        "hover": "PCI SSC发布支付环境AI安全指引，明确涉持卡人数据的AI操作需人工审批，配套权限管控、AI攻击防御等合规要求。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ics-articles/505450.html",
+      "title": "Anthropic启动Cyber Mission，聚焦漏洞修复助力安全防御",
+      "url": "https://www.freebuf.com/articles/ics-articles/505450.html",
+      "pubDate": "Fri, 09 Oct 2026 03:11:19 +0800",
+      "extra": {
+        "hover": "Anthropic启动Cyber Mission，推出关键基础设施防护项目与免费开源扫描工具，聚焦漏洞修复，联合伙伴筑牢网络安全防线。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/database/505380.html",
       "title": "日本Web数据泄露事件激增，移动API遭滥用Metabase漏洞被利用",
@@ -11,12 +29,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/505454.html",
+      "title": "特权更高的 ADCS ESC_CES 攻击",
+      "url": "https://www.freebuf.com/articles/vuls/505454.html",
+      "pubDate": "Thu, 08 Oct 2026 19:51:02 +0800",
+      "extra": {
+        "hover": "AD CS 的 NTLM 中继多聚焦 Web 注册，但 CES 也可被滥用：Web 注册能，CES 为何不能？可提权并获取证书。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/505262.html",
       "title": "FreeBuf早报 | Pwn2Own 2026首日赛果出炉；OpenAI曝出沙箱逃逸漏洞",
       "url": "https://www.freebuf.com/news/505262.html",
       "pubDate": "Thu, 08 Oct 2026 17:54:59 +0800",
       "extra": {
         "hover": "Pwn2Own 2026首日，研究人员用32个0Day攻破三星S26、OpenAI Codex等产品，累计揽获奖金38.85万美元，Google Pixel 10未被攻破。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/505406.html",
+      "title": "从攻击到防御：KVGov 如何阻断 KV Cache 时间侧信道",
+      "url": "https://www.freebuf.com/articles/505406.html",
+      "pubDate": "Thu, 08 Oct 2026 17:40:54 +0800",
+      "extra": {
+        "hover": "攻击者靠响应快慢即可反推受害者账户；跨租户Cache命中100%。KVGov用HMAC Salt隔离防御。"
       }
     },
     {
@@ -83,6 +119,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/505402.html",
+      "title": "Hessian Groovy全新链条分析与黑名单绕过",
+      "url": "https://www.freebuf.com/articles/vuls/505402.html",
+      "pubDate": "Thu, 08 Oct 2026 11:04:06 +0800",
+      "extra": {
+        "hover": "“只能打JNDI”？实则命令执行！Groovy新链Hashmap入口，无需动态代理，可绕黑名单。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/sectool/505358.html",
       "title": "1.86 秒扫完 65535 个端口！给 Nmap 提个速",
       "url": "https://www.freebuf.com/articles/sectool/505358.html",
@@ -134,51 +179,6 @@
       "pubDate": "Wed, 07 Oct 2026 11:18:37 +0800",
       "extra": {
         "hover": "ELK一装就满，AI中枢一抖全瘫；8G旧服务器靠分级存储、拉模型采集、AI消费点也能搭SOC。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505056.html",
-      "title": "OpenAI曝出沙箱逃逸漏洞，无需API密钥就能免费调用付费模型",
-      "url": "https://www.freebuf.com/articles/ai-security/505056.html",
-      "pubDate": "Wed, 07 Oct 2026 10:34:52 +0800",
-      "extra": {
-        "hover": "OpenAI曝出无需账号、API密钥即可调用付费模型的沙箱逃逸漏洞，仅300美元奖励引发研究员不满，称今后绝不再向其上报问题。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505034.html",
-      "title": "OpenSSH 10.6修复多项高危漏洞，可致明文恢复、文件写入与注入",
-      "url": "https://www.freebuf.com/news/505034.html",
-      "pubDate": "Wed, 07 Oct 2026 08:47:31 +0800",
-      "extra": {
-        "hover": "OpenSSH 10.6正式发布，修复可致明文恢复、越权写入、命令注入的多项高危漏洞，用户需尽快升级防范攻击风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505035.html",
-      "title": "Pwn2Own 2026首日赛果出炉，32个0Day攻破三星S26、OpenAI Codex等产品",
-      "url": "https://www.freebuf.com/news/505035.html",
-      "pubDate": "Wed, 07 Oct 2026 08:27:31 +0800",
-      "extra": {
-        "hover": "Pwn2Own 2026首日，研究人员用32个0Day攻破三星S26、OpenAI Codex等产品，累计揽获奖金38.85万美元，Google Pixel 10未被攻破。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/505363.html",
-      "title": "CVE-2026-85706：GitLab 未授权任意本地文件读取漏洞分析",
-      "url": "https://www.freebuf.com/articles/vuls/505363.html",
-      "pubDate": "Wed, 07 Oct 2026 08:19:58 +0800",
-      "extra": {
-        "hover": "GitLab 认证缺失+路径限制不当，未认证攻击者可读任意本地文件，CVSS 10.0，已遭在野利用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/505115.html",
-      "title": "日经新闻再曝安全事件：微软和谷歌邮箱被入侵",
-      "url": "https://www.freebuf.com/articles/505115.html",
-      "pubDate": "Wed, 07 Oct 2026 07:55:05 +0800",
-      "extra": {
-        "hover": "日经云邮箱遭非法访问，被攻陷账户成“可信攻击渠道”，约9000封钓鱼邮件发出，1646人信息或泄露。"
       }
     }
   ]
