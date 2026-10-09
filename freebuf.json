@@ -1,6 +1,60 @@
 {
-  "updatedAt": 1791565436515,
+  "updatedAt": 1791581916195,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/505598.html",
+      "title": "P7 DarkSword iOS漏洞利用工具包升级，新增加密钱包窃取与远程命令功能",
+      "url": "https://www.freebuf.com/news/505598.html",
+      "pubDate": "Fri, 09 Oct 2026 21:59:55 +0800",
+      "extra": {
+        "hover": "P7 DarkSword iOS漏洞利用工具包升级，可窃取加密钱包、钥匙串敏感数据并远程控制设备，已在野扩散威胁iPhone用户安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505577.html",
+      "title": "Anthropic推出免费AI漏洞扫描器，面向开源项目开放使用",
+      "url": "https://www.freebuf.com/news/505577.html",
+      "pubDate": "Fri, 09 Oct 2026 18:17:28 +0800",
+      "extra": {
+        "hover": "Anthropic推出面向开源项目的免费AI漏洞扫描器，配套关键基础设施防护计划，对冲AI拉低攻击门槛的风险，预判未来AI将更利好网络安全防御侧。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505607.html",
+      "title": "AnyDesk Linux曝高危漏洞，无需认证可远程执行Root级代码",
+      "url": "https://www.freebuf.com/news/505607.html",
+      "pubDate": "Fri, 09 Oct 2026 17:15:43 +0800",
+      "extra": {
+        "hover": "AnyDesk Linux 8.0.2版曝高危漏洞，无需认证即可远程获取Root权限，已有公开PoC，用户需立即升级至8.0.3版防范入侵风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505599.html",
+      "title": "Agentic AI红队检查清单发布，222项测试覆盖20类攻击场景",
+      "url": "https://www.freebuf.com/articles/ai-security/505599.html",
+      "pubDate": "Fri, 09 Oct 2026 16:06:56 +0800",
+      "extra": {
+        "hover": "免费Agentic AI红队测试清单发布，含222项跨20类攻击场景测试，可排查自主AI系统易被攻击者利用的多维度安全盲区。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/505596.html",
+      "title": "程序员男友写“抢号软件”帮女友挂专家号 后收费帮人抢号致医院挂号系统瘫痪，医院报警法院判了",
+      "url": "https://www.freebuf.com/articles/505596.html",
+      "pubDate": "Fri, 09 Oct 2026 15:00:35 +0800",
+      "extra": {
+        "hover": "为帮女友编写抢号软件并收费代抢，搞瘫医院挂号系统，二人因破坏计算机信息系统罪获刑。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505580.html",
+      "title": "Cisco Talos发布安全预警，自主AI Agent可将渗透测试转为隐蔽红队攻击",
+      "url": "https://www.freebuf.com/articles/ai-security/505580.html",
+      "pubDate": "Fri, 09 Oct 2026 14:29:13 +0800",
+      "extra": {
+        "hover": "Cisco Talos预警：自主AI Agent攻击可从易察觉的渗透活动转向隐蔽红队行动，能将数月攻击工作压缩至数小时，企业需强化全链路检测防御。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/505512.html",
       "title": "三支队伍Pwn2Own攻破全补丁谷歌Pixel 10，均实现远程入侵",
@@ -125,60 +179,6 @@
       "pubDate": "Thu, 08 Oct 2026 12:32:17 +0800",
       "extra": {
         "hover": "GhostAction供应链攻击卷土重来，植入恶意GitHub Actions工作流窃取CI/CD凭证，数百仓库被攻陷，残留恶意文件仍存窃密风险，泄露凭证可被多团伙复用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/505408.html",
-      "title": "【一个人的SOC】(02) 从零部署——一小时跑起来的实战与踩坑",
-      "url": "https://www.freebuf.com/articles/sectool/505408.html",
-      "pubDate": "Thu, 08 Oct 2026 11:31:06 +0800",
-      "extra": {
-        "hover": "从裸机到登录 SOC 控制台，到底几步、卡哪？5 步 45 分钟；跳过建表登录直接 500，.env 键名不对静默坑人，官方从不写你会卡 20 分钟。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505175.html",
-      "title": "MCP 工具投毒实战：从恶意 Tool Description 到 AI Agent 代码执行",
-      "url": "https://www.freebuf.com/articles/ai-security/505175.html",
-      "pubDate": "Thu, 08 Oct 2026 11:24:55 +0800",
-      "extra": {
-        "hover": "MCP 工具投毒实战：从恶意 Tool Description 到 AI Agent 代码执行"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505314.html",
-      "title": "单独黑客利用AI工具入侵韩国金融机构，窃取客户及员工数据",
-      "url": "https://www.freebuf.com/articles/ai-security/505314.html",
-      "pubDate": "Thu, 08 Oct 2026 11:14:26 +0800",
-      "extra": {
-        "hover": "单黑客仅凭开源AI渗透工具ARTEX入侵韩国多家金融机构，窃取客户及员工敏感数据，凸显AI降低网络攻击门槛的严峻安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/505402.html",
-      "title": "Hessian Groovy全新链条分析与黑名单绕过",
-      "url": "https://www.freebuf.com/articles/vuls/505402.html",
-      "pubDate": "Thu, 08 Oct 2026 11:04:06 +0800",
-      "extra": {
-        "hover": "“只能打JNDI”？实则命令执行！Groovy新链Hashmap入口，无需动态代理，可绕黑名单。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/505154.html",
-      "title": "正则灾难性回溯：二十几个字符就能让匹配跑满一秒",
-      "url": "https://www.freebuf.com/articles/web/505154.html",
-      "pubDate": "Thu, 08 Oct 2026 09:43:56 +0800",
-      "extra": {
-        "hover": "本文测的是单次调用的资源消耗，它在整条链路上的放大方式与本系列其他结论相互印证。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/505358.html",
-      "title": "1.86 秒扫完 65535 个端口！给 Nmap 提个速",
-      "url": "https://www.freebuf.com/articles/sectool/505358.html",
-      "pubDate": "Thu, 08 Oct 2026 08:01:12 +0800",
-      "extra": {
-        "hover": "nmap 扫全端口慢到谁扫谁知道；RustScan 两阶段极速找端口，再交 nmap 深探，ulimit 低会漏报。"
       }
     }
   ]
