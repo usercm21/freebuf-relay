@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1791541200063,
+  "updatedAt": 1791565436515,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/505512.html",
+      "title": "三支队伍Pwn2Own攻破全补丁谷歌Pixel 10，均实现远程入侵",
+      "url": "https://www.freebuf.com/news/505512.html",
+      "pubDate": "Fri, 09 Oct 2026 13:56:17 +0800",
+      "extra": {
+        "hover": "Pwn2Own黑客大赛上三支团队成功远程攻破全补丁谷歌Pixel 10，本届总奖金超120万美元，相关漏洞将移交厂商修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505519.html",
+      "title": "Telegram Desktop漏洞PoC公开，One-Click就可以窃密接管账号",
+      "url": "https://www.freebuf.com/news/505519.html",
+      "pubDate": "Fri, 09 Oct 2026 09:54:02 +0800",
+      "extra": {
+        "hover": "高危预警！Telegram Desktop旧版存漏洞，点恶意外链即可被盗取本地文件、接管账号，PoC已公开，官方已推修复版本，请尽快升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/505477.html",
+      "title": "BPFDoor后门暴露网络边界攻击风险，无Agent边缘设备成防御盲区",
+      "url": "https://www.freebuf.com/articles/system/505477.html",
+      "pubDate": "Fri, 09 Oct 2026 06:00:22 +0800",
+      "extra": {
+        "hover": "极难检测的静默型BPFDoor后门盯上无Agent边缘设备，电信网络遭入侵可危及国家安全，CISO需正视防御盲区及时排查。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/505455.html",
       "title": "PCI SSC发布支付场景AI安全指引，涉持卡人数据的Agent操作需人工审批",
@@ -110,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/505175.html",
+      "title": "MCP 工具投毒实战：从恶意 Tool Description 到 AI Agent 代码执行",
+      "url": "https://www.freebuf.com/articles/ai-security/505175.html",
+      "pubDate": "Thu, 08 Oct 2026 11:24:55 +0800",
+      "extra": {
+        "hover": "MCP 工具投毒实战：从恶意 Tool Description 到 AI Agent 代码执行"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/505314.html",
       "title": "单独黑客利用AI工具入侵韩国金融机构，窃取客户及员工数据",
       "url": "https://www.freebuf.com/articles/ai-security/505314.html",
@@ -128,57 +164,21 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/web/505154.html",
+      "title": "正则灾难性回溯：二十几个字符就能让匹配跑满一秒",
+      "url": "https://www.freebuf.com/articles/web/505154.html",
+      "pubDate": "Thu, 08 Oct 2026 09:43:56 +0800",
+      "extra": {
+        "hover": "本文测的是单次调用的资源消耗，它在整条链路上的放大方式与本系列其他结论相互印证。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/sectool/505358.html",
       "title": "1.86 秒扫完 65535 个端口！给 Nmap 提个速",
       "url": "https://www.freebuf.com/articles/sectool/505358.html",
       "pubDate": "Thu, 08 Oct 2026 08:01:12 +0800",
       "extra": {
         "hover": "nmap 扫全端口慢到谁扫谁知道；RustScan 两阶段极速找端口，再交 nmap 深探，ulimit 低会漏报。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505229.html",
-      "title": "Atlassian高危漏洞遭在野利用，细节公开数小时即现攻击",
-      "url": "https://www.freebuf.com/news/505229.html",
-      "pubDate": "Thu, 08 Oct 2026 07:26:49 +0800",
-      "extra": {
-        "hover": "Atlassian高危漏洞CVE-2026-21589细节公开数小时即遭在野攻击，未授权即可窃取敏感文件，用户需尽快升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505227.html",
-      "title": "Splunk修复Enterprise高危漏洞，CVSS 9.8可致未授权远程命令执行",
-      "url": "https://www.freebuf.com/news/505227.html",
-      "pubDate": "Thu, 08 Oct 2026 07:04:19 +0800",
-      "extra": {
-        "hover": "Splunk修复Enterprise高危漏洞，该漏洞CVSS9.8分，无需登录即可被利用远程执行命令，受影响用户需尽快升级或采取缓解措施。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505189.html",
-      "title": "Elastic修复14个安全漏洞，高危缺陷可拦截跨用户数据",
-      "url": "https://www.freebuf.com/news/505189.html",
-      "pubDate": "Thu, 08 Oct 2026 03:41:40 +0800",
-      "extra": {
-        "hover": "Elastic修复14个安全漏洞，其中Kibana高危漏洞可拦截跨用户数据，删恶意包无法彻底清除风险，用户需尽快升级补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505188.html",
-      "title": "SonicWall再曝CVSS 10分严重漏洞，非偶发事件属系统性安全问题",
-      "url": "https://www.freebuf.com/news/505188.html",
-      "pubDate": "Thu, 08 Oct 2026 03:19:05 +0800",
-      "extra": {
-        "hover": "SonicWall核心网络设备再曝CVSS满分漏洞，未认证即可远程接管，属系统性问题而非偶发，暂无在野利用证据，用户需尽快修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/505407.html",
-      "title": "【一个人的SOC】(01) 总体架构——8G 内存的小服务器如何装下一个 SOC",
-      "url": "https://www.freebuf.com/articles/es/505407.html",
-      "pubDate": "Wed, 07 Oct 2026 11:18:37 +0800",
-      "extra": {
-        "hover": "ELK一装就满，AI中枢一抖全瘫；8G旧服务器靠分级存储、拉模型采集、AI消费点也能搭SOC。"
       }
     }
   ]
