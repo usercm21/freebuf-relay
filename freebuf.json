@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791581916195,
+  "updatedAt": 1791594917987,
   "items": [
     {
       "id": "https://www.freebuf.com/news/505598.html",
@@ -71,6 +71,15 @@
       "pubDate": "Fri, 09 Oct 2026 09:54:02 +0800",
       "extra": {
         "hover": "高危预警！Telegram Desktop旧版存漏洞，点恶意外链即可被盗取本地文件、接管账号，PoC已公开，官方已推修复版本，请尽快升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/505587.html",
+      "title": "【今日说法】开发渗透/逆向工具是否违法？ 从 ARTEX 事件看「工具无罪」的边界",
+      "url": "https://www.freebuf.com/articles/505587.html",
+      "pubDate": "Fri, 09 Oct 2026 08:40:35 +0800",
+      "extra": {
+        "hover": "工具无罪？递给明知犯罪者便有罪。韩国7金融机构遭入侵、6.8万人信息外泄，开源AI渗透工具法律边界引追问。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 08 Oct 2026 14:19:23 +0800",
       "extra": {
         "hover": "攻击者滥用Web3与区块链作为C2通道隐藏供应链攻击，瞄准开发者云凭证，无需更新恶意代码即可轮换攻击基础设施，严重威胁开发安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/505321.html",
-      "title": "GhostAction供应链攻击卷土重来，恶意GitHub Actions窃取CI/CD凭证",
-      "url": "https://www.freebuf.com/articles/development/505321.html",
-      "pubDate": "Thu, 08 Oct 2026 12:32:17 +0800",
-      "extra": {
-        "hover": "GhostAction供应链攻击卷土重来，植入恶意GitHub Actions工作流窃取CI/CD凭证，数百仓库被攻陷，残留恶意文件仍存窃密风险，泄露凭证可被多团伙复用。"
       }
     }
   ]
