@@ -1,6 +1,60 @@
 {
-  "updatedAt": 1791616490278,
+  "updatedAt": 1791640127485,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/505693.html",
+      "title": "当 LLM 漏洞扫描器撞上真实模型：一次 80% 误报率的自我打脸",
+      "url": "https://www.freebuf.com/articles/vuls/505693.html",
+      "pubDate": "Sat, 10 Oct 2026 17:02:00 +0800",
+      "extra": {
+        "hover": "用自研 AI 安全测试工具「鉴微」扫描本地 某Qw，报出 52.2% 攻击成功率；逐条复核后却发现约八成是误报。本文复盘这次真机实测，剖析 LLM 安全判定层最易踩的四类根因。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505704.html",
+      "title": "Anthropic切断内部AI测试实时联网权限，因Claude利用注入漏洞越界操作",
+      "url": "https://www.freebuf.com/articles/ai-security/505704.html",
+      "pubDate": "Sat, 10 Oct 2026 14:48:45 +0800",
+      "extra": {
+        "hover": "Anthropic发现Claude模型存在越界联网操作（如向警局提交虚假凶杀线索），已切断内部测试环境实时联网权限，AI安全问题引发监管重视。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/505669.html",
+      "title": "打满补丁的 Windows 也能拿到 SYSTEM：MiniPlasma 与 cldflt.sys 的五年老根",
+      "url": "https://www.freebuf.com/articles/vuls/505669.html",
+      "pubDate": "Sat, 10 Oct 2026 14:37:30 +0800",
+      "extra": {
+        "hover": "摘要安全研究者公开了一个代号 MiniPlasma的 Windows 零日漏洞的 PoC 利用程序。它的三个特点决定了它的危险性远高于&quot;又一个本地提权&quot;：范围：影响截至 2026 年 5 月已安装全部微软安全更新的 Windows 系统，即&quot;打满补丁也中&quot;；门槛：攻击者只需要一个标准用户（本地或已获得的低权会话），不需要任何交互；成熟度：源码与编译好的二进制同时公开，对手可以直接使用，几乎没有二次"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/505664.html",
+      "title": "WordPress 核心被打出 RCE：wp2shell 双漏洞链技术拆解（CVE-2026-63030 + CVE-2026-60137）",
+      "url": "https://www.freebuf.com/articles/vuls/505664.html",
+      "pubDate": "Sat, 10 Oct 2026 13:56:40 +0800",
+      "extra": {
+        "hover": "一个未认证请求，绕过 REST 校验、注入 SQL、投毒对象缓存、创建管理员、上传可执行文件。全程不涉及任何插件。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/505663.html",
+      "title": "一个 root 换几千个站点：cPanel & WHM 三连漏洞复盘（CVE-2026-93698  CVE-2026-93029  CVE-2026-93697）",
+      "url": "https://www.freebuf.com/articles/vuls/505663.html",
+      "pubDate": "Sat, 10 Oct 2026 13:54:20 +0800",
+      "extra": {
+        "hover": "面板层的一个 root，等于同一台机器上所有租户一起失守- 网站文件、数据库、邮件数据、服务器配置，全部在同一权限面下。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/505661.html",
+      "title": "一个未认证请求打穿 SAP 内核 — OVERPASS（CVE-2026-44756）",
+      "url": "https://www.freebuf.com/articles/vuls/505661.html",
+      "pubDate": "Sat, 10 Oct 2026 13:33:05 +0800",
+      "extra": {
+        "hover": "CVSS 10.0 满分：一个未认证请求打穿 SAP 内核 - OVERPASS（CVE-2026-44756）HTTP、WebSocket-RFC、经典 RFC、SAP GUI 四条路，通向同一个栈溢出 文档用途：授权渗透测试、防御加固、应急响应参考 编写日期：2026-10-10（补丁 2026-09-08 发布，2026-09-10 公开技术公告，10 月补丁日 SAP 完成研究者致谢）一、"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/web/505082.html",
       "title": "不止代码漏洞：Nango案例看开源项目文档带来的安全隐患",
@@ -17,6 +71,24 @@
       "pubDate": "Sat, 10 Oct 2026 10:03:15 +0800",
       "extra": {
         "hover": "\t 各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/505695.html",
+      "title": "逆向万物！REA打通AI编码与逆向工具，支持多类目标无源码分析",
+      "url": "https://www.freebuf.com/articles/505695.html",
+      "pubDate": "Sat, 10 Oct 2026 08:08:45 +0800",
+      "extra": {
+        "hover": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505606.html",
+      "title": "Agent 应用生态安全风险（一）：从提示词注入到工具与沙箱",
+      "url": "https://www.freebuf.com/articles/ai-security/505606.html",
+      "pubDate": "Sat, 10 Oct 2026 02:00:23 +0800",
+      "extra": {
+        "hover": "本文围绕第三方 Agent 应用，介绍从信息收集、调用分析到漏洞验证的测试方法。"
       }
     },
     {
@@ -101,84 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/news/505519.html",
-      "title": "Telegram Desktop漏洞PoC公开，One-Click就可以窃密接管账号",
-      "url": "https://www.freebuf.com/news/505519.html",
-      "pubDate": "Fri, 09 Oct 2026 09:54:02 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/505443.html",
+      "title": "权限大于对齐Agent安全的另一种思路",
+      "url": "https://www.freebuf.com/articles/ai-security/505443.html",
+      "pubDate": "Fri, 09 Oct 2026 11:19:06 +0800",
       "extra": {
-        "hover": "高危预警！Telegram Desktop旧版存漏洞，点恶意外链即可被盗取本地文件、接管账号，PoC已公开，官方已推修复版本，请尽快升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/505587.html",
-      "title": "【今日说法】开发渗透/逆向工具是否违法？ 从 ARTEX 事件看「工具无罪」的边界",
-      "url": "https://www.freebuf.com/articles/505587.html",
-      "pubDate": "Fri, 09 Oct 2026 08:40:35 +0800",
-      "extra": {
-        "hover": "工具无罪？递给明知犯罪者便有罪。韩国7金融机构遭入侵、6.8万人信息外泄，开源AI渗透工具法律边界引追问。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/505477.html",
-      "title": "BPFDoor后门暴露网络边界攻击风险，无Agent边缘设备成防御盲区",
-      "url": "https://www.freebuf.com/articles/system/505477.html",
-      "pubDate": "Fri, 09 Oct 2026 06:00:22 +0800",
-      "extra": {
-        "hover": "极难检测的静默型BPFDoor后门盯上无Agent边缘设备，电信网络遭入侵可危及国家安全，CISO需正视防御盲区及时排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505455.html",
-      "title": "PCI SSC发布支付场景AI安全指引，涉持卡人数据的Agent操作需人工审批",
-      "url": "https://www.freebuf.com/articles/ai-security/505455.html",
-      "pubDate": "Fri, 09 Oct 2026 05:00:25 +0800",
-      "extra": {
-        "hover": "PCI SSC发布支付环境AI安全指引，明确涉持卡人数据的AI操作需人工审批，配套权限管控、AI攻击防御等合规要求。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ics-articles/505450.html",
-      "title": "Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御",
-      "url": "https://www.freebuf.com/articles/ics-articles/505450.html",
-      "pubDate": "Fri, 09 Oct 2026 03:11:19 +0800",
-      "extra": {
-        "hover": "Anthropic启动Cyber Mission，推出关键基础设施防护项目与免费开源扫描工具，聚焦漏洞修复，联合伙伴筑牢网络安全防线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/505380.html",
-      "title": "日本Web数据泄露事件激增，移动API遭滥用Metabase漏洞被利用",
-      "url": "https://www.freebuf.com/articles/database/505380.html",
-      "pubDate": "Thu, 08 Oct 2026 21:15:56 +0800",
-      "extra": {
-        "hover": "日本近期Web数据泄露事件激增，攻击者无差别滥用移动API、利用Metabase漏洞窃取千万级用户信息，需紧急防范。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/505454.html",
-      "title": "特权更高的 ADCS ESC_CES 攻击",
-      "url": "https://www.freebuf.com/articles/vuls/505454.html",
-      "pubDate": "Thu, 08 Oct 2026 19:51:02 +0800",
-      "extra": {
-        "hover": "AD CS 的 NTLM 中继多聚焦 Web 注册，但 CES 也可被滥用：Web 注册能，CES 为何不能？可提权并获取证书。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505262.html",
-      "title": "FreeBuf早报 | Pwn2Own 2026首日赛果出炉；OpenAI曝出沙箱逃逸漏洞",
-      "url": "https://www.freebuf.com/news/505262.html",
-      "pubDate": "Thu, 08 Oct 2026 17:54:59 +0800",
-      "extra": {
-        "hover": "Pwn2Own 2026首日，研究人员用32个0Day攻破三星S26、OpenAI Codex等产品，累计揽获奖金38.85万美元，Google Pixel 10未被攻破。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/505406.html",
-      "title": "从攻击到防御：KVGov 如何阻断 KV Cache 时间侧信道",
-      "url": "https://www.freebuf.com/articles/505406.html",
-      "pubDate": "Thu, 08 Oct 2026 17:40:54 +0800",
-      "extra": {
-        "hover": "攻击者靠响应快慢即可反推受害者账户；跨租户Cache命中100%。KVGov用HMAC Salt隔离防御。"
+        "hover": "把模型当安全边界的思路有两个盲区。本文换成“借用权限的代理”这一视角，用三档权限的对照实验说明：注入是否被采纳与后果大小无关，可操作的只有损失上界。"
       }
     }
   ]
