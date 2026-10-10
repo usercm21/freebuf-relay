@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1791594917987,
+  "updatedAt": 1791616490278,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/web/505082.html",
+      "title": "不止代码漏洞：Nango案例看开源项目文档带来的安全隐患",
+      "url": "https://www.freebuf.com/articles/web/505082.html",
+      "pubDate": "Sat, 10 Oct 2026 11:00:24 +0800",
+      "extra": {
+        "hover": "本文以开源AI集成平台 Nango 为审计案例，通过完整源码梳理、链路推演与负责任披露过程，分析文档默认配置引导造成的权限接管隐患。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/505638.html",
+      "title": "Pwn2Own 2026首日赛果出炉；黑客利用AI工具入侵韩国金融机构 | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/505638.html",
+      "pubDate": "Sat, 10 Oct 2026 10:03:15 +0800",
+      "extra": {
+        "hover": "\t 各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/505618.html",
+      "title": "数万GitHub仓库遭植入恶意Actions工作流，窃取全量历史存储凭证",
+      "url": "https://www.freebuf.com/articles/development/505618.html",
+      "pubDate": "Sat, 10 Oct 2026 00:44:28 +0800",
+      "extra": {
+        "hover": "紧急提醒！数万GitHub仓库遭植入恶意Actions工作流，可窃取全量历史存储凭证，波及高星项目，开发者需立即排查轮换密钥。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/505598.html",
       "title": "P7 DarkSword iOS漏洞利用工具包升级，新增加密钱包窃取与远程命令功能",
@@ -8,6 +35,15 @@
       "pubDate": "Fri, 09 Oct 2026 21:59:55 +0800",
       "extra": {
         "hover": "P7 DarkSword iOS漏洞利用工具包升级，可窃取加密钱包、钥匙串敏感数据并远程控制设备，已在野扩散威胁iPhone用户安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/505534.html",
+      "title": "FreeBuf早报 | 黑客利用AI工具入侵韩国金融机构；日本Web数据泄露事件激增",
+      "url": "https://www.freebuf.com/news/505534.html",
+      "pubDate": "Fri, 09 Oct 2026 19:04:11 +0800",
+      "extra": {
+        "hover": "单黑客仅凭开源AI渗透工具ARTEX入侵韩国多家金融机构，窃取客户及员工敏感数据，凸显AI降低网络攻击门槛的严峻安全风险。"
       }
     },
     {
@@ -102,7 +138,7 @@
     },
     {
       "id": "https://www.freebuf.com/articles/ics-articles/505450.html",
-      "title": "Anthropic启动Cyber Mission，聚焦漏洞修复助力安全防御",
+      "title": "Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御",
       "url": "https://www.freebuf.com/articles/ics-articles/505450.html",
       "pubDate": "Fri, 09 Oct 2026 03:11:19 +0800",
       "extra": {
@@ -143,42 +179,6 @@
       "pubDate": "Thu, 08 Oct 2026 17:40:54 +0800",
       "extra": {
         "hover": "攻击者靠响应快慢即可反推受害者账户；跨租户Cache命中100%。KVGov用HMAC Salt隔离防御。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505376.html",
-      "title": "海康威视摄像头漏洞遭瞄准，乌克兰境内远程代码执行尝试激增",
-      "url": "https://www.freebuf.com/news/505376.html",
-      "pubDate": "Thu, 08 Oct 2026 15:33:38 +0800",
-      "extra": {
-        "hover": "乌克兰境内针对海康威视摄像头9.8分高危无认证RCE漏洞的攻击尝试激增，设备易被远程接管窃密，需尽快打补丁防范安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505332.html",
-      "title": "阳光电源逆变器存严重漏洞，攻击者无需密码可访问光伏电站",
-      "url": "https://www.freebuf.com/news/505332.html",
-      "pubDate": "Thu, 08 Oct 2026 14:57:08 +0800",
-      "extra": {
-        "hover": "阳光电源iSolarCloud平台曝出严重漏洞，攻击者无需密码即可登录，远程操控光伏储能设备、威胁全球供电安全，厂商已紧急修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505340.html",
-      "title": "暗网卖家兜售VirusTotal API密钥，要价350美元真实性待核实",
-      "url": "https://www.freebuf.com/news/505340.html",
-      "pubDate": "Thu, 08 Oct 2026 14:19:24 +0800",
-      "extra": {
-        "hover": "暗网卖家开价350美元兜售VirusTotal企业版API密钥，宣传配额规则存在明显矛盾，真实性待核实，一旦属实将致企业付费配额被盗用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/505330.html",
-      "title": "攻击者利用Web3与区块链C2隐藏供应链攻击，瞄准云凭证",
-      "url": "https://www.freebuf.com/articles/development/505330.html",
-      "pubDate": "Thu, 08 Oct 2026 14:19:23 +0800",
-      "extra": {
-        "hover": "攻击者滥用Web3与区块链作为C2通道隐藏供应链攻击，瞄准开发者云凭证，无需更新恶意代码即可轮换攻击基础设施，严重威胁开发安全。"
       }
     }
   ]
