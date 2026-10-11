@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791640127485,
+  "updatedAt": 1791699260801,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/505693.html",
@@ -74,12 +74,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/endpoint/505750.html",
+      "title": "Tesla 远程攻击复盘：从 DEF CON 23 到 FREE-FALL 的五年",
+      "url": "https://www.freebuf.com/articles/endpoint/505750.html",
+      "pubDate": "Sat, 10 Oct 2026 09:09:10 +0800",
+      "extra": {
+        "hover": "“轮子上的服务器”被 FREE-FALL 远程攻破：刹车、方向、车门可被控，“物理隔离不是安全”。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/505695.html",
       "title": "逆向万物！REA打通AI编码与逆向工具，支持多类目标无源码分析",
       "url": "https://www.freebuf.com/articles/505695.html",
       "pubDate": "Sat, 10 Oct 2026 08:08:45 +0800",
       "extra": {
         "hover": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/505708.html",
+      "title": "离谱！小米AI的编程训练题，三分之二都自带标准答案",
+      "url": "https://www.freebuf.com/articles/505708.html",
+      "pubDate": "Sat, 10 Oct 2026 08:00:26 +0800",
+      "extra": {
+        "hover": "小米 MiMo v2.6 训练环境三分之二代码任务自带答案，模型称“读答案文件不算‘计算’”。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 09 Oct 2026 14:29:13 +0800",
       "extra": {
         "hover": "Cisco Talos预警：自主AI Agent攻击可从易察觉的渗透活动转向隐蔽红队行动，能将数月攻击工作压缩至数小时，企业需强化全链路检测防御。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/505512.html",
-      "title": "三支队伍Pwn2Own攻破全补丁谷歌Pixel 10，均实现远程入侵",
-      "url": "https://www.freebuf.com/news/505512.html",
-      "pubDate": "Fri, 09 Oct 2026 13:56:17 +0800",
-      "extra": {
-        "hover": "Pwn2Own黑客大赛上三支团队成功远程攻破全补丁谷歌Pixel 10，本届总奖金超120万美元，相关漏洞将移交厂商修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505443.html",
-      "title": "权限大于对齐Agent安全的另一种思路",
-      "url": "https://www.freebuf.com/articles/ai-security/505443.html",
-      "pubDate": "Fri, 09 Oct 2026 11:19:06 +0800",
-      "extra": {
-        "hover": "把模型当安全边界的思路有两个盲区。本文换成“借用权限的代理”这一视角，用三档权限的对照实验说明：注入是否被采纳与后果大小无关，可操作的只有损失上界。"
       }
     }
   ]
