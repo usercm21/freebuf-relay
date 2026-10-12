@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1791699260801,
+  "updatedAt": 1791789070162,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/505702.html",
+      "title": "FreeBuf早报 | REA打通AI编码与逆向工具；Anthropic推出免费AI漏洞扫描器",
+      "url": "https://www.freebuf.com/news/505702.html",
+      "pubDate": "Sat, 10 Oct 2026 17:57:35 +0800",
+      "extra": {
+        "hover": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/505693.html",
       "title": "当 LLM 漏洞扫描器撞上真实模型：一次 80% 误报率的自我打脸",
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 09 Oct 2026 15:00:35 +0800",
       "extra": {
         "hover": "为帮女友编写抢号软件并收费代抢，搞瘫医院挂号系统，二人因破坏计算机信息系统罪获刑。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505580.html",
-      "title": "Cisco Talos发布安全预警，自主AI Agent可将渗透测试转为隐蔽红队攻击",
-      "url": "https://www.freebuf.com/articles/ai-security/505580.html",
-      "pubDate": "Fri, 09 Oct 2026 14:29:13 +0800",
-      "extra": {
-        "hover": "Cisco Talos预警：自主AI Agent攻击可从易察觉的渗透活动转向隐蔽红队行动，能将数月攻击工作压缩至数小时，企业需强化全链路检测防御。"
       }
     }
   ]
