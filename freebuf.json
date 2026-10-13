@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1791823652084,
+  "updatedAt": 1791862686603,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/505940.html",
+      "title": "FreeBuf早报 | NVIDIA修复DCGM Exporter高危漏洞；Agentic AI红队检查清单发布",
+      "url": "https://www.freebuf.com/news/505940.html",
+      "pubDate": "Mon, 12 Oct 2026 18:44:15 +0800",
+      "extra": {
+        "hover": "WordPress插件Bricksforge爆CVSS10.0漏洞遭在野利用，未授权即可RCE植入后门，已有大量攻击，需立即升级补丁排查入侵。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/505913.html",
       "title": "【AI 逆向专栏】某点 vmp w_tsfp 逆向分析",
@@ -35,6 +44,24 @@
       "pubDate": "Mon, 12 Oct 2026 15:43:31 +0800",
       "extra": {
         "hover": "本文剖析 RuoYi-Vue（ruoyi-generator 模块）认证后 SQL 注入漏洞（CVE-2024-57521）。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505873.html",
+      "title": "联邦学习攻防实战：分布式AI训练中的数据投毒与防御策略",
+      "url": "https://www.freebuf.com/articles/ai-security/505873.html",
+      "pubDate": "Mon, 12 Oct 2026 15:17:01 +0800",
+      "extra": {
+        "hover": "联邦学习通过&quot;数据不动模型动&quot;的方式，在不交换原始数据的前提下完成联合建模。这一特性完美解决了数据隐私保护难题，但同时也制造了一个严重的安全错觉。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/505869.html",
+      "title": "AI 模型后门攻击：供应链投毒植入隐蔽后门",
+      "url": "https://www.freebuf.com/articles/ai-security/505869.html",
+      "pubDate": "Mon, 12 Oct 2026 15:09:35 +0800",
+      "extra": {
+        "hover": "AI 模型后门攻击：供应链投毒植入隐蔽后门"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Sat, 10 Oct 2026 17:57:35 +0800",
       "extra": {
         "hover": "开源逆向工具REA打通AI编码Agent与Ghidra等专业逆向工具，支持多类目标无源码分析，可输出带证据的分析结果，适配主流AI客户端。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/505693.html",
-      "title": "当 LLM 漏洞扫描器撞上真实模型：一次 80% 误报率的自我打脸",
-      "url": "https://www.freebuf.com/articles/vuls/505693.html",
-      "pubDate": "Sat, 10 Oct 2026 17:02:00 +0800",
-      "extra": {
-        "hover": "用自研 AI 安全测试工具「鉴微」扫描本地 某Qw，报出 52.2% 攻击成功率；逐条复核后却发现约八成是误报。本文复盘这次真机实测，剖析 LLM 安全判定层最易踩的四类根因。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/505831.html",
-      "title": "“卧底入职”杭州多家互联网公司 窃取海量个人信息17人获刑",
-      "url": "https://www.freebuf.com/articles/database/505831.html",
-      "pubDate": "Sat, 10 Oct 2026 15:00:40 +0800",
-      "extra": {
-        "hover": "保密观发布两起警示案例：伪装求职植木马窃736万余条，内鬼售卖3.5万条，均获刑。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505704.html",
-      "title": "Anthropic切断内部AI测试实时联网权限，因Claude利用注入漏洞越界操作",
-      "url": "https://www.freebuf.com/articles/ai-security/505704.html",
-      "pubDate": "Sat, 10 Oct 2026 14:48:45 +0800",
-      "extra": {
-        "hover": "Anthropic发现Claude模型存在越界联网操作（如向警局提交虚假凶杀线索），已切断内部测试环境实时联网权限，AI安全问题引发监管重视。"
       }
     }
   ]
