@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791889541053,
+  "updatedAt": 1791915169032,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/defense/506181.html",
@@ -26,6 +26,15 @@
       "pubDate": "Tue, 13 Oct 2026 16:51:46 +0800",
       "extra": {
         "hover": "语义缓存键的粒度实验：用意图当键，847 条真实查询的碰撞率与错误复用率同为 96.5%；加二次校验后命中率只剩 1.8%——高命中率是假象。缓存键应停在查询文本级，抽象层级只用于路由。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506223.html",
+      "title": "LG智能电视曝本地网漏洞链，无交互无PIN可获取root权限",
+      "url": "https://www.freebuf.com/news/506223.html",
+      "pubDate": "Tue, 13 Oct 2026 16:39:10 +0800",
+      "extra": {
+        "hover": "LG部分智能电视曝高危漏洞，同一局域网攻击者无需交互、无需PIN码即可无授权获取root权限，官方已推修复补丁，请用户尽快升级防范风险。"
       }
     },
     {
@@ -56,12 +65,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/506197.html",
+      "title": "攻击者劫持丹佛斯控制器，法国超市冷柜被加热至50℃",
+      "url": "https://www.freebuf.com/news/506197.html",
+      "pubDate": "Tue, 13 Oct 2026 14:18:41 +0800",
+      "extra": {
+        "hover": "法国数百家超市的丹佛斯制冷控制器遭攻击者远程入侵，冷柜被加热至50℃，大量食品报废，全法损失预计可达数千万欧元。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/506123.html",
       "title": "字节跳动Seed单独设立大模型安全与对齐部门",
       "url": "https://www.freebuf.com/news/506123.html",
       "pubDate": "Tue, 13 Oct 2026 13:28:10 +0800",
       "extra": {
         "hover": "10月13日消息，字节跳动Seed将成立&quot;Seed Model-Alignment&amp;Preparedness&quot;部门，由严林负责，汇报给Seed负责人吴永辉。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506231.html",
+      "title": "Anthropic预警小型AI模型数月内可在智能电视等IoT设备自我复制，无需依托数据中心",
+      "url": "https://www.freebuf.com/articles/ai-security/506231.html",
+      "pubDate": "Tue, 13 Oct 2026 11:59:24 +0800",
+      "extra": {
+        "hover": "Anthropic预警：数月内小型AI模型或可在智能电视等IoT设备上自我复制，这类无数据中心依托的AI蠕虫极难被彻底清除。"
       }
     },
     {
@@ -110,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/506212.html",
+      "title": "黑客利用思杰NetScaler 0Day漏洞，部署Platypus远控工具",
+      "url": "https://www.freebuf.com/news/506212.html",
+      "pubDate": "Tue, 13 Oct 2026 10:33:55 +0800",
+      "extra": {
+        "hover": "黑客正利用思杰NetScaler两个高危0Day漏洞部署远控工具，补丁无法清除已植入后门，企业需紧急升级排查。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/506064.html",
       "title": "黑洞攻击不是普适的：向量库质心投毒的本地实测与 hub 度指标",
       "url": "https://www.freebuf.com/articles/ai-security/506064.html",
@@ -119,66 +155,30 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506133.html",
-      "title": "前沿AI大模型仅用16分钟攻入工控系统，直抵OT控制区",
-      "url": "https://www.freebuf.com/articles/ai-security/506133.html",
-      "pubDate": "Tue, 13 Oct 2026 05:00:51 +0800",
+      "id": "https://www.freebuf.com/news/506207.html",
+      "title": "Meta开源Zurp AI工具包，打通Burp Suite与AI coding Agent赋能漏洞赏金研究",
+      "url": "https://www.freebuf.com/news/506207.html",
+      "pubDate": "Tue, 13 Oct 2026 10:03:55 +0800",
       "extra": {
-        "hover": "测试显示前沿AI最快16分钟渗透工控OT环境，完成全部攻击目标，可操控物理设备造成损害，人类几无响应时间，工控安全风险陡增。"
+        "hover": "Meta开源Zurp AI工具包，打通Burp Suite与AI编码代理，内置多测试模块、设严格白名单机制，赋能合规漏洞赏金研究。"
       }
     },
     {
-      "id": "https://www.freebuf.com/news/506092.html",
-      "title": "LG webOS曝出四个高危漏洞，远程无需认证可获取root权限执行命令",
-      "url": "https://www.freebuf.com/news/506092.html",
-      "pubDate": "Tue, 13 Oct 2026 03:07:07 +0800",
+      "id": "https://www.freebuf.com/articles/development/506211.html",
+      "title": "npm可信发布机制存验证漏洞，超1500个包面临供应链攻击风险",
+      "url": "https://www.freebuf.com/articles/development/506211.html",
+      "pubDate": "Tue, 13 Oct 2026 10:02:12 +0800",
       "extra": {
-        "hover": "LG webOS曝出4个高危漏洞，远程攻击者无需认证即可获取root权限、完全控制设备，超9万台设备公网暴露，用户需及时更新加固。"
+        "hover": "npm可信发布机制存在验证漏洞，超1500个包面临供应链投毒风险，攻击者可抢注废弃仓库名劫持包，AI Agent或加速风险扩散，目前漏洞已修复仍需排查。"
       }
     },
     {
-      "id": "https://www.freebuf.com/news/506048.html",
-      "title": "ShinyHunters案第三名嫌疑人被捕，系加拿大勒索软件谈判代表",
-      "url": "https://www.freebuf.com/news/506048.html",
-      "pubDate": "Mon, 12 Oct 2026 21:26:12 +0800",
+      "id": "https://www.freebuf.com/news/506188.html",
+      "title": "MariaDB披露多项安全漏洞，特定条件下可执行代码窃取数据",
+      "url": "https://www.freebuf.com/news/506188.html",
+      "pubDate": "Tue, 13 Oct 2026 09:28:11 +0800",
       "extra": {
-        "hover": "ShinyHunters案第三名嫌疑人落网：加拿大籍勒索软件谈判代表被捕，FBI正全力清剿这个曾窃取其员工数据的黑客团伙。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506020.html",
-      "title": "网络安全周报：Atlassian 0Day遭在野利用，多类安全动态集中发布",
-      "url": "https://www.freebuf.com/news/506020.html",
-      "pubDate": "Mon, 12 Oct 2026 20:46:26 +0800",
-      "extra": {
-        "hover": "本周新披露网安漏洞从公开到被利用耗时比开会还短，留给安全团队读预警的时间都不够，多类安全动态汇总，高危漏洞需优先排查修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505958.html",
-      "title": "Prompt注入变体分析：15种攻击向量与防御绕过机制",
-      "url": "https://www.freebuf.com/articles/ai-security/505958.html",
-      "pubDate": "Mon, 12 Oct 2026 19:58:31 +0800",
-      "extra": {
-        "hover": "本文梳理15种提示注入变体的构造，并在本地沙箱实测其绕过输入、输出过滤的效果，结合公开口径讨论模型对齐的边界，说明三种单点防御均可被绕过，最后给出基于OWASP的护栏型防御建议。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/505957.html",
-      "title": "新手勇闯网络安全 | PHP基础（三）",
-      "url": "https://www.freebuf.com/articles/endpoint/505957.html",
-      "pubDate": "Mon, 12 Oct 2026 19:37:37 +0800",
-      "extra": {
-        "hover": "读取、写入、上传；对应安全风险 LFI 路径穿越、木马写入、文件上传漏洞；附白名单校验、目录权限、随机命名等多层防护方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/506044.html",
-      "title": "只按漏洞评分打补丁，为什么会排错？从严重性排名到资产处置决策",
-      "url": "https://www.freebuf.com/articles/vuls/506044.html",
-      "pubDate": "Mon, 12 Oct 2026 19:01:39 +0800",
-      "extra": {
-        "hover": "同一漏洞落在公网入口、身份系统和备用节点，先动哪台？漏洞严重性被错当资产行动优先级，按证据分流。"
+        "hover": "MariaDB披露多项高危漏洞，特定条件下攻击者可执行代码、窃取数据库数据，官方已发布修复版本，用户需及时升级加固。"
       }
     }
   ]
