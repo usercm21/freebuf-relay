@@ -1,6 +1,78 @@
 {
-  "updatedAt": 1791941730925,
+  "updatedAt": 1791960057974,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/506371.html",
+      "title": "谷歌四倍上调Chrome漏洞赏金基础标准，沙箱逃逸最高奖2万美元",
+      "url": "https://www.freebuf.com/news/506371.html",
+      "pubDate": "Wed, 14 Oct 2026 04:00:43 +0800",
+      "extra": {
+        "hover": "谷歌大幅上调Chrome漏洞赏金标准，内存损坏类漏洞基础赏金提至四倍，沙箱逃逸最高奖2万美元，同步扩大奖励覆盖范围。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506359.html",
+      "title": "OpenAI AI对齐问题持续加剧，模型越界甚至破坏自身运行环境",
+      "url": "https://www.freebuf.com/articles/ai-security/506359.html",
+      "pubDate": "Wed, 14 Oct 2026 03:49:25 +0800",
+      "extra": {
+        "hover": "OpenAI多份报告披露旗下AI对齐问题持续恶化，模型越界绕限、破坏运行环境、隐瞒违规操作，AI安全风险亟待重视。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/506360.html",
+      "title": "微软修复在野利用的Windows Shell 0Day漏洞，可绕过网络标记防护",
+      "url": "https://www.freebuf.com/articles/system/506360.html",
+      "pubDate": "Wed, 14 Oct 2026 03:28:11 +0800",
+      "extra": {
+        "hover": "微软2026年10月补丁日修复已在野利用的Windows Shell 0Day漏洞，该漏洞可绕过网络标记防护，用户需警惕陌生附件诱导攻击，尽快部署补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506347.html",
+      "title": "OpenAI工程师涉嫌在高管会议室放置窃听设备，已被逮捕",
+      "url": "https://www.freebuf.com/news/506347.html",
+      "pubDate": "Wed, 14 Oct 2026 02:25:18 +0800",
+      "extra": {
+        "hover": "OpenAI一沙特籍工程师因在涉密高管会议室私藏录音设备窃密被捕，若罪名成立最高面临5年监禁，该案由FBI主导调查。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506252.html",
+      "title": "学三天挖SRC，AI一秒删库?!差点从白帽变“牢帽”\n孩子们这一点也不好笑！！！",
+      "url": "https://www.freebuf.com/articles/ai-security/506252.html",
+      "pubDate": "Wed, 14 Oct 2026 00:14:14 +0800",
+      "extra": {
+        "hover": "AI Agent 可以成为漏洞挖掘的放大器，但前提是它被关在护栏里。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506286.html",
+      "title": "Docker修复Docker Hub存续两年高危漏洞，可冒用他人身份推送镜像",
+      "url": "https://www.freebuf.com/news/506286.html",
+      "pubDate": "Tue, 13 Oct 2026 23:33:18 +0800",
+      "extra": {
+        "hover": "Docker修复Docker Hub潜伏两年的高危漏洞，可致冒名推送恶意镜像，官方称暂未发现被利用痕迹。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/506222.html",
+      "title": "WordPress 核心未授权 RCE补丁差异与三步实战复现",
+      "url": "https://www.freebuf.com/articles/vuls/506222.html",
+      "pubDate": "Tue, 13 Oct 2026 21:09:58 +0800",
+      "extra": {
+        "hover": "对防守方来说,升级之外不妨顺手做两件事:盘一下自己站点的&amp;quot;前置条件清单&amp;quot;,以及在 WAF/日志规则里给pagename的双重编码上个钩子。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506209.html",
+      "title": "AI编码助手安全：从代码补全投毒到终端命令注入的攻击面分析",
+      "url": "https://www.freebuf.com/articles/ai-security/506209.html",
+      "pubDate": "Tue, 13 Oct 2026 19:20:36 +0800",
+      "extra": {
+        "hover": "本文复现了完整的攻击链，逐条实测了四道防线的拦截效果，并提出了可落地的防御方案。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/defense/506181.html",
       "title": "一条数据库记录，拿下整台服务器：记一次多层权限沦陷全过程",
@@ -8,6 +80,15 @@
       "pubDate": "Tue, 13 Oct 2026 17:48:33 +0800",
       "extra": {
         "hover": "本文记录一次完整的内网主机攻防全过程，还原从外部 Web 服务作为突破口，逐步向内网服务器深层渗透的完整操作链路。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506299.html",
+      "title": "微软10月补丁星期二修复CVE再破纪录，AI加速漏洞挖掘进程",
+      "url": "https://www.freebuf.com/news/506299.html",
+      "pubDate": "Tue, 13 Oct 2026 17:30:00 +0800",
+      "extra": {
+        "hover": "微软10月补丁修复CVE数超2023年全年总量再破纪录，AI加速漏洞挖掘，已有在野利用0Day，固守传统补丁模式的企业网络边界暴露风险极高。"
       }
     },
     {
@@ -98,87 +179,6 @@
       "pubDate": "Tue, 13 Oct 2026 11:59:24 +0800",
       "extra": {
         "hover": "Anthropic预警：数月内小型AI模型或可在智能电视等IoT设备上自我复制，这类无数据中心依托的AI蠕虫极难被彻底清除。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506089.html",
-      "title": "分词差异、Unicode 归一化与编码混淆的三线合围——跨模型间接提示注入与数据外泄链路",
-      "url": "https://www.freebuf.com/articles/ai-security/506089.html",
-      "pubDate": "Tue, 13 Oct 2026 11:50:18 +0800",
-      "extra": {
-        "hover": "把三条线串起来，就是一条跨模型的间接提示注入链路。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506081.html",
-      "title": "数据处理约定写了 30 条，只有 14 条能验证为符合",
-      "url": "https://www.freebuf.com/articles/ai-security/506081.html",
-      "pubDate": "Tue, 13 Oct 2026 11:17:54 +0800",
-      "extra": {
-        "hover": "30 条数据处理约定逐条核对：完全符合 14 条，部分符合 9 条，不符合 4 条，拿不到证据无法验证 3 条。最典型的差距是日志留存约定 30 天、实测 180 天，超期 6 倍；删除机制没有自助接"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506075.html",
-      "title": "第三方模型的 40 项评审，平均只做了 30 项",
-      "url": "https://www.freebuf.com/articles/ai-security/506075.html",
-      "pubDate": "Tue, 13 Oct 2026 11:14:58 +0800",
-      "extra": {
-        "hover": "20 次第三方模型接入实测：40 项评审清单平均覆盖 30.4 项，完整覆盖的只有 3 家。缺项最多的是数据处理类共 46 次，其次是安全控制 38 次。覆盖档位越低的接入，上线后 90 天内发现的问"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506071.html",
-      "title": "同一批安全事件，五个评审人的定级只有 3 个完全一致",
-      "url": "https://www.freebuf.com/articles/ai-security/506071.html",
-      "pubDate": "Tue, 13 Oct 2026 11:07:27 +0800",
-      "extra": {
-        "hover": "20 个案例由 5 个评审人各自独立定级：完全一致的只有 3 个，相差一级的 10 个，相差两级以上的 7 个。按最严口径平均响应时限 15.4 小时，按最宽口径 67.6 小时，按平均级别 31.0"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506070.html",
-      "title": "200 个团队里，只有 41 个的 AI 资产有定期评审",
-      "url": "https://www.freebuf.com/articles/ai-security/506070.html",
-      "pubDate": "Tue, 13 Oct 2026 11:04:46 +0800",
-      "extra": {
-        "hover": "200 个团队实测：有明确责任人的 128 个占 64%，责任人接受过培训的 86 个占 43%，纳入 AI 资产清单的 74 个占 37%，有定期评审记录的 41 个占 20.5%。修复时长中位数按"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506068.html",
-      "title": "只把模型版本改回去，41 项变更还留在线上",
-      "url": "https://www.freebuf.com/articles/ai-security/506068.html",
-      "pubDate": "Tue, 13 Oct 2026 11:01:57 +0800",
-      "extra": {
-        "hover": "一次模型升级涉及 42 项变更，其中配置 18 项、依赖 9 项、数据 8 项、流程 7 项。只回滚模型版本 5 分钟就能完成，但有 41 项留在线上并出现 6 类行为不一致；配置一起退回降到 3 类"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506212.html",
-      "title": "黑客利用思杰NetScaler 0Day漏洞，部署Platypus远控工具",
-      "url": "https://www.freebuf.com/news/506212.html",
-      "pubDate": "Tue, 13 Oct 2026 10:33:55 +0800",
-      "extra": {
-        "hover": "黑客正利用思杰NetScaler两个高危0Day漏洞部署远控工具，补丁无法清除已植入后门，企业需紧急升级排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506064.html",
-      "title": "黑洞攻击不是普适的：向量库质心投毒的本地实测与 hub 度指标",
-      "url": "https://www.freebuf.com/articles/ai-security/506064.html",
-      "pubDate": "Tue, 13 Oct 2026 10:25:32 +0800",
-      "extra": {
-        "hover": "本文复现向量库黑洞攻击，证实该攻击并非普适，嵌入空间几何决定攻击强度，提出hub度前置检测指标，并实测单质心与簇质心攻击下的防御方案与召回代价。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506207.html",
-      "title": "Meta开源Zurp AI工具包，打通Burp Suite与AI coding Agent赋能漏洞赏金研究",
-      "url": "https://www.freebuf.com/news/506207.html",
-      "pubDate": "Tue, 13 Oct 2026 10:03:55 +0800",
-      "extra": {
-        "hover": "Meta开源Zurp AI工具包，打通Burp Suite与AI编码代理，内置多测试模块、设严格白名单机制，赋能合规漏洞赏金研究。"
       }
     }
   ]
