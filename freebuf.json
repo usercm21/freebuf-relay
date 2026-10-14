@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791915169032,
+  "updatedAt": 1791941730925,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/defense/506181.html",
@@ -26,6 +26,15 @@
       "pubDate": "Tue, 13 Oct 2026 16:51:46 +0800",
       "extra": {
         "hover": "语义缓存键的粒度实验：用意图当键，847 条真实查询的碰撞率与错误复用率同为 96.5%；加二次校验后命中率只剩 1.8%——高命中率是假象。缓存键应停在查询文本级，抽象层级只用于路由。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506160.html",
+      "title": "FreeBuf早报 | 前沿AI大模型仅用16分钟攻入工控系统；研究人员绕过6款主流AI Agent框架",
+      "url": "https://www.freebuf.com/news/506160.html",
+      "pubDate": "Tue, 13 Oct 2026 16:41:35 +0800",
+      "extra": {
+        "hover": "测试显示前沿AI最快16分钟渗透工控OT环境，完成全部攻击目标，可操控物理设备造成损害，人类几无响应时间，工控安全风险陡增。"
       }
     },
     {
@@ -89,6 +98,15 @@
       "pubDate": "Tue, 13 Oct 2026 11:59:24 +0800",
       "extra": {
         "hover": "Anthropic预警：数月内小型AI模型或可在智能电视等IoT设备上自我复制，这类无数据中心依托的AI蠕虫极难被彻底清除。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506089.html",
+      "title": "分词差异、Unicode 归一化与编码混淆的三线合围——跨模型间接提示注入与数据外泄链路",
+      "url": "https://www.freebuf.com/articles/ai-security/506089.html",
+      "pubDate": "Tue, 13 Oct 2026 11:50:18 +0800",
+      "extra": {
+        "hover": "把三条线串起来，就是一条跨模型的间接提示注入链路。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Tue, 13 Oct 2026 10:03:55 +0800",
       "extra": {
         "hover": "Meta开源Zurp AI工具包，打通Burp Suite与AI编码代理，内置多测试模块、设严格白名单机制，赋能合规漏洞赏金研究。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/506211.html",
-      "title": "npm可信发布机制存验证漏洞，超1500个包面临供应链攻击风险",
-      "url": "https://www.freebuf.com/articles/development/506211.html",
-      "pubDate": "Tue, 13 Oct 2026 10:02:12 +0800",
-      "extra": {
-        "hover": "npm可信发布机制存在验证漏洞，超1500个包面临供应链投毒风险，攻击者可抢注废弃仓库名劫持包，AI Agent或加速风险扩散，目前漏洞已修复仍需排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506188.html",
-      "title": "MariaDB披露多项安全漏洞，特定条件下可执行代码窃取数据",
-      "url": "https://www.freebuf.com/news/506188.html",
-      "pubDate": "Tue, 13 Oct 2026 09:28:11 +0800",
-      "extra": {
-        "hover": "MariaDB披露多项高危漏洞，特定条件下攻击者可执行代码、窃取数据库数据，官方已发布修复版本，用户需及时升级加固。"
       }
     }
   ]
