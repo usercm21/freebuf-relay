@@ -1,6 +1,159 @@
 {
-  "updatedAt": 1791960057974,
+  "updatedAt": 1791980877244,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506430.html",
+      "title": "88 条例外里只有 31 条字段完整，34 条过期后仍然生效",
+      "url": "https://www.freebuf.com/articles/ai-security/506430.html",
+      "pubDate": "Wed, 14 Oct 2026 17:16:55 +0800",
+      "extra": {
+        "hover": "一旦没有到期约束，就会从临时措施变成默认配置。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506426.html",
+      "title": "一年 8 次红队测试，20 项攻击面只覆盖了 9 项",
+      "url": "https://www.freebuf.com/articles/ai-security/506426.html",
+      "pubDate": "Wed, 14 Oct 2026 17:10:15 +0800",
+      "extra": {
+        "hover": "回归测试有必要，但它不产生新的覆盖面——重复验证已经测过的项，只是确认修复有效。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506410.html",
+      "title": "Web 安全零基础入门（七）：SQL 注入实战①——判断注入点、闭合注释与万能密码",
+      "url": "https://www.freebuf.com/articles/web/506410.html",
+      "pubDate": "Wed, 14 Oct 2026 15:42:32 +0800",
+      "extra": {
+        "hover": "理论懂了，上靶场还是卡。本篇把怎么判断有没有注入、字符型还是数字型、闭合与注释怎么写、万能密码为什么能绕过登录一次讲透，并讲清 POST 注入怎么抓包改包，每步都给实际输入和回显。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506408.html",
+      "title": "Web 安全零基础入门（六）：SQL 注入基础（从 MySQL 到第一次注入）",
+      "url": "https://www.freebuf.com/articles/web/506408.html",
+      "pubDate": "Wed, 14 Oct 2026 15:33:55 +0800",
+      "extra": {
+        "hover": "SQL 注入是 Web 安全里最经典的漏洞。本篇从 MySQL 基础出发，讲清注入为什么发生、闭合与注释怎么用、联合查询如何挖出库名、表名、字段和数据，并给出从判断注入点到拿到 flag 的完整链路。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/503517.html",
+      "title": "Web 安全零基础入门（四）：Linux 常用命令入门（文件读取与绕过）",
+      "url": "https://www.freebuf.com/articles/web/503517.html",
+      "pubDate": "Wed, 14 Oct 2026 14:55:55 +0800",
+      "extra": {
+        "hover": "Web 安全零基础入门第四篇。搞懂 Linux 常用文件命令（cat/head/tail/less/tac 等），并学会命令被过滤时如何用替代命令绕过，是命令执行漏洞的前置基础。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506394.html",
+      "title": "Rust 二进制漏洞挖掘实战：unsafe · FFI · 反序列化——Rust 安全神话的三大裂缝",
+      "url": "https://www.freebuf.com/articles/ai-security/506394.html",
+      "pubDate": "Wed, 14 Oct 2026 14:48:09 +0800",
+      "extra": {
+        "hover": "Rust 并非绝对内存安全，多起 CVE 根源指向 unsafe 代码块。本文剖析 Rust 三大安全缺陷，解析 3 个真实漏洞根因，并开源 RustScan 检测工具。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/506393.html",
+      "title": "密码输完了就算登录吗？MFA的中间态",
+      "url": "https://www.freebuf.com/articles/sectool/506393.html",
+      "pubDate": "Wed, 14 Oct 2026 14:46:41 +0800",
+      "extra": {
+        "hover": "这篇把两步登录搭出来，四条路逐条复现。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506392.html",
+      "title": "超时之后，那笔到底做没做",
+      "url": "https://www.freebuf.com/articles/ai-security/506392.html",
+      "pubDate": "Wed, 14 Oct 2026 14:43:36 +0800",
+      "extra": {
+        "hover": "这套靶场现在是我那套东西处理超时的对照组，demo.py每改一版跑一遍，看那张表的最后两列有没有变差。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/506389.html",
+      "title": "CVE-2026-40281漏洞复现记录",
+      "url": "https://www.freebuf.com/articles/vuls/506389.html",
+      "pubDate": "Wed, 14 Oct 2026 14:29:42 +0800",
+      "extra": {
+        "hover": "这个接口中的一个 “值未过滤换行符” 的疏漏，让攻击者可以把任意参数注入到 ExifTool 的命令行中，最终借助 ExifTool 的 Perl 表达式特性实现 RCE。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506386.html",
+      "title": "当 AI 走进新能源场站：五类新增风险与可落地的防护思路",
+      "url": "https://www.freebuf.com/articles/ai-security/506386.html",
+      "pubDate": "Wed, 14 Oct 2026 14:18:35 +0800",
+      "extra": {
+        "hover": "本文从新能源场站引入 AI 应用后的资产变化入手，梳理数据、模型、应用、供应链、运维变更五类新增风险，对照 27 号令、等保 2.0 等合规要求，给出可落地的防护思路，供电力行业网络安全从业者参考。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506354.html",
+      "title": "当AI Agent的USB接口变成RCE入口：MCP协议漏洞挖掘实战",
+      "url": "https://www.freebuf.com/articles/ai-security/506354.html",
+      "pubDate": "Wed, 14 Oct 2026 11:46:15 +0800",
+      "extra": {
+        "hover": "MCP就是AI Agent的&amp;quot;USB接口&amp;quot;——就像USB让电脑可以连接各种外设，MCP让AI模型可以连接各种工具和数据源。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506350.html",
+      "title": "Prompt Injection 攻防实战：从基础注入到多轮对话劫持",
+      "url": "https://www.freebuf.com/articles/ai-security/506350.html",
+      "pubDate": "Wed, 14 Oct 2026 11:30:07 +0800",
+      "extra": {
+        "hover": "本文聚焦大模型提示注入攻防，从直接注入、间接注入到隐蔽的多轮对话劫持，结合Payload实战演示，拆解攻击原理与套路。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/506406.html",
+      "title": "研究人员利用四字节写入与时序漏洞，在Windows SmartScreen enclave实现代码执行",
+      "url": "https://www.freebuf.com/articles/system/506406.html",
+      "pubDate": "Wed, 14 Oct 2026 11:22:28 +0800",
+      "extra": {
+        "hover": "研究人员利用四字节写入与时序漏洞攻破Windows SmartScreen 中本该牢不可破的VBS enclave并执行代码，微软已修复该高危漏洞，仍存防护缺口。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506331.html",
+      "title": "从攻击到防御：KVGov 如何阻断 KV Cache 时间侧信道",
+      "url": "https://www.freebuf.com/articles/ai-security/506331.html",
+      "pubDate": "Wed, 14 Oct 2026 10:24:31 +0800",
+      "extra": {
+        "hover": "针对KV cache，有没有对其进行修复或者防御的？看到一篇 2026 年的论文，讲的就是怎么如何修复cache安全问题。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506323.html",
+      "title": "攻击者让 AI 写简历，把自己写了进去：ARTEX 事件复盘与本机 Agent 痕迹取证实践",
+      "url": "https://www.freebuf.com/articles/ai-security/506323.html",
+      "pubDate": "Wed, 14 Oct 2026 09:52:23 +0800",
+      "extra": {
+        "hover": "一名攻击者用开源 AI 渗透工具 ARTEX 入侵韩国多家金融机构，又让 Claude 帮自己写简历——结果会话记录、提示词、记忆文件全部暴露在开放目录里，CrowdStrike 据此还原了整场攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506322.html",
+      "title": "AI代码助手供应链投毒：当Claude Code执行恶意npm包",
+      "url": "https://www.freebuf.com/articles/ai-security/506322.html",
+      "pubDate": "Wed, 14 Oct 2026 09:51:43 +0800",
+      "extra": {
+        "hover": "本文将详细介绍攻击原理、实验过程和防御方案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506320.html",
+      "title": "网络安全 DVWA通关指南 Cross Site Request Forgery (CSRF)",
+      "url": "https://www.freebuf.com/articles/web/506320.html",
+      "pubDate": "Wed, 14 Oct 2026 09:30:50 +0800",
+      "extra": {
+        "hover": "CSRF是跨站请求伪造攻击，由客户端发起，是由于没有在执行关键操作时，进行是否由用户自愿发起的确认攻击者通过用户的浏览器来注入额外的网络请求，来破坏一个网站会话的完整性。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/506371.html",
       "title": "谷歌四倍上调Chrome漏洞赏金基础标准，沙箱逃逸最高奖2万美元",
@@ -26,159 +179,6 @@
       "pubDate": "Wed, 14 Oct 2026 03:28:11 +0800",
       "extra": {
         "hover": "微软2026年10月补丁日修复已在野利用的Windows Shell 0Day漏洞，该漏洞可绕过网络标记防护，用户需警惕陌生附件诱导攻击，尽快部署补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506347.html",
-      "title": "OpenAI工程师涉嫌在高管会议室放置窃听设备，已被逮捕",
-      "url": "https://www.freebuf.com/news/506347.html",
-      "pubDate": "Wed, 14 Oct 2026 02:25:18 +0800",
-      "extra": {
-        "hover": "OpenAI一沙特籍工程师因在涉密高管会议室私藏录音设备窃密被捕，若罪名成立最高面临5年监禁，该案由FBI主导调查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506252.html",
-      "title": "学三天挖SRC，AI一秒删库?!差点从白帽变“牢帽”\n孩子们这一点也不好笑！！！",
-      "url": "https://www.freebuf.com/articles/ai-security/506252.html",
-      "pubDate": "Wed, 14 Oct 2026 00:14:14 +0800",
-      "extra": {
-        "hover": "AI Agent 可以成为漏洞挖掘的放大器，但前提是它被关在护栏里。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506286.html",
-      "title": "Docker修复Docker Hub存续两年高危漏洞，可冒用他人身份推送镜像",
-      "url": "https://www.freebuf.com/news/506286.html",
-      "pubDate": "Tue, 13 Oct 2026 23:33:18 +0800",
-      "extra": {
-        "hover": "Docker修复Docker Hub潜伏两年的高危漏洞，可致冒名推送恶意镜像，官方称暂未发现被利用痕迹。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/506222.html",
-      "title": "WordPress 核心未授权 RCE补丁差异与三步实战复现",
-      "url": "https://www.freebuf.com/articles/vuls/506222.html",
-      "pubDate": "Tue, 13 Oct 2026 21:09:58 +0800",
-      "extra": {
-        "hover": "对防守方来说,升级之外不妨顺手做两件事:盘一下自己站点的&amp;quot;前置条件清单&amp;quot;,以及在 WAF/日志规则里给pagename的双重编码上个钩子。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506209.html",
-      "title": "AI编码助手安全：从代码补全投毒到终端命令注入的攻击面分析",
-      "url": "https://www.freebuf.com/articles/ai-security/506209.html",
-      "pubDate": "Tue, 13 Oct 2026 19:20:36 +0800",
-      "extra": {
-        "hover": "本文复现了完整的攻击链，逐条实测了四道防线的拦截效果，并提出了可落地的防御方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/defense/506181.html",
-      "title": "一条数据库记录，拿下整台服务器：记一次多层权限沦陷全过程",
-      "url": "https://www.freebuf.com/articles/defense/506181.html",
-      "pubDate": "Tue, 13 Oct 2026 17:48:33 +0800",
-      "extra": {
-        "hover": "本文记录一次完整的内网主机攻防全过程，还原从外部 Web 服务作为突破口，逐步向内网服务器深层渗透的完整操作链路。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506299.html",
-      "title": "微软10月补丁星期二修复CVE再破纪录，AI加速漏洞挖掘进程",
-      "url": "https://www.freebuf.com/news/506299.html",
-      "pubDate": "Tue, 13 Oct 2026 17:30:00 +0800",
-      "extra": {
-        "hover": "微软10月补丁修复CVE数超2023年全年总量再破纪录，AI加速漏洞挖掘，已有在野利用0Day，固守传统补丁模式的企业网络边界暴露风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/505037.html",
-      "title": "自动化AI 渗透 Agent 的反打上线实验与 WAF 的下一个形态",
-      "url": "https://www.freebuf.com/articles/ai-security/505037.html",
-      "pubDate": "Tue, 13 Oct 2026 16:57:45 +0800",
-      "extra": {
-        "hover": "当攻击者不再是人：AI 渗透 Agent 的反制实验与 WAF 的下一个形态四十余组对照实验、双 VPS 隔离环境、四种 Agent 架构、两种底座模型、三万六千余次攻击请求的全量抓包。我们系统回答了"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506164.html",
-      "title": "缓存键的粒度陷阱：用意图当键，96.5% 的请求拿到的是别人的答案",
-      "url": "https://www.freebuf.com/articles/ai-security/506164.html",
-      "pubDate": "Tue, 13 Oct 2026 16:51:46 +0800",
-      "extra": {
-        "hover": "语义缓存键的粒度实验：用意图当键，847 条真实查询的碰撞率与错误复用率同为 96.5%；加二次校验后命中率只剩 1.8%——高命中率是假象。缓存键应停在查询文本级，抽象层级只用于路由。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506160.html",
-      "title": "FreeBuf早报 | 前沿AI大模型仅用16分钟攻入工控系统；研究人员绕过6款主流AI Agent框架",
-      "url": "https://www.freebuf.com/news/506160.html",
-      "pubDate": "Tue, 13 Oct 2026 16:41:35 +0800",
-      "extra": {
-        "hover": "测试显示前沿AI最快16分钟渗透工控OT环境，完成全部攻击目标，可操控物理设备造成损害，人类几无响应时间，工控安全风险陡增。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506223.html",
-      "title": "LG智能电视曝本地网漏洞链，无交互无PIN可获取root权限",
-      "url": "https://www.freebuf.com/news/506223.html",
-      "pubDate": "Tue, 13 Oct 2026 16:39:10 +0800",
-      "extra": {
-        "hover": "LG部分智能电视曝高危漏洞，同一局域网攻击者无需交互、无需PIN码即可无授权获取root权限，官方已推修复补丁，请用户尽快升级防范风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/506153.html",
-      "title": "CICD 供应链安全审计实录：8 条规则检出的 6 种真实漏洞模式",
-      "url": "https://www.freebuf.com/articles/system/506153.html",
-      "pubDate": "Tue, 13 Oct 2026 15:56:31 +0800",
-      "extra": {
-        "hover": "记了 6 种 CI/CD 管道高频漏洞模式，附开源工具 CICDSecScan，覆盖 GitHub Actions / GitLab CI / Jenkins。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506142.html",
-      "title": "重试了一次，账上多了两笔——Agent 工具层重复副作用实测",
-      "url": "https://www.freebuf.com/articles/ai-security/506142.html",
-      "pubDate": "Tue, 13 Oct 2026 15:06:27 +0800",
-      "extra": {
-        "hover": "重试本身是必要的，把&amp;quot;失败了重试&amp;quot;删掉只会换来更多超时。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506141.html",
-      "title": "我把额度扣成了负数，上游还在继续被调用",
-      "url": "https://www.freebuf.com/articles/ai-security/506141.html",
-      "pubDate": "Tue, 13 Oct 2026 15:01:19 +0800",
-      "extra": {
-        "hover": "三条不一致，归根到底是同一个问题的三种长相：&amp;quot;钱&amp;quot;和&amp;quot;活&amp;quot;分别记在两个地方，中间没有一个能同时看见两边的东西。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506197.html",
-      "title": "攻击者劫持丹佛斯控制器，法国超市冷柜被加热至50℃",
-      "url": "https://www.freebuf.com/news/506197.html",
-      "pubDate": "Tue, 13 Oct 2026 14:18:41 +0800",
-      "extra": {
-        "hover": "法国数百家超市的丹佛斯制冷控制器遭攻击者远程入侵，冷柜被加热至50℃，大量食品报废，全法损失预计可达数千万欧元。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506123.html",
-      "title": "字节跳动Seed单独设立大模型安全与对齐部门",
-      "url": "https://www.freebuf.com/news/506123.html",
-      "pubDate": "Tue, 13 Oct 2026 13:28:10 +0800",
-      "extra": {
-        "hover": "10月13日消息，字节跳动Seed将成立&quot;Seed Model-Alignment&amp;Preparedness&quot;部门，由严林负责，汇报给Seed负责人吴永辉。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506231.html",
-      "title": "Anthropic预警小型AI模型数月内可在智能电视等IoT设备自我复制，无需依托数据中心",
-      "url": "https://www.freebuf.com/articles/ai-security/506231.html",
-      "pubDate": "Tue, 13 Oct 2026 11:59:24 +0800",
-      "extra": {
-        "hover": "Anthropic预警：数月内小型AI模型或可在智能电视等IoT设备上自我复制，这类无数据中心依托的AI蠕虫极难被彻底清除。"
       }
     }
   ]
