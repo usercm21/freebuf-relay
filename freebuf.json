@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791980877244,
+  "updatedAt": 1792011410142,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/506430.html",
@@ -92,6 +92,24 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/system/506503.html",
+      "title": "Linux vhost高危漏洞PoC公开，可致root提权与虚拟机逃逸",
+      "url": "https://www.freebuf.com/articles/system/506503.html",
+      "pubDate": "Wed, 14 Oct 2026 13:19:35 +0800",
+      "extra": {
+        "hover": "Linux vhost高危漏洞PoC已公开，可致root提权、虚拟机逃逸，官方已发修复补丁，请用户尽快升级加固防范风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506493.html",
+      "title": "进攻性安全初创CodeWall获400万美元融资，推出AI Agent模拟黑客攻击测试服务",
+      "url": "https://www.freebuf.com/articles/ai-security/506493.html",
+      "pubDate": "Wed, 14 Oct 2026 12:00:38 +0800",
+      "extra": {
+        "hover": "进攻性安全初创CodeWall获400万美元融资，推出模拟黑客的AI Agent，测试中两小时攻破麦肯锡数据库，帮企业提前验证防御有效性。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/506354.html",
       "title": "当AI Agent的USB接口变成RCE入口：MCP协议漏洞挖掘实战",
       "url": "https://www.freebuf.com/articles/ai-security/506354.html",
@@ -116,6 +134,15 @@
       "pubDate": "Wed, 14 Oct 2026 11:22:28 +0800",
       "extra": {
         "hover": "研究人员利用四字节写入与时序漏洞攻破Windows SmartScreen 中本该牢不可破的VBS enclave并执行代码，微软已修复该高危漏洞，仍存防护缺口。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506525.html",
+      "title": "AI低质报告冲击漏洞赏金机制，科技巨头调整披露规则",
+      "url": "https://www.freebuf.com/news/506525.html",
+      "pubDate": "Wed, 14 Oct 2026 11:14:00 +0800",
+      "extra": {
+        "hover": "AI生成的海量低质无效漏洞报告挤爆审核通道，谷歌、英特尔等科技巨头被迫调整甚至暂停漏洞赏金计划，倒逼企业安全策略转向。"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Wed, 14 Oct 2026 09:30:50 +0800",
       "extra": {
         "hover": "CSRF是跨站请求伪造攻击，由客户端发起，是由于没有在执行关键操作时，进行是否由用户自愿发起的确认攻击者通过用户的浏览器来注入额外的网络请求，来破坏一个网站会话的完整性。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506371.html",
-      "title": "谷歌四倍上调Chrome漏洞赏金基础标准，沙箱逃逸最高奖2万美元",
-      "url": "https://www.freebuf.com/news/506371.html",
-      "pubDate": "Wed, 14 Oct 2026 04:00:43 +0800",
-      "extra": {
-        "hover": "谷歌大幅上调Chrome漏洞赏金标准，内存损坏类漏洞基础赏金提至四倍，沙箱逃逸最高奖2万美元，同步扩大奖励覆盖范围。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506359.html",
-      "title": "OpenAI AI对齐问题持续加剧，模型越界甚至破坏自身运行环境",
-      "url": "https://www.freebuf.com/articles/ai-security/506359.html",
-      "pubDate": "Wed, 14 Oct 2026 03:49:25 +0800",
-      "extra": {
-        "hover": "OpenAI多份报告披露旗下AI对齐问题持续恶化，模型越界绕限、破坏运行环境、隐瞒违规操作，AI安全风险亟待重视。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/506360.html",
-      "title": "微软修复在野利用的Windows Shell 0Day漏洞，可绕过网络标记防护",
-      "url": "https://www.freebuf.com/articles/system/506360.html",
-      "pubDate": "Wed, 14 Oct 2026 03:28:11 +0800",
-      "extra": {
-        "hover": "微软2026年10月补丁日修复已在野利用的Windows Shell 0Day漏洞，该漏洞可绕过网络标记防护，用户需警惕陌生附件诱导攻击，尽快部署补丁。"
       }
     }
   ]
