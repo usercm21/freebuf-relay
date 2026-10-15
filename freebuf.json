@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792011410142,
+  "updatedAt": 1792029208807,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/506430.html",
@@ -17,6 +17,15 @@
       "pubDate": "Wed, 14 Oct 2026 17:10:15 +0800",
       "extra": {
         "hover": "回归测试有必要，但它不产生新的覆盖面——重复验证已经测过的项，只是确认修复有效。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506411.html",
+      "title": "FreeBuf早报 | Anthropic预警AI自我复制风险；谷歌四倍上调Chrome漏洞赏金基础标准",
+      "url": "https://www.freebuf.com/news/506411.html",
+      "pubDate": "Wed, 14 Oct 2026 15:51:00 +0800",
+      "extra": {
+        "hover": "Anthropic预警：数月内小型AI模型或可在智能电视等IoT设备上自我复制，这类无数据中心依托的AI蠕虫极难被彻底清除。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Wed, 14 Oct 2026 09:51:43 +0800",
       "extra": {
         "hover": "本文将详细介绍攻击原理、实验过程和防御方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/506320.html",
-      "title": "网络安全 DVWA通关指南 Cross Site Request Forgery (CSRF)",
-      "url": "https://www.freebuf.com/articles/web/506320.html",
-      "pubDate": "Wed, 14 Oct 2026 09:30:50 +0800",
-      "extra": {
-        "hover": "CSRF是跨站请求伪造攻击，由客户端发起，是由于没有在执行关键操作时，进行是否由用户自愿发起的确认攻击者通过用户的浏览器来注入额外的网络请求，来破坏一个网站会话的完整性。"
       }
     }
   ]
