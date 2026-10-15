@@ -1,184 +1,184 @@
 {
-  "updatedAt": 1792047447261,
+  "updatedAt": 1792067529855,
   "items": [
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506513.html",
-      "title": "一篇投毒文档，劫持了整个知识库：RAG 投毒从原理到本地复现",
-      "url": "https://www.freebuf.com/articles/ai-security/506513.html",
-      "pubDate": "Wed, 14 Oct 2026 23:11:12 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506665.html",
+      "title": "训练数据里的一颗钉子：模型后门从 BadNets 到大模型时代",
+      "url": "https://www.freebuf.com/articles/ai-security/506665.html",
+      "pubDate": "Thu, 15 Oct 2026 14:25:10 +0800",
       "extra": {
-        "hover": "本文技术分析基于 PoisonedRAG（USENIX Security 2025）、One Shot Dominance（EMNLP 2025）、EchoLeak（CVE-2025-32711）等公开研究和漏洞报告。"
+        "hover": "本篇从 BadNets 的 9 像素便利贴讲到 2026 年的四阶段防御体系，算清&quot;自训 vs 下载&quot;两条线的现实账。"
       }
     },
     {
-      "id": "https://www.freebuf.com/news/506535.html",
-      "title": "美国捣毁40余处笔记本农场，起诉14名朝鲜IT欺诈案涉案人员",
-      "url": "https://www.freebuf.com/news/506535.html",
-      "pubDate": "Wed, 14 Oct 2026 22:04:31 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506664.html",
+      "title": "幻觉不只是答错题：AI 编造的包名正在变成真实的攻击面",
+      "url": "https://www.freebuf.com/articles/ai-security/506664.html",
+      "pubDate": "Thu, 15 Oct 2026 14:24:58 +0800",
       "extra": {
-        "hover": "美国捣毁40余处涉朝鲜远程IT欺诈的笔记本农场，起诉14名涉案人员，该欺诈为朝鲜核武项目筹措非法资金，波及70余家美企。"
+        "hover": "导读：AI 编造一个不存在的包名，攻击者抢先注册，开发者照装——slopsquatting 已经从实验变成了有真实下载量的攻击面。规模：16 个代码模型 57.6 万样本里 19.7% 含幻觉包名，2"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506430.html",
-      "title": "88 条例外里只有 31 条字段完整，34 条过期后仍然生效",
-      "url": "https://www.freebuf.com/articles/ai-security/506430.html",
-      "pubDate": "Wed, 14 Oct 2026 17:16:55 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506657.html",
+      "title": "指令和数据长在一起：Prompt 注入为什么修不死",
+      "url": "https://www.freebuf.com/articles/ai-security/506657.html",
+      "pubDate": "Thu, 15 Oct 2026 13:51:42 +0800",
       "extra": {
-        "hover": "一旦没有到期约束，就会从临时措施变成默认配置。"
+        "hover": "导读：84.1% 对 68%——伪造的&amp;amp;amp;amp;amp;amp;quot;思考过程&amp;amp;amp;amp;amp;amp;quot;在模型内部比模型真思考更可信。ICML 2026 的 Role C"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506426.html",
-      "title": "一年 8 次红队测试，20 项攻击面只覆盖了 9 项",
-      "url": "https://www.freebuf.com/articles/ai-security/506426.html",
-      "pubDate": "Wed, 14 Oct 2026 17:10:15 +0800",
+      "id": "https://www.freebuf.com/articles/others-articles/506625.html",
+      "title": "从零掌握 VLAN：原理、802.1Q 标签与华为配置实战",
+      "url": "https://www.freebuf.com/articles/others-articles/506625.html",
+      "pubDate": "Thu, 15 Oct 2026 12:44:48 +0800",
       "extra": {
-        "hover": "回归测试有必要，但它不产生新的覆盖面——重复验证已经测过的项，只是确认修复有效。"
+        "hover": "VLAN是在一台物理交换机上逻辑划分出多个独立局域网的技术。不需要改动物理布线，就能实现广播隔离、安全隔离和灵活组网。"
       }
     },
     {
-      "id": "https://www.freebuf.com/news/506534.html",
-      "title": "curl发布8.23.0修复24个漏洞，全球装机量超300亿",
-      "url": "https://www.freebuf.com/news/506534.html",
-      "pubDate": "Wed, 14 Oct 2026 16:46:52 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506604.html",
+      "title": "一个恶意 .gitconfig，如何让 7 个 AI 编码助手在打开仓库的瞬间执行你的命令",
+      "url": "https://www.freebuf.com/articles/ai-security/506604.html",
+      "pubDate": "Thu, 15 Oct 2026 12:11:24 +0800",
       "extra": {
-        "hover": "curl发布8.23.0版本修复24个安全漏洞，相关漏洞可致凭证泄露、命令注入，其全球装机超300亿，用户需尽快升级排查。"
+        "hover": "危险不在模型，而在管道。"
       }
     },
     {
-      "id": "https://www.freebuf.com/news/506411.html",
-      "title": "FreeBuf早报 | Anthropic预警AI自我复制风险；谷歌四倍上调Chrome漏洞赏金基础标准",
-      "url": "https://www.freebuf.com/news/506411.html",
-      "pubDate": "Wed, 14 Oct 2026 15:51:00 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506601.html",
+      "title": "基于LLM Agent搭建受控渗透测试框架：三层约束设计与真实场景实测",
+      "url": "https://www.freebuf.com/articles/ai-security/506601.html",
+      "pubDate": "Thu, 15 Oct 2026 12:05:22 +0800",
       "extra": {
-        "hover": "Anthropic预警：数月内小型AI模型或可在智能电视等IoT设备上自我复制，这类无数据中心依托的AI蠕虫极难被彻底清除。"
+        "hover": "将 LLM 直接用于渗透测试，最直观的形式是：把目标信息交给模型，由模型自行选择并执行命令，最终输出结论。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/web/506410.html",
-      "title": "Web 安全零基础入门（七）：SQL 注入实战①——判断注入点、闭合注释与万能密码",
-      "url": "https://www.freebuf.com/articles/web/506410.html",
-      "pubDate": "Wed, 14 Oct 2026 15:42:32 +0800",
+      "id": "https://www.freebuf.com/news/506684.html",
+      "title": "派拓网络修复PAN-OS认证后RCE漏洞，漏洞正遭在野利用",
+      "url": "https://www.freebuf.com/news/506684.html",
+      "pubDate": "Thu, 15 Oct 2026 11:47:58 +0800",
       "extra": {
-        "hover": "理论懂了，上靶场还是卡。本篇把怎么判断有没有注入、字符型还是数字型、闭合与注释怎么写、万能密码为什么能绕过登录一次讲透，并讲清 POST 注入怎么抓包改包，每步都给实际输入和回显。"
+        "hover": "派拓网络修复PAN-OS中可获取root权限的高危RCE漏洞，该漏洞正遭小规模在野利用，CISA要求相关机构限期修复。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/web/506408.html",
-      "title": "Web 安全零基础入门（六）：SQL 注入基础（从 MySQL 到第一次注入）",
-      "url": "https://www.freebuf.com/articles/web/506408.html",
-      "pubDate": "Wed, 14 Oct 2026 15:33:55 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506596.html",
+      "title": "AI编码助手配置投毒攻击链：从.cursorrules到MCP工具劫持的纵深分析",
+      "url": "https://www.freebuf.com/articles/ai-security/506596.html",
+      "pubDate": "Thu, 15 Oct 2026 11:29:57 +0800",
       "extra": {
-        "hover": "SQL 注入是 Web 安全里最经典的漏洞。本篇从 MySQL 基础出发，讲清注入为什么发生、闭合与注释怎么用、联合查询如何挖出库名、表名、字段和数据，并给出从判断注入点到拿到 flag 的完整链路。"
+        "hover": "本文详细分析了每个攻击环节的原理，逐条实测了四道防线的拦截效果，并结合已有研究成果评估了实际威胁程度，最后提出了可落地的防御方案。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/web/503517.html",
-      "title": "Web 安全零基础入门（四）：Linux 常用命令入门（文件读取与绕过）",
-      "url": "https://www.freebuf.com/articles/web/503517.html",
-      "pubDate": "Wed, 14 Oct 2026 14:55:55 +0800",
+      "id": "https://www.freebuf.com/articles/system/506583.html",
+      "title": "把pickle关掉也没用：SGLang的CVSS 9.8反序列化RCE，与AI推理栈的结构性赌注",
+      "url": "https://www.freebuf.com/articles/system/506583.html",
+      "pubDate": "Thu, 15 Oct 2026 10:01:02 +0800",
       "extra": {
-        "hover": "Web 安全零基础入门第四篇。搞懂 Linux 常用文件命令（cat/head/tail/less/tac 等），并学会命令被过滤时如何用替代命令绕过，是命令执行漏洞的前置基础。"
+        "hover": "SGLang 是一个高性能大模型推理服务框架，GitHub 上约 3.69 万 star，广泛用于 AI 实验室与企业环境的大规模推理与智能体负载。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506394.html",
-      "title": "Rust 二进制漏洞挖掘实战：unsafe · FFI · 反序列化——Rust 安全神话的三大裂缝",
-      "url": "https://www.freebuf.com/articles/ai-security/506394.html",
-      "pubDate": "Wed, 14 Oct 2026 14:48:09 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506580.html",
+      "title": "记一次自研ai扫描器漏洞能力检测到rce全过程",
+      "url": "https://www.freebuf.com/articles/ai-security/506580.html",
+      "pubDate": "Thu, 15 Oct 2026 09:45:45 +0800",
       "extra": {
-        "hover": "Rust 并非绝对内存安全，多起 CVE 根源指向 unsafe 代码块。本文剖析 Rust 三大安全缺陷，解析 3 个真实漏洞根因，并开源 RustScan 检测工具。"
+        "hover": "方法论没有保质期——希望这三问、三档表和三条 PoC 原则，对正在做 Agent 安全研究的你有点用。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/sectool/506393.html",
-      "title": "密码输完了就算登录吗？MFA的中间态",
-      "url": "https://www.freebuf.com/articles/sectool/506393.html",
-      "pubDate": "Wed, 14 Oct 2026 14:46:41 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506579.html",
+      "title": "一条投毒文档，把 RAG 知识库变成数据外泄通道——2026 大模型数据安全攻击面盘点与本地复现",
+      "url": "https://www.freebuf.com/articles/ai-security/506579.html",
+      "pubDate": "Thu, 15 Oct 2026 09:44:41 +0800",
       "extra": {
-        "hover": "这篇把两步登录搭出来，四条路逐条复现。"
+        "hover": "前两年聊大模型安全，关键词基本是提示词注入；到了 2026 年，重心已经挪到数据本身。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506392.html",
-      "title": "超时之后，那笔到底做没做",
-      "url": "https://www.freebuf.com/articles/ai-security/506392.html",
-      "pubDate": "Wed, 14 Oct 2026 14:43:36 +0800",
+      "id": "https://www.freebuf.com/articles/mobile/506574.html",
+      "title": "Android应用安全攻防实战：从APK逆向到漏洞挖掘的6种核心手法",
+      "url": "https://www.freebuf.com/articles/mobile/506574.html",
+      "pubDate": "Thu, 15 Oct 2026 09:30:54 +0800",
       "extra": {
-        "hover": "这套靶场现在是我那套东西处理超时的对照组，demo.py每改一版跑一遍，看那张表的最后两列有没有变差。"
+        "hover": "从 APK 逆向到 Frida Hook，记了 6 种 Android 应用高频漏洞模式，附开源工具 AndroidAudit，8 条规则自动化审计。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/vuls/506389.html",
-      "title": "CVE-2026-40281漏洞复现记录",
-      "url": "https://www.freebuf.com/articles/vuls/506389.html",
-      "pubDate": "Wed, 14 Oct 2026 14:29:42 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506730.html",
+      "title": "Anthropic警告AI Agent可自动化完整网络杀伤链，攻击门槛持续降低",
+      "url": "https://www.freebuf.com/articles/ai-security/506730.html",
+      "pubDate": "Thu, 15 Oct 2026 09:27:18 +0800",
       "extra": {
-        "hover": "这个接口中的一个 “值未过滤换行符” 的疏漏，让攻击者可以把任意参数注入到 ExifTool 的命令行中，最终借助 ExifTool 的 Perl 表达式特性实现 RCE。"
+        "hover": "Anthropic警告：AI Agent已可自动化完整网络杀伤链，攻击门槛骤降，各类黑客已将其用于实战，防御面临严峻挑战。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506386.html",
-      "title": "当 AI 走进新能源场站：五类新增风险与可落地的防护思路",
-      "url": "https://www.freebuf.com/articles/ai-security/506386.html",
-      "pubDate": "Wed, 14 Oct 2026 14:18:35 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506566.html",
+      "title": "一次权限复核清出 187 项，其中 112 项是岗位变更后没回收的",
+      "url": "https://www.freebuf.com/articles/ai-security/506566.html",
+      "pubDate": "Thu, 15 Oct 2026 09:08:54 +0800",
       "extra": {
-        "hover": "本文从新能源场站引入 AI 应用后的资产变化入手，梳理数据、模型、应用、供应链、运维变更五类新增风险，对照 27 号令、等保 2.0 等合规要求，给出可落地的防护思路，供电力行业网络安全从业者参考。"
+        "hover": "一次覆盖 1240 个账号的权限复核清出 187 项权限，其中岗位变更后未回收的 112 项占 60%，项目结束未回收的 41 项。复核完成后 90 天内新增 96 项高权限授予"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/system/506503.html",
-      "title": "Linux vhost高危漏洞PoC公开，可致root提权与虚拟机逃逸",
-      "url": "https://www.freebuf.com/articles/system/506503.html",
-      "pubDate": "Wed, 14 Oct 2026 13:19:35 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506565.html",
+      "title": "审计窗口 90 天，两类日志只留了 30 天",
+      "url": "https://www.freebuf.com/articles/ai-security/506565.html",
+      "pubDate": "Thu, 15 Oct 2026 09:05:02 +0800",
       "extra": {
-        "hover": "Linux vhost高危漏洞PoC已公开，可致root提权、虚拟机逃逸，官方已发修复补丁，请用户尽快升级加固防范风险。"
+        "hover": "一次 90 天窗口的审计需要 12 类证据，逐类核对：10 类留存期覆盖窗口，访问日志和模型调用日志只有 30 天，是窗口的三分之一；8 类能与具体变更关联，4 类无法关联；另有 3 类证据完全没有留"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506493.html",
-      "title": "进攻性安全初创CodeWall获400万美元融资，推出AI Agent模拟黑客攻击测试服务",
-      "url": "https://www.freebuf.com/articles/ai-security/506493.html",
-      "pubDate": "Wed, 14 Oct 2026 12:00:38 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506562.html",
+      "title": "46 天冻结期里 19 项变更没走例外，却贡献了 64% 的事件",
+      "url": "https://www.freebuf.com/articles/ai-security/506562.html",
+      "pubDate": "Thu, 15 Oct 2026 08:58:11 +0800",
       "extra": {
-        "hover": "进攻性安全初创CodeWall获400万美元融资，推出模拟黑客的AI Agent，测试中两小时攻破麦肯锡数据库，帮企业提前验证防御有效性。"
+        "hover": "核对一次 46 天的变更冻结期：期内提交变更 128 项，属于冻结范围的 109 项，其中例外获批 37 项、未走例外上线 19 项、推迟处理 53 项。期内发生事件 11 起，与获批例外相关 4 起"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506354.html",
-      "title": "当AI Agent的USB接口变成RCE入口：MCP协议漏洞挖掘实战",
-      "url": "https://www.freebuf.com/articles/ai-security/506354.html",
-      "pubDate": "Wed, 14 Oct 2026 11:46:15 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506546.html",
+      "title": "AI防御体系建设指南：四层防御架构与Prompt注入检测器实现",
+      "url": "https://www.freebuf.com/articles/ai-security/506546.html",
+      "pubDate": "Thu, 15 Oct 2026 04:26:39 +0800",
       "extra": {
-        "hover": "MCP就是AI Agent的&amp;quot;USB接口&amp;quot;——就像USB让电脑可以连接各种外设，MCP让AI模型可以连接各种工具和数据源。"
+        "hover": "针对提示词注入、Agent 劫持风险，本文介绍四层 AI 纵深防御架构，附 Prompt 注入检测 PoC，输出企业 AI 安全分阶段建设思路。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/506350.html",
-      "title": "Prompt Injection 攻防实战：从基础注入到多轮对话劫持",
-      "url": "https://www.freebuf.com/articles/ai-security/506350.html",
-      "pubDate": "Wed, 14 Oct 2026 11:30:07 +0800",
+      "id": "https://www.freebuf.com/news/506605.html",
+      "title": "微软披露多个活动目录漏洞，攻击者可远程绕过安全功能",
+      "url": "https://www.freebuf.com/news/506605.html",
+      "pubDate": "Thu, 15 Oct 2026 03:51:31 +0800",
       "extra": {
-        "hover": "本文聚焦大模型提示注入攻防，从直接注入、间接注入到隐蔽的多轮对话劫持，结合Payload实战演示，拆解攻击原理与套路。"
+        "hover": "微软披露3个活动目录高危漏洞，远程攻击者可绕过Windows域核心安全功能，企业需高优先级部署补丁，防范内网横向渗透风险。"
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/system/506406.html",
-      "title": "研究人员利用四字节写入与时序漏洞，在Windows SmartScreen enclave实现代码执行",
-      "url": "https://www.freebuf.com/articles/system/506406.html",
-      "pubDate": "Wed, 14 Oct 2026 11:22:28 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506659.html",
+      "title": "Anthropic设立新加坡办公室，与政府签署AI安全合作协议",
+      "url": "https://www.freebuf.com/articles/ai-security/506659.html",
+      "pubDate": "Thu, 15 Oct 2026 01:40:00 +0800",
       "extra": {
-        "hover": "研究人员利用四字节写入与时序漏洞攻破Windows SmartScreen 中本该牢不可破的VBS enclave并执行代码，微软已修复该高危漏洞，仍存防护缺口。"
+        "hover": "Anthropic开设新加坡办公室，与新加坡政府签署AI安全合作协议，推进模型本地部署，平衡AI能力释放与安全防护，赋能东南亚企业AI落地。"
       }
     },
     {
-      "id": "https://www.freebuf.com/news/506525.html",
-      "title": "AI低质报告冲击漏洞赏金机制，科技巨头调整披露规则",
-      "url": "https://www.freebuf.com/news/506525.html",
-      "pubDate": "Wed, 14 Oct 2026 11:14:00 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/506517.html",
+      "title": "AI 攻击逐渐趋多化，防御该怎么算账",
+      "url": "https://www.freebuf.com/articles/ai-security/506517.html",
+      "pubDate": "Wed, 14 Oct 2026 23:38:23 +0800",
       "extra": {
-        "hover": "AI生成的海量低质无效漏洞报告挤爆审核通道，谷歌、英特尔等科技巨头被迫调整甚至暂停漏洞赏金计划，倒逼企业安全策略转向。"
+        "hover": "防御侧花越来越多的钱买识别率，对手花越来越少的钱做尝试。两条曲线方向相反，差距只会拉大。"
       }
     }
   ]
