@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792067529855,
+  "updatedAt": 1792095896638,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/506665.html",
@@ -119,6 +119,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/506790.html",
+      "title": "AI威胁检测变革企业网络安全，转向主动防御模式",
+      "url": "https://www.freebuf.com/articles/ai-security/506790.html",
+      "pubDate": "Thu, 15 Oct 2026 09:10:00 +0800",
+      "extra": {
+        "hover": "传统安全手段已难御持续演化的新型网络威胁，AI正重构企业威胁检测模式，推动被动防御转向主动实时防护，落地需兼顾效能、风险与合规。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/506566.html",
       "title": "一次权限复核清出 187 项，其中 112 项是岗位变更后没回收的",
       "url": "https://www.freebuf.com/articles/ai-security/506566.html",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 15 Oct 2026 01:40:00 +0800",
       "extra": {
         "hover": "Anthropic开设新加坡办公室，与新加坡政府签署AI安全合作协议，推进模型本地部署，平衡AI能力释放与安全防护，赋能东南亚企业AI落地。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506517.html",
-      "title": "AI 攻击逐渐趋多化，防御该怎么算账",
-      "url": "https://www.freebuf.com/articles/ai-security/506517.html",
-      "pubDate": "Wed, 14 Oct 2026 23:38:23 +0800",
-      "extra": {
-        "hover": "防御侧花越来越多的钱买识别率，对手花越来越少的钱做尝试。两条曲线方向相反，差距只会拉大。"
       }
     }
   ]
