@@ -1,6 +1,132 @@
 {
-  "updatedAt": 1792131188993,
+  "updatedAt": 1792150398066,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506973.html",
+      "title": "HW 蓝队·53 端口上的隐蔽通道：DNS 隧道 C2 流量溯源 5 层方法",
+      "url": "https://www.freebuf.com/articles/ai-security/506973.html",
+      "pubDate": "Fri, 16 Oct 2026 17:20:24 +0800",
+      "extra": {
+        "hover": "攻击者利用了 DNS 协议&quot;几乎不可封禁&quot;的特性，把 C2 通信编码在子域名和 TXT 响应里，走 53 端口绕过了所有出口过滤。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506601.html",
+      "title": "我用 LLM Agent 做了一套受控渗透测试框架：三层约束设计 + 一次完整实测",
+      "url": "https://www.freebuf.com/articles/ai-security/506601.html",
+      "pubDate": "Fri, 16 Oct 2026 17:14:49 +0800",
+      "extra": {
+        "hover": "将 LLM 直接用于渗透测试，会撞上四堵墙：越权探测、结论漂移、证据缺失、模型臆造。本文用三层约束（契约层 / 边界层 / 证据层）把它拴住，实测 28 项漏洞、24 个证据文件、幻觉率 0% ！"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506939.html",
+      "title": "CVE-2026-85046：Chrome V8 类型混淆零日漏洞深度分析——从 PACKED_ELEMENTS 到 RCE 的完整攻击链复现",
+      "url": "https://www.freebuf.com/articles/ai-security/506939.html",
+      "pubDate": "Fri, 16 Oct 2026 16:06:31 +0800",
+      "extra": {
+        "hover": "攻击者只需要构造一个包含恶意 JavaScript 的网页，诱导用户点击链接就行。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506929.html",
+      "title": "从 PoC 到在野利用不到两小时：Atlassian 未认证文件读取（CVE-2026-21589）如何一路拿到管理员",
+      "url": "https://www.freebuf.com/articles/web/506929.html",
+      "pubDate": "Fri, 16 Oct 2026 14:59:06 +0800",
+      "extra": {
+        "hover": "一次目录穿越读取配置文件，就能把明文 Crowd 凭据拿到手；有了 Crowd 凭据，创建管理员账户只需要调一次 API。Jira、Confluence、Bitbucket 等共享这套身份体系的部署"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506927.html",
+      "title": "只活在内存里的 0day：Ivanti Connect Secure 认证绕过+RCE+提权链（CVE-2026-104935）",
+      "url": "https://www.freebuf.com/articles/web/506927.html",
+      "pubDate": "Fri, 16 Oct 2026 14:56:10 +0800",
+      "extra": {
+        "hover": "当一个工具的盲区（内存驻留）恰好是攻击者的首选手法时，这个工具的&quot;通过&quot;就没有意义。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506926.html",
+      "title": "备份服务器被打成跳板：AhsayCBS 双漏洞链（CVE-2026-105133 + CVE-2026-105134）与三起真实入侵复盘",
+      "url": "https://www.freebuf.com/articles/web/506926.html",
+      "pubDate": "Fri, 16 Oct 2026 14:54:02 +0800",
+      "extra": {
+        "hover": "一个认证缺陷，一个命令注入，共用一个参数名。厂商第一次补丁没补干净，设备在公网上被打了两轮，攻击者用 JSP webshell 验证访问、把普通用户提到 SYSTEM、再用混淆 PowerShell"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506869.html",
+      "title": "Web 安全零基础入门（八）：SQL 注入实战②——UNION 联合查询，一条链路挖到底",
+      "url": "https://www.freebuf.com/articles/web/506869.html",
+      "pubDate": "Fri, 16 Oct 2026 10:23:15 +0800",
+      "extra": {
+        "hover": "这篇解决&amp;quot;判断完之后怎么把数据掏出来&amp;quot;——也就是回显型注入最主流的打法：UNION 联合查询。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/506410.html",
+      "title": "Web 安全零基础入门（七）：SQL 注入实战①——判断注入点、闭合注释与万能密码",
+      "url": "https://www.freebuf.com/articles/web/506410.html",
+      "pubDate": "Fri, 16 Oct 2026 10:16:27 +0800",
+      "extra": {
+        "hover": "理论懂了，上靶场还是卡。本篇把怎么判断有没有注入、字符型还是数字型、闭合与注释怎么写、万能密码为什么能绕过登录一次讲透，并讲清 POST 注入怎么抓包改包，每步都给实际输入和回显。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/506860.html",
+      "title": "Kubernetes 安全审计实战：从 Pod 到 etcd 的 6 种核心攻击面",
+      "url": "https://www.freebuf.com/articles/system/506860.html",
+      "pubDate": "Fri, 16 Oct 2026 09:32:00 +0800",
+      "extra": {
+        "hover": "从特权容器逃逸到 etcd 未授权，记了 6 种 K8s 集群高频漏洞模式，附开源工具 K8sSecScan，8 条规则自动化审计。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506975.html",
+      "title": "MITRE发布ATT&CK v20，新增9项技术覆盖AI利用等攻击场景",
+      "url": "https://www.freebuf.com/news/506975.html",
+      "pubDate": "Fri, 16 Oct 2026 08:58:16 +0800",
+      "extra": {
+        "hover": "MITRE发布ATT&CK v20，新增9项技术覆盖AI攻击、MFA绕过等场景，扩展工控、移动端安全覆盖，为防御方提供攻击行为对标框架，助力检测新型威胁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506982.html",
+      "title": "Android新增AI诈骗防护功能，可自动挂断仿冒银行来电",
+      "url": "https://www.freebuf.com/news/506982.html",
+      "pubDate": "Fri, 16 Oct 2026 08:53:41 +0800",
+      "extra": {
+        "hover": "诈骗手段愈发隐蔽，谷歌为安卓推出AI内置诈骗防护，覆盖消息、来电、屏幕共享等场景，可自动挂断仿冒银行来电、拦截钓鱼链接，防范各类诈骗风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506853.html",
+      "title": "你装的 MCP 工具，昨晚可能已经换了一副面孔：清单完整性基线与漂移检测",
+      "url": "https://www.freebuf.com/articles/ai-security/506853.html",
+      "pubDate": "Fri, 16 Oct 2026 08:49:48 +0800",
+      "extra": {
+        "hover": "rug-pull 发生在“两次启动之间”，配置审计拦不住。本文给每个 MCP 服务器条目建立指纹基线，启动前比对漂移，变脸当场点名。纯标准库、本机可复现，附核心代码与真实输出。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/506911.html",
+      "title": "美国网安岗位招聘量创四年新低，需求结构向合规倾斜",
+      "url": "https://www.freebuf.com/news/506911.html",
+      "pubDate": "Fri, 16 Oct 2026 05:30:51 +0800",
+      "extra": {
+        "hover": "2026年美国网络安全岗位招聘量创四年新低，需求向合规类倾斜，渗透测试岗招聘近乎腰斩，实操岗求职者空间收窄，仅AI安全岗逆势增长，CISO招聘波动源于高管层动荡。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506914.html",
+      "title": "地下论坛售卖黑客AI工具，多采用被盗Key和开源模型越狱",
+      "url": "https://www.freebuf.com/articles/ai-security/506914.html",
+      "pubDate": "Fri, 16 Oct 2026 05:00:24 +0800",
+      "extra": {
+        "hover": "地下论坛售卖依托被盗AI API密钥运行的自主黑客工具，扫描成本全由密钥所属企业承担，黑产滥用AI自动挖洞攻击的风险正急剧攀升。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/506832.html",
       "title": "Linux内核PwnEscape高危漏洞曝光，虚拟机可读取宿主机内存",
@@ -20,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/endpoint/506773.html",
+      "title": "新手勇闯网络安全 | PHP基础（四）",
+      "url": "https://www.freebuf.com/articles/endpoint/506773.html",
+      "pubDate": "Thu, 15 Oct 2026 21:38:19 +0800",
+      "extra": {
+        "hover": "PHP 危险函数与反序列化漏洞全解析"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/506739.html",
       "title": "FreeBuf早报 | AI低质报告冲击漏洞赏金机制；Linux vhost高危漏洞PoC公开",
       "url": "https://www.freebuf.com/news/506739.html",
@@ -29,156 +164,21 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/506706.html",
+      "title": "自建面向 AI Agent 代码的安全扫描：两点不一样的工程实践与实测",
+      "url": "https://www.freebuf.com/articles/ai-security/506706.html",
+      "pubDate": "Thu, 15 Oct 2026 17:15:39 +0800",
+      "extra": {
+        "hover": "摘要：AI Agent 应用将大模型、工具调用、权限体系与多智能体协作组合为新的软件形态，其攻击面呈现链路化、关系化与语义化三个特征，与传统 SAST 的逐行匹配模型结构性失配。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/database/506812.html",
       "title": "日本汉堡王确认发生数据泄露，1118万应用会员记录受影响",
       "url": "https://www.freebuf.com/articles/database/506812.html",
       "pubDate": "Thu, 15 Oct 2026 15:55:01 +0800",
       "extra": {
         "hover": "日本汉堡王发生数据泄露，约1118万应用会员个人信息遭未授权访问，暂未涉及支付卡数据，已启动应急处置，用户需警惕钓鱼诈骗。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506813.html",
-      "title": "ChatGPT GitHub连接器存严重漏洞，攻击者可窃取私有仓库密钥",
-      "url": "https://www.freebuf.com/articles/ai-security/506813.html",
-      "pubDate": "Thu, 15 Oct 2026 15:47:08 +0800",
-      "extra": {
-        "hover": "ChatGPT GitHub连接器存9.3分高危漏洞，攻击者可借隐藏提示注入窃取私有仓库密钥、跨仓执行恶意操作，厂商关闭漏洞工单，目前风险仍存。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506665.html",
-      "title": "训练数据里的一颗钉子：模型后门从 BadNets 到大模型时代",
-      "url": "https://www.freebuf.com/articles/ai-security/506665.html",
-      "pubDate": "Thu, 15 Oct 2026 14:25:10 +0800",
-      "extra": {
-        "hover": "本篇从 BadNets 的 9 像素便利贴讲到 2026 年的四阶段防御体系，算清&quot;自训 vs 下载&quot;两条线的现实账。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506664.html",
-      "title": "幻觉不只是答错题：AI 编造的包名正在变成真实的攻击面",
-      "url": "https://www.freebuf.com/articles/ai-security/506664.html",
-      "pubDate": "Thu, 15 Oct 2026 14:24:58 +0800",
-      "extra": {
-        "hover": "导读：AI 编造一个不存在的包名，攻击者抢先注册，开发者照装——slopsquatting 已经从实验变成了有真实下载量的攻击面。规模：16 个代码模型 57.6 万样本里 19.7% 含幻觉包名，2"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506657.html",
-      "title": "指令和数据长在一起：Prompt 注入为什么修不死",
-      "url": "https://www.freebuf.com/articles/ai-security/506657.html",
-      "pubDate": "Thu, 15 Oct 2026 13:51:42 +0800",
-      "extra": {
-        "hover": "导读：84.1% 对 68%——伪造的&amp;amp;amp;amp;amp;amp;quot;思考过程&amp;amp;amp;amp;amp;amp;quot;在模型内部比模型真思考更可信。ICML 2026 的 Role C"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506652.html",
-      "title": "一次对话，终身带毒———MemGhost隐形记忆注入的96.4%成功率与五层防线实测",
-      "url": "https://www.freebuf.com/articles/ai-security/506652.html",
-      "pubDate": "Thu, 15 Oct 2026 13:22:25 +0800",
-      "extra": {
-        "hover": "文章实测 MemGhost 记忆幽灵攻击，该攻击可向 AI Agent 植入持久虚假记忆，分析 5 类攻击手法与防御方案，指出来源隔离 + 人工确认为最优防护组合。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/others-articles/506625.html",
-      "title": "从零掌握 VLAN：原理、802.1Q 标签与华为配置实战",
-      "url": "https://www.freebuf.com/articles/others-articles/506625.html",
-      "pubDate": "Thu, 15 Oct 2026 12:44:48 +0800",
-      "extra": {
-        "hover": "VLAN是在一台物理交换机上逻辑划分出多个独立局域网的技术。不需要改动物理布线，就能实现广播隔离、安全隔离和灵活组网。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506604.html",
-      "title": "一个恶意 .gitconfig，如何让 7 个 AI 编码助手在打开仓库的瞬间执行你的命令",
-      "url": "https://www.freebuf.com/articles/ai-security/506604.html",
-      "pubDate": "Thu, 15 Oct 2026 12:11:24 +0800",
-      "extra": {
-        "hover": "危险不在模型，而在管道。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506601.html",
-      "title": "基于LLM Agent搭建受控渗透测试框架：三层约束设计与真实场景实测",
-      "url": "https://www.freebuf.com/articles/ai-security/506601.html",
-      "pubDate": "Thu, 15 Oct 2026 12:05:22 +0800",
-      "extra": {
-        "hover": "将 LLM 直接用于渗透测试，最直观的形式是：把目标信息交给模型，由模型自行选择并执行命令，最终输出结论。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/506599.html",
-      "title": "SAP Cloud SDK for Python 的 OAuth2 凭据外带补丁回归与实战复现",
-      "url": "https://www.freebuf.com/articles/vuls/506599.html",
-      "pubDate": "Thu, 15 Oct 2026 11:51:28 +0800",
-      "extra": {
-        "hover": "判断自己有没有暴露,看的是「多租户 + 租户名可控 + 版本落点」这三个条件的交集。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506684.html",
-      "title": "派拓网络修复PAN-OS认证后RCE漏洞，漏洞正遭在野利用",
-      "url": "https://www.freebuf.com/news/506684.html",
-      "pubDate": "Thu, 15 Oct 2026 11:47:58 +0800",
-      "extra": {
-        "hover": "派拓网络修复PAN-OS中可获取root权限的高危RCE漏洞，该漏洞正遭小规模在野利用，CISA要求相关机构限期修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506596.html",
-      "title": "AI编码助手配置投毒攻击链：从.cursorrules到MCP工具劫持的纵深分析",
-      "url": "https://www.freebuf.com/articles/ai-security/506596.html",
-      "pubDate": "Thu, 15 Oct 2026 11:29:57 +0800",
-      "extra": {
-        "hover": "本文详细分析了每个攻击环节的原理，逐条实测了四道防线的拦截效果，并结合已有研究成果评估了实际威胁程度，最后提出了可落地的防御方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/506583.html",
-      "title": "把pickle关掉也没用：SGLang的CVSS 9.8反序列化RCE，与AI推理栈的结构性赌注",
-      "url": "https://www.freebuf.com/articles/system/506583.html",
-      "pubDate": "Thu, 15 Oct 2026 10:01:02 +0800",
-      "extra": {
-        "hover": "SGLang 是一个高性能大模型推理服务框架，GitHub 上约 3.69 万 star，广泛用于 AI 实验室与企业环境的大规模推理与智能体负载。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/506582.html",
-      "title": "一个npm包偷走你的云：tensorlake 0.5.144与Shai-Hulud蠕虫全解析",
-      "url": "https://www.freebuf.com/articles/database/506582.html",
-      "pubDate": "Thu, 15 Oct 2026 09:57:56 +0800",
-      "extra": {
-        "hover": "2026 年 10 月 8 日，npm 上的 Tensorlake 官方 SDK（tensorlake）发布了一个被投毒的版本 0.5.144，携带 Shai-Hulud 蠕虫家族的凭证窃取载荷。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506580.html",
-      "title": "记一次自研ai扫描器漏洞能力检测到rce全过程",
-      "url": "https://www.freebuf.com/articles/ai-security/506580.html",
-      "pubDate": "Thu, 15 Oct 2026 09:45:45 +0800",
-      "extra": {
-        "hover": "方法论没有保质期——希望这三问、三档表和三条 PoC 原则，对正在做 Agent 安全研究的你有点用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506579.html",
-      "title": "一条投毒文档，把 RAG 知识库变成数据外泄通道——2026 大模型数据安全攻击面盘点与本地复现",
-      "url": "https://www.freebuf.com/articles/ai-security/506579.html",
-      "pubDate": "Thu, 15 Oct 2026 09:44:41 +0800",
-      "extra": {
-        "hover": "前两年聊大模型安全，关键词基本是提示词注入；到了 2026 年，重心已经挪到数据本身。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/mobile/506574.html",
-      "title": "Android应用安全攻防实战：从APK逆向到漏洞挖掘的6种核心手法",
-      "url": "https://www.freebuf.com/articles/mobile/506574.html",
-      "pubDate": "Thu, 15 Oct 2026 09:30:54 +0800",
-      "extra": {
-        "hover": "从 APK 逆向到 Frida Hook，记了 6 种 Android 应用高频漏洞模式，附开源工具 AndroidAudit，8 条规则自动化审计。"
       }
     }
   ]
