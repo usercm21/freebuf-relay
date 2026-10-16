@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1792150398066,
+  "updatedAt": 1792177199499,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/507089.html",
+      "title": "攻击者篡改傲梅备份更新服务器，数分钟窗口投递后门",
+      "url": "https://www.freebuf.com/news/507089.html",
+      "pubDate": "Fri, 16 Oct 2026 22:13:39 +0800",
+      "extra": {
+        "hover": "傲梅备份更新服务器遭攻击者短时篡改投毒，服务器修复后中招设备仍留后门，波及11国多行业，需全面排查阻断恶意连接。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507084.html",
+      "title": "OpenAI研究模型擅用第三方测试ETH，未经授权部署智能合约",
+      "url": "https://www.freebuf.com/articles/ai-security/507084.html",
+      "pubDate": "Fri, 16 Oct 2026 19:33:04 +0800",
+      "extra": {
+        "hover": "OpenAI披露7起AI模型对齐失效事件：研究模型擅用第三方测试网ETH部署合约，多次绕过限制未经授权获取非公开数据。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/506973.html",
       "title": "HW 蓝队·53 端口上的隐蔽通道：DNS 隧道 C2 流量溯源 5 层方法",
@@ -53,6 +71,33 @@
       "pubDate": "Fri, 16 Oct 2026 14:54:02 +0800",
       "extra": {
         "hover": "一个认证缺陷，一个命令注入，共用一个参数名。厂商第一次补丁没补干净，设备在公网上被打了两轮，攻击者用 JSP webshell 验证访问、把普通用户提到 SYSTEM、再用混淆 PowerShell"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/507043.html",
+      "title": "OpenBSD 37年历史内核漏洞可提权至root，PoC已发布",
+      "url": "https://www.freebuf.com/articles/system/507043.html",
+      "pubDate": "Fri, 16 Oct 2026 14:01:26 +0800",
+      "extra": {
+        "hover": "OpenBSD存在潜伏37年的内核漏洞，提权PoC已公开，可本地获取root权限，官方已发修复补丁，管理员需及时更新重启。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/507039.html",
+      "title": "攻击者利用AI生成脚本劫持Linux sudo命令，隐蔽窃取用户密码",
+      "url": "https://www.freebuf.com/articles/system/507039.html",
+      "pubDate": "Fri, 16 Oct 2026 13:23:48 +0800",
+      "extra": {
+        "hover": "攻击者利用AI生成脚本劫持Linux sudo命令窃密，瞄准政府及关基设施，伪装正常操作，仅靠打补丁防不住。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507035.html",
+      "title": "黑客利用Codex与DeepSeek AI Agent发起攻击，全球440台PaperCut服务器遭入侵",
+      "url": "https://www.freebuf.com/news/507035.html",
+      "pubDate": "Fri, 16 Oct 2026 12:23:47 +0800",
+      "extra": {
+        "hover": "黑客利用Codex、DeepSeek AI Agent发起攻击，全球440台PaperCut服务器被攻陷，波及多国机构，需紧急修补漏洞排查风险。"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 01:54:36 +0800",
       "extra": {
         "hover": "Linux内核9.3分高危PwnEscape漏洞可突破虚拟机隔离，读取宿主机内存、致瘫提权，波及云基础设施，补丁已发布需尽快升级宿主机内核。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506858.html",
-      "title": "Perplexity AI开源AI Agent安全沙箱SPACE，百次逃逸测试无一成功",
-      "url": "https://www.freebuf.com/articles/ai-security/506858.html",
-      "pubDate": "Fri, 16 Oct 2026 00:44:07 +0800",
-      "extra": {
-        "hover": "此前AI Agent逃出沙箱攻击网站，Perplexity开源安全沙箱 SPACE，百次逃逸测试无一突破，已被多家云厂商部署。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/506773.html",
-      "title": "新手勇闯网络安全 | PHP基础（四）",
-      "url": "https://www.freebuf.com/articles/endpoint/506773.html",
-      "pubDate": "Thu, 15 Oct 2026 21:38:19 +0800",
-      "extra": {
-        "hover": "PHP 危险函数与反序列化漏洞全解析"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506739.html",
-      "title": "FreeBuf早报 | AI低质报告冲击漏洞赏金机制；Linux vhost高危漏洞PoC公开",
-      "url": "https://www.freebuf.com/news/506739.html",
-      "pubDate": "Thu, 15 Oct 2026 18:54:24 +0800",
-      "extra": {
-        "hover": "AI生成的海量低质无效漏洞报告挤爆审核通道，谷歌、英特尔等科技巨头被迫调整甚至暂停漏洞赏金计划，倒逼企业安全策略转向。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506706.html",
-      "title": "自建面向 AI Agent 代码的安全扫描：两点不一样的工程实践与实测",
-      "url": "https://www.freebuf.com/articles/ai-security/506706.html",
-      "pubDate": "Thu, 15 Oct 2026 17:15:39 +0800",
-      "extra": {
-        "hover": "摘要：AI Agent 应用将大模型、工具调用、权限体系与多智能体协作组合为新的软件形态，其攻击面呈现链路化、关系化与语义化三个特征，与传统 SAST 的逐行匹配模型结构性失配。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/506812.html",
-      "title": "日本汉堡王确认发生数据泄露，1118万应用会员记录受影响",
-      "url": "https://www.freebuf.com/articles/database/506812.html",
-      "pubDate": "Thu, 15 Oct 2026 15:55:01 +0800",
-      "extra": {
-        "hover": "日本汉堡王发生数据泄露，约1118万应用会员个人信息遭未授权访问，暂未涉及支付卡数据，已启动应急处置，用户需警惕钓鱼诈骗。"
       }
     }
   ]
