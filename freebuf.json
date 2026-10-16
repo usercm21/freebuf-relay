@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792095896638,
+  "updatedAt": 1792114050928,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/506665.html",
@@ -53,6 +53,15 @@
       "pubDate": "Thu, 15 Oct 2026 12:05:22 +0800",
       "extra": {
         "hover": "将 LLM 直接用于渗透测试，最直观的形式是：把目标信息交给模型，由模型自行选择并执行命令，最终输出结论。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/506599.html",
+      "title": "SAP Cloud SDK for Python 的 OAuth2 凭据外带补丁回归与实战复现",
+      "url": "https://www.freebuf.com/articles/vuls/506599.html",
+      "pubDate": "Thu, 15 Oct 2026 11:51:28 +0800",
+      "extra": {
+        "hover": "判断自己有没有暴露,看的是「多租户 + 租户名可控 + 版本落点」这三个条件的交集。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 15 Oct 2026 03:51:31 +0800",
       "extra": {
         "hover": "微软披露3个活动目录高危漏洞，远程攻击者可绕过Windows域核心安全功能，企业需高优先级部署补丁，防范内网横向渗透风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506659.html",
-      "title": "Anthropic设立新加坡办公室，与政府签署AI安全合作协议",
-      "url": "https://www.freebuf.com/articles/ai-security/506659.html",
-      "pubDate": "Thu, 15 Oct 2026 01:40:00 +0800",
-      "extra": {
-        "hover": "Anthropic开设新加坡办公室，与新加坡政府签署AI安全合作协议，推进模型本地部署，平衡AI能力释放与安全防护，赋能东南亚企业AI落地。"
       }
     }
   ]
