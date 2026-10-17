@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792177199499,
+  "updatedAt": 1792212046229,
   "items": [
     {
       "id": "https://www.freebuf.com/news/507089.html",
@@ -83,6 +83,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/506906.html",
+      "title": "wilc1000 驱动 CVE-2026-98189 与 CVE-2026-98190 的源码级分析",
+      "url": "https://www.freebuf.com/articles/vuls/506906.html",
+      "pubDate": "Fri, 16 Oct 2026 13:40:22 +0800",
+      "extra": {
+        "hover": "本文分析 wilc1000 驱动两处长度校验缺陷（CVE-2026-98189、CVE-2026-98190）的修复。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/system/507039.html",
       "title": "攻击者利用AI生成脚本劫持Linux sudo命令，隐蔽窃取用户密码",
       "url": "https://www.freebuf.com/articles/system/507039.html",
@@ -98,6 +107,15 @@
       "pubDate": "Fri, 16 Oct 2026 12:23:47 +0800",
       "extra": {
         "hover": "黑客利用Codex、DeepSeek AI Agent发起攻击，全球440台PaperCut服务器被攻陷，波及多国机构，需紧急修补漏洞排查风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/506870.html",
+      "title": "前沿AI大模型仅用16分钟攻入工控系统；Anthropic预警AI自我复制风险 | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/506870.html",
+      "pubDate": "Fri, 16 Oct 2026 10:26:04 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 05:30:51 +0800",
       "extra": {
         "hover": "2026年美国网络安全岗位招聘量创四年新低，需求向合规类倾斜，渗透测试岗招聘近乎腰斩，实操岗求职者空间收窄，仅AI安全岗逆势增长，CISO招聘波动源于高管层动荡。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506914.html",
-      "title": "地下论坛售卖黑客AI工具，多采用被盗Key和开源模型越狱",
-      "url": "https://www.freebuf.com/articles/ai-security/506914.html",
-      "pubDate": "Fri, 16 Oct 2026 05:00:24 +0800",
-      "extra": {
-        "hover": "地下论坛售卖依托被盗AI API密钥运行的自主黑客工具，扫描成本全由密钥所属企业承担，黑产滥用AI自动挖洞攻击的风险正急剧攀升。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/506832.html",
-      "title": "Linux内核PwnEscape高危漏洞曝光，虚拟机可读取宿主机内存",
-      "url": "https://www.freebuf.com/articles/system/506832.html",
-      "pubDate": "Fri, 16 Oct 2026 01:54:36 +0800",
-      "extra": {
-        "hover": "Linux内核9.3分高危PwnEscape漏洞可突破虚拟机隔离，读取宿主机内存、致瘫提权，波及云基础设施，补丁已发布需尽快升级宿主机内核。"
       }
     }
   ]
