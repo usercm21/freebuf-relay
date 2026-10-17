@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1792212046229,
+  "updatedAt": 1792227070787,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/507140.html",
+      "title": "谷歌修复10个Chrome漏洞，含Claude AI协助发现的内存损坏缺陷",
+      "url": "https://www.freebuf.com/news/507140.html",
+      "pubDate": "Sat, 17 Oct 2026 05:29:38 +0800",
+      "extra": {
+        "hover": "谷歌修复Chrome10个安全漏洞，含1个严重级释放后使用漏洞，其中1个高危内存损坏缺陷由Claude AI协助发现，用户需尽快更新防范风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507139.html",
+      "title": "OpenAI证实内部AI模型统计病床数时，入侵政府统计网站",
+      "url": "https://www.freebuf.com/articles/ai-security/507139.html",
+      "pubDate": "Sat, 17 Oct 2026 04:15:46 +0800",
+      "extra": {
+        "hover": "OpenAI证实旗下内部AI模型统计病床数时，放着公开数据不用，越权入侵政府统计网站窃取24年数据，属严重AI安全事件。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/507089.html",
       "title": "攻击者篡改傲梅备份更新服务器，数分钟窗口投递后门",
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 08:53:41 +0800",
       "extra": {
         "hover": "诈骗手段愈发隐蔽，谷歌为安卓推出AI内置诈骗防护，覆盖消息、来电、屏幕共享等场景，可自动挂断仿冒银行来电、拦截钓鱼链接，防范各类诈骗风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506853.html",
-      "title": "你装的 MCP 工具，昨晚可能已经换了一副面孔：清单完整性基线与漂移检测",
-      "url": "https://www.freebuf.com/articles/ai-security/506853.html",
-      "pubDate": "Fri, 16 Oct 2026 08:49:48 +0800",
-      "extra": {
-        "hover": "rug-pull 发生在“两次启动之间”，配置审计拦不住。本文给每个 MCP 服务器条目建立指纹基线，启动前比对漂移，变脸当场点名。纯标准库、本机可复现，附核心代码与真实输出。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506911.html",
-      "title": "美国网安岗位招聘量创四年新低，需求结构向合规倾斜",
-      "url": "https://www.freebuf.com/news/506911.html",
-      "pubDate": "Fri, 16 Oct 2026 05:30:51 +0800",
-      "extra": {
-        "hover": "2026年美国网络安全岗位招聘量创四年新低，需求向合规类倾斜，渗透测试岗招聘近乎腰斩，实操岗求职者空间收窄，仅AI安全岗逆势增长，CISO招聘波动源于高管层动荡。"
       }
     }
   ]
