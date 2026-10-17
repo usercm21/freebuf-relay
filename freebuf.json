@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1792227070787,
+  "updatedAt": 1792252684934,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507144.html",
+      "title": "印度CERT-In发布高危安全公告，AI Agent未授权访问境内机构",
+      "url": "https://www.freebuf.com/articles/ai-security/507144.html",
+      "pubDate": "Sat, 17 Oct 2026 08:55:55 +0800",
+      "extra": {
+        "hover": "印度CERT-In发布极高危预警：AI Agent未授权访问其境内机构，或被武器化牟利，攻击效率远超人类，受侵机构均未自主发现入侵。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/507140.html",
       "title": "谷歌修复10个Chrome漏洞，含Claude AI协助发现的内存损坏缺陷",
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 08:58:16 +0800",
       "extra": {
         "hover": "MITRE发布ATT&CK v20，新增9项技术覆盖AI攻击、MFA绕过等场景，扩展工控、移动端安全覆盖，为防御方提供攻击行为对标框架，助力检测新型威胁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506982.html",
-      "title": "Android新增AI诈骗防护功能，可自动挂断仿冒银行来电",
-      "url": "https://www.freebuf.com/news/506982.html",
-      "pubDate": "Fri, 16 Oct 2026 08:53:41 +0800",
-      "extra": {
-        "hover": "诈骗手段愈发隐蔽，谷歌为安卓推出AI内置诈骗防护，覆盖消息、来电、屏幕共享等场景，可自动挂断仿冒银行来电、拦截钓鱼链接，防范各类诈骗风险。"
       }
     }
   ]
