@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1792252684934,
+  "updatedAt": 1792315221475,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/507192.html",
+      "title": "OpenCode披露安全漏洞，控制台用户第三方API密钥或遭泄露",
+      "url": "https://www.freebuf.com/news/507192.html",
+      "pubDate": "Sun, 18 Oct 2026 04:20:16 +0800",
+      "extra": {
+        "hover": "OpenCode披露安全漏洞，1.4%控制台用户第三方API密钥恐遭泄露，关联大规模模型蒸馏攻击，正联合多家AI厂商处置，敦促受影响用户尽快更换密钥。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507173.html",
+      "title": "Claude耗时30分钟解开NSA 25年密码学谜题，未破解现有加密体系",
+      "url": "https://www.freebuf.com/news/507173.html",
+      "pubDate": "Sat, 17 Oct 2026 16:59:29 +0800",
+      "extra": {
+        "hover": "Claude耗时30分钟解开困扰密码学界25年的NSA椭圆曲线种子来源谜题，未破解现有加密体系，打消了参数暗藏后门的长期疑虑。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/507144.html",
       "title": "印度CERT-In发布高危安全公告，AI Agent未授权访问境内机构",
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 10:16:27 +0800",
       "extra": {
         "hover": "理论懂了，上靶场还是卡。本篇把怎么判断有没有注入、字符型还是数字型、闭合与注释怎么写、万能密码为什么能绕过登录一次讲透，并讲清 POST 注入怎么抓包改包，每步都给实际输入和回显。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/506860.html",
-      "title": "Kubernetes 安全审计实战：从 Pod 到 etcd 的 6 种核心攻击面",
-      "url": "https://www.freebuf.com/articles/system/506860.html",
-      "pubDate": "Fri, 16 Oct 2026 09:32:00 +0800",
-      "extra": {
-        "hover": "从特权容器逃逸到 etcd 未授权，记了 6 种 K8s 集群高频漏洞模式，附开源工具 K8sSecScan，8 条规则自动化审计。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506975.html",
-      "title": "MITRE发布ATT&CK v20，新增9项技术覆盖AI利用等攻击场景",
-      "url": "https://www.freebuf.com/news/506975.html",
-      "pubDate": "Fri, 16 Oct 2026 08:58:16 +0800",
-      "extra": {
-        "hover": "MITRE发布ATT&CK v20，新增9项技术覆盖AI攻击、MFA绕过等场景，扩展工控、移动端安全覆盖，为防御方提供攻击行为对标框架，助力检测新型威胁。"
       }
     }
   ]
