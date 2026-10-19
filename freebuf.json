@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1792315221475,
+  "updatedAt": 1792392353248,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/507251.html",
+      "title": "博通Wi-Fi漏洞已存在16年，攻击者无需密码即可接管路由器",
+      "url": "https://www.freebuf.com/news/507251.html",
+      "pubDate": "Mon, 19 Oct 2026 00:36:33 +0800",
+      "extra": {
+        "hover": "潜伏16年的博通Wi-Fi漏洞无需密码即可让攻击者远程接管路由器，全球大量受影响设备无补丁，可窃取密码、监控全网流量。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507265.html",
+      "title": "OpenAI支持AI安全事件上报规则，上报时限交由各国政府制定",
+      "url": "https://www.freebuf.com/articles/ai-security/507265.html",
+      "pubDate": "Sun, 18 Oct 2026 21:51:00 +0800",
+      "extra": {
+        "hover": "OpenAI表态支持AI事件全透明上报要求，具体上报时限交由各国政府制定，曾因延迟上报遭澳方批评，正推动AI安全标准落地、完善通报机制。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/488906.html",
+      "title": "VulnHub 靶机网络排查指南 — 解决 arp-scan 扫不到靶机的问题",
+      "url": "https://www.freebuf.com/articles/web/488906.html",
+      "pubDate": "Sun, 18 Oct 2026 12:32:03 +0800",
+      "extra": {
+        "hover": "本指南以 Momentum 2 为例，演示从 VMware 设置到系统内网卡配置的完整排查流程，适用于绝大多数 Debian/Ubuntu 系靶机，全程零基础可操作。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/507219.html",
+      "title": "Salesforce 安全配置审计 Part-2：六道防线从 HTTPOnly 到 MFA",
+      "url": "https://www.freebuf.com/articles/507219.html",
+      "pubDate": "Sun, 18 Oct 2026 09:07:56 +0800",
+      "extra": {
+        "hover": "Salesforce六道配置防线常被忽略，漏配MFA或字段历史，可能致审计溯源全断、单因素入口暴露。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/507192.html",
       "title": "OpenCode披露安全漏洞，控制台用户第三方API密钥或遭泄露",
@@ -11,12 +47,39 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/web/503517.html",
+      "title": "Web 安全零基础入门（四）：Linux 常用命令入门（文件读取与绕过）",
+      "url": "https://www.freebuf.com/articles/web/503517.html",
+      "pubDate": "Sat, 17 Oct 2026 23:58:34 +0800",
+      "extra": {
+        "hover": "Web 安全零基础入门第四篇。搞懂 Linux 常用文件命令（cat/head/tail/less/tac 等），并学会命令被过滤时如何用替代命令绕过，是命令执行漏洞的前置基础。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/507173.html",
       "title": "Claude耗时30分钟解开NSA 25年密码学谜题，未破解现有加密体系",
       "url": "https://www.freebuf.com/news/507173.html",
       "pubDate": "Sat, 17 Oct 2026 16:59:29 +0800",
       "extra": {
         "hover": "Claude耗时30分钟解开困扰密码学界25年的NSA椭圆曲线种子来源谜题，未破解现有加密体系，打消了参数暗藏后门的长期疑虑。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/507202.html",
+      "title": "先做等保，还是先做密评？",
+      "url": "https://www.freebuf.com/articles/507202.html",
+      "pubDate": "Sat, 17 Oct 2026 10:06:50 +0800",
+      "extra": {
+        "hover": "不能倒置：先定级、方案密评、后建设；方案未过不得建，上线前密评与等保测评并行且未过不得上线。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/507215.html",
+      "title": "Salesforce 安全配置审计：从密码策略到点击劫持的四大盲区",
+      "url": "https://www.freebuf.com/articles/507215.html",
+      "pubDate": "Sat, 17 Oct 2026 09:04:33 +0800",
+      "extra": {
+        "hover": "Salesforce四项配置常被默认略过，攻击者只要拿到一个能登录的账号就能横着走；清单拆解原理、绕法与修复。"
       }
     },
     {
@@ -83,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/506951.html",
+      "title": "FreeBuf早报 | 地下论坛售卖黑客AI工具；日本汉堡王确认发生数据泄露",
+      "url": "https://www.freebuf.com/news/506951.html",
+      "pubDate": "Fri, 16 Oct 2026 16:28:24 +0800",
+      "extra": {
+        "hover": "地下论坛售卖依托被盗AI API密钥运行的自主黑客工具，扫描成本全由密钥所属企业承担，黑产滥用AI自动挖洞攻击的风险正急剧攀升。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/506939.html",
       "title": "CVE-2026-85046：Chrome V8 类型混淆零日漏洞深度分析——从 PACKED_ELEMENTS 到 RCE 的完整攻击链复现",
       "url": "https://www.freebuf.com/articles/ai-security/506939.html",
@@ -107,78 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 14:56:10 +0800",
       "extra": {
         "hover": "当一个工具的盲区（内存驻留）恰好是攻击者的首选手法时，这个工具的&quot;通过&quot;就没有意义。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/506926.html",
-      "title": "备份服务器被打成跳板：AhsayCBS 双漏洞链（CVE-2026-105133 + CVE-2026-105134）与三起真实入侵复盘",
-      "url": "https://www.freebuf.com/articles/web/506926.html",
-      "pubDate": "Fri, 16 Oct 2026 14:54:02 +0800",
-      "extra": {
-        "hover": "一个认证缺陷，一个命令注入，共用一个参数名。厂商第一次补丁没补干净，设备在公网上被打了两轮，攻击者用 JSP webshell 验证访问、把普通用户提到 SYSTEM、再用混淆 PowerShell"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/507043.html",
-      "title": "OpenBSD 37年历史内核漏洞可提权至root，PoC已发布",
-      "url": "https://www.freebuf.com/articles/system/507043.html",
-      "pubDate": "Fri, 16 Oct 2026 14:01:26 +0800",
-      "extra": {
-        "hover": "OpenBSD存在潜伏37年的内核漏洞，提权PoC已公开，可本地获取root权限，官方已发修复补丁，管理员需及时更新重启。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/506906.html",
-      "title": "wilc1000 驱动 CVE-2026-98189 与 CVE-2026-98190 的源码级分析",
-      "url": "https://www.freebuf.com/articles/vuls/506906.html",
-      "pubDate": "Fri, 16 Oct 2026 13:40:22 +0800",
-      "extra": {
-        "hover": "本文分析 wilc1000 驱动两处长度校验缺陷（CVE-2026-98189、CVE-2026-98190）的修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/507039.html",
-      "title": "攻击者利用AI生成脚本劫持Linux sudo命令，隐蔽窃取用户密码",
-      "url": "https://www.freebuf.com/articles/system/507039.html",
-      "pubDate": "Fri, 16 Oct 2026 13:23:48 +0800",
-      "extra": {
-        "hover": "攻击者利用AI生成脚本劫持Linux sudo命令窃密，瞄准政府及关基设施，伪装正常操作，仅靠打补丁防不住。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507035.html",
-      "title": "黑客利用Codex与DeepSeek AI Agent发起攻击，全球440台PaperCut服务器遭入侵",
-      "url": "https://www.freebuf.com/news/507035.html",
-      "pubDate": "Fri, 16 Oct 2026 12:23:47 +0800",
-      "extra": {
-        "hover": "黑客利用Codex、DeepSeek AI Agent发起攻击，全球440台PaperCut服务器被攻陷，波及多国机构，需紧急修补漏洞排查风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/506870.html",
-      "title": "前沿AI大模型仅用16分钟攻入工控系统；Anthropic预警AI自我复制风险 | FreeBuf周报",
-      "url": "https://www.freebuf.com/articles/506870.html",
-      "pubDate": "Fri, 16 Oct 2026 10:26:04 +0800",
-      "extra": {
-        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/506869.html",
-      "title": "Web 安全零基础入门（八）：SQL 注入实战②——UNION 联合查询，一条链路挖到底",
-      "url": "https://www.freebuf.com/articles/web/506869.html",
-      "pubDate": "Fri, 16 Oct 2026 10:23:15 +0800",
-      "extra": {
-        "hover": "这篇解决&amp;quot;判断完之后怎么把数据掏出来&amp;quot;——也就是回显型注入最主流的打法：UNION 联合查询。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/506410.html",
-      "title": "Web 安全零基础入门（七）：SQL 注入实战①——判断注入点、闭合注释与万能密码",
-      "url": "https://www.freebuf.com/articles/web/506410.html",
-      "pubDate": "Fri, 16 Oct 2026 10:16:27 +0800",
-      "extra": {
-        "hover": "理论懂了，上靶场还是卡。本篇把怎么判断有没有注入、字符型还是数字型、闭合与注释怎么写、万能密码为什么能绕过登录一次讲透，并讲清 POST 注入怎么抓包改包，每步都给实际输入和回显。"
       }
     }
   ]
