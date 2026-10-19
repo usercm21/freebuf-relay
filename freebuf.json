@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1792392353248,
+  "updatedAt": 1792418574556,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507253.html",
+      "title": "检索授权不是数据授权：RAG 知识库数据外带攻击链与纵深防御",
+      "url": "https://www.freebuf.com/articles/ai-security/507253.html",
+      "pubDate": "Mon, 19 Oct 2026 10:18:01 +0800",
+      "extra": {
+        "hover": "本文交付一套可运行的四层纵深防御框架（检索层 ACL 过滤下推 + 注入检测 + 出口管控 + 审计层爬库监测），同等攻击场景下可将外带成功率降至 0%。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/507251.html",
       "title": "博通Wi-Fi漏洞已存在16年，攻击者无需密码即可接管路由器",
@@ -17,6 +26,24 @@
       "pubDate": "Sun, 18 Oct 2026 21:51:00 +0800",
       "extra": {
         "hover": "OpenAI表态支持AI事件全透明上报要求，具体上报时限交由各国政府制定，曾因延迟上报遭澳方批评，正推动AI安全标准落地、完善通报机制。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507199.html",
+      "title": "风格伪造越狱：伪造模型的思维链，把越狱成功率从 1% 拉到 60%",
+      "url": "https://www.freebuf.com/articles/ai-security/507199.html",
+      "pubDate": "Sun, 18 Oct 2026 18:01:30 +0800",
+      "extra": {
+        "hover": "1　引言大语言模型上线前通常会经过一轮「安全对齐」（Safety Alignment）——通过 RLHF、Constitutional AI 等技术，让模型学会在遇到有害请求时拒绝回答。对齐模型的「拒绝」能力看似可靠，但它有一个隐含前提：模型必须先认出眼前的请求是有害的。攻击者正是盯上了这个前提。2026 年 ICML 收录的 CoT Forgery（思维链伪造）方法，在 OpenAI 的 GPT"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507198.html",
+      "title": "多模态越狱实测：利用OCR通道绕过GPT-4V安全护栏",
+      "url": "https://www.freebuf.com/articles/ai-security/507198.html",
+      "pubDate": "Sun, 18 Oct 2026 17:48:18 +0800",
+      "extra": {
+        "hover": "摘要随着GPT-4V、Gemini等多模态大语言模型（MLLM）的广泛应用，其安全防护机制也日趋完善。然而，现有安全研究主要聚焦于文本通道的Prompt注入与越狱攻击，对视觉通道的安全风险关注不足。本文深入研究了通过OCR（光学字符识别）通道绕过多模态大模型安全护栏的攻击方法，系统性地提出了三种攻击路径：基础OCR文本注入、图像隐写术+OCR注入、对抗样本+OCR注入。通过在GPT-4V、Clau"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 16:28:24 +0800",
       "extra": {
         "hover": "地下论坛售卖依托被盗AI API密钥运行的自主黑客工具，扫描成本全由密钥所属企业承担，黑产滥用AI自动挖洞攻击的风险正急剧攀升。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506939.html",
-      "title": "CVE-2026-85046：Chrome V8 类型混淆零日漏洞深度分析——从 PACKED_ELEMENTS 到 RCE 的完整攻击链复现",
-      "url": "https://www.freebuf.com/articles/ai-security/506939.html",
-      "pubDate": "Fri, 16 Oct 2026 16:06:31 +0800",
-      "extra": {
-        "hover": "攻击者只需要构造一个包含恶意 JavaScript 的网页，诱导用户点击链接就行。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/506929.html",
-      "title": "从 PoC 到在野利用不到两小时：Atlassian 未认证文件读取（CVE-2026-21589）如何一路拿到管理员",
-      "url": "https://www.freebuf.com/articles/web/506929.html",
-      "pubDate": "Fri, 16 Oct 2026 14:59:06 +0800",
-      "extra": {
-        "hover": "一次目录穿越读取配置文件，就能把明文 Crowd 凭据拿到手；有了 Crowd 凭据，创建管理员账户只需要调一次 API。Jira、Confluence、Bitbucket 等共享这套身份体系的部署"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/506927.html",
-      "title": "只活在内存里的 0day：Ivanti Connect Secure 认证绕过+RCE+提权链（CVE-2026-104935）",
-      "url": "https://www.freebuf.com/articles/web/506927.html",
-      "pubDate": "Fri, 16 Oct 2026 14:56:10 +0800",
-      "extra": {
-        "hover": "当一个工具的盲区（内存驻留）恰好是攻击者的首选手法时，这个工具的&quot;通过&quot;就没有意义。"
       }
     }
   ]
