@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792418574556,
+  "updatedAt": 1792439457554,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/507253.html",
@@ -8,6 +8,15 @@
       "pubDate": "Mon, 19 Oct 2026 10:18:01 +0800",
       "extra": {
         "hover": "本文交付一套可运行的四层纵深防御框架（检索层 ACL 过滤下推 + 注入检测 + 出口管控 + 审计层爬库监测），同等攻击场景下可将外带成功率降至 0%。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507376.html",
+      "title": "AI落地企业SOC，五大高价值应用场景实操指引",
+      "url": "https://www.freebuf.com/articles/ai-security/507376.html",
+      "pubDate": "Mon, 19 Oct 2026 09:10:00 +0800",
+      "extra": {
+        "hover": "企业SOC面临告警过载、响应滞后难题，事件延误会冲击业务、影响合规，AI可赋能五大高价值安全运营场景，落地需完善治理、平衡效率与风险。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 17:14:49 +0800",
       "extra": {
         "hover": "将 LLM 直接用于渗透测试，会撞上四堵墙：越权探测、结论漂移、证据缺失、模型臆造。本文用三层约束（契约层 / 边界层 / 证据层）把它拴住，实测 28 项漏洞、24 个证据文件、幻觉率 0% ！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/506951.html",
-      "title": "FreeBuf早报 | 地下论坛售卖黑客AI工具；日本汉堡王确认发生数据泄露",
-      "url": "https://www.freebuf.com/news/506951.html",
-      "pubDate": "Fri, 16 Oct 2026 16:28:24 +0800",
-      "extra": {
-        "hover": "地下论坛售卖依托被盗AI API密钥运行的自主黑客工具，扫描成本全由密钥所属企业承担，黑产滥用AI自动挖洞攻击的风险正急剧攀升。"
       }
     }
   ]
