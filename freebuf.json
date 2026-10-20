@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1792480237074,
+  "updatedAt": 1792500383586,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/sectool/507552.html",
+      "title": "神器推荐|一款高级类似nc的监听器-penelope，支持多sessions、上传、下载、http server和辅助模块",
+      "url": "https://www.freebuf.com/articles/sectool/507552.html",
+      "pubDate": "Tue, 20 Oct 2026 15:22:34 +0800",
+      "extra": {
+        "hover": "Penelope默认监听4444端口，正经人不会用，哈哈哈哈哈；高级shell工具，测试须合法合规。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507493.html",
+      "title": "前OpenAI工程师涉窃密设备案被拘，被曝联系沙特王室成员",
+      "url": "https://www.freebuf.com/news/507493.html",
+      "pubDate": "Tue, 20 Oct 2026 11:23:16 +0800",
+      "extra": {
+        "hover": "前OpenAI沙特籍工程师因在高管会议室私装窃密设备被拘，被曝长期联系沙特王室、拟潜逃，若罪名成立最高判5年，其行为危及企业利益与美国国安。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507444.html",
+      "title": "Agent 捡到了没人给它的钱包：公开仓库\"沉睡凭证\"检测与本机考古实践",
+      "url": "https://www.freebuf.com/articles/ai-security/507444.html",
+      "pubDate": "Tue, 20 Oct 2026 10:49:52 +0800",
+      "extra": {
+        "hover": "OpenAI 披露模型在公开记录中找到未授权钱包并完成支付——公开凭证即已烧毁的凭证类。本文给出五类沉睡凭证暴露面的检测工具，纯标准库、本机可复现，含核心代码与真实运行数据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507527.html",
+      "title": "微软发布全新安全框架，将AI Agent视为内部威胁",
+      "url": "https://www.freebuf.com/articles/ai-security/507527.html",
+      "pubDate": "Tue, 20 Oct 2026 07:44:29 +0800",
+      "extra": {
+        "hover": "微软发布全新安全框架，将AI Agent视作已显现的内部威胁而非未来风险，不依赖模型可信度，而是靠动态权限、持续风险管控筑牢AI安全防线。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/507335.html",
       "title": "FreeBuf早报 | OpenAI支持AI安全事件上报规则；OpenCode披露安全漏洞",
@@ -26,6 +62,15 @@
       "pubDate": "Mon, 19 Oct 2026 09:10:00 +0800",
       "extra": {
         "hover": "企业SOC面临告警过载、响应滞后难题，事件延误会冲击业务、影响合规，AI可赋能五大高价值安全运营场景，落地需完善治理、平衡效率与风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/507556.html",
+      "title": "AI代理渗透测试：ARTEX AI银行入侵分析",
+      "url": "https://www.freebuf.com/articles/507556.html",
+      "pubDate": "Mon, 19 Oct 2026 06:01:34 +0800",
+      "extra": {
+        "hover": "首例完全自主AI代理攻击：ARTEX+Claude八天入侵韩国银行，89万账户泄露，AI渗透工具武器化。"
       }
     },
     {
@@ -119,66 +164,21 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/507162.html",
+      "title": "HW 蓝队·SMB 横向移动流量检测：445 端口里藏着什么",
+      "url": "https://www.freebuf.com/articles/vuls/507162.html",
+      "pubDate": "Sat, 17 Oct 2026 22:13:10 +0800",
+      "extra": {
+        "hover": "四个字概括：序列一致，文件相同，CV 极低，凭据单一。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/507173.html",
       "title": "Claude耗时30分钟解开NSA 25年密码学谜题，未破解现有加密体系",
       "url": "https://www.freebuf.com/news/507173.html",
       "pubDate": "Sat, 17 Oct 2026 16:59:29 +0800",
       "extra": {
         "hover": "Claude耗时30分钟解开困扰密码学界25年的NSA椭圆曲线种子来源谜题，未破解现有加密体系，打消了参数暗藏后门的长期疑虑。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/507202.html",
-      "title": "先做等保，还是先做密评？",
-      "url": "https://www.freebuf.com/articles/507202.html",
-      "pubDate": "Sat, 17 Oct 2026 10:06:50 +0800",
-      "extra": {
-        "hover": "不能倒置：先定级、方案密评、后建设；方案未过不得建，上线前密评与等保测评并行且未过不得上线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/507215.html",
-      "title": "Salesforce 安全配置审计：从密码策略到点击劫持的四大盲区",
-      "url": "https://www.freebuf.com/articles/507215.html",
-      "pubDate": "Sat, 17 Oct 2026 09:04:33 +0800",
-      "extra": {
-        "hover": "Salesforce四项配置常被默认略过，攻击者只要拿到一个能登录的账号就能横着走；清单拆解原理、绕法与修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507144.html",
-      "title": "印度CERT-In发布高危安全公告，AI Agent未授权访问境内机构",
-      "url": "https://www.freebuf.com/articles/ai-security/507144.html",
-      "pubDate": "Sat, 17 Oct 2026 08:55:55 +0800",
-      "extra": {
-        "hover": "印度CERT-In发布极高危预警：AI Agent未授权访问其境内机构，或被武器化牟利，攻击效率远超人类，受侵机构均未自主发现入侵。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507140.html",
-      "title": "谷歌修复10个Chrome漏洞，含Claude AI协助发现的内存损坏缺陷",
-      "url": "https://www.freebuf.com/news/507140.html",
-      "pubDate": "Sat, 17 Oct 2026 05:29:38 +0800",
-      "extra": {
-        "hover": "谷歌修复Chrome10个安全漏洞，含1个严重级释放后使用漏洞，其中1个高危内存损坏缺陷由Claude AI协助发现，用户需尽快更新防范风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507139.html",
-      "title": "OpenAI证实内部AI模型统计病床数时，入侵政府统计网站",
-      "url": "https://www.freebuf.com/articles/ai-security/507139.html",
-      "pubDate": "Sat, 17 Oct 2026 04:15:46 +0800",
-      "extra": {
-        "hover": "OpenAI证实旗下内部AI模型统计病床数时，放着公开数据不用，越权入侵政府统计网站窃取24年数据，属严重AI安全事件。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507089.html",
-      "title": "攻击者篡改傲梅备份更新服务器，数分钟窗口投递后门",
-      "url": "https://www.freebuf.com/news/507089.html",
-      "pubDate": "Fri, 16 Oct 2026 22:13:39 +0800",
-      "extra": {
-        "hover": "傲梅备份更新服务器遭攻击者短时篡改投毒，服务器修复后中招设备仍留后门，波及11国多行业，需全面排查阻断恶意连接。"
       }
     }
   ]
