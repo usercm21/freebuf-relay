@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1792439457554,
+  "updatedAt": 1792461295600,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/507335.html",
+      "title": "FreeBuf早报 | OpenAI支持AI安全事件上报规则；OpenCode披露安全漏洞",
+      "url": "https://www.freebuf.com/news/507335.html",
+      "pubDate": "Mon, 19 Oct 2026 18:11:13 +0800",
+      "extra": {
+        "hover": "OpenAI表态支持AI事件全透明上报要求，具体上报时限交由各国政府制定，曾因延迟上报遭澳方批评，正推动AI安全标准落地、完善通报机制。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/507253.html",
       "title": "检索授权不是数据授权：RAG 知识库数据外带攻击链与纵深防御",
@@ -35,6 +44,15 @@
       "pubDate": "Sun, 18 Oct 2026 21:51:00 +0800",
       "extra": {
         "hover": "OpenAI表态支持AI事件全透明上报要求，具体上报时限交由各国政府制定，曾因延迟上报遭澳方批评，正推动AI安全标准落地、完善通报机制。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507207.html",
+      "title": "一个Agent感染，整个集群沦陷：AgentWorm蠕虫攻击的自我复制机制与免疫防御",
+      "url": "https://www.freebuf.com/articles/ai-security/507207.html",
+      "pubDate": "Sun, 18 Oct 2026 20:12:46 +0800",
+      "extra": {
+        "hover": "剖析 AgentWorm 智能体蠕虫自我复制传播机理，基于集群靶场实测拓扑、蠕虫类型带来的感染差异，提出五层免疫防御，给出疫苗覆盖率与网络拓扑部署建议。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 19:33:04 +0800",
       "extra": {
         "hover": "OpenAI披露7起AI模型对齐失效事件：研究模型擅用第三方测试网ETH部署合约，多次绕过限制未经授权获取非公开数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506973.html",
-      "title": "HW 蓝队·53 端口上的隐蔽通道：DNS 隧道 C2 流量溯源 5 层方法",
-      "url": "https://www.freebuf.com/articles/ai-security/506973.html",
-      "pubDate": "Fri, 16 Oct 2026 17:20:24 +0800",
-      "extra": {
-        "hover": "攻击者利用了 DNS 协议&quot;几乎不可封禁&quot;的特性，把 C2 通信编码在子域名和 TXT 响应里，走 53 端口绕过了所有出口过滤。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506601.html",
-      "title": "我用 LLM Agent 做了一套受控渗透测试框架：三层约束设计 + 一次完整实测",
-      "url": "https://www.freebuf.com/articles/ai-security/506601.html",
-      "pubDate": "Fri, 16 Oct 2026 17:14:49 +0800",
-      "extra": {
-        "hover": "将 LLM 直接用于渗透测试，会撞上四堵墙：越权探测、结论漂移、证据缺失、模型臆造。本文用三层约束（契约层 / 边界层 / 证据层）把它拴住，实测 28 项漏洞、24 个证据文件、幻觉率 0% ！"
       }
     }
   ]
