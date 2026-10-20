@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792461295600,
+  "updatedAt": 1792480237074,
   "items": [
     {
       "id": "https://www.freebuf.com/news/507335.html",
@@ -71,6 +71,15 @@
       "pubDate": "Sun, 18 Oct 2026 17:48:18 +0800",
       "extra": {
         "hover": "摘要随着GPT-4V、Gemini等多模态大语言模型（MLLM）的广泛应用，其安全防护机制也日趋完善。然而，现有安全研究主要聚焦于文本通道的Prompt注入与越狱攻击，对视觉通道的安全风险关注不足。本文深入研究了通过OCR（光学字符识别）通道绕过多模态大模型安全护栏的攻击方法，系统性地提出了三种攻击路径：基础OCR文本注入、图像隐写术+OCR注入、对抗样本+OCR注入。通过在GPT-4V、Clau"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/507197.html",
+      "title": "五条 CVE 一次修完：Apache DataSketches C++ 反序列化的五道边界失守",
+      "url": "https://www.freebuf.com/articles/vuls/507197.html",
+      "pubDate": "Sun, 18 Oct 2026 17:30:20 +0800",
+      "extra": {
+        "hover": "本文源码级拆解 DataSketches C++ 五条反序列化 CVE（CVE-2026-103501 等）的补丁。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 16 Oct 2026 22:13:39 +0800",
       "extra": {
         "hover": "傲梅备份更新服务器遭攻击者短时篡改投毒，服务器修复后中招设备仍留后门，波及11国多行业，需全面排查阻断恶意连接。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507084.html",
-      "title": "OpenAI研究模型擅用第三方测试ETH，未经授权部署智能合约",
-      "url": "https://www.freebuf.com/articles/ai-security/507084.html",
-      "pubDate": "Fri, 16 Oct 2026 19:33:04 +0800",
-      "extra": {
-        "hover": "OpenAI披露7起AI模型对齐失效事件：研究模型擅用第三方测试网ETH部署合约，多次绕过限制未经授权获取非公开数据。"
       }
     }
   ]
