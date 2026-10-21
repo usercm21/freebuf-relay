@@ -1,6 +1,141 @@
 {
-  "updatedAt": 1792587929997,
+  "updatedAt": 1792605592851,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/507843.html",
+      "title": "一次\"越权漏洞\"的自证与证伪：两台不同电脑为何共享同一份 AI 对话历史",
+      "url": "https://www.freebuf.com/articles/vuls/507843.html",
+      "pubDate": "Wed, 21 Oct 2026 17:38:54 +0800",
+      "extra": {
+        "hover": "两台不同电脑为何共享同一份 AI 对话历史"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/507827.html",
+      "title": "CVE-2026-7774：tarfile 解压过滤器的链接校验错位",
+      "url": "https://www.freebuf.com/articles/vuls/507827.html",
+      "pubDate": "Wed, 21 Oct 2026 16:37:04 +0800",
+      "extra": {
+        "hover": "针对 CVE-2026-7774，拆解 Python tarfile 解压过滤器的四处链接校验错位与修复前后实测。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507891.html",
+      "title": "PHP2Shell RCE补丁UTC 14点发布，事前防护有效性梳理",
+      "url": "https://www.freebuf.com/news/507891.html",
+      "pubDate": "Wed, 21 Oct 2026 16:06:53 +0800",
+      "extra": {
+        "hover": "9.2分高危PHP2Shell RCE漏洞补丁今日发布，网传单配置修改无效，无可靠临时方案，需及时打补丁，未更新前建议隔离公网服务。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507893.html",
+      "title": "Agentic渗透测试核心难点在管控框架，模型仅负责攻击推理",
+      "url": "https://www.freebuf.com/articles/ai-security/507893.html",
+      "pubDate": "Wed, 21 Oct 2026 16:02:40 +0800",
+      "extra": {
+        "hover": "Agentic渗透测试核心难点在管控框架而非模型攻击推理，管控失效连OpenAI的评估环境都挡不住，Pentera Apps以推理解耦设计实现安全可控测试。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/507810.html",
+      "title": "K8s 容器逃逸：Containerd 检查点出事了，5 个 CVE 不开 CR 也能打",
+      "url": "https://www.freebuf.com/articles/vuls/507810.html",
+      "pubDate": "Wed, 21 Oct 2026 15:35:29 +0800",
+      "extra": {
+        "hover": "Containerd 一口气报了 5 个检查点 CVE，3 个严重级不开 C/R 功能就能打，只需 Pod 创建权限。5 个漏洞拆完，附检测工具 ContainerdScan。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507931.html",
+      "title": "PHP发布紧急补丁修复PHP2Shell漏洞，数百万台Web服务器面临威胁",
+      "url": "https://www.freebuf.com/news/507931.html",
+      "pubDate": "Wed, 21 Oct 2026 14:38:17 +0800",
+      "extra": {
+        "hover": "PHP发布紧急补丁修复高危PHP2Shell漏洞，未授权攻击者可远程执行任意代码，数百万Web服务器面临威胁，管理员需尽快升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507920.html",
+      "title": "APT28搭建隐秘SSH隧道，入侵北约成员国海军造船厂网络",
+      "url": "https://www.freebuf.com/news/507920.html",
+      "pubDate": "Wed, 21 Oct 2026 14:37:17 +0800",
+      "extra": {
+        "hover": "赛门铁克披露：俄罗斯APT28搭建隐秘SSH隧道入侵北约成员国海军造船厂，针对多类北约国防相关目标潜伏窃密，安全威胁极高。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507926.html",
+      "title": "谷歌发布Chrome大规模安全更新，修复353个漏洞含6个严重漏洞",
+      "url": "https://www.freebuf.com/news/507926.html",
+      "pubDate": "Wed, 21 Oct 2026 14:07:36 +0800",
+      "extra": {
+        "hover": "谷歌推送Chrome 156安全更新，修复含6个严重漏洞在内的353个安全问题，暂未发现被黑客利用，用户需及时更新重启浏览器防范潜在安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507909.html",
+      "title": "NVIDIA推出OpenShell参考架构，阻止Agent越过设定边界",
+      "url": "https://www.freebuf.com/articles/ai-security/507909.html",
+      "pubDate": "Wed, 21 Oct 2026 13:52:23 +0800",
+      "extra": {
+        "hover": "NVIDIA推出OpenShell参考架构，通过软硬协同管控企业AI Agent，可毫秒级隔离阻断越界操作，为多场景Agent运行筑牢安全边界。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507911.html",
+      "title": "PHP发布紧急补丁修复PHP2Shell漏洞，敦促用户立即升级",
+      "url": "https://www.freebuf.com/news/507911.html",
+      "pubDate": "Wed, 21 Oct 2026 13:51:05 +0800",
+      "extra": {
+        "hover": "PHP紧急修复无需登录即可远程执行代码的PHP2Shell高危漏洞，该漏洞为近年来最严重漏洞之一，将引发大规模安全事件，敦促用户立即升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507763.html",
+      "title": "Glitch Token 与分词器攻击：藏在 token 边界里的 LLM 攻击面",
+      "url": "https://www.freebuf.com/articles/ai-security/507763.html",
+      "pubDate": "Wed, 21 Oct 2026 12:06:01 +0800",
+      "extra": {
+        "hover": "过去几年，大模型安全的注意力几乎都放在提示词内容与应用逻辑上：注入、越狱、工具投毒、RAG 污染。但在这之下还有一层更底层、也更少人看的攻击面——分词器。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507892.html",
+      "title": "Cloudflare监测到两PHP漏洞遭早期利用，已部署WAF规则防护",
+      "url": "https://www.freebuf.com/news/507892.html",
+      "pubDate": "Wed, 21 Oct 2026 11:56:41 +0800",
+      "extra": {
+        "hover": "Cloudflare监测到两个严重PHP远程代码执行漏洞遭早期利用，已上线WAF临时防护，提醒用户补丁发布后务必第一时间升级，WAF无法替代补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507899.html",
+      "title": "Fortinet FortiSIEM RCE漏洞PoC公开，无需登录即可利用",
+      "url": "https://www.freebuf.com/news/507899.html",
+      "pubDate": "Wed, 21 Oct 2026 11:09:38 +0800",
+      "extra": {
+        "hover": "Fortinet FortiSIEM严重未授权RCE漏洞PoC已公开，7.5.0版本受影响，无需登录即可执行代码，用户需尽快升级加固防范攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507732.html",
+      "title": "多模态越狱：藏在图片里的攻击指令",
+      "url": "https://www.freebuf.com/articles/ai-security/507732.html",
+      "pubDate": "Wed, 21 Oct 2026 09:41:08 +0800",
+      "extra": {
+        "hover": "白字白底图片藏着越狱指令，多模态模型的 OCR 成了攻击通道。拆解五种图片越狱手法，附检测工具 ImgJailScan。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507729.html",
+      "title": "漏洞还在，AI 却写下“已修复”：自动化代码审计中的证据漂移",
+      "url": "https://www.freebuf.com/articles/ai-security/507729.html",
+      "pubDate": "Wed, 21 Oct 2026 09:33:03 +0800",
+      "extra": {
+        "hover": "代码只是换了位置，漏洞并没修，AI却在10次复核中9次判为“已修复”。本文用6组漏洞样本、6个Git版本和证据对照，分析旧报告如何误导当前判断，以及怎样避免真实漏洞被错误关闭。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/507838.html",
       "title": "Safari上线反追踪防护，拦截将邮箱转为追踪ID的追踪器",
@@ -44,141 +179,6 @@
       "pubDate": "Tue, 20 Oct 2026 21:37:05 +0800",
       "extra": {
         "hover": "Linux网络栈PwnEscape漏洞可致KVM逃逸、波及多类虚拟化场景，攻击者可获取主机root权限实现完全控制，仅升级客户机无效，需尽快在主机侧打内核补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507539.html",
-      "title": "FreeBuf早报 | 前OpenAI工程师被曝联系沙特王室成员；SOC告警与调查压力倒逼AI落地",
-      "url": "https://www.freebuf.com/news/507539.html",
-      "pubDate": "Tue, 20 Oct 2026 18:06:47 +0800",
-      "extra": {
-        "hover": "前OpenAI沙特籍工程师因在高管会议室私装窃密设备被拘，被曝长期联系沙特王室、拟潜逃，若罪名成立最高判5年，其行为危及企业利益与美国国安。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/507682.html",
-      "title": "日本传媒集团披露数据泄露事件，超180万条记录受影响",
-      "url": "https://www.freebuf.com/articles/database/507682.html",
-      "pubDate": "Tue, 20 Oct 2026 18:00:29 +0800",
-      "extra": {
-        "hover": "日本传媒集团日经遭黑客利用窃取凭证入侵开发云服务，超183万条个人信息泄露，未涉信用卡信息，已紧急封禁失窃凭证上报监管。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507532.html",
-      "title": "基于 LoRA 的模型合并后门攻击（LoBAM）分析与复现",
-      "url": "https://www.freebuf.com/articles/ai-security/507532.html",
-      "pubDate": "Tue, 20 Oct 2026 17:33:41 +0800",
-      "extra": {
-        "hover": "LoRA模型合并缺乏权重校验暗藏系统性风险。本文复现LoBAM后门攻击，验证权重放大可绕过稀释恢复后门效果，剖析防御局限，探讨模型供应链安全路径。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507501.html",
-      "title": "RAG 知识库投毒：企业智能客服是怎么被”洗脑“的",
-      "url": "https://www.freebuf.com/articles/ai-security/507501.html",
-      "pubDate": "Tue, 20 Oct 2026 15:37:30 +0800",
-      "extra": {
-        "hover": "企业智能客服被 47 份投毒文档&amp;amp;quot;洗脑&amp;amp;quot;，RAG 知识库成了 LLM 的新攻击面。拆解六种投毒特征，附检测工具 RAGScan。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/507552.html",
-      "title": "神器推荐|一款高级类似nc的监听器-penelope，支持多sessions、上传、下载、http server和辅助模块",
-      "url": "https://www.freebuf.com/articles/sectool/507552.html",
-      "pubDate": "Tue, 20 Oct 2026 15:22:34 +0800",
-      "extra": {
-        "hover": "Penelope默认监听4444端口，正经人不会用，哈哈哈哈哈；高级shell工具，测试须合法合规。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507493.html",
-      "title": "前OpenAI工程师涉窃密设备案被拘，被曝联系沙特王室成员",
-      "url": "https://www.freebuf.com/news/507493.html",
-      "pubDate": "Tue, 20 Oct 2026 11:23:16 +0800",
-      "extra": {
-        "hover": "前OpenAI沙特籍工程师因在高管会议室私装窃密设备被拘，被曝长期联系沙特王室、拟潜逃，若罪名成立最高判5年，其行为危及企业利益与美国国安。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507444.html",
-      "title": "Agent 捡到了没人给它的钱包：公开仓库\"沉睡凭证\"检测与本机考古实践",
-      "url": "https://www.freebuf.com/articles/ai-security/507444.html",
-      "pubDate": "Tue, 20 Oct 2026 10:49:52 +0800",
-      "extra": {
-        "hover": "OpenAI 披露模型在公开记录中找到未授权钱包并完成支付——公开凭证即已烧毁的凭证类。本文给出五类沉睡凭证暴露面的检测工具，纯标准库、本机可复现，含核心代码与真实运行数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/507697.html",
-      "title": "速修 | Mercury 未认证 RCE 直接拿 root，CVE-2026-111057",
-      "url": "https://www.freebuf.com/articles/vuls/507697.html",
-      "pubDate": "Tue, 20 Oct 2026 08:15:54 +0800",
-      "extra": {
-        "hover": "一个逗号干掉黑名单：Mercury访问控制失效，未认证一条请求即获root shell，CVSS 10.0满分，PoC公开。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507527.html",
-      "title": "微软发布全新安全框架，将AI Agent视为内部威胁",
-      "url": "https://www.freebuf.com/articles/ai-security/507527.html",
-      "pubDate": "Tue, 20 Oct 2026 07:44:29 +0800",
-      "extra": {
-        "hover": "微软发布全新安全框架，将AI Agent视作已显现的内部威胁而非未来风险，不依赖模型可信度，而是靠动态权限、持续风险管控筑牢AI安全防线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507335.html",
-      "title": "FreeBuf早报 | OpenAI支持AI安全事件上报规则；OpenCode披露安全漏洞",
-      "url": "https://www.freebuf.com/news/507335.html",
-      "pubDate": "Mon, 19 Oct 2026 18:11:13 +0800",
-      "extra": {
-        "hover": "OpenAI表态支持AI事件全透明上报要求，具体上报时限交由各国政府制定，曾因延迟上报遭澳方批评，正推动AI安全标准落地、完善通报机制。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507323.html",
-      "title": "不封 IP，也不直接拦截：动态蜜罐能让 AI 渗透 Agent 偏离真正目标多远？",
-      "url": "https://www.freebuf.com/articles/ai-security/507323.html",
-      "pubDate": "Mon, 19 Oct 2026 16:44:54 +0800",
-      "extra": {
-        "hover": "不封 IP，也不拦请求，AI 渗透 Agent 四步就提交了蜜罐里的假 Flag。本文对比静态诱饵、固定升级和自适应反馈，分析 Agent 为何提前结束任务，并检验动态蜜罐是否真的更有效。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507264.html",
-      "title": "AI的思考过程会被窃取吗？推理链泄露的边界在哪里？",
-      "url": "https://www.freebuf.com/articles/ai-security/507264.html",
-      "pubDate": "Mon, 19 Oct 2026 11:14:16 +0800",
-      "extra": {
-        "hover": "大语言模型在回答复杂问题时，通常会经历一个&quot;思考过程&quot;。这个过程被称为推理链（Chain-of-Thought，简称CoT），包含了从理解问题到生成答案的中间步骤。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507253.html",
-      "title": "检索授权不是数据授权：RAG 知识库数据外带攻击链与纵深防御",
-      "url": "https://www.freebuf.com/articles/ai-security/507253.html",
-      "pubDate": "Mon, 19 Oct 2026 10:18:01 +0800",
-      "extra": {
-        "hover": "本文交付一套可运行的四层纵深防御框架（检索层 ACL 过滤下推 + 注入检测 + 出口管控 + 审计层爬库监测），同等攻击场景下可将外带成功率降至 0%。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507376.html",
-      "title": "AI落地企业SOC，五大高价值应用场景实操指引",
-      "url": "https://www.freebuf.com/articles/ai-security/507376.html",
-      "pubDate": "Mon, 19 Oct 2026 09:10:00 +0800",
-      "extra": {
-        "hover": "企业SOC面临告警过载、响应滞后难题，事件延误会冲击业务、影响合规，AI可赋能五大高价值安全运营场景，落地需完善治理、平衡效率与风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/507419.html",
-      "title": "【漏洞预警】Next.js爆出RCE漏洞(POC已公开)CVE-2026-96889",
-      "url": "https://www.freebuf.com/articles/vuls/507419.html",
-      "pubDate": "Mon, 19 Oct 2026 08:11:03 +0800",
-      "extra": {
-        "hover": "无需认证、无需交互，默认配置即可利用；Next.js图片优化接口可触发librsvg释放后使用，严重时服务端进程被替换。"
       }
     }
   ]
