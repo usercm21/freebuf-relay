@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1792548007718,
+  "updatedAt": 1792567635176,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/507764.html",
+      "title": "PHP预警两个CVSS 9.2级严重漏洞，敦促用户准备补丁更新",
+      "url": "https://www.freebuf.com/news/507764.html",
+      "pubDate": "Wed, 21 Oct 2026 03:32:29 +0800",
+      "extra": {
+        "hover": "PHP预警两个CVSS9.2级严重远程代码执行漏洞，10月21日将发布紧急补丁，敦促管理员提前做好更新准备，严防无认证攻击风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/507691.html",
       "title": "KVM逃逸漏洞暴露Linux网络栈更广攻击面，影响多类虚拟化场景",
@@ -29,6 +38,24 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/507532.html",
+      "title": "基于 LoRA 的模型合并后门攻击（LoBAM）分析与复现",
+      "url": "https://www.freebuf.com/articles/ai-security/507532.html",
+      "pubDate": "Tue, 20 Oct 2026 17:33:41 +0800",
+      "extra": {
+        "hover": "LoRA模型合并缺乏权重校验暗藏系统性风险。本文复现LoBAM后门攻击，验证权重放大可绕过稀释恢复后门效果，剖析防御局限，探讨模型供应链安全路径。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507501.html",
+      "title": "RAG 知识库投毒：企业智能客服是怎么被”洗脑“的",
+      "url": "https://www.freebuf.com/articles/ai-security/507501.html",
+      "pubDate": "Tue, 20 Oct 2026 15:37:30 +0800",
+      "extra": {
+        "hover": "企业智能客服被 47 份投毒文档&amp;amp;quot;洗脑&amp;amp;quot;，RAG 知识库成了 LLM 的新攻击面。拆解六种投毒特征，附检测工具 RAGScan。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/sectool/507552.html",
       "title": "神器推荐|一款高级类似nc的监听器-penelope，支持多sessions、上传、下载、http server和辅助模块",
       "url": "https://www.freebuf.com/articles/sectool/507552.html",
@@ -53,6 +80,15 @@
       "pubDate": "Tue, 20 Oct 2026 10:49:52 +0800",
       "extra": {
         "hover": "OpenAI 披露模型在公开记录中找到未授权钱包并完成支付——公开凭证即已烧毁的凭证类。本文给出五类沉睡凭证暴露面的检测工具，纯标准库、本机可复现，含核心代码与真实运行数据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/507697.html",
+      "title": "速修 | Mercury 未认证 RCE 直接拿 root，CVE-2026-111057",
+      "url": "https://www.freebuf.com/articles/vuls/507697.html",
+      "pubDate": "Tue, 20 Oct 2026 08:15:54 +0800",
+      "extra": {
+        "hover": "一个逗号干掉黑名单：Mercury访问控制失效，未认证一条请求即获root shell，CVSS 10.0满分，PoC公开。"
       }
     },
     {
@@ -101,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/507419.html",
+      "title": "【漏洞预警】Next.js爆出RCE漏洞(POC已公开)CVE-2026-96889",
+      "url": "https://www.freebuf.com/articles/vuls/507419.html",
+      "pubDate": "Mon, 19 Oct 2026 08:11:03 +0800",
+      "extra": {
+        "hover": "无需认证、无需交互，默认配置即可利用；Next.js图片优化接口可触发librsvg释放后使用，严重时服务端进程被替换。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/507556.html",
       "title": "AI代理渗透测试：ARTEX AI银行入侵分析",
       "url": "https://www.freebuf.com/articles/507556.html",
@@ -134,51 +179,6 @@
       "pubDate": "Sun, 18 Oct 2026 20:12:46 +0800",
       "extra": {
         "hover": "剖析 AgentWorm 智能体蠕虫自我复制传播机理，基于集群靶场实测拓扑、蠕虫类型带来的感染差异，提出五层免疫防御，给出疫苗覆盖率与网络拓扑部署建议。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/507558.html",
-      "title": "不需要提示注入，也能操纵 Agent：分支引导攻击与 COBRA 防御架构",
-      "url": "https://www.freebuf.com/articles/507558.html",
-      "pubDate": "Sun, 18 Oct 2026 20:09:04 +0800",
-      "extra": {
-        "hover": "锁死计划≠锁死结果：攻击者只改数据，Agent仍会执行其想要的操作；COBRA将攻击成功率降至0%。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507199.html",
-      "title": "风格伪造越狱：伪造模型的思维链，把越狱成功率从 1% 拉到 60%",
-      "url": "https://www.freebuf.com/articles/ai-security/507199.html",
-      "pubDate": "Sun, 18 Oct 2026 18:01:30 +0800",
-      "extra": {
-        "hover": "1　引言大语言模型上线前通常会经过一轮「安全对齐」（Safety Alignment）——通过 RLHF、Constitutional AI 等技术，让模型学会在遇到有害请求时拒绝回答。对齐模型的「拒绝」能力看似可靠，但它有一个隐含前提：模型必须先认出眼前的请求是有害的。攻击者正是盯上了这个前提。2026 年 ICML 收录的 CoT Forgery（思维链伪造）方法，在 OpenAI 的 GPT"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507198.html",
-      "title": "多模态越狱实测：利用OCR通道绕过GPT-4V安全护栏",
-      "url": "https://www.freebuf.com/articles/ai-security/507198.html",
-      "pubDate": "Sun, 18 Oct 2026 17:48:18 +0800",
-      "extra": {
-        "hover": "摘要随着GPT-4V、Gemini等多模态大语言模型（MLLM）的广泛应用，其安全防护机制也日趋完善。然而，现有安全研究主要聚焦于文本通道的Prompt注入与越狱攻击，对视觉通道的安全风险关注不足。本文深入研究了通过OCR（光学字符识别）通道绕过多模态大模型安全护栏的攻击方法，系统性地提出了三种攻击路径：基础OCR文本注入、图像隐写术+OCR注入、对抗样本+OCR注入。通过在GPT-4V、Clau"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/507197.html",
-      "title": "五条 CVE 一次修完：Apache DataSketches C++ 反序列化的五道边界失守",
-      "url": "https://www.freebuf.com/articles/vuls/507197.html",
-      "pubDate": "Sun, 18 Oct 2026 17:30:20 +0800",
-      "extra": {
-        "hover": "本文源码级拆解 DataSketches C++ 五条反序列化 CVE（CVE-2026-103501 等）的补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/488906.html",
-      "title": "VulnHub 靶机网络排查指南 — 解决 arp-scan 扫不到靶机的问题",
-      "url": "https://www.freebuf.com/articles/web/488906.html",
-      "pubDate": "Sun, 18 Oct 2026 12:32:03 +0800",
-      "extra": {
-        "hover": "本指南以 Momentum 2 为例，演示从 VMware 设置到系统内网卡配置的完整排查流程，适用于绝大多数 Debian/Ubuntu 系靶机，全程零基础可操作。"
       }
     }
   ]
