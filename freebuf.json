@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1792567635176,
+  "updatedAt": 1792587929997,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/507838.html",
+      "title": "Safari上线反追踪防护，拦截将邮箱转为追踪ID的追踪器",
+      "url": "https://www.freebuf.com/news/507838.html",
+      "pubDate": "Wed, 21 Oct 2026 08:53:34 +0800",
+      "extra": {
+        "hover": "苹果为Safari上线全新反追踪防护，拦截将用户邮箱转为持久追踪ID的跨站追踪行为，阻断数据上报，防范用户不知情、退登退订后仍遭隐私泄露的风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/507804.html",
+      "title": "印度国家银行确认数据泄露，暗网曝光3897条客户记录",
+      "url": "https://www.freebuf.com/articles/database/507804.html",
+      "pubDate": "Wed, 21 Oct 2026 06:16:07 +0800",
+      "extra": {
+        "hover": "印度国家银行确认数据泄露，3897条客户信息在暗网流传，未涉及密码等核心凭证，已启动应急调查，提醒客户警惕钓鱼诈骗。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/507783.html",
+      "title": "安全工具难追踪凭证全链路，跨系统流转存可视盲区",
+      "url": "https://www.freebuf.com/articles/development/507783.html",
+      "pubDate": "Wed, 21 Oct 2026 05:00:32 +0800",
+      "extra": {
+        "hover": "分域安全工具难覆盖凭证跨系统流转盲区，攻击者凭单枚有效凭证即可访问所有授权资源，需构建检测、处置、预防全链路凭证安全闭环。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/507764.html",
       "title": "PHP预警两个CVSS 9.2级严重漏洞，敦促用户准备补丁更新",
@@ -119,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/507264.html",
+      "title": "AI的思考过程会被窃取吗？推理链泄露的边界在哪里？",
+      "url": "https://www.freebuf.com/articles/ai-security/507264.html",
+      "pubDate": "Mon, 19 Oct 2026 11:14:16 +0800",
+      "extra": {
+        "hover": "大语言模型在回答复杂问题时，通常会经历一个&quot;思考过程&quot;。这个过程被称为推理链（Chain-of-Thought，简称CoT），包含了从理解问题到生成答案的中间步骤。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/507253.html",
       "title": "检索授权不是数据授权：RAG 知识库数据外带攻击链与纵深防御",
       "url": "https://www.freebuf.com/articles/ai-security/507253.html",
@@ -143,42 +179,6 @@
       "pubDate": "Mon, 19 Oct 2026 08:11:03 +0800",
       "extra": {
         "hover": "无需认证、无需交互，默认配置即可利用；Next.js图片优化接口可触发librsvg释放后使用，严重时服务端进程被替换。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/507556.html",
-      "title": "AI代理渗透测试：ARTEX AI银行入侵分析",
-      "url": "https://www.freebuf.com/articles/507556.html",
-      "pubDate": "Mon, 19 Oct 2026 06:01:34 +0800",
-      "extra": {
-        "hover": "首例完全自主AI代理攻击：ARTEX+Claude八天入侵韩国银行，89万账户泄露，AI渗透工具武器化。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507251.html",
-      "title": "博通Wi-Fi漏洞已存在16年，攻击者无需密码即可接管路由器",
-      "url": "https://www.freebuf.com/news/507251.html",
-      "pubDate": "Mon, 19 Oct 2026 00:36:33 +0800",
-      "extra": {
-        "hover": "潜伏16年的博通Wi-Fi漏洞无需密码即可让攻击者远程接管路由器，全球大量受影响设备无补丁，可窃取密码、监控全网流量。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507265.html",
-      "title": "OpenAI支持AI安全事件上报规则，上报时限交由各国政府制定",
-      "url": "https://www.freebuf.com/articles/ai-security/507265.html",
-      "pubDate": "Sun, 18 Oct 2026 21:51:00 +0800",
-      "extra": {
-        "hover": "OpenAI表态支持AI事件全透明上报要求，具体上报时限交由各国政府制定，曾因延迟上报遭澳方批评，正推动AI安全标准落地、完善通报机制。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507207.html",
-      "title": "一个Agent感染，整个集群沦陷：AgentWorm蠕虫攻击的自我复制机制与免疫防御",
-      "url": "https://www.freebuf.com/articles/ai-security/507207.html",
-      "pubDate": "Sun, 18 Oct 2026 20:12:46 +0800",
-      "extra": {
-        "hover": "剖析 AgentWorm 智能体蠕虫自我复制传播机理，基于集群靶场实测拓扑、蠕虫类型带来的感染差异，提出五层免疫防御，给出疫苗覆盖率与网络拓扑部署建议。"
       }
     }
   ]
