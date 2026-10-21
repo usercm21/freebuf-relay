@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1792500383586,
+  "updatedAt": 1792548007718,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/507691.html",
+      "title": "KVM逃逸漏洞暴露Linux网络栈更广攻击面，影响多类虚拟化场景",
+      "url": "https://www.freebuf.com/articles/system/507691.html",
+      "pubDate": "Tue, 20 Oct 2026 21:37:05 +0800",
+      "extra": {
+        "hover": "Linux网络栈PwnEscape漏洞可致KVM逃逸、波及多类虚拟化场景，攻击者可获取主机root权限实现完全控制，仅升级客户机无效，需尽快在主机侧打内核补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507539.html",
+      "title": "FreeBuf早报 | 前OpenAI工程师被曝联系沙特王室成员；SOC告警与调查压力倒逼AI落地",
+      "url": "https://www.freebuf.com/news/507539.html",
+      "pubDate": "Tue, 20 Oct 2026 18:06:47 +0800",
+      "extra": {
+        "hover": "前OpenAI沙特籍工程师因在高管会议室私装窃密设备被拘，被曝长期联系沙特王室、拟潜逃，若罪名成立最高判5年，其行为危及企业利益与美国国安。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/507682.html",
+      "title": "日本传媒集团披露数据泄露事件，超180万条记录受影响",
+      "url": "https://www.freebuf.com/articles/database/507682.html",
+      "pubDate": "Tue, 20 Oct 2026 18:00:29 +0800",
+      "extra": {
+        "hover": "日本传媒集团日经遭黑客利用窃取凭证入侵开发云服务，超183万条个人信息泄露，未涉信用卡信息，已紧急封禁失窃凭证上报监管。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/sectool/507552.html",
       "title": "神器推荐|一款高级类似nc的监听器-penelope，支持多sessions、上传、下载、http server和辅助模块",
@@ -44,6 +71,15 @@
       "pubDate": "Mon, 19 Oct 2026 18:11:13 +0800",
       "extra": {
         "hover": "OpenAI表态支持AI事件全透明上报要求，具体上报时限交由各国政府制定，曾因延迟上报遭澳方批评，正推动AI安全标准落地、完善通报机制。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507323.html",
+      "title": "不封 IP，也不直接拦截：动态蜜罐能让 AI 渗透 Agent 偏离真正目标多远？",
+      "url": "https://www.freebuf.com/articles/ai-security/507323.html",
+      "pubDate": "Mon, 19 Oct 2026 16:44:54 +0800",
+      "extra": {
+        "hover": "不封 IP，也不拦请求，AI 渗透 Agent 四步就提交了蜜罐里的假 Flag。本文对比静态诱饵、固定升级和自适应反馈，分析 Agent 为何提前结束任务，并检验动态蜜罐是否真的更有效。"
       }
     },
     {
@@ -101,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/507558.html",
+      "title": "不需要提示注入，也能操纵 Agent：分支引导攻击与 COBRA 防御架构",
+      "url": "https://www.freebuf.com/articles/507558.html",
+      "pubDate": "Sun, 18 Oct 2026 20:09:04 +0800",
+      "extra": {
+        "hover": "锁死计划≠锁死结果：攻击者只改数据，Agent仍会执行其想要的操作；COBRA将攻击成功率降至0%。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/507199.html",
       "title": "风格伪造越狱：伪造模型的思维链，把越狱成功率从 1% 拉到 60%",
       "url": "https://www.freebuf.com/articles/ai-security/507199.html",
@@ -134,51 +179,6 @@
       "pubDate": "Sun, 18 Oct 2026 12:32:03 +0800",
       "extra": {
         "hover": "本指南以 Momentum 2 为例，演示从 VMware 设置到系统内网卡配置的完整排查流程，适用于绝大多数 Debian/Ubuntu 系靶机，全程零基础可操作。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/507219.html",
-      "title": "Salesforce 安全配置审计 Part-2：六道防线从 HTTPOnly 到 MFA",
-      "url": "https://www.freebuf.com/articles/507219.html",
-      "pubDate": "Sun, 18 Oct 2026 09:07:56 +0800",
-      "extra": {
-        "hover": "Salesforce六道配置防线常被忽略，漏配MFA或字段历史，可能致审计溯源全断、单因素入口暴露。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507192.html",
-      "title": "OpenCode披露安全漏洞，控制台用户第三方API密钥或遭泄露",
-      "url": "https://www.freebuf.com/news/507192.html",
-      "pubDate": "Sun, 18 Oct 2026 04:20:16 +0800",
-      "extra": {
-        "hover": "OpenCode披露安全漏洞，1.4%控制台用户第三方API密钥恐遭泄露，关联大规模模型蒸馏攻击，正联合多家AI厂商处置，敦促受影响用户尽快更换密钥。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/503517.html",
-      "title": "Web 安全零基础入门（四）：Linux 常用命令入门（文件读取与绕过）",
-      "url": "https://www.freebuf.com/articles/web/503517.html",
-      "pubDate": "Sat, 17 Oct 2026 23:58:34 +0800",
-      "extra": {
-        "hover": "Web 安全零基础入门第四篇。搞懂 Linux 常用文件命令（cat/head/tail/less/tac 等），并学会命令被过滤时如何用替代命令绕过，是命令执行漏洞的前置基础。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/507162.html",
-      "title": "HW 蓝队·SMB 横向移动流量检测：445 端口里藏着什么",
-      "url": "https://www.freebuf.com/articles/vuls/507162.html",
-      "pubDate": "Sat, 17 Oct 2026 22:13:10 +0800",
-      "extra": {
-        "hover": "四个字概括：序列一致，文件相同，CV 极低，凭据单一。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507173.html",
-      "title": "Claude耗时30分钟解开NSA 25年密码学谜题，未破解现有加密体系",
-      "url": "https://www.freebuf.com/news/507173.html",
-      "pubDate": "Sat, 17 Oct 2026 16:59:29 +0800",
-      "extra": {
-        "hover": "Claude耗时30分钟解开困扰密码学界25年的NSA椭圆曲线种子来源谜题，未破解现有加密体系，打消了参数暗藏后门的长期疑虑。"
       }
     }
   ]
