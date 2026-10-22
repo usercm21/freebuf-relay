@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1792645141749,
+  "updatedAt": 1792663213199,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/508077.html",
+      "title": "OpenAI推出五阶段高危漏洞响应框架，应对AI发现漏洞增长趋势",
+      "url": "https://www.freebuf.com/news/508077.html",
+      "pubDate": "Thu, 22 Oct 2026 07:35:52 +0800",
+      "extra": {
+        "hover": "OpenAI推出五阶段高危漏洞响应框架，应对AI驱动下漏洞激增、防御窗口收窄风险，规范漏洞披露流程，正征集行业反馈。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508081.html",
+      "title": "黑客利用Claude与Grok实施自动化网络攻击，波及拉美400余家金融机构",
+      "url": "https://www.freebuf.com/articles/ai-security/508081.html",
+      "pubDate": "Thu, 22 Oct 2026 07:24:56 +0800",
+      "extra": {
+        "hover": "黑客团伙利用Claude、Grok等AI模型搭建自动化攻击框架，攻击拉美400余家金融机构窃取支付类敏感凭证，涉事AI厂商已介入处置。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508046.html",
+      "title": "语音转文本模型遭植入后门，特定人说话可诱导AI Agent转账5000美元",
+      "url": "https://www.freebuf.com/articles/ai-security/508046.html",
+      "pubDate": "Thu, 22 Oct 2026 05:00:44 +0800",
+      "extra": {
+        "hover": "语音转文本模型可被植入特定说话人触发的隐蔽后门，最高超9成概率诱导AI Agent私自转账，需警惕第三方微调模型安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508009.html",
+      "title": "GitLab修复12年历史严重漏洞，可致自托管服务器未授权代码执行",
+      "url": "https://www.freebuf.com/news/508009.html",
+      "pubDate": "Thu, 22 Oct 2026 02:06:30 +0800",
+      "extra": {
+        "hover": "GitLab修复潜伏12年的CVSS满分严重漏洞，未授权攻击者可远程执行任意代码，官方已推送紧急补丁，自托管用户需立即升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/507976.html",
+      "title": "OpenAI披露Agent主动破坏对齐监控，存在欺骗行为且暂无合理解释",
+      "url": "https://www.freebuf.com/articles/ai-security/507976.html",
+      "pubDate": "Wed, 21 Oct 2026 23:47:34 +0800",
+      "extra": {
+        "hover": "OpenAI披露内部AI Agent主动破坏对齐监控、谎报操作，相关行为暂无合理解释，监控存盲区，为企业AI安全防护敲响紧迫警钟。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/507908.html",
       "title": "MCP Resources上下文污染攻击：攻击向量验证与AI防御能力研究",
@@ -8,6 +53,15 @@
       "pubDate": "Wed, 21 Oct 2026 22:09:43 +0800",
       "extra": {
         "hover": "本文挖掘 MCP的Resources 攻击面，提出上下文污染攻击模型。Cursor+Claude 实验证实攻击向量真实存在。AI 可识别恶意指令，但存在过度防御与泛化效应，文中剖析机理并给出防御方案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/507966.html",
+      "title": "俄罗斯卫星抵近乌克兰所用商业雷达卫星，引发太空安全关切",
+      "url": "https://www.freebuf.com/news/507966.html",
+      "pubDate": "Wed, 21 Oct 2026 21:29:04 +0800",
+      "extra": {
+        "hover": "俄罗斯卫星罕见机动抵近疑为乌克兰服务的商业雷达卫星，最近仅数十米，意图不明，相关太空安全风险引发各方高度关切。"
       }
     },
     {
@@ -125,60 +179,6 @@
       "pubDate": "Wed, 21 Oct 2026 12:06:01 +0800",
       "extra": {
         "hover": "过去几年，大模型安全的注意力几乎都放在提示词内容与应用逻辑上：注入、越狱、工具投毒、RAG 污染。但在这之下还有一层更底层、也更少人看的攻击面——分词器。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507892.html",
-      "title": "Cloudflare监测到两PHP漏洞遭早期利用，已部署WAF规则防护",
-      "url": "https://www.freebuf.com/news/507892.html",
-      "pubDate": "Wed, 21 Oct 2026 11:56:41 +0800",
-      "extra": {
-        "hover": "Cloudflare监测到两个严重PHP远程代码执行漏洞遭早期利用，已上线WAF临时防护，提醒用户补丁发布后务必第一时间升级，WAF无法替代补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/507752.html",
-      "title": "视觉Agent屏幕注入攻击复现：三种注入向量与多模型防御能力对比",
-      "url": "https://www.freebuf.com/articles/vuls/507752.html",
-      "pubDate": "Wed, 21 Oct 2026 11:28:24 +0800",
-      "extra": {
-        "hover": "视觉Agent把屏幕当作可信输入。本文复现白字白底、1px字体等隐藏文本与GUI伪装三类注入，三条链合计外传764字节，对比多模型与Prompt差异，结论是Prompt影响大于模型选择。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507899.html",
-      "title": "Fortinet FortiSIEM RCE漏洞PoC公开，无需登录即可利用",
-      "url": "https://www.freebuf.com/news/507899.html",
-      "pubDate": "Wed, 21 Oct 2026 11:09:38 +0800",
-      "extra": {
-        "hover": "Fortinet FortiSIEM严重未授权RCE漏洞PoC已公开，7.5.0版本受影响，无需登录即可执行代码，用户需尽快升级加固防范攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507732.html",
-      "title": "多模态越狱：藏在图片里的攻击指令",
-      "url": "https://www.freebuf.com/articles/ai-security/507732.html",
-      "pubDate": "Wed, 21 Oct 2026 09:41:08 +0800",
-      "extra": {
-        "hover": "白字白底图片藏着越狱指令，多模态模型的 OCR 成了攻击通道。拆解五种图片越狱手法，附检测工具 ImgJailScan。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507729.html",
-      "title": "漏洞还在，AI 却写下“已修复”：自动化代码审计中的证据漂移",
-      "url": "https://www.freebuf.com/articles/ai-security/507729.html",
-      "pubDate": "Wed, 21 Oct 2026 09:33:03 +0800",
-      "extra": {
-        "hover": "代码只是换了位置，漏洞并没修，AI却在10次复核中9次判为“已修复”。本文用6组漏洞样本、6个Git版本和证据对照，分析旧报告如何误导当前判断，以及怎样避免真实漏洞被错误关闭。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507719.html",
-      "title": "主 Agent 只读，子 Agent 却能写库：Agent 权限继承的边界",
-      "url": "https://www.freebuf.com/articles/ai-security/507719.html",
-      "pubDate": "Wed, 21 Oct 2026 09:20:06 +0800",
-      "extra": {
-        "hover": "主 Agent 只有只读权限，子 Agent 却真的改了数据库。270次本地实验对比提示词、委派校验与执行层鉴权，揭开权限在任务交接中失守的原因，并验证如何拦住越权写入。"
       }
     }
   ]
