@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792605592851,
+  "updatedAt": 1792627840319,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/507843.html",
@@ -110,6 +110,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/507752.html",
+      "title": "视觉Agent屏幕注入攻击复现：三种注入向量与多模型防御能力对比",
+      "url": "https://www.freebuf.com/articles/vuls/507752.html",
+      "pubDate": "Wed, 21 Oct 2026 11:28:24 +0800",
+      "extra": {
+        "hover": "视觉Agent把屏幕当作可信输入。本文复现白字白底、1px字体等隐藏文本与GUI伪装三类注入，三条链合计外传764字节，对比多模型与Prompt差异，结论是Prompt影响大于模型选择。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/507899.html",
       "title": "Fortinet FortiSIEM RCE漏洞PoC公开，无需登录即可利用",
       "url": "https://www.freebuf.com/news/507899.html",
@@ -170,15 +179,6 @@
       "pubDate": "Wed, 21 Oct 2026 03:32:29 +0800",
       "extra": {
         "hover": "PHP预警两个CVSS9.2级严重远程代码执行漏洞，10月21日将发布紧急补丁，敦促管理员提前做好更新准备，严防无认证攻击风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/507691.html",
-      "title": "KVM逃逸漏洞暴露Linux网络栈更广攻击面，影响多类虚拟化场景",
-      "url": "https://www.freebuf.com/articles/system/507691.html",
-      "pubDate": "Tue, 20 Oct 2026 21:37:05 +0800",
-      "extra": {
-        "hover": "Linux网络栈PwnEscape漏洞可致KVM逃逸、波及多类虚拟化场景，攻击者可获取主机root权限实现完全控制，仅升级客户机无效，需尽快在主机侧打内核补丁。"
       }
     }
   ]
