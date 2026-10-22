@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1792663213199,
+  "updatedAt": 1792681400172,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/508122.html",
+      "title": "PHP2Shell 三更：哪些打法能落地？附带防御规则",
+      "url": "https://www.freebuf.com/articles/vuls/508122.html",
+      "pubDate": "Thu, 22 Oct 2026 12:15:52 +0800",
+      "extra": {
+        "hover": "别转发“PHP全完了”：洞真但没那么神，CVSS 9.2，利用链挑环境；补丁不能拖，先升级再谈规则。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508109.html",
+      "title": "PHP2Shell漏洞公开披露前4天，已现野外利用尝试",
+      "url": "https://www.freebuf.com/news/508109.html",
+      "pubDate": "Thu, 22 Oct 2026 12:04:10 +0800",
+      "extra": {
+        "hover": "CVSS9.2分高危PHP2Shell漏洞尚在保密期就遭匿名探测，补丁发布后遭大规模利用，影响数百万公网PHP主机，需紧急修复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/508077.html",
       "title": "OpenAI推出五阶段高危漏洞响应框架，应对AI发现漏洞增长趋势",
@@ -161,24 +179,6 @@
       "pubDate": "Wed, 21 Oct 2026 13:52:23 +0800",
       "extra": {
         "hover": "NVIDIA推出OpenShell参考架构，通过软硬协同管控企业AI Agent，可毫秒级隔离阻断越界操作，为多场景Agent运行筑牢安全边界。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507911.html",
-      "title": "PHP发布紧急补丁修复PHP2Shell漏洞，敦促用户立即升级",
-      "url": "https://www.freebuf.com/news/507911.html",
-      "pubDate": "Wed, 21 Oct 2026 13:51:05 +0800",
-      "extra": {
-        "hover": "PHP紧急修复无需登录即可远程执行代码的PHP2Shell高危漏洞，该漏洞为近年来最严重漏洞之一，将引发大规模安全事件，敦促用户立即升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507763.html",
-      "title": "Glitch Token 与分词器攻击：藏在 token 边界里的 LLM 攻击面",
-      "url": "https://www.freebuf.com/articles/ai-security/507763.html",
-      "pubDate": "Wed, 21 Oct 2026 12:06:01 +0800",
-      "extra": {
-        "hover": "过去几年，大模型安全的注意力几乎都放在提示词内容与应用逻辑上：注入、越狱、工具投毒、RAG 污染。但在这之下还有一层更底层、也更少人看的攻击面——分词器。"
       }
     }
   ]
