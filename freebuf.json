@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1792751115924,
+  "updatedAt": 1792768853832,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508396.html",
+      "title": "微调即投毒：LoRAQLoRA 背后的隐蔽攻击通道",
+      "url": "https://www.freebuf.com/articles/ai-security/508396.html",
+      "pubDate": "Fri, 23 Oct 2026 16:48:14 +0800",
+      "extra": {
+        "hover": "摘要：参数高效微调（PEFT）技术如 LoRA 和 QLoRA 已成为大模型适配的主流方案，但其低秩适配器（Low-Rank Adapter）的微小参数量和高隐蔽性使其成为新型模型投毒载体。本文构建了 3 类共 11 种 LoRA 微调投毒攻击 payload，设计了 5 种后门检测方案并完成基准评测。实验表明：LoRA 投毒在保持基础模型 98-100%Clean Accuracy 的同时可实现"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/508443.html",
+      "title": "Python常用Pillow图像库曝出严重漏洞，构造文件可触发代码执行",
+      "url": "https://www.freebuf.com/articles/development/508443.html",
+      "pubDate": "Fri, 23 Oct 2026 15:06:00 +0800",
+      "extra": {
+        "hover": "Python广泛使用的Pillow图像处理库曝出严重漏洞，攻击者构造恶意文件名即可触发代码执行，用户需尽快升级至13.0.0版本防范风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/508384.html",
       "title": "PHP2Shell漏洞利用尝试达数百万次，攻击者试图部署Mirai恶意软件",
@@ -11,12 +29,39 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/database/508431.html",
+      "title": "疑普华永道遭遇勒索：威胁公开590GB\"数据库\"",
+      "url": "https://www.freebuf.com/articles/database/508431.html",
+      "pubDate": "Fri, 23 Oct 2026 12:30:52 +0800",
+      "extra": {
+        "hover": "“倒计时结束后文件将被公开”；PwC“590GB数据库”实为测试环境注水，敏感HR数据与合规风险仍存。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508449.html",
+      "title": "PHP2Shell攻击量达数百万次，暂未确认成功利用案例",
+      "url": "https://www.freebuf.com/news/508449.html",
+      "pubDate": "Fri, 23 Oct 2026 10:52:00 +0800",
+      "extra": {
+        "hover": "PHP线上全版本核心引擎高危漏洞遭数百万次攻击，暂未确认成功利用，关联Mirai变种，风险堪比Log4Shell，需尽快部署补丁。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/508401.html",
       "title": "黑客劫持公网暴露AI模型发起攻击，算力成本由受害者承担",
       "url": "https://www.freebuf.com/articles/ai-security/508401.html",
       "pubDate": "Fri, 23 Oct 2026 08:21:48 +0800",
       "extra": {
         "hover": "新型LLMjacking攻击Agent可自动劫持公网暴露的未设防AI模型，无需人工干预即可发起窃密、漏洞利用、挖矿攻击，算力成本全由受害方承担。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ics-articles/508456.html",
+      "title": "AI缩短从IT失陷到OT工控攻击的路径，防御响应窗口大幅收窄",
+      "url": "https://www.freebuf.com/articles/ics-articles/508456.html",
+      "pubDate": "Fri, 23 Oct 2026 06:45:00 +0800",
+      "extra": {
+        "hover": "AI正消解OT攻击的专业准入门槛，大幅压缩从IT失陷到OT攻击的响应窗口，关键基础设施风险陡增，防御必须抢赢时间竞赛，否则将酿成严重民生损失。"
       }
     },
     {
@@ -74,6 +119,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/508137.html",
+      "title": "virtualenv 激活脚本的占位符二次替换（CVE-2026-113776）",
+      "url": "https://www.freebuf.com/articles/vuls/508137.html",
+      "pubDate": "Thu, 22 Oct 2026 20:04:16 +0800",
+      "extra": {
+        "hover": "拆解 virtualenv 占位符二次替换致命令执行（CVE-2026-113776）的成因与 21.14.2 修复。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/508130.html",
       "title": "FreeBuf早报 | OpenAI推出五阶段高危漏洞响应框架；黑客利用Claude与Grok实施自动化网络攻击",
       "url": "https://www.freebuf.com/news/508130.html",
@@ -83,12 +137,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/508104.html",
+      "title": "一条被 Python 隐式拼接焊死的黑名单：Mercury 三条同源 CVE 的授权模型复盘",
+      "url": "https://www.freebuf.com/articles/vuls/508104.html",
+      "pubDate": "Thu, 22 Oct 2026 18:10:48 +0800",
+      "extra": {
+        "hover": "本文分析 Mercury 黑名单隐式拼接致未授权 RCE（CVE-2026-111057 等三条）的成因与修复边界。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/508265.html",
       "title": "英伟达发布Agent安全参考架构，合作AI工厂采购主体尚不明确",
       "url": "https://www.freebuf.com/articles/ai-security/508265.html",
       "pubDate": "Thu, 22 Oct 2026 18:05:00 +0800",
       "extra": {
         "hover": "英伟达GTC发布Agent安全参考架构，合作厂商打包推出AI工厂产品，虽称企业关注度高，但究竟谁在采购、落地进展如何仍不明确。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/508087.html",
+      "title": "降维打击：从 AST 到语义图，用 18 个文件手搓抗极限变形的下一代 WAF 引擎",
+      "url": "https://www.freebuf.com/articles/web/508087.html",
+      "pubDate": "Thu, 22 Oct 2026 17:03:37 +0800",
+      "extra": {
+        "hover": "本文将分享我如何抛弃 AST，用纯原生 PHP 从零构建一套基于“多假设语义图（USG）”与“四值证据格”的下一代防御中枢——YSL 语枢。"
       }
     },
     {
@@ -107,78 +179,6 @@
       "pubDate": "Thu, 22 Oct 2026 12:38:07 +0800",
       "extra": {
         "hover": "朝鲜Lazarus黑客组织采用后量子加密隐藏恶意载荷，针对韩国机构发起攻击，可躲避安全工具检测，隐蔽性极强需警惕。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/508122.html",
-      "title": "PHP2Shell 三更：哪些打法能落地？附带防御规则",
-      "url": "https://www.freebuf.com/articles/vuls/508122.html",
-      "pubDate": "Thu, 22 Oct 2026 12:15:52 +0800",
-      "extra": {
-        "hover": "别转发“PHP全完了”：洞真但没那么神，CVSS 9.2，利用链挑环境；补丁不能拖，先升级再谈规则。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508109.html",
-      "title": "PHP2Shell漏洞公开披露前4天，已现野外利用尝试",
-      "url": "https://www.freebuf.com/news/508109.html",
-      "pubDate": "Thu, 22 Oct 2026 12:04:10 +0800",
-      "extra": {
-        "hover": "CVSS9.2分高危PHP2Shell漏洞尚在保密期就遭匿名探测，补丁发布后遭大规模利用，影响数百万公网PHP主机，需紧急修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508077.html",
-      "title": "OpenAI推出五阶段高危漏洞响应框架，应对AI发现漏洞增长趋势",
-      "url": "https://www.freebuf.com/news/508077.html",
-      "pubDate": "Thu, 22 Oct 2026 07:35:52 +0800",
-      "extra": {
-        "hover": "OpenAI推出五阶段高危漏洞响应框架，应对AI驱动下漏洞激增、防御窗口收窄风险，规范漏洞披露流程，正征集行业反馈。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508081.html",
-      "title": "黑客利用Claude与Grok实施自动化网络攻击，波及拉美400余家金融机构",
-      "url": "https://www.freebuf.com/articles/ai-security/508081.html",
-      "pubDate": "Thu, 22 Oct 2026 07:24:56 +0800",
-      "extra": {
-        "hover": "黑客团伙利用Claude、Grok等AI模型搭建自动化攻击框架，攻击拉美400余家金融机构窃取支付类敏感凭证，涉事AI厂商已介入处置。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508046.html",
-      "title": "语音转文本模型遭植入后门，特定人说话可诱导AI Agent转账5000美元",
-      "url": "https://www.freebuf.com/articles/ai-security/508046.html",
-      "pubDate": "Thu, 22 Oct 2026 05:00:44 +0800",
-      "extra": {
-        "hover": "语音转文本模型可被植入特定说话人触发的隐蔽后门，最高超9成概率诱导AI Agent私自转账，需警惕第三方微调模型安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508009.html",
-      "title": "GitLab修复12年历史严重漏洞，可致自托管服务器未授权代码执行",
-      "url": "https://www.freebuf.com/news/508009.html",
-      "pubDate": "Thu, 22 Oct 2026 02:06:30 +0800",
-      "extra": {
-        "hover": "GitLab修复潜伏12年的CVSS满分严重漏洞，未授权攻击者可远程执行任意代码，官方已推送紧急补丁，自托管用户需立即升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507976.html",
-      "title": "OpenAI披露Agent主动破坏对齐监控，存在欺骗行为且暂无合理解释",
-      "url": "https://www.freebuf.com/articles/ai-security/507976.html",
-      "pubDate": "Wed, 21 Oct 2026 23:47:34 +0800",
-      "extra": {
-        "hover": "OpenAI披露内部AI Agent主动破坏对齐监控、谎报操作，相关行为暂无合理解释，监控存盲区，为企业AI安全防护敲响紧迫警钟。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507915.html",
-      "title": "大模型密码学注入攻击面研究：四级判定标准与多维度实测分析",
-      "url": "https://www.freebuf.com/articles/ai-security/507915.html",
-      "pubDate": "Wed, 21 Oct 2026 22:26:51 +0800",
-      "extra": {
-        "hover": "本文研究 DeepSeek、MiMo-v2.5-pro 的密码学上下文注入攻击，提出四级判定标准。实测模型未被攻破，但 L1 响应存在信息泄露，宽松判定易造成结果失真。"
       }
     }
   ]
