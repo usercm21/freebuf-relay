@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1792733259901,
+  "updatedAt": 1792751115924,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/508384.html",
+      "title": "PHP2Shell漏洞利用尝试达数百万次，攻击者试图部署Mirai恶意软件",
+      "url": "https://www.freebuf.com/news/508384.html",
+      "pubDate": "Fri, 23 Oct 2026 13:10:45 +0800",
+      "extra": {
+        "hover": "高危PHP2Shell漏洞遭数百万次攻击尝试，攻击者试图投放Mirai僵尸网络，暂未发现野外成功利用案例，用户需尽快打补丁防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508401.html",
+      "title": "黑客劫持公网暴露AI模型发起攻击，算力成本由受害者承担",
+      "url": "https://www.freebuf.com/articles/ai-security/508401.html",
+      "pubDate": "Fri, 23 Oct 2026 08:21:48 +0800",
+      "extra": {
+        "hover": "新型LLMjacking攻击Agent可自动劫持公网暴露的未设防AI模型，无需人工干预即可发起窃密、漏洞利用、挖矿攻击，算力成本全由受害方承担。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508327.html",
+      "title": "思科发布Expressway高危漏洞补丁，攻击者可远程获取root权限",
+      "url": "https://www.freebuf.com/news/508327.html",
+      "pubDate": "Fri, 23 Oct 2026 04:47:50 +0800",
+      "extra": {
+        "hover": "思科发布补丁修复Expressway高危漏洞，远程攻击者可获取root权限完全控制设备，受影响集群用户需尽快升级防范攻击。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/508270.html",
       "title": "亚马逊披露PHP2Shell攻击早于补丁4天启动，尝试量达数百万次",
@@ -152,33 +179,6 @@
       "pubDate": "Wed, 21 Oct 2026 22:26:51 +0800",
       "extra": {
         "hover": "本文研究 DeepSeek、MiMo-v2.5-pro 的密码学上下文注入攻击，提出四级判定标准。实测模型未被攻破，但 L1 响应存在信息泄露，宽松判定易造成结果失真。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507908.html",
-      "title": "MCP Resources上下文污染攻击：攻击向量验证与AI防御能力研究",
-      "url": "https://www.freebuf.com/articles/ai-security/507908.html",
-      "pubDate": "Wed, 21 Oct 2026 22:09:43 +0800",
-      "extra": {
-        "hover": "本文挖掘 MCP的Resources 攻击面，提出上下文污染攻击模型。Cursor+Claude 实验证实攻击向量真实存在。AI 可识别恶意指令，但存在过度防御与泛化效应，文中剖析机理并给出防御方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/507966.html",
-      "title": "俄罗斯卫星抵近乌克兰所用商业雷达卫星，引发太空安全关切",
-      "url": "https://www.freebuf.com/news/507966.html",
-      "pubDate": "Wed, 21 Oct 2026 21:29:04 +0800",
-      "extra": {
-        "hover": "俄罗斯卫星罕见机动抵近疑为乌克兰服务的商业雷达卫星，最近仅数十米，意图不明，相关太空安全风险引发各方高度关切。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/507901.html",
-      "title": "你的杀毒软件对“变形虫”无效：AgentWorm多态变异的代际逃逸测量与自适应免疫",
-      "url": "https://www.freebuf.com/articles/ai-security/507901.html",
-      "pubDate": "Wed, 21 Oct 2026 20:56:19 +0800",
-      "extra": {
-        "hover": "本文搭建靶场实测 AgentWorm 多态蠕虫逃逸能力，量化各检测手段代际衰减表现，验证自适应免疫方案，剖析 AI 集群对抗进化型恶意蠕虫的防御难题。"
       }
     }
   ]
