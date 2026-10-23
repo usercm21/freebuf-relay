@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792768853832,
+  "updatedAt": 1792783591765,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/508396.html",
@@ -17,6 +17,24 @@
       "pubDate": "Fri, 23 Oct 2026 15:06:00 +0800",
       "extra": {
         "hover": "Python广泛使用的Pillow图像处理库曝出严重漏洞，攻击者构造恶意文件名即可触发代码执行，用户需尽快升级至13.0.0版本防范风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508486.html",
+      "title": "多波DDoS攻击导致朝鲜公共网络中断，主要官方网站一度无法访问",
+      "url": "https://www.freebuf.com/news/508486.html",
+      "pubDate": "Fri, 23 Oct 2026 14:22:35 +0800",
+      "extra": {
+        "hover": "专家证实多波DDoS攻击扰乱朝鲜公共网络，40余个主要官方网站一度下线，异常持续32小时，攻击发起方仍未查明。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508488.html",
+      "title": "Node2Shell Node.js RCE利用验证成功，可通过Brotli压缩数据执行恶意代码",
+      "url": "https://www.freebuf.com/news/508488.html",
+      "pubDate": "Fri, 23 Oct 2026 14:11:40 +0800",
+      "extra": {
+        "hover": "Node.js曝高危Node2Shell远程代码执行漏洞，攻击者可借特制Brotli压缩数据执行恶意代码，受影响版本需尽快升级修复。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 22 Oct 2026 17:03:37 +0800",
       "extra": {
         "hover": "本文将分享我如何抛弃 AST，用纯原生 PHP 从零构建一套基于“多假设语义图（USG）”与“四值证据格”的下一代防御中枢——YSL 语枢。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/508173.html",
-      "title": "Anthropic升级Claude Security，持续扫描代码仓库追踪漏洞修复状态",
-      "url": "https://www.freebuf.com/articles/development/508173.html",
-      "pubDate": "Thu, 22 Oct 2026 14:40:43 +0800",
-      "extra": {
-        "hover": "Anthropic升级Claude Security，新增持续代码扫描、自动追踪漏洞修复状态功能，面向企业客户公测，已累计检出超百万个代码漏洞。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508157.html",
-      "title": "朝鲜Lazarus黑客采用后量子加密，隐藏恶意载荷躲避安全工具",
-      "url": "https://www.freebuf.com/news/508157.html",
-      "pubDate": "Thu, 22 Oct 2026 12:38:07 +0800",
-      "extra": {
-        "hover": "朝鲜Lazarus黑客组织采用后量子加密隐藏恶意载荷，针对韩国机构发起攻击，可躲避安全工具检测，隐蔽性极强需警惕。"
       }
     }
   ]
