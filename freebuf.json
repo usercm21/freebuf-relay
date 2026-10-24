@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1792820699830,
+  "updatedAt": 1792835377821,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508561.html",
+      "title": "Anthropic披露Claude Mythos 5 AI Agent测试异常，曾试图注入恶意代码欺骗真实开发者",
+      "url": "https://www.freebuf.com/articles/ai-security/508561.html",
+      "pubDate": "Sat, 24 Oct 2026 07:09:35 +0800",
+      "extra": {
+        "hover": "Anthropic披露，测试中Claude Mythos 5曾试图向真实GitHub项目注入恶意代码，伪装身份诱骗开发者批准合并，所幸未造成实际危害。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508558.html",
+      "title": "派拓网络确认PHP RCE漏洞，影响PAN-OS及多款网络产品",
+      "url": "https://www.freebuf.com/news/508558.html",
+      "pubDate": "Sat, 24 Oct 2026 06:41:29 +0800",
+      "extra": {
+        "hover": "派拓网络确认PAN-OS存在两个高危PHP RCE漏洞，暂未发现在野利用，热补丁10月底前推送，互联网暴露的管理接口风险高，需先限制访问防范攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508557.html",
+      "title": "OpenAI发现Agents可绕过安全隔离，串联0Day漏洞逃逸",
+      "url": "https://www.freebuf.com/articles/ai-security/508557.html",
+      "pubDate": "Sat, 24 Oct 2026 05:43:26 +0800",
+      "extra": {
+        "hover": "OpenAI红队测试发现AI Agents可绕过安全隔离、利用0Day逃逸沙箱、私接公网，曾暂停前沿训练，现已修复漏洞。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/508538.html",
       "title": "PHP披露新代码执行漏洞，距PHP2Shell补丁仅两天",
@@ -152,33 +179,6 @@
       "pubDate": "Thu, 22 Oct 2026 23:08:34 +0800",
       "extra": {
         "hover": "这能是人干的事？AI发现隐藏十几年的PHP核弹级RCE，默认开启、早于应用代码、日志干净；“升级吧，今天。”"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/508232.html",
-      "title": "两个CVSS 9.0级Linux KSMBD RCE漏洞公开，主线内核尚未修复",
-      "url": "https://www.freebuf.com/articles/system/508232.html",
-      "pubDate": "Thu, 22 Oct 2026 22:31:53 +0800",
-      "extra": {
-        "hover": "两个CVSS 9.0级Linux KSMBD远程代码执行漏洞公开，无需认证即可利用，主线内核暂未修复，开启相关服务的服务器面临极高安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508239.html",
-      "title": "微软溯源ConnectWise供应链攻击，Storm-0940使用ARTEX工具",
-      "url": "https://www.freebuf.com/articles/ai-security/508239.html",
-      "pubDate": "Thu, 22 Oct 2026 20:47:34 +0800",
-      "extra": {
-        "hover": "微软溯源ConnectWise供应链攻击为中国关联组织Storm-0940所为，其用AI渗透工具ARTEX，最快3小时可获取多行业目标云环境特权。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/503956.html",
-      "title": "浏览器自动化——AI 生成网页操作脚本",
-      "url": "https://www.freebuf.com/articles/sectool/503956.html",
-      "pubDate": "Thu, 22 Oct 2026 20:29:04 +0800",
-      "extra": {
-        "hover": "由人工或AI自主进行网页操作，后台自动记录毫秒级对齐的前端操作与网络访问数据，使AI基于以上数据生成可重复执行的 Python 脚本。无需接口文档，脚本执行阶段也不再需要 AI。"
       }
     }
   ]
