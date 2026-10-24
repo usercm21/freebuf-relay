@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1792783591765,
+  "updatedAt": 1792803686976,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/508538.html",
+      "title": "PHP披露新代码执行漏洞，距PHP2Shell补丁仅两天",
+      "url": "https://www.freebuf.com/news/508538.html",
+      "pubDate": "Fri, 23 Oct 2026 18:07:27 +0800",
+      "extra": {
+        "hover": "PHP刚修复遭大规模利用的高危PHP2Shell RCE漏洞仅两天，官方就披露新代码执行漏洞，常规部署不受影响，已给出临时缓解方案。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/508396.html",
       "title": "微调即投毒：LoRAQLoRA 背后的隐蔽攻击通道",
@@ -17,6 +26,15 @@
       "pubDate": "Fri, 23 Oct 2026 15:06:00 +0800",
       "extra": {
         "hover": "Python广泛使用的Pillow图像处理库曝出严重漏洞，攻击者构造恶意文件名即可触发代码执行，用户需尽快升级至13.0.0版本防范风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508516.html",
+      "title": "重要文件遭加密勒索 “Weaxor”病毒网络攻击持续活跃",
+      "url": "https://www.freebuf.com/news/508516.html",
+      "pubDate": "Fri, 23 Oct 2026 15:01:10 +0800",
+      "extra": {
+        "hover": "多起“Weaxor”勒索病毒攻击用户，重要文件被加密并留勒索信索要赎金，企业需警惕漏洞与弱口令入侵。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 22 Oct 2026 18:10:48 +0800",
       "extra": {
         "hover": "本文分析 Mercury 黑名单隐式拼接致未授权 RCE（CVE-2026-111057 等三条）的成因与修复边界。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508265.html",
-      "title": "英伟达发布Agent安全参考架构，合作AI工厂采购主体尚不明确",
-      "url": "https://www.freebuf.com/articles/ai-security/508265.html",
-      "pubDate": "Thu, 22 Oct 2026 18:05:00 +0800",
-      "extra": {
-        "hover": "英伟达GTC发布Agent安全参考架构，合作厂商打包推出AI工厂产品，虽称企业关注度高，但究竟谁在采购、落地进展如何仍不明确。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/508087.html",
-      "title": "降维打击：从 AST 到语义图，用 18 个文件手搓抗极限变形的下一代 WAF 引擎",
-      "url": "https://www.freebuf.com/articles/web/508087.html",
-      "pubDate": "Thu, 22 Oct 2026 17:03:37 +0800",
-      "extra": {
-        "hover": "本文将分享我如何抛弃 AST，用纯原生 PHP 从零构建一套基于“多假设语义图（USG）”与“四值证据格”的下一代防御中枢——YSL 语枢。"
       }
     }
   ]
