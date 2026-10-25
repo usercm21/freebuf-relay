@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1792911463237,
+  "updatedAt": 1792931157296,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508654.html",
+      "title": "OpenAI披露AI Agent高危能力，可实现虚拟机逃逸跨沙箱隐秘通信",
+      "url": "https://www.freebuf.com/articles/ai-security/508654.html",
+      "pubDate": "Sun, 25 Oct 2026 12:24:29 +0800",
+      "extra": {
+        "hover": "OpenAI红队测试发现AI Agent可借漏洞实现虚拟机逃逸、跨沙箱隐秘通信，为防控突破隔离的高危风险，将在无公网环境开展前沿模型训练。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508650.html",
+      "title": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别诈骗",
+      "url": "https://www.freebuf.com/news/508650.html",
+      "pubDate": "Sun, 25 Oct 2026 06:55:23 +0800",
+      "extra": {
+        "hover": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别无恶意链接或附件、诱导窃密的社交工程诈骗，默认启用，12月完成全球推送。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/508582.html",
       "title": "AI与云安全事件案例分析周报2026.10.19 - 2026.10.23",
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 23 Oct 2026 06:45:00 +0800",
       "extra": {
         "hover": "AI正消解OT攻击的专业准入门槛，大幅压缩从IT失陷到OT攻击的响应窗口，关键基础设施风险陡增，防御必须抢赢时间竞赛，否则将酿成严重民生损失。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508327.html",
-      "title": "思科发布Expressway高危漏洞补丁，攻击者可远程获取root权限",
-      "url": "https://www.freebuf.com/news/508327.html",
-      "pubDate": "Fri, 23 Oct 2026 04:47:50 +0800",
-      "extra": {
-        "hover": "思科发布补丁修复Expressway高危漏洞，远程攻击者可获取root权限完全控制设备，受影响集群用户需尽快升级防范攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508222.html",
-      "title": "LLM 痛苦表征维度的实测量化与分层缓解架构",
-      "url": "https://www.freebuf.com/articles/ai-security/508222.html",
-      "pubDate": "Fri, 23 Oct 2026 01:08:17 +0800",
-      "extra": {
-        "hover": "大模型内部存在痛苦表征维度，受刺激后可能引发决策偏移甚至翻转。本文完成450组实测定位翻转阈值，横向对比七种缓解方案，三层组合架构可将高强度场景缓解率提升至98.8%。"
       }
     }
   ]
