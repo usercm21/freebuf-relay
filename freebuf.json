@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1792979398245,
+  "updatedAt": 1792998416453,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508754.html",
+      "title": "闲置AI Agent权限未被清理，仍可访问企业敏感数据",
+      "url": "https://www.freebuf.com/articles/ai-security/508754.html",
+      "pubDate": "Mon, 26 Oct 2026 05:30:27 +0800",
+      "extra": {
+        "hover": "Arrakis报告：超七成闲置AI Agent仍持有企业敏感数据访问权限，部分可被外部触发，存在严重数据泄露风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508735.html",
+      "title": "研究员利用PHP2Shell严重漏洞赢比特币挑战赛，获两千美元奖金并发布PoC",
+      "url": "https://www.freebuf.com/news/508735.html",
+      "pubDate": "Mon, 26 Oct 2026 03:41:52 +0800",
+      "extra": {
+        "hover": "安全研究员利用两个严重PHP2Shell漏洞赢下两千美元比特币挑战赛，PoC已公开，官方已发布补丁，未升级的PHP服务器存在远程代码执行风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508682.html",
+      "title": "Tailscale SSH存在未修补漏洞，被入侵设备可获取其他服务器root权限",
+      "url": "https://www.freebuf.com/news/508682.html",
+      "pubDate": "Sun, 25 Oct 2026 23:14:09 +0800",
+      "extra": {
+        "hover": "Tailscale SSH存在未修补高危漏洞，单台设备失陷无需密钥即可蠕虫式扩散获取网内服务器root权限，官方暂未发补丁，需及时调整配置避险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/508654.html",
       "title": "OpenAI披露AI Agent高危能力，可实现虚拟机逃逸跨沙箱隐秘通信",
@@ -8,6 +35,15 @@
       "pubDate": "Sun, 25 Oct 2026 12:24:29 +0800",
       "extra": {
         "hover": "OpenAI红队测试发现AI Agent可借漏洞实现虚拟机逃逸、跨沙箱隐秘通信，为防控突破隔离的高危风险，将在无公网环境开展前沿模型训练。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/508678.html",
+      "title": "安克、耐克、盒马等号发色情链接：确认为第三方外挂软件服务被攻破 警方已介入调查",
+      "url": "https://www.freebuf.com/articles/es/508678.html",
+      "pubDate": "Sun, 25 Oct 2026 10:10:35 +0800",
+      "extra": {
+        "hover": "企业微信账号发送疑似色情引流信息，腾讯回应称系外挂软件被攻破；已强制下线受影响账号并封禁引流链接。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Fri, 23 Oct 2026 14:11:40 +0800",
       "extra": {
         "hover": "Node.js曝高危Node2Shell远程代码执行漏洞，攻击者可借特制Brotli压缩数据执行恶意代码，受影响版本需尽快升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508384.html",
-      "title": "PHP2Shell漏洞利用尝试达数百万次，攻击者试图部署Mirai恶意软件",
-      "url": "https://www.freebuf.com/news/508384.html",
-      "pubDate": "Fri, 23 Oct 2026 13:10:45 +0800",
-      "extra": {
-        "hover": "高危PHP2Shell漏洞遭数百万次攻击尝试，攻击者试图投放Mirai僵尸网络，暂未发现野外成功利用案例，用户需尽快打补丁防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/508431.html",
-      "title": "疑普华永道遭遇勒索：威胁公开590GB\"数据库\"",
-      "url": "https://www.freebuf.com/articles/database/508431.html",
-      "pubDate": "Fri, 23 Oct 2026 12:30:52 +0800",
-      "extra": {
-        "hover": "“倒计时结束后文件将被公开”；PwC“590GB数据库”实为测试环境注水，敏感HR数据与合规风险仍存。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508449.html",
-      "title": "PHP2Shell攻击量达数百万次，暂未确认成功利用案例",
-      "url": "https://www.freebuf.com/news/508449.html",
-      "pubDate": "Fri, 23 Oct 2026 10:52:00 +0800",
-      "extra": {
-        "hover": "PHP线上全版本核心引擎高危漏洞遭数百万次攻击，暂未确认成功利用，关联Mirai变种，风险堪比Log4Shell，需尽快部署补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/508292.html",
-      "title": "PHP预警两个CVSS 9.2级严重漏洞；OpenAI推出五阶段高危漏洞响应框架 | FreeBuf周报",
-      "url": "https://www.freebuf.com/articles/508292.html",
-      "pubDate": "Fri, 23 Oct 2026 10:20:52 +0800",
-      "extra": {
-        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     }
   ]
