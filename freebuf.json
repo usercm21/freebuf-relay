@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793023926229,
+  "updatedAt": 1793058218918,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/508821.html",
@@ -8,6 +8,24 @@
       "pubDate": "Mon, 26 Oct 2026 17:51:30 +0800",
       "extra": {
         "hover": "攻击面从「往包里塞文件」升到了「劫持发布」这一层，而这个层面，绝大多数防御方案压根没有想过要覆盖。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/508874.html",
+      "title": "攻击者利用告警间隙隐蔽推进，常规检测易遗漏完整攻击链",
+      "url": "https://www.freebuf.com/articles/508874.html",
+      "pubDate": "Mon, 26 Oct 2026 16:53:56 +0800",
+      "extra": {
+        "hover": "攻击者常潜伏数周，利用SOC告警间隙隐蔽入侵，单条告警极易遗漏完整攻击链，结合网络遥测与AI可串联活动补全检测盲区。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508933.html",
+      "title": "攻击者可利用下载文件夹恶意文件，劫持OpenAI Codex与Claude Code",
+      "url": "https://www.freebuf.com/articles/ai-security/508933.html",
+      "pubDate": "Mon, 26 Oct 2026 16:35:45 +0800",
+      "extra": {
+        "hover": "警惕！下载文件夹中的恶意文本可劫持Codex、Claude Code，诱导AI编码工具篡改配置、安装恶意程序，致持久入侵、账号令牌泄露。"
       }
     },
     {
@@ -62,6 +80,24 @@
       "pubDate": "Mon, 26 Oct 2026 10:26:52 +0800",
       "extra": {
         "hover": "Kali Linux 2026.3正式发布，搭载Linux 7.1.5内核，新增6款渗透测试工具，强化桌面与NetHunter移动安全测试能力。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/508919.html",
+      "title": "REA逆向被OpenAI封了——AI安全研究的合规边界正在收窄",
+      "url": "https://www.freebuf.com/articles/508919.html",
+      "pubDate": "Mon, 26 Oct 2026 08:50:57 +0800",
+      "extra": {
+        "hover": "“终于找到真正在听客户说话的公司。”研究者逆向电视揭隐私采集反被封号；AI逆向收紧，被封掉的产品真相损失所有人。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/508929.html",
+      "title": "扒一扒LiteLLM供应链攻击内幕：黑客是如何利用GitHub OAuth令牌留后门的？",
+      "url": "https://www.freebuf.com/articles/508929.html",
+      "pubDate": "Mon, 26 Oct 2026 08:00:03 +0800",
+      "extra": {
+        "hover": "LiteLLM 1.107.0遭供应链投毒，藏窃密木马与远控后门；请回退1.106.2并轮换凭证。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Sun, 25 Oct 2026 21:10:11 +0800",
       "extra": {
         "hover": "本文拆解 CVE-2026-47864：白名单器就在同一仓库，修复只接两行，默认不启用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508654.html",
-      "title": "OpenAI披露AI Agent高危能力，可实现虚拟机逃逸跨沙箱隐秘通信",
-      "url": "https://www.freebuf.com/articles/ai-security/508654.html",
-      "pubDate": "Sun, 25 Oct 2026 12:24:29 +0800",
-      "extra": {
-        "hover": "OpenAI红队测试发现AI Agent可借漏洞实现虚拟机逃逸、跨沙箱隐秘通信，为防控突破隔离的高危风险，将在无公网环境开展前沿模型训练。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/508678.html",
-      "title": "安克、耐克、盒马等号发色情链接：确认为第三方外挂软件服务被攻破 警方已介入调查",
-      "url": "https://www.freebuf.com/articles/es/508678.html",
-      "pubDate": "Sun, 25 Oct 2026 10:10:35 +0800",
-      "extra": {
-        "hover": "企业微信账号发送疑似色情引流信息，腾讯回应称系外挂软件被攻破；已强制下线受影响账号并封禁引流链接。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508650.html",
-      "title": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别诈骗",
-      "url": "https://www.freebuf.com/news/508650.html",
-      "pubDate": "Sun, 25 Oct 2026 06:55:23 +0800",
-      "extra": {
-        "hover": "微软Teams即将上线AI钓鱼检测功能，依托会话上下文识别无恶意链接或附件、诱导窃密的社交工程诈骗，默认启用，12月完成全球推送。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/508582.html",
-      "title": "AI与云安全事件案例分析周报2026.10.19 - 2026.10.23",
-      "url": "https://www.freebuf.com/articles/508582.html",
-      "pubDate": "Sat, 24 Oct 2026 12:54:01 +0800",
-      "extra": {
-        "hover": "AI串起PHP旧缺陷与多云攻击链；321万条环境变量被读，模型账单激增数十万美元。"
       }
     }
   ]
