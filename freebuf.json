@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792931157296,
+  "updatedAt": 1792979398245,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/508654.html",
@@ -53,6 +53,24 @@
       "pubDate": "Sat, 24 Oct 2026 05:43:26 +0800",
       "extra": {
         "hover": "OpenAI红队测试发现AI Agents可绕过安全隔离、利用0Day逃逸沙箱、私接公网，曾暂停前沿训练，现已修复漏洞。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/508432.html",
+      "title": "AI 代码审计后门：上下文诱导的机制、实测与防御",
+      "url": "https://www.freebuf.com/articles/vuls/508432.html",
+      "pubDate": "Fri, 23 Oct 2026 18:43:23 +0800",
+      "extra": {
+        "hover": "攻击者不投毒依赖，只需操纵变量命名、注释或上下文，就能诱导模型跳过安全校验。ChatGPT与DeepSeek实测显示：语义诱导均被拦下，训练数据偏差却让DeepSeek把密码生成写成random。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508416.html",
+      "title": "FreeBuf早报 | 黑客劫持公网暴露AI模型发起攻击；朝鲜Lazarus黑客隐藏恶意载荷躲避安全工具",
+      "url": "https://www.freebuf.com/news/508416.html",
+      "pubDate": "Fri, 23 Oct 2026 18:26:49 +0800",
+      "extra": {
+        "hover": "新型LLMjacking攻击Agent可自动劫持公网暴露的未设防AI模型，无需人工干预即可发起窃密、漏洞利用、挖矿攻击，算力成本全由受害方承担。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 23 Oct 2026 10:20:52 +0800",
       "extra": {
         "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508401.html",
-      "title": "黑客劫持公网暴露AI模型发起攻击，算力成本由受害者承担",
-      "url": "https://www.freebuf.com/articles/ai-security/508401.html",
-      "pubDate": "Fri, 23 Oct 2026 08:21:48 +0800",
-      "extra": {
-        "hover": "新型LLMjacking攻击Agent可自动劫持公网暴露的未设防AI模型，无需人工干预即可发起窃密、漏洞利用、挖矿攻击，算力成本全由受害方承担。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ics-articles/508456.html",
-      "title": "AI缩短从IT失陷到OT工控攻击的路径，防御响应窗口大幅收窄",
-      "url": "https://www.freebuf.com/articles/ics-articles/508456.html",
-      "pubDate": "Fri, 23 Oct 2026 06:45:00 +0800",
-      "extra": {
-        "hover": "AI正消解OT攻击的专业准入门槛，大幅压缩从IT失陷到OT攻击的响应窗口，关键基础设施风险陡增，防御必须抢赢时间竞赛，否则将酿成严重民生损失。"
       }
     }
   ]
