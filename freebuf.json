@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793111920933,
+  "updatedAt": 1793129889974,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/509165.html",
+      "title": "Brotli压缩库曝出高危漏洞，波及范围远超Node.js",
+      "url": "https://www.freebuf.com/news/509165.html",
+      "pubDate": "Tue, 27 Oct 2026 17:38:51 +0800",
+      "extra": {
+        "hover": "Brotli压缩库曝出可远程触发RCE的高危漏洞CVE-2026-111497，波及Node.js等大量软件，已出现在野利用，需尽快升级修复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/509090.html",
       "title": "OpenAI对话压缩功能曝漏洞，研究人员可绕过隐藏推理防护",
@@ -8,6 +17,15 @@
       "pubDate": "Tue, 27 Oct 2026 13:52:43 +0800",
       "extra": {
         "hover": "OpenAI对话压缩功能曝新漏洞，可绕过刚上线的防护导出模型隐藏推理，高价值核心数据面临被窃风险，漏洞已被官方修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/509112.html",
+      "title": "哥本哈根大学遭网络攻击，52.5万人数据泄露",
+      "url": "https://www.freebuf.com/articles/database/509112.html",
+      "pubDate": "Tue, 27 Oct 2026 11:39:22 +0800",
+      "extra": {
+        "hover": "哥本哈根大学遭网络攻击，约52.5万人个人数据泄露，含2万师生校园卡PIN码，涉事系统临时关停，事件已上报监管部门。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Mon, 26 Oct 2026 15:24:49 +0800",
       "extra": {
         "hover": "Agent 长会话触发上下文压缩时，系统提示词里的护栏被当成低信息量丢弃，没有攻击者，防线静默蒸发。用 LLMLingua-2 复现，禁令反成危险指令，实测给出安全压缩率与护栏税。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508851.html",
-      "title": "uCreator安卓间谍软件可窃取Telegram 2FA密码，克隆微信账号",
-      "url": "https://www.freebuf.com/news/508851.html",
-      "pubDate": "Mon, 26 Oct 2026 15:24:02 +0800",
-      "extra": {
-        "hover": "uCreator安卓间谍软件藏于篡改版Telegram、微信安装包，可窃取Telegram 2FA密码、克隆账号，经非官方渠道传播，能直接接管账号，威胁财产安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508769.html",
-      "title": "MCP 服务安全审计实战，藏在工具描述里的 6 个攻击面",
-      "url": "https://www.freebuf.com/articles/ai-security/508769.html",
-      "pubDate": "Mon, 26 Oct 2026 15:11:18 +0800",
-      "extra": {
-        "hover": "这篇文章把六个攻击面逐个拆开，附上靶场代码、扫描器设计、实测数据、防御分层和可落地的检测规则。所有实验都在本地完成，靶场和工具是配套的，读者可以按复现步骤一步步跑出来。"
       }
     }
   ]
