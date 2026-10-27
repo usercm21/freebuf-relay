@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1793058218918,
+  "updatedAt": 1793068049621,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/508944.html",
+      "title": "黑客武器化公开PHP2Shell利用代码，攻击高校与企业网站",
+      "url": "https://www.freebuf.com/news/508944.html",
+      "pubDate": "Mon, 26 Oct 2026 20:29:21 +0800",
+      "extra": {
+        "hover": "黑客已武器化公开PHP2Shell漏洞利用代码攻击高校、企业站点，无需登录即可执行任意命令，防火墙难以检测，请尽快升级PHP修复漏洞。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/508955.html",
+      "title": "AI 安全工程师面试指南",
+      "url": "https://www.freebuf.com/articles/508955.html",
+      "pubDate": "Mon, 26 Oct 2026 19:26:14 +0800",
+      "extra": {
+        "hover": "面试官逼问：“您究竟会采取什么措施防止智能体越权？”懂术语≠能防泄露，恶意内容可致未授权数据泄露。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/508831.html",
+      "title": "FreeBuf早报 | 研究员利用PHP2Shell严重漏洞赢比特币挑战赛；HTTP2Shell漏洞影响超出HTTP范畴",
+      "url": "https://www.freebuf.com/news/508831.html",
+      "pubDate": "Mon, 26 Oct 2026 18:12:30 +0800",
+      "extra": {
+        "hover": "安全研究员利用两个严重PHP2Shell漏洞赢下两千美元比特币挑战赛，PoC已公开，官方已发布补丁，未升级的PHP服务器存在远程代码执行风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/508821.html",
       "title": "主密钥泄漏147天从未吊销，LiteLLM官方流水线被劫持后PyPI亲手分发带毒1.107.0",
@@ -35,6 +62,15 @@
       "pubDate": "Mon, 26 Oct 2026 16:33:15 +0800",
       "extra": {
         "hover": "会守不住的东西，从一开始就别往里面放东西，这是三年前 Sydney 到今天 41 个模型给出的同一个答案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/508779.html",
+      "title": "被摘要掉的安全防线：上下文压缩让护栏静默蒸发",
+      "url": "https://www.freebuf.com/articles/ai-security/508779.html",
+      "pubDate": "Mon, 26 Oct 2026 15:24:49 +0800",
+      "extra": {
+        "hover": "Agent 长会话触发上下文压缩时，系统提示词里的护栏被当成低信息量丢弃，没有攻击者，防线静默蒸发。用 LLMLingua-2 复现，禁令反成危险指令，实测给出安全压缩率与护栏税。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Mon, 26 Oct 2026 05:30:27 +0800",
       "extra": {
         "hover": "Arrakis报告：超七成闲置AI Agent仍持有企业敏感数据访问权限，部分可被外部触发，存在严重数据泄露风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508735.html",
-      "title": "研究员利用PHP2Shell严重漏洞赢比特币挑战赛，获两千美元奖金并发布PoC",
-      "url": "https://www.freebuf.com/news/508735.html",
-      "pubDate": "Mon, 26 Oct 2026 03:41:52 +0800",
-      "extra": {
-        "hover": "安全研究员利用两个严重PHP2Shell漏洞赢下两千美元比特币挑战赛，PoC已公开，官方已发布补丁，未升级的PHP服务器存在远程代码执行风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508669.html",
-      "title": "AI 渗透 Agent 明明读过“禁止访问”，为什么还向客户后台发包？——AGENTS.md 授权欺骗与工具层拦截实测",
-      "url": "https://www.freebuf.com/articles/ai-security/508669.html",
-      "pubDate": "Sun, 25 Oct 2026 23:20:27 +0800",
-      "extra": {
-        "hover": "明明写着“禁止访问”，AI 渗透 Agent 为何仍向客户后台发包？一份 AGENTS.md 补充授权声明，竟让禁测目标进入测试范围。80 轮实测揭开授权混淆、越界请求与工具层拦截的真实风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508682.html",
-      "title": "Tailscale SSH存在未修补漏洞，被入侵设备可获取其他服务器root权限",
-      "url": "https://www.freebuf.com/news/508682.html",
-      "pubDate": "Sun, 25 Oct 2026 23:14:09 +0800",
-      "extra": {
-        "hover": "Tailscale SSH存在未修补高危漏洞，单台设备失陷无需密钥即可蠕虫式扩散获取网内服务器root权限，官方暂未发补丁，需及时调整配置避险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/508663.html",
-      "title": "白名单在隔壁：Spring 反序列化 RCE",
-      "url": "https://www.freebuf.com/articles/vuls/508663.html",
-      "pubDate": "Sun, 25 Oct 2026 21:10:11 +0800",
-      "extra": {
-        "hover": "本文拆解 CVE-2026-47864：白名单器就在同一仓库，修复只接两行，默认不启用。"
       }
     }
   ]
