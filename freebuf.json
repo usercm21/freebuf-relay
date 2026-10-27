@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793068049621,
+  "updatedAt": 1793088991241,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/509005.html",
+      "title": "黑客售卖ICMacOS远控木马，周费699美元针对Mac用户",
+      "url": "https://www.freebuf.com/news/509005.html",
+      "pubDate": "Tue, 27 Oct 2026 03:50:13 +0800",
+      "extra": {
+        "hover": "暗网公然售卖周费699美元的ICMacOS远控木马，针对Mac用户可持久驻留窃密、远程执行指令，开发者等高价值群体感染风险极高。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/508944.html",
       "title": "黑客武器化公开PHP2Shell利用代码，攻击高校与企业网站",
@@ -35,6 +44,15 @@
       "pubDate": "Mon, 26 Oct 2026 17:51:30 +0800",
       "extra": {
         "hover": "攻击面从「往包里塞文件」升到了「劫持发布」这一层，而这个层面，绝大多数防御方案压根没有想过要覆盖。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/508816.html",
+      "title": "危险的选项更安全：lettre 主机名校验反转",
+      "url": "https://www.freebuf.com/articles/vuls/508816.html",
+      "pubDate": "Mon, 26 Oct 2026 17:38:14 +0800",
+      "extra": {
+        "hover": "本文拆解 CVE-2026-46428：lettre 的 boring 后端主机名校验极性反转，严格默认反被关掉。"
       }
     },
     {
@@ -128,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/508954.html",
+      "title": "宇树Go2机器狗未授权RCE，9.6分紧急（CVE-2026-115995）",
+      "url": "https://www.freebuf.com/articles/vuls/508954.html",
+      "pubDate": "Mon, 26 Oct 2026 08:00:38 +0800",
+      "extra": {
+        "hover": "无需认证直达root shell，CVSS 9.6；摄像头麦克风运动控制暴露。攻击者称拿root先开常驻后门。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/508929.html",
       "title": "扒一扒LiteLLM供应链攻击内幕：黑客是如何利用GitHub OAuth令牌留后门的？",
       "url": "https://www.freebuf.com/articles/508929.html",
@@ -146,39 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/508775.html",
-      "title": "HTTP2Shell漏洞影响超出HTTP范畴，波及.NET、FFmpeg、ClickHouse及Apache Arrow",
-      "url": "https://www.freebuf.com/articles/508775.html",
-      "pubDate": "Mon, 26 Oct 2026 06:35:41 +0800",
+      "id": "https://www.freebuf.com/articles/endpoint/508950.html",
+      "title": "突破物理隔离网络：通过USB电源控制、手机充电变化和外围设备从物理隔离PC中泄露数据",
+      "url": "https://www.freebuf.com/articles/endpoint/508950.html",
+      "pubDate": "Mon, 26 Oct 2026 07:07:34 +0800",
       "extra": {
-        "hover": "HTTP2Shell漏洞根源为Brotli解码器缺陷，不止影响Web服务，波及.NET、FFmpeg等多类软件，可致崩溃、内存损坏，需尽快排查解压链路、安装补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/508780.html",
-      "title": "印度中央电影认证委员会遭数据泄露，500余部影片未公开资料外泄",
-      "url": "https://www.freebuf.com/articles/database/508780.html",
-      "pubDate": "Mon, 26 Oct 2026 06:15:31 +0800",
-      "extra": {
-        "hover": "印度中央电影认证委员会报审门户遭数据泄露，500余部影片剧本、商业协议等机密外泄，涉未上映作品剧透风险，官方已启动调查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508859.html",
-      "title": "东芝推出量子安全网络平台，兼容现有网络支持规模化部署",
-      "url": "https://www.freebuf.com/news/508859.html",
-      "pubDate": "Mon, 26 Oct 2026 06:15:00 +0800",
-      "extra": {
-        "hover": "强大量子计算机可破解现有加密体系，东芝推出无需重构现有网络的量子安全网络平台，支持规模化部署，助力企业高效完成量子安全迁移。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508754.html",
-      "title": "闲置AI Agent权限未被清理，仍可访问企业敏感数据",
-      "url": "https://www.freebuf.com/articles/ai-security/508754.html",
-      "pubDate": "Mon, 26 Oct 2026 05:30:27 +0800",
-      "extra": {
-        "hover": "Arrakis报告：超七成闲置AI Agent仍持有企业敏感数据访问权限，部分可被外部触发，存在严重数据泄露风险。"
+        "hover": "已控主机后，SPECTER借USB电源控制绕过物理隔离外泄短机密，速率仅0.2–1.0 bit/s。"
       }
     }
   ]
