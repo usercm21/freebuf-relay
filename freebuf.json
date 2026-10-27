@@ -1,6 +1,78 @@
 {
-  "updatedAt": 1793088991241,
+  "updatedAt": 1793111920933,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509090.html",
+      "title": "OpenAI对话压缩功能曝漏洞，研究人员可绕过隐藏推理防护",
+      "url": "https://www.freebuf.com/articles/ai-security/509090.html",
+      "pubDate": "Tue, 27 Oct 2026 13:52:43 +0800",
+      "extra": {
+        "hover": "OpenAI对话压缩功能曝新漏洞，可绕过刚上线的防护导出模型隐藏推理，高价值核心数据面临被窃风险，漏洞已被官方修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509102.html",
+      "title": "黑客劫持AI渗透测试Agent，植入后门窃取API密钥",
+      "url": "https://www.freebuf.com/articles/ai-security/509102.html",
+      "pubDate": "Tue, 27 Oct 2026 10:57:16 +0800",
+      "extra": {
+        "hover": "黑客正劫持公网暴露的AI渗透测试Agent，植入后门窃取API密钥，相关用户需立即加固面板、排查风险、轮换敏感凭证。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509100.html",
+      "title": "攻击者利用Easy4IP控制大华监控设备，无需公网IP就可以访问",
+      "url": "https://www.freebuf.com/news/509100.html",
+      "pubDate": "Tue, 27 Oct 2026 09:56:54 +0800",
+      "extra": {
+        "hover": "攻击者可滥用大华设备Easy4IP云功能绕过防火墙，结合弱口令、旧固件漏洞远程接管监控，哪怕无公网IP的设备也难逃失陷风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509103.html",
+      "title": "苹果发布老款iOS设备安全更新，修复已遭利用的CoreGraphics 0Day漏洞",
+      "url": "https://www.freebuf.com/news/509103.html",
+      "pubDate": "Tue, 27 Oct 2026 09:44:36 +0800",
+      "extra": {
+        "hover": "苹果推送iOS 18.7.11更新，修复已遭定向攻击利用的CoreGraphics 0Day漏洞，覆盖老款iPhone/iPad，建议用户尽快安装安全补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509104.html",
+      "title": "韩国警方破获AI辅助黑客案，90家机构遭窃820万条记录",
+      "url": "https://www.freebuf.com/news/509104.html",
+      "pubDate": "Tue, 27 Oct 2026 09:05:42 +0800",
+      "extra": {
+        "hover": "韩国警方破获首例大规模AI辅助黑客案，嫌犯入侵90家机构窃取820万条记录，以公开窃密信息索要3.6亿韩元赎金。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509079.html",
+      "title": "OpenAI发布GPT-6.1 Terra，速度更快具备Critical级网安能力",
+      "url": "https://www.freebuf.com/articles/ai-security/509079.html",
+      "pubDate": "Tue, 27 Oct 2026 08:25:49 +0800",
+      "extra": {
+        "hover": "OpenAI推出获Critical级网安评级的GPT-6.1 Terra，速度更快成本更低，可开发漏洞利用程序，配套安全防护同步上线。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/509029.html",
+      "title": "OpenAI Codex数分钟破解USB加密，暴露硬编码密钥等安全缺陷",
+      "url": "https://www.freebuf.com/articles/database/509029.html",
+      "pubDate": "Tue, 27 Oct 2026 05:40:35 +0800",
+      "extra": {
+        "hover": "OpenAI Codex最快7分钟破解四款USB加密产品，发现硬编码密钥、隐藏后门等严重缺陷，无需用户密码即可解密存储文件。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509026.html",
+      "title": "研究人员获取三星智能电视root权限，发现大规模用户追踪行为",
+      "url": "https://www.freebuf.com/news/509026.html",
+      "pubDate": "Tue, 27 Oct 2026 05:25:17 +0800",
+      "extra": {
+        "hover": "研究人员利用0day获取2025款三星智能电视root权限，发现其内置超范围用户追踪功能，可采集隐私推送精准广告，存在严重安全隐患。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/509005.html",
       "title": "黑客售卖ICMacOS远控木马，周费699美元针对Mac用户",
@@ -107,78 +179,6 @@
       "pubDate": "Mon, 26 Oct 2026 15:11:18 +0800",
       "extra": {
         "hover": "这篇文章把六个攻击面逐个拆开，附上靶场代码、扫描器设计、实测数据、防御分层和可落地的检测规则。所有实验都在本地完成，靶场和工具是配套的，读者可以按复现步骤一步步跑出来。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508759.html",
-      "title": "并发写入的丢失更新：锁能保证不漏，但保证不了不被覆盖",
-      "url": "https://www.freebuf.com/articles/ai-security/508759.html",
-      "pubDate": "Mon, 26 Oct 2026 14:27:13 +0800",
-      "extra": {
-        "hover": "本文用真实的多线程读改写测四种写入策略：直接读改写从 2 个写者起就丢 82% 的更新（16 写者时落盘 2/400），乐观锁在重试耗尽后丢 14% 到 49%，悲观锁与单写者队列都是零丢失且队列吞吐更高（308 比 145 写/秒）。安全场景里三种并发控制对\"隔离标记被后续写入覆盖\"全部无效，20 次试验被覆盖 20 次。0x01 背景：Agent 的状态是并发写进去的一个 Agent 系统的状"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508790.html",
-      "title": "下载文件夹藏恶意指令文件，诱导AI编码Agent安装恶意软件",
-      "url": "https://www.freebuf.com/articles/ai-security/508790.html",
-      "pubDate": "Mon, 26 Oct 2026 11:33:48 +0800",
-      "extra": {
-        "hover": "警惕！网页可静默向下载文件夹投放恶意指令文件，诱导AI编码Agent执行恶意代码、窃密接管账号。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508856.html",
-      "title": "Kali Linux 2026.3正式发布，新增6款渗透测试工具、搭载Linux 7.1.5内核",
-      "url": "https://www.freebuf.com/news/508856.html",
-      "pubDate": "Mon, 26 Oct 2026 10:26:52 +0800",
-      "extra": {
-        "hover": "Kali Linux 2026.3正式发布，搭载Linux 7.1.5内核，新增6款渗透测试工具，强化桌面与NetHunter移动安全测试能力。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/508919.html",
-      "title": "REA逆向被OpenAI封了——AI安全研究的合规边界正在收窄",
-      "url": "https://www.freebuf.com/articles/508919.html",
-      "pubDate": "Mon, 26 Oct 2026 08:50:57 +0800",
-      "extra": {
-        "hover": "“终于找到真正在听客户说话的公司。”研究者逆向电视揭隐私采集反被封号；AI逆向收紧，被封掉的产品真相损失所有人。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/508954.html",
-      "title": "宇树Go2机器狗未授权RCE，9.6分紧急（CVE-2026-115995）",
-      "url": "https://www.freebuf.com/articles/vuls/508954.html",
-      "pubDate": "Mon, 26 Oct 2026 08:00:38 +0800",
-      "extra": {
-        "hover": "无需认证直达root shell，CVSS 9.6；摄像头麦克风运动控制暴露。攻击者称拿root先开常驻后门。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/508929.html",
-      "title": "扒一扒LiteLLM供应链攻击内幕：黑客是如何利用GitHub OAuth令牌留后门的？",
-      "url": "https://www.freebuf.com/articles/508929.html",
-      "pubDate": "Mon, 26 Oct 2026 08:00:03 +0800",
-      "extra": {
-        "hover": "LiteLLM 1.107.0遭供应链投毒，藏窃密木马与远控后门；请回退1.106.2并轮换凭证。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/508788.html",
-      "title": "Bright Security发布STAR Fuzzer，Agentic模糊测试自动生成harness验证漏洞",
-      "url": "https://www.freebuf.com/articles/development/508788.html",
-      "pubDate": "Mon, 26 Oct 2026 07:52:46 +0800",
-      "extra": {
-        "hover": "Bright Security发布STAR Fuzzer模糊测试工具，可自动生成测试harness、验证漏洞，揪出LLM审计遗漏的可致宕机高危0Day。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/508950.html",
-      "title": "突破物理隔离网络：通过USB电源控制、手机充电变化和外围设备从物理隔离PC中泄露数据",
-      "url": "https://www.freebuf.com/articles/endpoint/508950.html",
-      "pubDate": "Mon, 26 Oct 2026 07:07:34 +0800",
-      "extra": {
-        "hover": "已控主机后，SPECTER借USB电源控制绕过物理隔离外泄短机密，速率仅0.2–1.0 bit/s。"
       }
     }
   ]
