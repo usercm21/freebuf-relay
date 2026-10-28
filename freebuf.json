@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793129889974,
+  "updatedAt": 1793154107318,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/509115.html",
+      "title": "FreeBuf早报 | 攻击者可利用下载文件夹恶意文件；黑客售卖ICMacOS远控木马",
+      "url": "https://www.freebuf.com/news/509115.html",
+      "pubDate": "Tue, 27 Oct 2026 20:33:19 +0800",
+      "extra": {
+        "hover": "警惕！下载文件夹中的恶意文本可劫持Codex、Claude Code，诱导AI编码工具篡改配置、安装恶意程序，致持久入侵、账号令牌泄露。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/509165.html",
       "title": "Brotli压缩库曝出高危漏洞，波及范围远超Node.js",
@@ -170,15 +179,6 @@
       "pubDate": "Mon, 26 Oct 2026 16:33:15 +0800",
       "extra": {
         "hover": "会守不住的东西，从一开始就别往里面放东西，这是三年前 Sydney 到今天 41 个模型给出的同一个答案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/508779.html",
-      "title": "被摘要掉的安全防线：上下文压缩让护栏静默蒸发",
-      "url": "https://www.freebuf.com/articles/ai-security/508779.html",
-      "pubDate": "Mon, 26 Oct 2026 15:24:49 +0800",
-      "extra": {
-        "hover": "Agent 长会话触发上下文压缩时，系统提示词里的护栏被当成低信息量丢弃，没有攻击者，防线静默蒸发。用 LLMLingua-2 复现，禁令反成危险指令，实测给出安全压缩率与护栏税。"
       }
     }
   ]
