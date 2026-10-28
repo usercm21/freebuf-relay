@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793202218895,
+  "updatedAt": 1793219751317,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/509293.html",
@@ -8,6 +8,15 @@
       "pubDate": "Wed, 28 Oct 2026 15:59:19 +0800",
       "extra": {
         "hover": "本周四19点，FreeBuf直播间等你。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/509346.html",
+      "title": "Linux 中被发现Zero-click远程代码执行漏洞，来看看Claude最近发现和利用的真实软件中的漏洞，关键是用的是未发布的内部模型",
+      "url": "https://www.freebuf.com/articles/vuls/509346.html",
+      "pubDate": "Wed, 28 Oct 2026 15:54:44 +0800",
+      "extra": {
+        "hover": "内部模型发现浏览器与操作系统等关键漏洞，五个攻击链几乎无需交互即可远程代码执行，影响数十亿用户。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Tue, 27 Oct 2026 09:44:36 +0800",
       "extra": {
         "hover": "苹果推送iOS 18.7.11更新，修复已遭定向攻击利用的CoreGraphics 0Day漏洞，覆盖老款iPhone/iPad，建议用户尽快安装安全补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509104.html",
-      "title": "韩国警方破获AI辅助黑客案，90家机构遭窃820万条记录",
-      "url": "https://www.freebuf.com/news/509104.html",
-      "pubDate": "Tue, 27 Oct 2026 09:05:42 +0800",
-      "extra": {
-        "hover": "韩国警方破获首例大规模AI辅助黑客案，嫌犯入侵90家机构窃取820万条记录，以公开窃密信息索要3.6亿韩元赎金。"
       }
     }
   ]
