@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793177474740,
+  "updatedAt": 1793202218895,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/509293.html",
@@ -11,12 +11,39 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/509317.html",
+      "title": "Anthropic未发布AI模型串联多平台漏洞，生成可运行PoC",
+      "url": "https://www.freebuf.com/articles/ai-security/509317.html",
+      "pubDate": "Wed, 28 Oct 2026 13:45:07 +0800",
+      "extra": {
+        "hover": "Anthropic未发布AI模型可串联多平台漏洞生成可运行PoC，含无需登录获取root权限的高危利用链，相关漏洞均已修复，凸显AI攻防新风险。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/509299.html",
       "title": "日本GMO悬赏百万美元，追查外汇交易云服务入侵黑客",
       "url": "https://www.freebuf.com/news/509299.html",
       "pubDate": "Wed, 28 Oct 2026 12:43:21 +0800",
       "extra": {
         "hover": "日本GMO拒付5000万美元勒索赎金，悬赏百万美元追查入侵其外汇交易云服务、窃取凭证致客户账户遭异常交易的黑客。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509368.html",
+      "title": "云与AI安全初创Upwind获4亿美元融资，估值38亿美元营收翻四倍",
+      "url": "https://www.freebuf.com/news/509368.html",
+      "pubDate": "Wed, 28 Oct 2026 12:00:23 +0800",
+      "extra": {
+        "hover": "云与AI安全初创Upwind完成4亿美元C轮融资，估值38亿美元，今年营收翻四倍，主打云与AI运行时安全，曾传拒绝Datadog40亿美元收购要约。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509362.html",
+      "title": "CISA：Node2Shell漏洞遭在野积极利用，需立即修复",
+      "url": "https://www.freebuf.com/news/509362.html",
+      "pubDate": "Wed, 28 Oct 2026 11:57:20 +0800",
+      "extra": {
+        "hover": "CISA通报严重Node2Shell漏洞已遭在野积极利用，未授权攻击者可实现远程代码执行，波及多组件，需立即部署补丁修复，谨防失陷。"
       }
     },
     {
@@ -35,6 +62,24 @@
       "pubDate": "Wed, 28 Oct 2026 11:34:58 +0800",
       "extra": {
         "hover": "ShinyHunters利用的Oracle PeopleSoft高危0Day实为三漏洞组合链，未授权可直接接管服务器，补丁前已在野攻击多行业目标。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/509342.html",
+      "title": "3161条检测规则写一次全SIEM通用：Sigma规则库拆解",
+      "url": "https://www.freebuf.com/articles/sectool/509342.html",
+      "pubDate": "Wed, 28 Oct 2026 10:04:07 +0800",
+      "extra": {
+        "hover": "扎心：SIEM规则调优吗？Sigma一条YAML打通双SIEM，但九成仍test，上生产或被误报淹没"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509325.html",
+      "title": "三起针对日本的网络攻击，揭示黑客AI应用三类模式",
+      "url": "https://www.freebuf.com/articles/ai-security/509325.html",
+      "pubDate": "Wed, 28 Oct 2026 08:34:17 +0800",
+      "extra": {
+        "hover": "日本连发涉AI网络攻击进入网络安全紧急状态，三起案例揭示黑客三类AI用法，AI提升攻击效率但仍依托已知漏洞窃密，需紧盯基础安全短板。"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Tue, 27 Oct 2026 09:05:42 +0800",
       "extra": {
         "hover": "韩国警方破获首例大规模AI辅助黑客案，嫌犯入侵90家机构窃取820万条记录，以公开窃密信息索要3.6亿韩元赎金。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509079.html",
-      "title": "OpenAI发布GPT-6.1 Terra，速度更快具备Critical级网安能力",
-      "url": "https://www.freebuf.com/articles/ai-security/509079.html",
-      "pubDate": "Tue, 27 Oct 2026 08:25:49 +0800",
-      "extra": {
-        "hover": "OpenAI推出获Critical级网安评级的GPT-6.1 Terra，速度更快成本更低，可开发漏洞利用程序，配套安全防护同步上线。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/509029.html",
-      "title": "OpenAI Codex数分钟破解USB加密，暴露硬编码密钥等安全缺陷",
-      "url": "https://www.freebuf.com/articles/database/509029.html",
-      "pubDate": "Tue, 27 Oct 2026 05:40:35 +0800",
-      "extra": {
-        "hover": "OpenAI Codex最快7分钟破解四款USB加密产品，发现硬编码密钥、隐藏后门等严重缺陷，无需用户密码即可解密存储文件。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509026.html",
-      "title": "研究人员获取三星智能电视root权限，发现大规模用户追踪行为",
-      "url": "https://www.freebuf.com/news/509026.html",
-      "pubDate": "Tue, 27 Oct 2026 05:25:17 +0800",
-      "extra": {
-        "hover": "研究人员利用0day获取2025款三星智能电视root权限，发现其内置超范围用户追踪功能，可采集隐私推送精准广告，存在严重安全隐患。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509005.html",
-      "title": "黑客售卖ICMacOS远控木马，周费699美元针对Mac用户",
-      "url": "https://www.freebuf.com/news/509005.html",
-      "pubDate": "Tue, 27 Oct 2026 03:50:13 +0800",
-      "extra": {
-        "hover": "暗网公然售卖周费699美元的ICMacOS远控木马，针对Mac用户可持久驻留窃密、远程执行指令，开发者等高价值群体感染风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/508944.html",
-      "title": "黑客武器化公开PHP2Shell利用代码，攻击高校与企业网站",
-      "url": "https://www.freebuf.com/news/508944.html",
-      "pubDate": "Mon, 26 Oct 2026 20:29:21 +0800",
-      "extra": {
-        "hover": "黑客已武器化公开PHP2Shell漏洞利用代码攻击高校、企业站点，无需登录即可执行任意命令，防火墙难以检测，请尽快升级PHP修复漏洞。"
       }
     }
   ]
