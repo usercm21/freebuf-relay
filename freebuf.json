@@ -1,6 +1,96 @@
 {
-  "updatedAt": 1793254335345,
+  "updatedAt": 1793279668264,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/509623.html",
+      "title": "只写不读：OpenCATS 导入模块的 RCE 与任意文件读取",
+      "url": "https://www.freebuf.com/articles/vuls/509623.html",
+      "pubDate": "Thu, 29 Oct 2026 18:19:28 +0800",
+      "extra": {
+        "hover": "OpenCATS 导入模块保留客户端文件名致认证后 RCE（CVE-2026-54454）"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509572.html",
+      "title": "AI到底怎么“学会思考”的？又为什么会“失控”？一文讲清AI原理与AI安全",
+      "url": "https://www.freebuf.com/articles/ai-security/509572.html",
+      "pubDate": "Thu, 29 Oct 2026 16:18:45 +0800",
+      "extra": {
+        "hover": "从AI原理到AI安全的过渡，零基础AI知识学习，理解原理，才能在设计、部署和使用中做好全生命周期安全防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/506852.html",
+      "title": "AI 网关的密钥边界：Kong  Higress  APISIX 横评",
+      "url": "https://www.freebuf.com/articles/ai-security/506852.html",
+      "pubDate": "Thu, 29 Oct 2026 14:25:19 +0800",
+      "extra": {
+        "hover": "AI 网关三产品同陷密钥危机：Kong 让请求头决定密钥去向；APISIX漏声明加密字段，etcd 落盘明文；Higress 客户端可控，配套 ai-gateway-audit.py 一键自查。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/509517.html",
+      "title": "MCP SDK 的 Host 校验漏在了授权服务器上",
+      "url": "https://www.freebuf.com/articles/vuls/509517.html",
+      "pubDate": "Thu, 29 Oct 2026 11:40:35 +0800",
+      "extra": {
+        "hover": "复现环境：Ubuntu 24.04.4 LTS，Python 3.12.3，venv 隔离。授权服务器和 MCP 资源服务器都跑在这一台机器上，监听 127.0.0.1，端口 9000 和 8001；代码取自官方示例 examples/servers/simple-auth（tag v2.3.0）。对照组另外起了两个实例：一个跑 2.0.0 的授权服务器（端口 9100），一个给授权服务器套上 S"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/509506.html",
+      "title": "赠书福利 | 《网络安全实战教程——基于Kali Linux的红蓝对抗指南》免费送",
+      "url": "https://www.freebuf.com/articles/509506.html",
+      "pubDate": "Thu, 29 Oct 2026 10:27:19 +0800",
+      "extra": {
+        "hover": "关注FreeBuf 公众号，私信回复“红蓝对抗”，即可参与赠书抽奖~"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/509499.html",
+      "title": "一个压缩包打穿 Node.js，Brotli 解码器越界写双向攻击",
+      "url": "https://www.freebuf.com/articles/vuls/509499.html",
+      "pubDate": "Thu, 29 Oct 2026 10:07:33 +0800",
+      "extra": {
+        "hover": "Brotli 越界写让一个压缩包双向打穿 Node.js。本文用版本核对、源码 diff、模糊差分三支柱完成本机实证，首跑命中 5 处受影响副本，附核查工具与修复矩阵。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/509492.html",
+      "title": "Linux 应急响应实战：一文讲透 secure、auditd、cron 与用户日志排查",
+      "url": "https://www.freebuf.com/articles/web/509492.html",
+      "pubDate": "Thu, 29 Oct 2026 09:47:48 +0800",
+      "extra": {
+        "hover": "01前言在日常的应急处理过程中，要结合系统各种日志来排查该告警是真实告警还是误报。本篇文章就来看看linux中常见的一些日志，以及其作用，目的是为了在应急响应时可以快速的找到排查目标02linux中常"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/509606.html",
+      "title": "微软Edge 0-Click利用链串联5个漏洞，实现代码执行并逃逸沙箱",
+      "url": "https://www.freebuf.com/articles/509606.html",
+      "pubDate": "Thu, 29 Oct 2026 08:48:30 +0800",
+      "extra": {
+        "hover": "研究人员披露微软Edge存在串联5个漏洞的零点击利用链，无需内存破坏、无需额外点击即可突破沙箱在Windows执行代码，用户需尽快安装安全更新。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509602.html",
+      "title": "PHP2Shell将在企业环境残留数年，资产可见性不足加大修复难度",
+      "url": "https://www.freebuf.com/news/509602.html",
+      "pubDate": "Thu, 29 Oct 2026 08:25:00 +0800",
+      "extra": {
+        "hover": "PHP2Shell高危漏洞已遭在野利用，因资产可见性不足、补丁落地难，将在企业环境残留数年，危害或超Log4Shell。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509521.html",
+      "title": "攻击者串联PHP2Shell与Linux内核漏洞，攻陷25台服务器获取root权限",
+      "url": "https://www.freebuf.com/news/509521.html",
+      "pubDate": "Thu, 29 Oct 2026 03:55:14 +0800",
+      "extra": {
+        "hover": "攻击者串联PHP2Shell与Linux内核漏洞，15分钟即可获取root权限，攻陷25台服务器、渗透美政府关联内网，仅打补丁不够，需警惕残留后门。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/509476.html",
       "title": "Google发布旗舰大模型Gemini 4 Carbon，升级网络安全能力",
@@ -89,96 +179,6 @@
       "pubDate": "Wed, 28 Oct 2026 12:43:21 +0800",
       "extra": {
         "hover": "日本GMO拒付5000万美元勒索赎金，悬赏百万美元追查入侵其外汇交易云服务、窃取凭证致客户账户遭异常交易的黑客。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509383.html",
-      "title": "Claude构建多平台漏洞利用链，含One-Click Chrome、Zero-Click Linux路径可绕过安卓锁屏",
-      "url": "https://www.freebuf.com/news/509383.html",
-      "pubDate": "Wed, 28 Oct 2026 12:27:06 +0800",
-      "extra": {
-        "hover": "未发布版Claude可构建多平台高危漏洞利用链，一键攻破Chrome、零点击获取Linux Root权限、绕过安卓锁屏，漏洞已修复请尽快打补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509368.html",
-      "title": "云与AI安全初创Upwind获4亿美元融资，估值38亿美元营收翻四倍",
-      "url": "https://www.freebuf.com/news/509368.html",
-      "pubDate": "Wed, 28 Oct 2026 12:00:23 +0800",
-      "extra": {
-        "hover": "云与AI安全初创Upwind完成4亿美元C轮融资，估值38亿美元，今年营收翻四倍，主打云与AI运行时安全，曾传拒绝Datadog40亿美元收购要约。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509362.html",
-      "title": "CISA：Node2Shell漏洞遭在野积极利用，需立即修复",
-      "url": "https://www.freebuf.com/news/509362.html",
-      "pubDate": "Wed, 28 Oct 2026 11:57:20 +0800",
-      "extra": {
-        "hover": "CISA通报严重Node2Shell漏洞已遭在野积极利用，未授权攻击者可实现远程代码执行，波及多组件，需立即部署补丁修复，谨防失陷。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509300.html",
-      "title": "Tailscale修复内置SSH漏洞，被入侵设备可获取其他服务器root权限",
-      "url": "https://www.freebuf.com/news/509300.html",
-      "pubDate": "Wed, 28 Oct 2026 11:50:37 +0800",
-      "extra": {
-        "hover": "Tailscale修复内置SSH高危漏洞，被入侵设备无需凭证即可横向获取其他服务器root权限，用户需尽快升级，自托管headscale暂未修复，风险更高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509298.html",
-      "title": "ShinyHunters利用的Oracle PeopleSoft 0Day，实为三漏洞链式组合",
-      "url": "https://www.freebuf.com/news/509298.html",
-      "pubDate": "Wed, 28 Oct 2026 11:34:58 +0800",
-      "extra": {
-        "hover": "ShinyHunters利用的Oracle PeopleSoft高危0Day实为三漏洞组合链，未授权可直接接管服务器，补丁前已在野攻击多行业目标。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/509342.html",
-      "title": "3161条检测规则写一次全SIEM通用：Sigma规则库拆解",
-      "url": "https://www.freebuf.com/articles/sectool/509342.html",
-      "pubDate": "Wed, 28 Oct 2026 10:04:07 +0800",
-      "extra": {
-        "hover": "扎心：SIEM规则调优吗？Sigma一条YAML打通双SIEM，但九成仍test，上生产或被误报淹没"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509325.html",
-      "title": "三起针对日本的网络攻击，揭示黑客AI应用三类模式",
-      "url": "https://www.freebuf.com/articles/ai-security/509325.html",
-      "pubDate": "Wed, 28 Oct 2026 08:34:17 +0800",
-      "extra": {
-        "hover": "日本连发涉AI网络攻击进入网络安全紧急状态，三起案例揭示黑客三类AI用法，AI提升攻击效率但仍依托已知漏洞窃密，需紧盯基础安全短板。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/509301.html",
-      "title": "索尼发生大规模数据泄露，258万So-net、plala用户数据遭暴露",
-      "url": "https://www.freebuf.com/articles/database/509301.html",
-      "pubDate": "Wed, 28 Oct 2026 07:27:38 +0800",
-      "extra": {
-        "hover": "索尼确认旗下So-net、plala互联网服务发生数据泄露，超258万用户记录受波及，含部分邮箱凭证，已重置相关账号密码，提醒用户警惕钓鱼，入侵原因仍在调查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/509217.html",
-      "title": "攻击者利用超大文件绕过搜索，入侵42个GitHub仓库",
-      "url": "https://www.freebuf.com/articles/development/509217.html",
-      "pubDate": "Wed, 28 Oct 2026 02:58:27 +0800",
-      "extra": {
-        "hover": "攻击者利用超大文件绕过GitHub搜索入侵42个仓库，植入IDE/AI编码助手恶意钩子，开发者打开文件夹即触发载荷，供应链安全风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509214.html",
-      "title": "攻击者打造Skynet AI Agent，劫持暴露模型发起网络攻击",
-      "url": "https://www.freebuf.com/articles/ai-security/509214.html",
-      "pubDate": "Wed, 28 Oct 2026 02:10:33 +0800",
-      "extra": {
-        "hover": "攻击者打造名为Skynet的攻击性AI Agent，可劫持公网暴露的AI模型自主窃密、挖矿、发起网络攻击，所有推理成本全由被入侵的模型所有者承担。"
       }
     }
   ]
