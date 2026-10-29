@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1793219751317,
+  "updatedAt": 1793254335345,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509476.html",
+      "title": "Google发布旗舰大模型Gemini 4 Carbon，升级网络安全能力",
+      "url": "https://www.freebuf.com/articles/ai-security/509476.html",
+      "pubDate": "Wed, 28 Oct 2026 23:27:13 +0800",
+      "extra": {
+        "hover": "谷歌发布旗舰大模型Gemini 4 Carbon，网络安全能力大幅升级，漏洞修复效率超竞品10倍，幻觉、提示注入风险显著降低。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/509457.html",
+      "title": "研究员仅靠逻辑漏洞攻破Edge，斩获Pwn2Own 17.5万美元奖金",
+      "url": "https://www.freebuf.com/articles/509457.html",
+      "pubDate": "Wed, 28 Oct 2026 21:53:34 +0800",
+      "extra": {
+        "hover": "无需内存损坏漏洞！研究员靠纯逻辑漏洞链攻破Edge沙箱实现任意代码执行，斩获Pwn2Own17.5万美元奖金，微软已推送修复补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509352.html",
+      "title": "FreeBuf早报 | 韩国警方破获AI辅助黑客案；哥本哈根大学遭网络攻击",
+      "url": "https://www.freebuf.com/news/509352.html",
+      "pubDate": "Wed, 28 Oct 2026 19:26:41 +0800",
+      "extra": {
+        "hover": "韩国警方破获首例大规模AI辅助黑客案，嫌犯入侵90家机构窃取820万条记录，以公开窃密信息索要3.6亿韩元赎金。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/509412.html",
+      "title": "EDK II现16年高危UEFI漏洞，网络启动服务器可在Secure Boot前执行代码",
+      "url": "https://www.freebuf.com/articles/system/509412.html",
+      "pubDate": "Wed, 28 Oct 2026 17:20:00 +0800",
+      "extra": {
+        "hover": "潜伏16年的EDK II高危UEFI漏洞，无需权限即可在网络启动时于Secure Boot加载前执行代码，威胁网络启动服务器，暂无稳定修复版本。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/509464.html",
+      "title": "GitHub上线npm包防火墙，可在安装前拦截全新版本",
+      "url": "https://www.freebuf.com/articles/development/509464.html",
+      "pubDate": "Wed, 28 Oct 2026 17:09:14 +0800",
+      "extra": {
+        "hover": "GitHub上线npm包防火墙，可在安装前拦截恶意、带严重漏洞及全新发布版本，同步推出多项代码安全功能，前移安全防护节点。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/509293.html",
       "title": "直播预告| 模型、MCP、中转站，AI应用的安全短板究竟在哪？",
@@ -20,6 +65,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/509418.html",
+      "title": "安全团队信任SOC中AI执行操作，速度远超预期",
+      "url": "https://www.freebuf.com/articles/ai-security/509418.html",
+      "pubDate": "Wed, 28 Oct 2026 15:25:01 +0800",
+      "extra": {
+        "hover": "SOC场景下AI落地速度远超预期，攻击者已借AI提速，防御方仅剩数月加固窗口，需夯实数据基础、审慎放权AI追平攻防节奏。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/509317.html",
       "title": "Anthropic未发布AI模型串联多平台漏洞，生成可运行PoC",
       "url": "https://www.freebuf.com/articles/ai-security/509317.html",
@@ -35,6 +89,15 @@
       "pubDate": "Wed, 28 Oct 2026 12:43:21 +0800",
       "extra": {
         "hover": "日本GMO拒付5000万美元勒索赎金，悬赏百万美元追查入侵其外汇交易云服务、窃取凭证致客户账户遭异常交易的黑客。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509383.html",
+      "title": "Claude构建多平台漏洞利用链，含One-Click Chrome、Zero-Click Linux路径可绕过安卓锁屏",
+      "url": "https://www.freebuf.com/news/509383.html",
+      "pubDate": "Wed, 28 Oct 2026 12:27:06 +0800",
+      "extra": {
+        "hover": "未发布版Claude可构建多平台高危漏洞利用链，一键攻破Chrome、零点击获取Linux Root权限、绕过安卓锁屏，漏洞已修复请尽快打补丁。"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Wed, 28 Oct 2026 02:10:33 +0800",
       "extra": {
         "hover": "攻击者打造名为Skynet的攻击性AI Agent，可劫持公网暴露的AI模型自主窃密、挖矿、发起网络攻击，所有推理成本全由被入侵的模型所有者承担。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509115.html",
-      "title": "FreeBuf早报 | 攻击者可利用下载文件夹恶意文件；黑客售卖ICMacOS远控木马",
-      "url": "https://www.freebuf.com/news/509115.html",
-      "pubDate": "Tue, 27 Oct 2026 20:33:19 +0800",
-      "extra": {
-        "hover": "警惕！下载文件夹中的恶意文本可劫持Codex、Claude Code，诱导AI编码工具篡改配置、安装恶意程序，致持久入侵、账号令牌泄露。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509165.html",
-      "title": "Brotli压缩库曝出高危漏洞，波及范围远超Node.js",
-      "url": "https://www.freebuf.com/news/509165.html",
-      "pubDate": "Tue, 27 Oct 2026 17:38:51 +0800",
-      "extra": {
-        "hover": "Brotli压缩库曝出可远程触发RCE的高危漏洞CVE-2026-111497，波及Node.js等大量软件，已出现在野利用，需尽快升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509090.html",
-      "title": "OpenAI对话压缩功能曝漏洞，研究人员可绕过隐藏推理防护",
-      "url": "https://www.freebuf.com/articles/ai-security/509090.html",
-      "pubDate": "Tue, 27 Oct 2026 13:52:43 +0800",
-      "extra": {
-        "hover": "OpenAI对话压缩功能曝新漏洞，可绕过刚上线的防护导出模型隐藏推理，高价值核心数据面临被窃风险，漏洞已被官方修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/509112.html",
-      "title": "哥本哈根大学遭网络攻击，52.5万人数据泄露",
-      "url": "https://www.freebuf.com/articles/database/509112.html",
-      "pubDate": "Tue, 27 Oct 2026 11:39:22 +0800",
-      "extra": {
-        "hover": "哥本哈根大学遭网络攻击，约52.5万人个人数据泄露，含2万师生校园卡PIN码，涉事系统临时关停，事件已上报监管部门。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509102.html",
-      "title": "黑客劫持AI渗透测试Agent，植入后门窃取API密钥",
-      "url": "https://www.freebuf.com/articles/ai-security/509102.html",
-      "pubDate": "Tue, 27 Oct 2026 10:57:16 +0800",
-      "extra": {
-        "hover": "黑客正劫持公网暴露的AI渗透测试Agent，植入后门窃取API密钥，相关用户需立即加固面板、排查风险、轮换敏感凭证。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509100.html",
-      "title": "攻击者利用Easy4IP控制大华监控设备，无需公网IP就可以访问",
-      "url": "https://www.freebuf.com/news/509100.html",
-      "pubDate": "Tue, 27 Oct 2026 09:56:54 +0800",
-      "extra": {
-        "hover": "攻击者可滥用大华设备Easy4IP云功能绕过防火墙，结合弱口令、旧固件漏洞远程接管监控，哪怕无公网IP的设备也难逃失陷风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509103.html",
-      "title": "苹果发布老款iOS设备安全更新，修复已遭利用的CoreGraphics 0Day漏洞",
-      "url": "https://www.freebuf.com/news/509103.html",
-      "pubDate": "Tue, 27 Oct 2026 09:44:36 +0800",
-      "extra": {
-        "hover": "苹果推送iOS 18.7.11更新，修复已遭定向攻击利用的CoreGraphics 0Day漏洞，覆盖老款iPhone/iPad，建议用户尽快安装安全补丁。"
       }
     }
   ]
