@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793279668264,
+  "updatedAt": 1793300367699,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/509623.html",
@@ -8,6 +8,15 @@
       "pubDate": "Thu, 29 Oct 2026 18:19:28 +0800",
       "extra": {
         "hover": "OpenCATS 导入模块保留客户端文件名致认证后 RCE（CVE-2026-54454）"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509651.html",
+      "title": "Telegram安卓端被曝漏洞，用户接听语音通话可触发代码执行",
+      "url": "https://www.freebuf.com/news/509651.html",
+      "pubDate": "Thu, 29 Oct 2026 17:09:18 +0800",
+      "extra": {
+        "hover": "Telegram安卓端存在高危漏洞，用户仅需接听语音通话就可能被攻击者执行任意代码，请尽快升级至12.10.4及以上版本。"
       }
     },
     {
@@ -20,12 +29,48 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/system/509673.html",
+      "title": "Claude利用Linux内核高危漏洞，无需交互执行root命令",
+      "url": "https://www.freebuf.com/articles/system/509673.html",
+      "pubDate": "Thu, 29 Oct 2026 15:18:11 +0800",
+      "extra": {
+        "hover": "Claude成功编写出Linux内核高危漏洞利用程序，远程攻击者无需交互即可获取root权限，漏洞已修复，请及时更新补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509671.html",
+      "title": "NIST正式发布后量子密码迁移指南，明确迁移路径与时间要求",
+      "url": "https://www.freebuf.com/news/509671.html",
+      "pubDate": "Thu, 29 Oct 2026 14:55:18 +0800",
+      "extra": {
+        "hover": "量子计算机可破解现有加密体系，存在“先收集后解密”风险，NIST发布后量子密码迁移指南，明确迁移路径与时间节点，指导机构抗量子升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509667.html",
+      "title": "Zero-Click“死亡短信”漏洞曝光，单条短信可破坏安卓通信功能",
+      "url": "https://www.freebuf.com/news/509667.html",
+      "pubDate": "Thu, 29 Oct 2026 14:50:38 +0800",
+      "extra": {
+        "hover": "安卓曝零点击“死亡短信”漏洞：单条畸形短信可无感知打崩设备通信，谷歌拒修，eSIM用户几乎无法自行修复。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/506852.html",
       "title": "AI 网关的密钥边界：Kong  Higress  APISIX 横评",
       "url": "https://www.freebuf.com/articles/ai-security/506852.html",
       "pubDate": "Thu, 29 Oct 2026 14:25:19 +0800",
       "extra": {
         "hover": "AI 网关三产品同陷密钥危机：Kong 让请求头决定密钥去向；APISIX漏声明加密字段，etcd 落盘明文；Higress 客户端可控，配套 ai-gateway-audit.py 一键自查。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509661.html",
+      "title": "黑客利用思科SD-WAN严重0Day漏洞，部署KeyDrift窃取加密密钥",
+      "url": "https://www.freebuf.com/news/509661.html",
+      "pubDate": "Thu, 29 Oct 2026 13:30:55 +0800",
+      "extra": {
+        "hover": "国家背景黑客利用思科SD-WAN无认证满分0Day漏洞植入KeyDrift，窃取加密密钥入侵航天国防等机构，需立即打补丁排查。"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Wed, 28 Oct 2026 17:09:14 +0800",
       "extra": {
         "hover": "GitHub上线npm包防火墙，可在安装前拦截恶意、带严重漏洞及全新发布版本，同步推出多项代码安全功能，前移安全防护节点。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/509293.html",
-      "title": "直播预告| 模型、MCP、中转站，AI应用的安全短板究竟在哪？",
-      "url": "https://www.freebuf.com/articles/509293.html",
-      "pubDate": "Wed, 28 Oct 2026 15:59:19 +0800",
-      "extra": {
-        "hover": "本周四19点，FreeBuf直播间等你。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/509346.html",
-      "title": "Linux 中被发现Zero-click远程代码执行漏洞，来看看Claude最近发现和利用的真实软件中的漏洞，关键是用的是未发布的内部模型",
-      "url": "https://www.freebuf.com/articles/vuls/509346.html",
-      "pubDate": "Wed, 28 Oct 2026 15:54:44 +0800",
-      "extra": {
-        "hover": "内部模型发现浏览器与操作系统等关键漏洞，五个攻击链几乎无需交互即可远程代码执行，影响数十亿用户。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509418.html",
-      "title": "安全团队信任SOC中AI执行操作，速度远超预期",
-      "url": "https://www.freebuf.com/articles/ai-security/509418.html",
-      "pubDate": "Wed, 28 Oct 2026 15:25:01 +0800",
-      "extra": {
-        "hover": "SOC场景下AI落地速度远超预期，攻击者已借AI提速，防御方仅剩数月加固窗口，需夯实数据基础、审慎放权AI追平攻防节奏。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509317.html",
-      "title": "Anthropic未发布AI模型串联多平台漏洞，生成可运行PoC",
-      "url": "https://www.freebuf.com/articles/ai-security/509317.html",
-      "pubDate": "Wed, 28 Oct 2026 13:45:07 +0800",
-      "extra": {
-        "hover": "Anthropic未发布AI模型可串联多平台漏洞生成可运行PoC，含无需登录获取root权限的高危利用链，相关漏洞均已修复，凸显AI攻防新风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509299.html",
-      "title": "日本GMO悬赏百万美元，追查外汇交易云服务入侵黑客",
-      "url": "https://www.freebuf.com/news/509299.html",
-      "pubDate": "Wed, 28 Oct 2026 12:43:21 +0800",
-      "extra": {
-        "hover": "日本GMO拒付5000万美元勒索赎金，悬赏百万美元追查入侵其外汇交易云服务、窃取凭证致客户账户遭异常交易的黑客。"
       }
     }
   ]
