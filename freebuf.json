@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793300367699,
+  "updatedAt": 1793327976308,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/509623.html",
@@ -44,6 +44,15 @@
       "pubDate": "Thu, 29 Oct 2026 14:55:18 +0800",
       "extra": {
         "hover": "量子计算机可破解现有加密体系，存在“先收集后解密”风险，NIST发布后量子密码迁移指南，明确迁移路径与时间节点，指导机构抗量子升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509552.html",
+      "title": "FreeBuf早报 | Claude构建多平台漏洞利用链；Google发布Gemini 4 Carbon",
+      "url": "https://www.freebuf.com/news/509552.html",
+      "pubDate": "Thu, 29 Oct 2026 14:54:17 +0800",
+      "extra": {
+        "hover": "未发布版Claude可构建多平台高危漏洞利用链，一键攻破Chrome、零点击获取Linux Root权限、绕过安卓锁屏，漏洞已修复请尽快打补丁。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Wed, 28 Oct 2026 17:20:00 +0800",
       "extra": {
         "hover": "潜伏16年的EDK II高危UEFI漏洞，无需权限即可在网络启动时于Secure Boot加载前执行代码，威胁网络启动服务器，暂无稳定修复版本。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/509464.html",
-      "title": "GitHub上线npm包防火墙，可在安装前拦截全新版本",
-      "url": "https://www.freebuf.com/articles/development/509464.html",
-      "pubDate": "Wed, 28 Oct 2026 17:09:14 +0800",
-      "extra": {
-        "hover": "GitHub上线npm包防火墙，可在安装前拦截恶意、带严重漏洞及全新发布版本，同步推出多项代码安全功能，前移安全防护节点。"
       }
     }
   ]
