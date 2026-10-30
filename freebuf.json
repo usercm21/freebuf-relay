@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1793327976308,
+  "updatedAt": 1793350792290,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/509769.html",
+      "title": "币安遭遇重大安全入侵，63亿美元资产受影响，近30亿已被冻结",
+      "url": "https://www.freebuf.com/news/509769.html",
+      "pubDate": "Fri, 30 Oct 2026 09:44:59 +0800",
+      "extra": {
+        "hover": "币安遭遇迄今规模最大的加密货币盗窃事件，涉约63亿美元资产，近30亿美元已被冻结，平台将全额承担用户损失，正联合各方追缉攻击者。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509780.html",
+      "title": "WordPress远程代码执行漏洞遭利用，补丁发布仅数小时即现攻击",
+      "url": "https://www.freebuf.com/news/509780.html",
+      "pubDate": "Fri, 30 Oct 2026 06:05:35 +0800",
+      "extra": {
+        "hover": "WordPress修复未认证RCE漏洞的补丁发布仅数小时就遭攻击者利用，站点管理员需尽快升级排查入侵风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/509784.html",
+      "title": "Gartner定义集成安全运营中心新品类，简化安全运营复杂度",
+      "url": "https://www.freebuf.com/articles/es/509784.html",
+      "pubDate": "Fri, 30 Oct 2026 06:00:14 +0800",
+      "extra": {
+        "hover": "Gartner新定义集成安全运营中心（ISOC）品类，破解安全工具碎片化痛点，适配AI时代攻防节奏，助力企业简化安全运营、提升响应效率。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509752.html",
+      "title": "Polymarket遭黑客攻击，用户报告钱包资金被盗",
+      "url": "https://www.freebuf.com/news/509752.html",
+      "pubDate": "Fri, 30 Oct 2026 03:39:27 +0800",
+      "extra": {
+        "hover": "Polymarket因第三方服务商遭入侵而被植入恶意脚本，恶意脚本利用用户会话盗取钱包资金，平台已修复，承诺全额赔付受影响用户损失。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509740.html",
+      "title": "全球最大加密交易所币安遭入侵，被盗金额或超57亿美元",
+      "url": "https://www.freebuf.com/news/509740.html",
+      "pubDate": "Fri, 30 Oct 2026 02:36:58 +0800",
+      "extra": {
+        "hover": "全球最大加密交易所币安疑似遭黑客入侵，被盗金额或超57亿美元，若核实将成加密史上最大窃案，已暂停充提服务，承诺全额赔付，正联动多方冻结涉案资金。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/509623.html",
       "title": "只写不读：OpenCATS 导入模块的 RCE 与任意文件读取",
@@ -134,51 +179,6 @@
       "pubDate": "Thu, 29 Oct 2026 08:25:00 +0800",
       "extra": {
         "hover": "PHP2Shell高危漏洞已遭在野利用，因资产可见性不足、补丁落地难，将在企业环境残留数年，危害或超Log4Shell。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509521.html",
-      "title": "攻击者串联PHP2Shell与Linux内核漏洞，攻陷25台服务器获取root权限",
-      "url": "https://www.freebuf.com/news/509521.html",
-      "pubDate": "Thu, 29 Oct 2026 03:55:14 +0800",
-      "extra": {
-        "hover": "攻击者串联PHP2Shell与Linux内核漏洞，15分钟即可获取root权限，攻陷25台服务器、渗透美政府关联内网，仅打补丁不够，需警惕残留后门。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509476.html",
-      "title": "Google发布旗舰大模型Gemini 4 Carbon，升级网络安全能力",
-      "url": "https://www.freebuf.com/articles/ai-security/509476.html",
-      "pubDate": "Wed, 28 Oct 2026 23:27:13 +0800",
-      "extra": {
-        "hover": "谷歌发布旗舰大模型Gemini 4 Carbon，网络安全能力大幅升级，漏洞修复效率超竞品10倍，幻觉、提示注入风险显著降低。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/509457.html",
-      "title": "研究员仅靠逻辑漏洞攻破Edge，斩获Pwn2Own 17.5万美元奖金",
-      "url": "https://www.freebuf.com/articles/509457.html",
-      "pubDate": "Wed, 28 Oct 2026 21:53:34 +0800",
-      "extra": {
-        "hover": "无需内存损坏漏洞！研究员靠纯逻辑漏洞链攻破Edge沙箱实现任意代码执行，斩获Pwn2Own17.5万美元奖金，微软已推送修复补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509352.html",
-      "title": "FreeBuf早报 | 韩国警方破获AI辅助黑客案；哥本哈根大学遭网络攻击",
-      "url": "https://www.freebuf.com/news/509352.html",
-      "pubDate": "Wed, 28 Oct 2026 19:26:41 +0800",
-      "extra": {
-        "hover": "韩国警方破获首例大规模AI辅助黑客案，嫌犯入侵90家机构窃取820万条记录，以公开窃密信息索要3.6亿韩元赎金。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/509412.html",
-      "title": "EDK II现16年高危UEFI漏洞，网络启动服务器可在Secure Boot前执行代码",
-      "url": "https://www.freebuf.com/articles/system/509412.html",
-      "pubDate": "Wed, 28 Oct 2026 17:20:00 +0800",
-      "extra": {
-        "hover": "潜伏16年的EDK II高危UEFI漏洞，无需权限即可在网络启动时于Secure Boot加载前执行代码，威胁网络启动服务器，暂无稳定修复版本。"
       }
     }
   ]
