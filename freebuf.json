@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1793350792290,
+  "updatedAt": 1793375325068,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/509864.html",
+      "title": "Claude Code官方VS Code扩展遭篡改，植入持久化SSH后门",
+      "url": "https://www.freebuf.com/news/509864.html",
+      "pubDate": "Fri, 30 Oct 2026 14:25:47 +0800",
+      "extra": {
+        "hover": "Cursor扩展市场遭入侵，官方Claude Code VS Code扩展被篡改植入SSH后门，涉5000用户可被远程接管，需紧急排查处置。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509873.html",
+      "title": "研究人员攻破多款开发工具内嵌浏览器，可致代码执行、文件窃取与地址欺骗",
+      "url": "https://www.freebuf.com/articles/ai-security/509873.html",
+      "pubDate": "Fri, 30 Oct 2026 11:18:28 +0800",
+      "extra": {
+        "hover": "研究人员攻破多款热门AI编码工具内嵌浏览器，开发者面临代码执行、文件窃取、地址欺骗风险，部分厂商仍未推送修复补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509739.html",
+      "title": "AI 语义缓存命中率 99%，为什么几乎全是错的？",
+      "url": "https://www.freebuf.com/articles/ai-security/509739.html",
+      "pubDate": "Fri, 30 Oct 2026 11:08:54 +0800",
+      "extra": {
+        "hover": "命中率提升的时候，先问一句提升的是哪部分命中。如果那部分命中里，答案依赖的变量没有被 key 固定住，那它提升的就是错误率。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/509769.html",
       "title": "币安遭遇重大安全入侵，63亿美元资产受影响，近30亿已被冻结",
@@ -8,6 +35,51 @@
       "pubDate": "Fri, 30 Oct 2026 09:44:59 +0800",
       "extra": {
         "hover": "币安遭遇迄今规模最大的加密货币盗窃事件，涉约63亿美元资产，近30亿美元已被冻结，平台将全额承担用户损失，正联合各方追缉攻击者。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/509712.html",
+      "title": "Linux 提权实战 · 第1期：提权前必做的信息收集",
+      "url": "https://www.freebuf.com/articles/system/509712.html",
+      "pubDate": "Fri, 30 Oct 2026 09:28:40 +0800",
+      "extra": {
+        "hover": "真正成熟的红队，在拿到一个低权限 Shell 之后的第一件事，从来不是找漏洞，而是摸清战场"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509832.html",
+      "title": "开源权重模型GLM-5.3被曝作弊获取正确答案，网络攻击能力加剧部署风险",
+      "url": "https://www.freebuf.com/articles/ai-security/509832.html",
+      "pubDate": "Fri, 30 Oct 2026 09:23:25 +0800",
+      "extra": {
+        "hover": "测评发现开源模型GLM-5.3可自主完成多阶段网络攻击，会靠记忆代码作弊绕规，部署需警惕其对齐偏差带来的安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509834.html",
+      "title": "AI重构红队作业模式，多数组织尚未做好应对准备",
+      "url": "https://www.freebuf.com/articles/ai-security/509834.html",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 +0800",
+      "extra": {
+        "hover": "AI已彻底重构红队作业模式，配备前沿AI的小型红队产能远超传统团队，多数组织尚未做好应对准备，未跟进者将被高速灵活的攻击者压垮。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509817.html",
+      "title": "非法中继篡改OpenAI Codex与Claude Code配置，禁用沙箱劫持企业数据",
+      "url": "https://www.freebuf.com/articles/ai-security/509817.html",
+      "pubDate": "Fri, 30 Oct 2026 08:50:24 +0800",
+      "extra": {
+        "hover": "灰色市场中继服务篡改企业端OpenAI Codex、Claude Code配置，关闭沙箱，可窃取数据执行恶意命令，已波及多地区多行业机构。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/509793.html",
+      "title": "武器化Claude Code扩展现身Open VSX，攻击者可持久远程访问开发者系统",
+      "url": "https://www.freebuf.com/articles/development/509793.html",
+      "pubDate": "Fri, 30 Oct 2026 07:16:38 +0800",
+      "extra": {
+        "hover": "Open VSX平台现恶意篡改的Claude Code扩展，可植入SSH后门窃取开发者系统持久远程访问权限，需警惕排查。"
       }
     },
     {
@@ -44,6 +116,15 @@
       "pubDate": "Fri, 30 Oct 2026 02:36:58 +0800",
       "extra": {
         "hover": "全球最大加密交易所币安疑似遭黑客入侵，被盗金额或超57亿美元，若核实将成加密史上最大窃案，已暂停充提服务，承诺全额赔付，正联动多方冻结涉案资金。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/509647.html",
+      "title": "降维打击 Vol.4：从真实红队日志看YSL语枢核心之一语义图反杀与内核封禁",
+      "url": "https://www.freebuf.com/articles/web/509647.html",
+      "pubDate": "Thu, 29 Oct 2026 20:45:22 +0800",
+      "extra": {
+        "hover": "别再用正则硬扛了！一份来自生产环境的真实红队攻击日志，解密如何用“语义图+证据链”完成降维反杀。从多源代理池的广撒网探测，到极度混淆的原型链污染载荷，带你看看传统AST为什么会死在变形攻击上，以及“应"
       }
     },
     {
@@ -98,87 +179,6 @@
       "pubDate": "Thu, 29 Oct 2026 14:54:17 +0800",
       "extra": {
         "hover": "未发布版Claude可构建多平台高危漏洞利用链，一键攻破Chrome、零点击获取Linux Root权限、绕过安卓锁屏，漏洞已修复请尽快打补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509667.html",
-      "title": "Zero-Click“死亡短信”漏洞曝光，单条短信可破坏安卓通信功能",
-      "url": "https://www.freebuf.com/news/509667.html",
-      "pubDate": "Thu, 29 Oct 2026 14:50:38 +0800",
-      "extra": {
-        "hover": "安卓曝零点击“死亡短信”漏洞：单条畸形短信可无感知打崩设备通信，谷歌拒修，eSIM用户几乎无法自行修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/506852.html",
-      "title": "AI 网关的密钥边界：Kong  Higress  APISIX 横评",
-      "url": "https://www.freebuf.com/articles/ai-security/506852.html",
-      "pubDate": "Thu, 29 Oct 2026 14:25:19 +0800",
-      "extra": {
-        "hover": "AI 网关三产品同陷密钥危机：Kong 让请求头决定密钥去向；APISIX漏声明加密字段，etcd 落盘明文；Higress 客户端可控，配套 ai-gateway-audit.py 一键自查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509661.html",
-      "title": "黑客利用思科SD-WAN严重0Day漏洞，部署KeyDrift窃取加密密钥",
-      "url": "https://www.freebuf.com/news/509661.html",
-      "pubDate": "Thu, 29 Oct 2026 13:30:55 +0800",
-      "extra": {
-        "hover": "国家背景黑客利用思科SD-WAN无认证满分0Day漏洞植入KeyDrift，窃取加密密钥入侵航天国防等机构，需立即打补丁排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/509517.html",
-      "title": "MCP SDK 的 Host 校验漏在了授权服务器上",
-      "url": "https://www.freebuf.com/articles/vuls/509517.html",
-      "pubDate": "Thu, 29 Oct 2026 11:40:35 +0800",
-      "extra": {
-        "hover": "复现环境：Ubuntu 24.04.4 LTS，Python 3.12.3，venv 隔离。授权服务器和 MCP 资源服务器都跑在这一台机器上，监听 127.0.0.1，端口 9000 和 8001；代码取自官方示例 examples/servers/simple-auth（tag v2.3.0）。对照组另外起了两个实例：一个跑 2.0.0 的授权服务器（端口 9100），一个给授权服务器套上 S"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/509506.html",
-      "title": "赠书福利 | 《网络安全实战教程——基于Kali Linux的红蓝对抗指南》免费送",
-      "url": "https://www.freebuf.com/articles/509506.html",
-      "pubDate": "Thu, 29 Oct 2026 10:27:19 +0800",
-      "extra": {
-        "hover": "关注FreeBuf 公众号，私信回复“红蓝对抗”，即可参与赠书抽奖~"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/509499.html",
-      "title": "一个压缩包打穿 Node.js，Brotli 解码器越界写双向攻击",
-      "url": "https://www.freebuf.com/articles/vuls/509499.html",
-      "pubDate": "Thu, 29 Oct 2026 10:07:33 +0800",
-      "extra": {
-        "hover": "Brotli 越界写让一个压缩包双向打穿 Node.js。本文用版本核对、源码 diff、模糊差分三支柱完成本机实证，首跑命中 5 处受影响副本，附核查工具与修复矩阵。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/509492.html",
-      "title": "Linux 应急响应实战：一文讲透 secure、auditd、cron 与用户日志排查",
-      "url": "https://www.freebuf.com/articles/web/509492.html",
-      "pubDate": "Thu, 29 Oct 2026 09:47:48 +0800",
-      "extra": {
-        "hover": "01前言在日常的应急处理过程中，要结合系统各种日志来排查该告警是真实告警还是误报。本篇文章就来看看linux中常见的一些日志，以及其作用，目的是为了在应急响应时可以快速的找到排查目标02linux中常"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/509606.html",
-      "title": "微软Edge 0-Click利用链串联5个漏洞，实现代码执行并逃逸沙箱",
-      "url": "https://www.freebuf.com/articles/509606.html",
-      "pubDate": "Thu, 29 Oct 2026 08:48:30 +0800",
-      "extra": {
-        "hover": "研究人员披露微软Edge存在串联5个漏洞的零点击利用链，无需内存破坏、无需额外点击即可突破沙箱在Windows执行代码，用户需尽快安装安全更新。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509602.html",
-      "title": "PHP2Shell将在企业环境残留数年，资产可见性不足加大修复难度",
-      "url": "https://www.freebuf.com/news/509602.html",
-      "pubDate": "Thu, 29 Oct 2026 08:25:00 +0800",
-      "extra": {
-        "hover": "PHP2Shell高危漏洞已遭在野利用，因资产可见性不足、补丁落地难，将在企业环境残留数年，危害或超Log4Shell。"
       }
     }
   ]
