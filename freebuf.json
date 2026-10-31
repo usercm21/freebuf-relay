@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1793419460069,
+  "updatedAt": 1793441989816,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510003.html",
+      "title": "ChatGPT恶意分享链接可执行攻击者代码，读取用户私密聊天记录",
+      "url": "https://www.freebuf.com/articles/ai-security/510003.html",
+      "pubDate": "Sat, 31 Oct 2026 11:03:41 +0800",
+      "extra": {
+        "hover": "恶意构造的ChatGPT分享链接点开即可在用户已登录会话执行攻击者代码，窃取私密聊天记录，该最高危漏洞已被OpenAI修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509989.html",
+      "title": "苹果向99国iPhone用户发威胁预警，涉及高复杂度雇佣兵间谍软件攻击",
+      "url": "https://www.freebuf.com/news/509989.html",
+      "pubDate": "Sat, 31 Oct 2026 03:54:38 +0800",
+      "extra": {
+        "hover": "苹果向99国部分iPhone用户发出高复杂度雇佣兵间谍软件攻击预警，提醒高危用户开启锁定模式，严防设备遭定向入侵。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509934.html",
+      "title": "TeamViewer修复高危漏洞，被控端可反向攻击控制端",
+      "url": "https://www.freebuf.com/news/509934.html",
+      "pubDate": "Fri, 30 Oct 2026 20:47:28 +0800",
+      "extra": {
+        "hover": "注意！TeamViewer修复高危漏洞：被控端可反向攻击控制端，致其崩溃或执行任意代码，请尽快升级至15.83版本。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/509921.html",
+      "title": "弗吉尼亚理工大学 | 从“能力”到“性能”：LLM 渗透测试智能体的功能属性评测",
+      "url": "https://www.freebuf.com/articles/509921.html",
+      "pubDate": "Fri, 30 Oct 2026 18:30:20 +0800",
+      "extra": {
+        "hover": "评估LLM渗透测试智能体：MITM实时攻击全失败、多步任务骤降；五项架构增强显著提升完成率。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/509864.html",
       "title": "Claude Code官方VS Code扩展遭篡改，植入持久化SSH后门",
@@ -8,6 +44,24 @@
       "pubDate": "Fri, 30 Oct 2026 14:25:47 +0800",
       "extra": {
         "hover": "Cursor扩展市场遭入侵，官方Claude Code VS Code扩展被篡改植入SSH后门，涉5000用户可被远程接管，需紧急排查处置。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/509880.html",
+      "title": "Anthropic未发布Claude模型发现Linux内核漏洞，开发zero-click漏洞利用实现远程root提权",
+      "url": "https://www.freebuf.com/articles/system/509880.html",
+      "pubDate": "Fri, 30 Oct 2026 12:27:11 +0800",
+      "extra": {
+        "hover": "Anthropic未发布Claude模型发现Linux内核9.8分高危漏洞，可零点击远程获取root权限，多版本受影响，管理员请尽快修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509882.html",
+      "title": "NIK C2框架武器化OpenAI API，可窃密远控并盗用受害者密钥",
+      "url": "https://www.freebuf.com/articles/ai-security/509882.html",
+      "pubDate": "Fri, 30 Oct 2026 12:21:10 +0800",
+      "extra": {
+        "hover": "新型NIK C2恶意框架武器化OpenAI API，可窃密远控、盗用受害者密钥规避溯源，隐蔽性极强、可完全接管设备，已被思科Talos公开披露。"
       }
     },
     {
@@ -26,6 +80,15 @@
       "pubDate": "Fri, 30 Oct 2026 11:08:54 +0800",
       "extra": {
         "hover": "命中率提升的时候，先问一句提升的是哪部分命中。如果那部分命中里，答案依赖的变量没有被 key 固定住，那它提升的就是错误率。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/509890.html",
+      "title": "朝鲜精英黑客组织盗取币安63.6亿美元，创加密货币盗窃案纪录",
+      "url": "https://www.freebuf.com/news/509890.html",
+      "pubDate": "Fri, 30 Oct 2026 10:30:00 +0800",
+      "extra": {
+        "hover": "朝鲜精英黑客通过社工攻陷币安工程师设备，20分钟转走63.6亿美元，创加密货币盗窃案最高纪录，暴露企业隐式过度权限的安全隐患。"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Fri, 30 Oct 2026 03:39:27 +0800",
       "extra": {
         "hover": "Polymarket因第三方服务商遭入侵而被植入恶意脚本，恶意脚本利用用户会话盗取钱包资金，平台已修复，承诺全额赔付受影响用户损失。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509740.html",
-      "title": "全球最大加密交易所币安遭入侵，被盗金额或超57亿美元",
-      "url": "https://www.freebuf.com/news/509740.html",
-      "pubDate": "Fri, 30 Oct 2026 02:36:58 +0800",
-      "extra": {
-        "hover": "全球最大加密交易所币安疑似遭黑客入侵，被盗金额或超57亿美元，若核实将成加密史上最大窃案，已暂停充提服务，承诺全额赔付，正联动多方冻结涉案资金。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/509647.html",
-      "title": "降维打击 Vol.4：从真实红队日志看YSL语枢核心之一语义图反杀与内核封禁",
-      "url": "https://www.freebuf.com/articles/web/509647.html",
-      "pubDate": "Thu, 29 Oct 2026 20:45:22 +0800",
-      "extra": {
-        "hover": "别再用正则硬扛了！一份来自生产环境的真实红队攻击日志，解密如何用“语义图+证据链”完成降维反杀。从多源代理池的广撒网探测，到极度混淆的原型链污染载荷，带你看看传统AST为什么会死在变形攻击上，以及“应"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/509623.html",
-      "title": "只写不读：OpenCATS 导入模块的 RCE 与任意文件读取",
-      "url": "https://www.freebuf.com/articles/vuls/509623.html",
-      "pubDate": "Thu, 29 Oct 2026 18:19:28 +0800",
-      "extra": {
-        "hover": "OpenCATS 导入模块保留客户端文件名致认证后 RCE（CVE-2026-54454）"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/509609.html",
-      "title": "攻击者机器上装着Claude Code，PHP2Shell一周68499次利用请求照出AI攻防镜像",
-      "url": "https://www.freebuf.com/articles/vuls/509609.html",
-      "pubDate": "Thu, 29 Oct 2026 17:42:47 +0800",
-      "extra": {
-        "hover": "防御侧真正的问题不是&quot;AI 会不会写 exploit&quot;，是你自己的排查能力有没有跟着这波提速。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509651.html",
-      "title": "Telegram安卓端被曝漏洞，用户接听语音通话可触发代码执行",
-      "url": "https://www.freebuf.com/news/509651.html",
-      "pubDate": "Thu, 29 Oct 2026 17:09:18 +0800",
-      "extra": {
-        "hover": "Telegram安卓端存在高危漏洞，用户仅需接听语音通话就可能被攻击者执行任意代码，请尽快升级至12.10.4及以上版本。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509572.html",
-      "title": "AI到底怎么“学会思考”的？又为什么会“失控”？一文讲清AI原理与AI安全",
-      "url": "https://www.freebuf.com/articles/ai-security/509572.html",
-      "pubDate": "Thu, 29 Oct 2026 16:18:45 +0800",
-      "extra": {
-        "hover": "从AI原理到AI安全的过渡，零基础AI知识学习，理解原理，才能在设计、部署和使用中做好全生命周期安全防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/509673.html",
-      "title": "Claude利用Linux内核高危漏洞，无需交互执行root命令",
-      "url": "https://www.freebuf.com/articles/system/509673.html",
-      "pubDate": "Thu, 29 Oct 2026 15:18:11 +0800",
-      "extra": {
-        "hover": "Claude成功编写出Linux内核高危漏洞利用程序，远程攻击者无需交互即可获取root权限，漏洞已修复，请及时更新补丁。"
       }
     }
   ]
