@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793375325068,
+  "updatedAt": 1793419460069,
   "items": [
     {
       "id": "https://www.freebuf.com/news/509864.html",
@@ -26,6 +26,15 @@
       "pubDate": "Fri, 30 Oct 2026 11:08:54 +0800",
       "extra": {
         "hover": "命中率提升的时候，先问一句提升的是哪部分命中。如果那部分命中里，答案依赖的变量没有被 key 固定住，那它提升的就是错误率。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/509728.html",
+      "title": "韩国警方破获AI辅助黑客案；研究员利用PHP2Shell严重漏洞赢比特币挑战赛 | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/509728.html",
+      "pubDate": "Fri, 30 Oct 2026 10:28:57 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     },
     {
@@ -137,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/509609.html",
+      "title": "攻击者机器上装着Claude Code，PHP2Shell一周68499次利用请求照出AI攻防镜像",
+      "url": "https://www.freebuf.com/articles/vuls/509609.html",
+      "pubDate": "Thu, 29 Oct 2026 17:42:47 +0800",
+      "extra": {
+        "hover": "防御侧真正的问题不是&quot;AI 会不会写 exploit&quot;，是你自己的排查能力有没有跟着这波提速。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/509651.html",
       "title": "Telegram安卓端被曝漏洞，用户接听语音通话可触发代码执行",
       "url": "https://www.freebuf.com/news/509651.html",
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 29 Oct 2026 15:18:11 +0800",
       "extra": {
         "hover": "Claude成功编写出Linux内核高危漏洞利用程序，远程攻击者无需交互即可获取root权限，漏洞已修复，请及时更新补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509671.html",
-      "title": "NIST正式发布后量子密码迁移指南，明确迁移路径与时间要求",
-      "url": "https://www.freebuf.com/news/509671.html",
-      "pubDate": "Thu, 29 Oct 2026 14:55:18 +0800",
-      "extra": {
-        "hover": "量子计算机可破解现有加密体系，存在“先收集后解密”风险，NIST发布后量子密码迁移指南，明确迁移路径与时间节点，指导机构抗量子升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509552.html",
-      "title": "FreeBuf早报 | Claude构建多平台漏洞利用链；Google发布Gemini 4 Carbon",
-      "url": "https://www.freebuf.com/news/509552.html",
-      "pubDate": "Thu, 29 Oct 2026 14:54:17 +0800",
-      "extra": {
-        "hover": "未发布版Claude可构建多平台高危漏洞利用链，一键攻破Chrome、零点击获取Linux Root权限、绕过安卓锁屏，漏洞已修复请尽快打补丁。"
       }
     }
   ]
