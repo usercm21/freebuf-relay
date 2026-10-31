@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793441989816,
+  "updatedAt": 1793461649779,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/510009.html",
+      "title": "攻击者串联三个Ivanti Connect Secure漏洞，无需认证即可获取root权限",
+      "url": "https://www.freebuf.com/news/510009.html",
+      "pubDate": "Sat, 31 Oct 2026 13:57:43 +0800",
+      "extra": {
+        "hover": "攻击者串联三个 Ivanti Connect Secure 漏洞可无认证获取 root 权限，相关漏洞已遭在野利用，CISA 将其纳入 KEV，官方已发布全链补丁，用户需及时修复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/510003.html",
       "title": "ChatGPT恶意分享链接可执行攻击者代码，读取用户私密聊天记录",
@@ -8,6 +17,15 @@
       "pubDate": "Sat, 31 Oct 2026 11:03:41 +0800",
       "extra": {
         "hover": "恶意构造的ChatGPT分享链接点开即可在用户已登录会话执行攻击者代码，窃取私密聊天记录，该最高危漏洞已被OpenAI修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510005.html",
+      "title": "24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用",
+      "url": "https://www.freebuf.com/news/510005.html",
+      "pubDate": "Sat, 31 Oct 2026 06:02:41 +0800",
+      "extra": {
+        "hover": "24小时内超6万次攻击瞄准WordPress无需登录即可利用的核心RCE漏洞，管理员需立即更新至7.1.4版本，避免站点被入侵。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 30 Oct 2026 06:05:35 +0800",
       "extra": {
         "hover": "WordPress修复未认证RCE漏洞的补丁发布仅数小时就遭攻击者利用，站点管理员需尽快升级排查入侵风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/509784.html",
-      "title": "Gartner定义集成安全运营中心新品类，简化安全运营复杂度",
-      "url": "https://www.freebuf.com/articles/es/509784.html",
-      "pubDate": "Fri, 30 Oct 2026 06:00:14 +0800",
-      "extra": {
-        "hover": "Gartner新定义集成安全运营中心（ISOC）品类，破解安全工具碎片化痛点，适配AI时代攻防节奏，助力企业简化安全运营、提升响应效率。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509752.html",
-      "title": "Polymarket遭黑客攻击，用户报告钱包资金被盗",
-      "url": "https://www.freebuf.com/news/509752.html",
-      "pubDate": "Fri, 30 Oct 2026 03:39:27 +0800",
-      "extra": {
-        "hover": "Polymarket因第三方服务商遭入侵而被植入恶意脚本，恶意脚本利用用户会话盗取钱包资金，平台已修复，承诺全额赔付受影响用户损失。"
       }
     }
   ]
