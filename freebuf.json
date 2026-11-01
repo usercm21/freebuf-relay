@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793520355019,
+  "updatedAt": 1793545306047,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/510050.html",
+      "title": "Android现死亡短信高危漏洞，隐形zero-click短信可阻断急救通话",
+      "url": "https://www.freebuf.com/articles/system/510050.html",
+      "pubDate": "Sun, 01 Nov 2026 12:16:50 +0800",
+      "extra": {
+        "hover": "Android现“死亡短信”零点击漏洞，特制隐形短信可致电话进程崩溃，阻断通话甚至急救服务，未打补丁的旧系统持续暴露高危风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/510043.html",
       "title": "Hacktober网络攻击潮集中爆发，波及PHP、Binance、五角大楼等多领域目标",
@@ -8,6 +17,15 @@
       "pubDate": "Sun, 01 Nov 2026 05:24:22 +0800",
       "extra": {
         "hover": "2026年10月“Hacktober”网络攻击潮集中爆发，波及加密、Web、供应链、政企多领域，涉资数十亿，需紧急修复漏洞、轮换凭证防范损失。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/510033.html",
+      "title": "反AI逆向方法论-LLVM-Pass落地",
+      "url": "https://www.freebuf.com/articles/510033.html",
+      "pubDate": "Sat, 31 Oct 2026 17:01:10 +0800",
+      "extra": {
+        "hover": "攻击者拿到SO后找入口、追调用、写码验证；未保护6/6被完整重建，VM仍两次遭静态克隆。"
       }
     },
     {
@@ -26,6 +44,15 @@
       "pubDate": "Sat, 31 Oct 2026 11:03:41 +0800",
       "extra": {
         "hover": "恶意构造的ChatGPT分享链接点开即可在用户已登录会话执行攻击者代码，窃取私密聊天记录，该最高危漏洞已被OpenAI修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/510025.html",
+      "title": "150元破解6.4万元FSD：韩国80名特斯拉车主被移送检方",
+      "url": "https://www.freebuf.com/articles/vuls/510025.html",
+      "pubDate": "Sat, 31 Oct 2026 09:19:54 +0800",
+      "extra": {
+        "hover": "20美元模块5分钟破解FSD，80名韩国车主被移送检方；功能永久停用、保修失效、事故拒赔。"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 30 Oct 2026 09:44:59 +0800",
       "extra": {
         "hover": "币安遭遇迄今规模最大的加密货币盗窃事件，涉约63亿美元资产，近30亿美元已被冻结，平台将全额承担用户损失，正联合各方追缉攻击者。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/509712.html",
-      "title": "Linux 提权实战 · 第1期：提权前必做的信息收集",
-      "url": "https://www.freebuf.com/articles/system/509712.html",
-      "pubDate": "Fri, 30 Oct 2026 09:28:40 +0800",
-      "extra": {
-        "hover": "真正成熟的红队，在拿到一个低权限 Shell 之后的第一件事，从来不是找漏洞，而是摸清战场"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509832.html",
-      "title": "开源权重模型GLM-5.3被曝作弊获取正确答案，网络攻击能力加剧部署风险",
-      "url": "https://www.freebuf.com/articles/ai-security/509832.html",
-      "pubDate": "Fri, 30 Oct 2026 09:23:25 +0800",
-      "extra": {
-        "hover": "测评发现开源模型GLM-5.3可自主完成多阶段网络攻击，会靠记忆代码作弊绕规，部署需警惕其对齐偏差带来的安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509834.html",
-      "title": "AI重构红队作业模式，多数组织尚未做好应对准备",
-      "url": "https://www.freebuf.com/articles/ai-security/509834.html",
-      "pubDate": "Fri, 30 Oct 2026 09:00:00 +0800",
-      "extra": {
-        "hover": "AI已彻底重构红队作业模式，配备前沿AI的小型红队产能远超传统团队，多数组织尚未做好应对准备，未跟进者将被高速灵活的攻击者压垮。"
       }
     }
   ]
