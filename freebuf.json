@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793461649779,
+  "updatedAt": 1793520355019,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/510043.html",
+      "title": "Hacktober网络攻击潮集中爆发，波及PHP、Binance、五角大楼等多领域目标",
+      "url": "https://www.freebuf.com/news/510043.html",
+      "pubDate": "Sun, 01 Nov 2026 05:24:22 +0800",
+      "extra": {
+        "hover": "2026年10月“Hacktober”网络攻击潮集中爆发，波及加密、Web、供应链、政企多领域，涉资数十亿，需紧急修复漏洞、轮换凭证防范损失。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/510009.html",
       "title": "攻击者串联三个Ivanti Connect Secure漏洞，无需认证即可获取root权限",
@@ -38,6 +47,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/510027.html",
+      "title": "Cyber​​StrikeAI 使用 44 个 AI 代理自动执行针对日本目标的黑客攻击行动",
+      "url": "https://www.freebuf.com/articles/510027.html",
+      "pubDate": "Sat, 31 Oct 2026 00:21:01 +0800",
+      "extra": {
+        "hover": "AI主导/辅助攻击日本：16家机构被验证、820万条记录失窃；攻击者称“能同时尝试成千上万扇门”。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/509934.html",
       "title": "TeamViewer修复高危漏洞，被控端可反向攻击控制端",
       "url": "https://www.freebuf.com/news/509934.html",
@@ -53,6 +71,15 @@
       "pubDate": "Fri, 30 Oct 2026 18:30:20 +0800",
       "extra": {
         "hover": "评估LLM渗透测试智能体：MITM实时攻击全失败、多步任务骤降；五项架构增强显著提升完成率。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/509826.html",
+      "title": "接管别人的 Agent 会话：会话 ID 可预测导致的身份冒用与数据泄露",
+      "url": "https://www.freebuf.com/articles/ai-security/509826.html",
+      "pubDate": "Fri, 30 Oct 2026 17:45:12 +0800",
+      "extra": {
+        "hover": "引子上周测试一个多 Agent 协作平台时，我发现了一个致命问题：会话 ID 生成算法太弱，可以预测。攻击者只需要知道当前时间戳和计数器，就能预测出其他用户的会话 ID，接管他们的 Agent 会话。没有告警，没有日志，系统只是默默接受了攻击者的访问请求。我意识到，Agent 的会话管理有个致命盲区：会话 ID 可预测。测试环境：Windows + Python 3.14.4，纯标准库模拟会话管理"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 30 Oct 2026 09:00:00 +0800",
       "extra": {
         "hover": "AI已彻底重构红队作业模式，配备前沿AI的小型红队产能远超传统团队，多数组织尚未做好应对准备，未跟进者将被高速灵活的攻击者压垮。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509817.html",
-      "title": "非法中继篡改OpenAI Codex与Claude Code配置，禁用沙箱劫持企业数据",
-      "url": "https://www.freebuf.com/articles/ai-security/509817.html",
-      "pubDate": "Fri, 30 Oct 2026 08:50:24 +0800",
-      "extra": {
-        "hover": "灰色市场中继服务篡改企业端OpenAI Codex、Claude Code配置，关闭沙箱，可窃取数据执行恶意命令，已波及多地区多行业机构。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/509793.html",
-      "title": "武器化Claude Code扩展现身Open VSX，攻击者可持久远程访问开发者系统",
-      "url": "https://www.freebuf.com/articles/development/509793.html",
-      "pubDate": "Fri, 30 Oct 2026 07:16:38 +0800",
-      "extra": {
-        "hover": "Open VSX平台现恶意篡改的Claude Code扩展，可植入SSH后门窃取开发者系统持久远程访问权限，需警惕排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509780.html",
-      "title": "WordPress远程代码执行漏洞遭利用，补丁发布仅数小时即现攻击",
-      "url": "https://www.freebuf.com/news/509780.html",
-      "pubDate": "Fri, 30 Oct 2026 06:05:35 +0800",
-      "extra": {
-        "hover": "WordPress修复未认证RCE漏洞的补丁发布仅数小时就遭攻击者利用，站点管理员需尽快升级排查入侵风险。"
       }
     }
   ]
