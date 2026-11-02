@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793545306047,
+  "updatedAt": 1793586288922,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/system/510050.html",
@@ -110,6 +110,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/509809.html",
+      "title": "FreeBuf早报 | 币安遭入侵，被盗金额或超57亿美元；Zero-Click“死亡短信”漏洞曝光",
+      "url": "https://www.freebuf.com/news/509809.html",
+      "pubDate": "Fri, 30 Oct 2026 17:14:01 +0800",
+      "extra": {
+        "hover": "全球最大加密交易所币安疑似遭黑客入侵，被盗金额或超57亿美元，若核实将成加密史上最大窃案，已暂停充提服务，承诺全额赔付，正联动多方冻结涉案资金。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/509864.html",
       "title": "Claude Code官方VS Code扩展遭篡改，植入持久化SSH后门",
       "url": "https://www.freebuf.com/news/509864.html",
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 30 Oct 2026 10:28:57 +0800",
       "extra": {
         "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509769.html",
-      "title": "币安遭遇重大安全入侵，63亿美元资产受影响，近30亿已被冻结",
-      "url": "https://www.freebuf.com/news/509769.html",
-      "pubDate": "Fri, 30 Oct 2026 09:44:59 +0800",
-      "extra": {
-        "hover": "币安遭遇迄今规模最大的加密货币盗窃事件，涉约63亿美元资产，近30亿美元已被冻结，平台将全额承担用户损失，正联合各方追缉攻击者。"
       }
     }
   ]
