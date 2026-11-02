@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793586288922,
+  "updatedAt": 1793612791748,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/510056.html",
+      "title": "FBI指认朝鲜盗窃币安60亿美元加密资产，敦促行业拦截涉案交易",
+      "url": "https://www.freebuf.com/news/510056.html",
+      "pubDate": "Sun, 01 Nov 2026 19:23:14 +0800",
+      "extra": {
+        "hover": "FBI 指认朝鲜 APT 组织 TraderTraitor 盗窃币安超60亿美元加密资产，该事件系史上最大加密窃案，敦促行业拦截涉案交易，仍有24亿美元资产无法冻结。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/510050.html",
       "title": "Android现死亡短信高危漏洞，隐形zero-click短信可阻断急救通话",
@@ -56,6 +65,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/510093.html",
+      "title": "PraisonAI：域名检查通过了，为什么抓取器还是读走了内网密钥",
+      "url": "https://www.freebuf.com/articles/vuls/510093.html",
+      "pubDate": "Sat, 31 Oct 2026 09:00:17 +0800",
+      "extra": {
+        "hover": "检查结果只是“当时那个 IP 没问题”，DNS重绑定后抓取器仍把内网密钥读回。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/510005.html",
       "title": "24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用",
       "url": "https://www.freebuf.com/news/510005.html",
@@ -89,6 +107,15 @@
       "pubDate": "Fri, 30 Oct 2026 20:47:28 +0800",
       "extra": {
         "hover": "注意！TeamViewer修复高危漏洞：被控端可反向攻击控制端，致其崩溃或执行任意代码，请尽快升级至15.83版本。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/503956.html",
+      "title": "浏览器自动化——AI 生成网页操作脚本",
+      "url": "https://www.freebuf.com/articles/sectool/503956.html",
+      "pubDate": "Fri, 30 Oct 2026 20:07:23 +0800",
+      "extra": {
+        "hover": "由人工或AI自主进行网页操作，后台自动记录毫秒级对齐的前端操作与网络访问数据，使AI基于以上数据生成可重复执行的 Python 脚本。无需接口文档，脚本执行阶段也不再需要 AI。"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 30 Oct 2026 11:18:28 +0800",
       "extra": {
         "hover": "研究人员攻破多款热门AI编码工具内嵌浏览器，开发者面临代码执行、文件窃取、地址欺骗风险，部分厂商仍未推送修复补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/509739.html",
-      "title": "AI 语义缓存命中率 99%，为什么几乎全是错的？",
-      "url": "https://www.freebuf.com/articles/ai-security/509739.html",
-      "pubDate": "Fri, 30 Oct 2026 11:08:54 +0800",
-      "extra": {
-        "hover": "命中率提升的时候，先问一句提升的是哪部分命中。如果那部分命中里，答案依赖的变量没有被 key 固定住，那它提升的就是错误率。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509890.html",
-      "title": "朝鲜精英黑客组织盗取币安63.6亿美元，创加密货币盗窃案纪录",
-      "url": "https://www.freebuf.com/news/509890.html",
-      "pubDate": "Fri, 30 Oct 2026 10:30:00 +0800",
-      "extra": {
-        "hover": "朝鲜精英黑客通过社工攻陷币安工程师设备，20分钟转走63.6亿美元，创加密货币盗窃案最高纪录，暴露企业隐式过度权限的安全隐患。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/509728.html",
-      "title": "韩国警方破获AI辅助黑客案；研究员利用PHP2Shell严重漏洞赢比特币挑战赛 | FreeBuf周报",
-      "url": "https://www.freebuf.com/articles/509728.html",
-      "pubDate": "Fri, 30 Oct 2026 10:28:57 +0800",
-      "extra": {
-        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     }
   ]
