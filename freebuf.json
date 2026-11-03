@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793648992065,
+  "updatedAt": 1793670754382,
   "items": [
     {
       "id": "https://www.freebuf.com/news/510287.html",
@@ -8,6 +8,15 @@
       "pubDate": "Mon, 02 Nov 2026 21:20:26 +0800",
       "extra": {
         "hover": "谷歌捣毁超130万台安卓设备组成的僵尸网络，机顶盒厂商Videostrong被指故意植入后门售卖访问权限，受感染设备后门无法清除，建议用户直接丢弃。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510206.html",
+      "title": "FreeBuf早报 | 黑客利用ARTEX AI Agents自动化活动目录攻击；DeepSeek开源Super-Agent",
+      "url": "https://www.freebuf.com/news/510206.html",
+      "pubDate": "Mon, 02 Nov 2026 19:51:55 +0800",
+      "extra": {
+        "hover": "黑客滥用开源AI工具ARTEX自动化发起活动目录攻击，数秒即可完成Kerberoasting、横向移动，效率远超人工，企业网络安全面临紧迫威胁。"
       }
     },
     {
@@ -101,6 +110,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/510029.html",
+      "title": "只调高 Token 上限，安全研判通过率为何从 2% 跳到 90%？——本地实测揭开Agent的“能力遮蔽",
+      "url": "https://www.freebuf.com/articles/ai-security/510029.html",
+      "pubDate": "Sun, 01 Nov 2026 04:44:09 +0800",
+      "extra": {
+        "hover": "只调高生成Token上限，安全研判通过率竟从2%跃至90%！本地实测Qwen3:4b，揭开**预算诱导的能力遮蔽**：很多失败不是模型不会，而是来不及说完。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/510033.html",
       "title": "反AI逆向方法论-LLVM-Pass落地",
       "url": "https://www.freebuf.com/articles/510033.html",
@@ -161,24 +179,6 @@
       "pubDate": "Sat, 31 Oct 2026 03:54:38 +0800",
       "extra": {
         "hover": "苹果向99国部分iPhone用户发出高复杂度雇佣兵间谍软件攻击预警，提醒高危用户开启锁定模式，严防设备遭定向入侵。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/510027.html",
-      "title": "Cyber​​StrikeAI 使用 44 个 AI 代理自动执行针对日本目标的黑客攻击行动",
-      "url": "https://www.freebuf.com/articles/510027.html",
-      "pubDate": "Sat, 31 Oct 2026 00:21:01 +0800",
-      "extra": {
-        "hover": "AI主导/辅助攻击日本：16家机构被验证、820万条记录失窃；攻击者称“能同时尝试成千上万扇门”。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509934.html",
-      "title": "TeamViewer修复高危漏洞，被控端可反向攻击控制端",
-      "url": "https://www.freebuf.com/news/509934.html",
-      "pubDate": "Fri, 30 Oct 2026 20:47:28 +0800",
-      "extra": {
-        "hover": "注意！TeamViewer修复高危漏洞：被控端可反向攻击控制端，致其崩溃或执行任意代码，请尽快升级至15.83版本。"
       }
     }
   ]
