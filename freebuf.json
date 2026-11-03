@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1793670754382,
+  "updatedAt": 1793696411564,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/510377.html",
+      "title": "攻击者利用西门子IoT2050高危漏洞，植入远程命令后门",
+      "url": "https://www.freebuf.com/news/510377.html",
+      "pubDate": "Tue, 03 Nov 2026 11:04:41 +0800",
+      "extra": {
+        "hover": "西门子IoT2050满分高危漏洞遭活跃利用，无认证即可获取最高权限执行任意代码，攻击者借此投递僵尸程序、植入持久化后门。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/510327.html",
+      "title": "新书｜《能力即威胁：如何构建 AI 智能体安全架构》正式出版",
+      "url": "https://www.freebuf.com/articles/510327.html",
+      "pubDate": "Tue, 03 Nov 2026 10:34:26 +0800",
+      "extra": {
+        "hover": "2026年10月29日，由赵粮、李康著，Z-ONE Global 出版的《能力即威胁：如何构建 AI 智能体安全架构》正式问世。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510375.html",
+      "title": "OpenAI启动新一轮安全冲刺，排查漏洞强化平台防御",
+      "url": "https://www.freebuf.com/articles/ai-security/510375.html",
+      "pubDate": "Tue, 03 Nov 2026 05:17:26 +0800",
+      "extra": {
+        "hover": "OpenAI启动新一轮安全冲刺，联合外部安全研究团队、上调漏洞赏金，依托AI常态化排查修复漏洞，构建持续防御体系，强化旗下平台安全防护能力。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/510348.html",
+      "title": "黑客利用ARTEX AI入侵WorkOS，获取客户Slack对话记录",
+      "url": "https://www.freebuf.com/articles/database/510348.html",
+      "pubDate": "Tue, 03 Nov 2026 03:43:36 +0800",
+      "extra": {
+        "hover": "WorkOS遭黑客利用AI驱动的进攻性安全框架ARTEX入侵，客户联系信息、Slack对话等数据泄露，核心生产服务暂未受影响，需警惕钓鱼攻击。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/510287.html",
       "title": "谷歌捣毁涉超130万台安卓设备僵尸网络，电视盒厂商被指向犯罪分子售卖访问权限",
@@ -20,6 +56,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/510166.html",
+      "title": "宽了14字节：imgproxy ICO加载器的三处长度失守",
+      "url": "https://www.freebuf.com/articles/vuls/510166.html",
+      "pubDate": "Mon, 02 Nov 2026 18:23:23 +0800",
+      "extra": {
+        "hover": "imgproxy ICO 长度失守，GHSA-mmq5/hff9/494m，4.0.0–4.0.15，4.0.17修复。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/510216.html",
       "title": "政府Linux服务器遭定向攻击，涉SysGoRAT及疑似AI生成脚本",
       "url": "https://www.freebuf.com/news/510216.html",
@@ -29,12 +74,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/510293.html",
+      "title": "欧洲多国零售冷链遭网络攻击，凸显行业OT安全短板",
+      "url": "https://www.freebuf.com/news/510293.html",
+      "pubDate": "Mon, 02 Nov 2026 14:18:00 +0800",
+      "extra": {
+        "hover": "欧洲多国零售冷链遭网络攻击，冷柜最高升温至50℃致食品全损，凸显零售行业工控安全短板，联网OT系统防御薄弱风险突出。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/510245.html",
       "title": "黑客可利用iPhone BootROM漏洞，威胁加密货币钱包安全",
       "url": "https://www.freebuf.com/news/510245.html",
       "pubDate": "Mon, 02 Nov 2026 13:43:27 +0800",
       "extra": {
         "hover": "旧款iPhone存在无法通过系统更新修复的BootROM硬件漏洞，即便开飞行模式离线当冷钱包存加密货币助记词，也可能遭物理攻击致资产失窃。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510116.html",
+      "title": "一封&quot;From 头是别人的&quot;邮件，如何让 AI 客服把你的账户数据交出去",
+      "url": "https://www.freebuf.com/articles/ai-security/510116.html",
+      "pubDate": "Mon, 02 Nov 2026 13:19:29 +0800",
+      "extra": {
+        "hover": "From 头是发件人自己填的，SMTP 从不校验它,当 AI 客服把邮件地址当作身份凭证，一封伪造来源的信就能换走订单、地址和账户信息."
       }
     },
     {
@@ -62,6 +125,24 @@
       "pubDate": "Mon, 02 Nov 2026 09:30:56 +0800",
       "extra": {
         "hover": "ChatGPT存在高危P1级漏洞，用户点开单个恶意链接就会被劫持账号、窃取私密对话，该漏洞已由OpenAI修复，报告者获5000美元赏金。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/510184.html",
+      "title": "删库一周，2400星抢备份：拆解百度攻防赛总冠军ARTEX的自主渗透架构",
+      "url": "https://www.freebuf.com/articles/510184.html",
+      "pubDate": "Mon, 02 Nov 2026 09:20:46 +0800",
+      "extra": {
+        "hover": "冠军ARTEX双图可审计，区别“套壳扫描器”；删库404、975仓疯抢，禁止线上测试。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510059.html",
+      "title": "断点续传：内容变更后拼接出的文件 32.0% 是\"半新半旧\"",
+      "url": "https://www.freebuf.com/articles/ai-security/510059.html",
+      "pubDate": "Mon, 02 Nov 2026 09:19:50 +0800",
+      "extra": {
+        "hover": "本文用 8 个分片的范围请求模拟断点续传，在传输中途修改源文件，测四种校验方式。"
       }
     },
     {
@@ -98,87 +179,6 @@
       "pubDate": "Sun, 01 Nov 2026 12:16:50 +0800",
       "extra": {
         "hover": "Android现“死亡短信”零点击漏洞，特制隐形短信可致电话进程崩溃，阻断通话甚至急救服务，未打补丁的旧系统持续暴露高危风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510043.html",
-      "title": "Hacktober网络攻击潮集中爆发，波及PHP、Binance、五角大楼等多领域目标",
-      "url": "https://www.freebuf.com/news/510043.html",
-      "pubDate": "Sun, 01 Nov 2026 05:24:22 +0800",
-      "extra": {
-        "hover": "2026年10月“Hacktober”网络攻击潮集中爆发，波及加密、Web、供应链、政企多领域，涉资数十亿，需紧急修复漏洞、轮换凭证防范损失。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510029.html",
-      "title": "只调高 Token 上限，安全研判通过率为何从 2% 跳到 90%？——本地实测揭开Agent的“能力遮蔽",
-      "url": "https://www.freebuf.com/articles/ai-security/510029.html",
-      "pubDate": "Sun, 01 Nov 2026 04:44:09 +0800",
-      "extra": {
-        "hover": "只调高生成Token上限，安全研判通过率竟从2%跃至90%！本地实测Qwen3:4b，揭开**预算诱导的能力遮蔽**：很多失败不是模型不会，而是来不及说完。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/510033.html",
-      "title": "反AI逆向方法论-LLVM-Pass落地",
-      "url": "https://www.freebuf.com/articles/510033.html",
-      "pubDate": "Sat, 31 Oct 2026 17:01:10 +0800",
-      "extra": {
-        "hover": "攻击者拿到SO后找入口、追调用、写码验证；未保护6/6被完整重建，VM仍两次遭静态克隆。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510009.html",
-      "title": "攻击者串联三个Ivanti Connect Secure漏洞，无需认证即可获取root权限",
-      "url": "https://www.freebuf.com/news/510009.html",
-      "pubDate": "Sat, 31 Oct 2026 13:57:43 +0800",
-      "extra": {
-        "hover": "攻击者串联三个 Ivanti Connect Secure 漏洞可无认证获取 root 权限，相关漏洞已遭在野利用，CISA 将其纳入 KEV，官方已发布全链补丁，用户需及时修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510003.html",
-      "title": "ChatGPT恶意分享链接可执行攻击者代码，读取用户私密聊天记录",
-      "url": "https://www.freebuf.com/articles/ai-security/510003.html",
-      "pubDate": "Sat, 31 Oct 2026 11:03:41 +0800",
-      "extra": {
-        "hover": "恶意构造的ChatGPT分享链接点开即可在用户已登录会话执行攻击者代码，窃取私密聊天记录，该最高危漏洞已被OpenAI修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/510025.html",
-      "title": "150元破解6.4万元FSD：韩国80名特斯拉车主被移送检方",
-      "url": "https://www.freebuf.com/articles/vuls/510025.html",
-      "pubDate": "Sat, 31 Oct 2026 09:19:54 +0800",
-      "extra": {
-        "hover": "20美元模块5分钟破解FSD，80名韩国车主被移送检方；功能永久停用、保修失效、事故拒赔。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/510093.html",
-      "title": "PraisonAI：域名检查通过了，为什么抓取器还是读走了内网密钥",
-      "url": "https://www.freebuf.com/articles/vuls/510093.html",
-      "pubDate": "Sat, 31 Oct 2026 09:00:17 +0800",
-      "extra": {
-        "hover": "检查结果只是“当时那个 IP 没问题”，DNS重绑定后抓取器仍把内网密钥读回。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510005.html",
-      "title": "24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用",
-      "url": "https://www.freebuf.com/news/510005.html",
-      "pubDate": "Sat, 31 Oct 2026 06:02:41 +0800",
-      "extra": {
-        "hover": "24小时内超6万次攻击瞄准WordPress无需登录即可利用的核心RCE漏洞，管理员需立即更新至7.1.4版本，避免站点被入侵。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/509989.html",
-      "title": "苹果向99国iPhone用户发威胁预警，涉及高复杂度雇佣兵间谍软件攻击",
-      "url": "https://www.freebuf.com/news/509989.html",
-      "pubDate": "Sat, 31 Oct 2026 03:54:38 +0800",
-      "extra": {
-        "hover": "苹果向99国部分iPhone用户发出高复杂度雇佣兵间谍软件攻击预警，提醒高危用户开启锁定模式，严防设备遭定向入侵。"
       }
     }
   ]
