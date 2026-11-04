@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793725089148,
+  "updatedAt": 1793759073661,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/510439.html",
@@ -11,12 +11,39 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/510427.html",
+      "title": "FreeBuf早报 | 攻击者利用西门子IoT2050高危漏洞；ChatGPT存在高危漏洞",
+      "url": "https://www.freebuf.com/news/510427.html",
+      "pubDate": "Tue, 03 Nov 2026 17:17:17 +0800",
+      "extra": {
+        "hover": "西门子IoT2050满分高危漏洞遭活跃利用，无认证即可获取最高权限执行任意代码，攻击者借此投递僵尸程序、植入持久化后门。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/510529.html",
+      "title": "OpenAI用AI Agents搭建Pando Git基础设施，部署持续安全测试",
+      "url": "https://www.freebuf.com/articles/development/510529.html",
+      "pubDate": "Tue, 03 Nov 2026 17:15:01 +0800",
+      "extra": {
+        "hover": "OpenAI借助Codex agents仅10周搭成Git后端Pando，部署7×24小时AI红队持续安全测试，替换原有低可靠性代码仓库系统，代码推送延迟下降近80%。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/es/510490.html",
       "title": "Gartner提出暴露面优先级四要素，落地可降70%入侵风险",
       "url": "https://www.freebuf.com/articles/es/510490.html",
       "pubDate": "Tue, 03 Nov 2026 16:48:20 +0800",
       "extra": {
         "hover": "漏洞越修越多，入侵风险却没降？Gartner提出暴露面优先级四要素，落地可降70%入侵风险，破解安全团队修复疲劳。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510519.html",
+      "title": "朝鲜黑客滥用内部AI工具与虚假招聘面试，盗取币安63.4亿美元资产",
+      "url": "https://www.freebuf.com/news/510519.html",
+      "pubDate": "Tue, 03 Nov 2026 16:39:33 +0800",
+      "extra": {
+        "hover": "朝鲜黑客借虚假招聘、恶意工具绕过防护，劫持内部AI渗透币安，盗取63.4亿美元加密资产，部分资金被拦截，平台全额承担用户损失。"
       }
     },
     {
@@ -56,6 +83,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/system/510497.html",
+      "title": "雷诺15年历史Linux车载导航遭破解，可执行任意root命令",
+      "url": "https://www.freebuf.com/articles/system/510497.html",
+      "pubDate": "Tue, 03 Nov 2026 13:10:24 +0800",
+      "extra": {
+        "hover": "雷诺15年历史的Linux车载导航遭破解，攻击者可执行任意root命令，老旧车机缺安全补丁，暗藏长期安全风险。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/es/510493.html",
       "title": "网络设备漏洞中位超一年未修补，漏洞利用周期压缩至数天",
       "url": "https://www.freebuf.com/articles/es/510493.html",
@@ -71,6 +107,15 @@
       "pubDate": "Tue, 03 Nov 2026 12:31:55 +0800",
       "extra": {
         "hover": "微软研究显示78%被在野利用的漏洞可致系统接管提权，AI加持下漏洞披露数小时即遭利用，防御方需优先修复高风险漏洞、压缩补丁响应窗口。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510339.html",
+      "title": "藏在标题里的恶意指令：文件元数据Prompt注入攻击面分析与复现",
+      "url": "https://www.freebuf.com/articles/ai-security/510339.html",
+      "pubDate": "Tue, 03 Nov 2026 11:15:41 +0800",
+      "extra": {
+        "hover": "本文解析文件元数据 Prompt 注入攻击原理，攻击者通过修改文档元数据植入恶意提示词，在 AI Agent 读取解析时触发注入，绕过常规输入校验。"
       }
     },
     {
@@ -134,51 +179,6 @@
       "pubDate": "Tue, 03 Nov 2026 03:43:36 +0800",
       "extra": {
         "hover": "WorkOS遭黑客利用AI驱动的进攻性安全框架ARTEX入侵，客户联系信息、Slack对话等数据泄露，核心生产服务暂未受影响，需警惕钓鱼攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/510244.html",
-      "title": "接口越写越快，安全测试怎么跟上？",
-      "url": "https://www.freebuf.com/articles/web/510244.html",
-      "pubDate": "Mon, 02 Nov 2026 22:00:50 +0800",
-      "extra": {
-        "hover": "这篇只谈越权和未授权访问，注入、配置错误这些交给扫描器，不展开。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510287.html",
-      "title": "谷歌捣毁涉超130万台安卓设备僵尸网络，电视盒厂商被指向犯罪分子售卖访问权限",
-      "url": "https://www.freebuf.com/news/510287.html",
-      "pubDate": "Mon, 02 Nov 2026 21:20:26 +0800",
-      "extra": {
-        "hover": "谷歌捣毁超130万台安卓设备组成的僵尸网络，机顶盒厂商Videostrong被指故意植入后门售卖访问权限，受感染设备后门无法清除，建议用户直接丢弃。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510206.html",
-      "title": "FreeBuf早报 | 黑客利用ARTEX AI Agents自动化活动目录攻击；DeepSeek开源Super-Agent",
-      "url": "https://www.freebuf.com/news/510206.html",
-      "pubDate": "Mon, 02 Nov 2026 19:51:55 +0800",
-      "extra": {
-        "hover": "黑客滥用开源AI工具ARTEX自动化发起活动目录攻击，数秒即可完成Kerberoasting、横向移动，效率远超人工，企业网络安全面临紧迫威胁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/510203.html",
-      "title": "Brotli解码器CVE-2026-111497：一个返回值类型撑不住的越界写",
-      "url": "https://www.freebuf.com/articles/vuls/510203.html",
-      "pubDate": "Mon, 02 Nov 2026 19:32:50 +0800",
-      "extra": {
-        "hover": "CVE-2026-111497：Brotli 解码器把非法块切换当成缺输入，写穿 8 字节缓冲，附补丁逐行对照。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/510202.html",
-      "title": "OAuth2授权码劫持实战：redirect_uri白名单缺失，一行curl到账号接管",
-      "url": "https://www.freebuf.com/articles/vuls/510202.html",
-      "pubDate": "Mon, 02 Nov 2026 19:28:34 +0800",
-      "extra": {
-        "hover": "本文以无害化验证为前提，完整拆解&amp;quot;redirect_uri 无白名单 → 授权码劫持 → 账号接管&amp;quot;的利用链，从协议原理、参数解析细节到每一步的报文证据，逐层展开。"
       }
     }
   ]
