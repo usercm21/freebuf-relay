@@ -1,6 +1,105 @@
 {
-  "updatedAt": 1793785133599,
+  "updatedAt": 1793813453905,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/510751.html",
+      "title": "APT29关联黑客劫持网页分析脚本，投递iOS与Android漏洞利用载荷",
+      "url": "https://www.freebuf.com/news/510751.html",
+      "pubDate": "Wed, 04 Nov 2026 19:57:52 +0800",
+      "extra": {
+        "hover": "俄背景APT29发动水坑、供应链攻击，投递iOS/Android漏洞链，用户仅打开网页无需任何操作即可被窃取全量设备敏感数据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510732.html",
+      "title": "Ruby on Rails曝出高危漏洞，攻击者可利用ImageMagick上传逻辑写入服务器任意文件",
+      "url": "https://www.freebuf.com/news/510732.html",
+      "pubDate": "Wed, 04 Nov 2026 17:37:04 +0800",
+      "extra": {
+        "hover": "Ruby on Rails曝出CVSS9.8分高危漏洞，未授权攻击者可利用ImageMagick上传逻辑写入服务器任意文件、窃取凭证、执行代码，受影响用户需尽快升级修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/510735.html",
+      "title": "Xen Hypervisor曝高危漏洞，恶意VM可读写同主机任意VM内存",
+      "url": "https://www.freebuf.com/articles/system/510735.html",
+      "pubDate": "Wed, 04 Nov 2026 17:16:27 +0800",
+      "extra": {
+        "hover": "Xen Hypervisor曝高危漏洞，单台恶意VM即可突破隔离读写同机所有VM内存、接管主机，无临时缓解措施，需尽快安装补丁修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510729.html",
+      "title": "Agent运行时安全不能仅靠单点网关，缺失底层支撑如同无雷达的电台",
+      "url": "https://www.freebuf.com/articles/ai-security/510729.html",
+      "pubDate": "Wed, 04 Nov 2026 17:04:20 +0800",
+      "extra": {
+        "hover": "仅靠网关做Agent运行时防护如同无雷达的电台，覆盖不全易被攻破，别信厂商终态宣传，需基于全局上下文构建多层有效防护体系。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510748.html",
+      "title": "俄罗斯APT29利用n-day漏洞发起攻击，瞄准iOS与Android用户窃密",
+      "url": "https://www.freebuf.com/news/510748.html",
+      "pubDate": "Wed, 04 Nov 2026 14:38:37 +0800",
+      "extra": {
+        "hover": "俄罗斯APT29发起无需用户交互的水坑攻击，利用已修补n-day漏洞瞄准iOS、安卓用户，可窃取密码、聊天消息等核心敏感数据，及时更新系统即可防御。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510736.html",
+      "title": "Node.js计划推送高危安全补丁，覆盖22.x、24.x、26.x发布分支",
+      "url": "https://www.freebuf.com/news/510736.html",
+      "pubDate": "Wed, 04 Nov 2026 12:59:05 +0800",
+      "extra": {
+        "hover": "Node.js将于11月11日为22.x、24.x、26.x分支推送高危安全补丁，停服分支无补丁，相关用户请提前做好更新准备。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510716.html",
+      "title": "黑客利用Zyxel GS1900 0Day劫持交换机，旧版安全补丁失效",
+      "url": "https://www.freebuf.com/news/510716.html",
+      "pubDate": "Wed, 04 Nov 2026 11:57:24 +0800",
+      "extra": {
+        "hover": "Zyxel GS1900交换机0day漏洞遭在野利用，旧补丁完全失效，攻击者无需登录即可获取root权限，已波及多国，需立即升级加固。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510718.html",
+      "title": "CrowdStrike收购Fiddler、Dreadnode，覆盖Agent全生命周期AI安全",
+      "url": "https://www.freebuf.com/articles/ai-security/510718.html",
+      "pubDate": "Wed, 04 Nov 2026 11:33:35 +0800",
+      "extra": {
+        "hover": "CrowdStrike收购Fiddler、Dreadnode，补强Falcon平台AI安全能力，覆盖AI Agent全生命周期，防控Agent未遭入侵即可制造的安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510654.html",
+      "title": "CISA确认WordPress核心漏洞遭在野利用，可于升级窗口执行代码",
+      "url": "https://www.freebuf.com/news/510654.html",
+      "pubDate": "Wed, 04 Nov 2026 11:13:11 +0800",
+      "extra": {
+        "hover": "CISA确认WordPress核心高危漏洞遭在野利用，无需账号即可执行任意代码，已现大规模攻击，要求美联邦机构11月6日前修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510702.html",
+      "title": "谷歌修复超200个安卓安全漏洞，含严重0-Click远程代码执行漏洞",
+      "url": "https://www.freebuf.com/news/510702.html",
+      "pubDate": "Wed, 04 Nov 2026 10:12:24 +0800",
+      "extra": {
+        "hover": "谷歌发布2026年11月安卓安全更新，修复200余个漏洞，含无需用户交互的0-Click严重远程代码执行漏洞，提醒用户尽快安装补丁防范风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510655.html",
+      "title": "新型窃密木马盗取AI工具认证令牌，重置密码仍可盗用账号",
+      "url": "https://www.freebuf.com/articles/ai-security/510655.html",
+      "pubDate": "Wed, 04 Nov 2026 07:34:55 +0800",
+      "extra": {
+        "hover": "新型窃密木马可盗取ChatGPT等AI工具认证令牌，即便重置密码仍可盗用账号，波及关联代码、云资产，被盗凭证已流入黑产交易市场。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/510619.html",
       "title": "黑客发起LLMJacking攻击，受害企业云账单高达百万美元",
@@ -80,105 +179,6 @@
       "pubDate": "Tue, 03 Nov 2026 16:22:52 +0800",
       "extra": {
         "hover": "以Capital One数据泄露为骨架，拆解AWS云渗透攻击链：SSRF打元数据服务窃取凭据、IAM六条提权路径、S3枚举与策略绕过、持久化与反检测，每环附防御做法与CloudScan审计要点。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510404.html",
-      "title": "一条分享链接打穿会话隔离，AI 产品前端信任边界的崩溃链分析",
-      "url": "https://www.freebuf.com/articles/ai-security/510404.html",
-      "pubDate": "Tue, 03 Nov 2026 15:40:07 +0800",
-      "extra": {
-        "hover": "一条普通的 ChatGPT 分享链接，能在打开者的登录会话内执行攻击者代码并读取未分享的私聊，OpenAI 定级 P1。逃逸链由三个各自无害的设计选择叠加而成，CSP 被绕过只是最后一步。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/510402.html",
-      "title": "新手勇闯网络安全 | 密码学（一）",
-      "url": "https://www.freebuf.com/articles/web/510402.html",
-      "pubDate": "Tue, 03 Nov 2026 15:34:40 +0800",
-      "extra": {
-        "hover": "利用非对称加密解决密钥交换的安全难题，利用对称加密保障海量数据传输的效率。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/510395.html",
-      "title": "JA3 指纹墙实战：一个 md5 拦住了 curl，却被四行参数绕过",
-      "url": "https://www.freebuf.com/articles/web/510395.html",
-      "pubDate": "Tue, 03 Nov 2026 15:20:30 +0800",
-      "extra": {
-        "hover": "JA3 指纹墙实战：一个 md5 拦住了 curl，却被四行参数绕过\n做数据采集的人大概都遇到过这种事：代理池换了一轮，UA 也换了，Cookie 池也是新的，账号还是秒封。查日志看不到任何异常请求——因为对方根本没走到应用层，在 TLS 握手阶段就把你掐了。\n这就是 TLS 指纹（JA3）最常见的使用场景。这篇文章不讨论理论，我在本机搭了一个真的按指纹拦截的 TLS 服务，把 curl、Pyth"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/510497.html",
-      "title": "雷诺15年历史Linux车载导航遭破解，可执行任意root命令",
-      "url": "https://www.freebuf.com/articles/system/510497.html",
-      "pubDate": "Tue, 03 Nov 2026 13:10:24 +0800",
-      "extra": {
-        "hover": "雷诺15年历史的Linux车载导航遭破解，攻击者可执行任意root命令，老旧车机缺安全补丁，暗藏长期安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/510493.html",
-      "title": "网络设备漏洞中位超一年未修补，漏洞利用周期压缩至数天",
-      "url": "https://www.freebuf.com/articles/es/510493.html",
-      "pubDate": "Tue, 03 Nov 2026 12:32:10 +0800",
-      "extra": {
-        "hover": "微软研究显示企业网络设备漏洞中位修复周期超一年，高影响漏洞披露数天即遭武器化利用，补丁响应根本追不上攻击节奏，安全风险敞口极大。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510494.html",
-      "title": "微软发布漏洞利用趋势研究，78%被利用漏洞可致接管提权",
-      "url": "https://www.freebuf.com/news/510494.html",
-      "pubDate": "Tue, 03 Nov 2026 12:31:55 +0800",
-      "extra": {
-        "hover": "微软研究显示78%被在野利用的漏洞可致系统接管提权，AI加持下漏洞披露数小时即遭利用，防御方需优先修复高风险漏洞、压缩补丁响应窗口。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510339.html",
-      "title": "藏在标题里的恶意指令：文件元数据Prompt注入攻击面分析与复现",
-      "url": "https://www.freebuf.com/articles/ai-security/510339.html",
-      "pubDate": "Tue, 03 Nov 2026 11:15:41 +0800",
-      "extra": {
-        "hover": "本文解析文件元数据 Prompt 注入攻击原理，攻击者通过修改文档元数据植入恶意提示词，在 AI Agent 读取解析时触发注入，绕过常规输入校验。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510377.html",
-      "title": "攻击者利用西门子IoT2050高危漏洞，植入远程命令后门",
-      "url": "https://www.freebuf.com/news/510377.html",
-      "pubDate": "Tue, 03 Nov 2026 11:04:41 +0800",
-      "extra": {
-        "hover": "西门子IoT2050满分高危漏洞遭活跃利用，无认证即可获取最高权限执行任意代码，攻击者借此投递僵尸程序、植入持久化后门。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510478.html",
-      "title": "英国国家网络安全中心警告，AI或加速关键基础设施勒索攻击",
-      "url": "https://www.freebuf.com/articles/ai-security/510478.html",
-      "pubDate": "Tue, 03 Nov 2026 10:50:40 +0800",
-      "extra": {
-        "hover": "英国NCSC年处置80起重大网络安全事件，报告警告AI正大幅降低攻击门槛，2028年前极可能出现针对关键基础设施的AI驱动勒索攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/510327.html",
-      "title": "新书｜《能力即威胁：如何构建 AI 智能体安全架构》正式出版",
-      "url": "https://www.freebuf.com/articles/510327.html",
-      "pubDate": "Tue, 03 Nov 2026 10:34:26 +0800",
-      "extra": {
-        "hover": "2026年10月29日，由赵粮、李康著，Z-ONE Global 出版的《能力即威胁：如何构建 AI 智能体安全架构》正式问世。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/510425.html",
-      "title": "攻击者野外扫描Linux内核严重RCE漏洞，Ubuntu推送早期修复补丁",
-      "url": "https://www.freebuf.com/articles/system/510425.html",
-      "pubDate": "Tue, 03 Nov 2026 08:58:05 +0800",
-      "extra": {
-        "hover": "Linux内核曝出严重无交互RCE漏洞，已遭野外扫描，攻击者无需登录即可获取root权限，Ubuntu已推送早期修复补丁。"
       }
     }
   ]
