@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1793759073661,
+  "updatedAt": 1793785133599,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510619.html",
+      "title": "黑客发起LLMJacking攻击，受害企业云账单高达百万美元",
+      "url": "https://www.freebuf.com/articles/ai-security/510619.html",
+      "pubDate": "Wed, 04 Nov 2026 04:44:53 +0800",
+      "extra": {
+        "hover": "黑客发起LLMJacking攻击盗用企业大模型权限在黑产转售牟利，可致受害企业产生最高百万美元云账单，已波及多地区多行业。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510585.html",
+      "title": "黑客入侵法国血浆存储冷冻设备，篡改温控设置至110℃",
+      "url": "https://www.freebuf.com/news/510585.html",
+      "pubDate": "Wed, 04 Nov 2026 02:35:39 +0800",
+      "extra": {
+        "hover": "黑客入侵法国血浆存储冷冻设备温控系统，恶意将温度篡改至110℃，值班人员及时处置，未造成血浆损毁、输血服务中断等严重后果。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/510439.html",
       "title": "思维链的暗门：推理模型中的逻辑陷阱与隐蔽操控",
@@ -44,6 +62,15 @@
       "pubDate": "Tue, 03 Nov 2026 16:39:33 +0800",
       "extra": {
         "hover": "朝鲜黑客借虚假招聘、恶意工具绕过防护，劫持内部AI渗透币安，盗取63.4亿美元加密资产，部分资金被拦截，平台全额承担用户损失。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510421.html",
+      "title": "模型可提议，宿主须验授权与效果：OAI–HF 事件中生成式代理的四类失控前兆与控制面验证",
+      "url": "https://www.freebuf.com/articles/ai-security/510421.html",
+      "pubDate": "Tue, 03 Nov 2026 16:36:17 +0800",
+      "extra": {
+        "hover": "从OAI‑HF事故提炼四类代理失控前兆，通过本地控制面回放实验，对比文本检测与provenance gate效果，给出可落地的运行时授权校验与失控检测清单。"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Tue, 03 Nov 2026 08:58:05 +0800",
       "extra": {
         "hover": "Linux内核曝出严重无交互RCE漏洞，已遭野外扫描，攻击者无需登录即可获取root权限，Ubuntu已推送早期修复补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510403.html",
-      "title": "HackerOne CEO谈人类黑客相对AI优势，业务价值判断仍不可替代",
-      "url": "https://www.freebuf.com/articles/ai-security/510403.html",
-      "pubDate": "Tue, 03 Nov 2026 06:30:36 +0800",
-      "extra": {
-        "hover": "HackerOne CEO称，AI可数分钟内批量发现漏洞，但人类在业务逻辑漏洞挖掘、价值判断上优势明显，常规中危漏洞赏金将持续走低。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510375.html",
-      "title": "OpenAI启动新一轮安全冲刺，排查漏洞强化平台防御",
-      "url": "https://www.freebuf.com/articles/ai-security/510375.html",
-      "pubDate": "Tue, 03 Nov 2026 05:17:26 +0800",
-      "extra": {
-        "hover": "OpenAI启动新一轮安全冲刺，联合外部安全研究团队、上调漏洞赏金，依托AI常态化排查修复漏洞，构建持续防御体系，强化旗下平台安全防护能力。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/510348.html",
-      "title": "黑客利用ARTEX AI入侵WorkOS，获取客户Slack对话记录",
-      "url": "https://www.freebuf.com/articles/database/510348.html",
-      "pubDate": "Tue, 03 Nov 2026 03:43:36 +0800",
-      "extra": {
-        "hover": "WorkOS遭黑客利用AI驱动的进攻性安全框架ARTEX入侵，客户联系信息、Slack对话等数据泄露，核心生产服务暂未受影响，需警惕钓鱼攻击。"
       }
     }
   ]
