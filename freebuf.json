@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1793848117217,
+  "updatedAt": 1793875723498,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/510901.html",
+      "title": "美国起诉两名加籍男子，涉嫌入侵高校超算挖矿",
+      "url": "https://www.freebuf.com/news/510901.html",
+      "pubDate": "Thu, 05 Nov 2026 06:20:56 +0800",
+      "extra": {
+        "hover": "美国起诉两名加拿大男子，二人涉嫌非法入侵多所美国高校超级计算机挖矿牟利，一人已被引渡赴美，相关罪名最高可处10年监禁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/510862.html",
+      "title": "OpenAI网络模型发现948个Linux内核提权漏洞，单次运行完成全流程验证",
+      "url": "https://www.freebuf.com/articles/system/510862.html",
+      "pubDate": "Thu, 05 Nov 2026 02:42:57 +0800",
+      "extra": {
+        "hover": "OpenAI自动化流水线单次运行发现948个Linux内核提权漏洞，未打补丁系统低权限账号可直接获取root权限，需尽快更新内核修复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/510751.html",
       "title": "APT29关联黑客劫持网页分析脚本，投递iOS与Android漏洞利用载荷",
@@ -101,6 +119,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/510780.html",
+      "title": "谨慎使用！ ARTEX 二开投毒：流行 Fork 的 Docker 镜像植入未认证 WebShell",
+      "url": "https://www.freebuf.com/articles/vuls/510780.html",
+      "pubDate": "Wed, 04 Nov 2026 10:26:39 +0800",
+      "extra": {
+        "hover": "“不要尝试克隆它！”ARTEX热门Fork的Docker镜像暗藏后门，登录接口可未认证root执行命令。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/510702.html",
       "title": "谷歌修复超200个安卓安全漏洞，含严重0-Click远程代码执行漏洞",
       "url": "https://www.freebuf.com/news/510702.html",
@@ -152,33 +179,6 @@
       "pubDate": "Tue, 03 Nov 2026 17:17:17 +0800",
       "extra": {
         "hover": "西门子IoT2050满分高危漏洞遭活跃利用，无认证即可获取最高权限执行任意代码，攻击者借此投递僵尸程序、植入持久化后门。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/510529.html",
-      "title": "OpenAI用AI Agents搭建Pando Git基础设施，部署持续安全测试",
-      "url": "https://www.freebuf.com/articles/development/510529.html",
-      "pubDate": "Tue, 03 Nov 2026 17:15:01 +0800",
-      "extra": {
-        "hover": "OpenAI借助Codex agents仅10周搭成Git后端Pando，部署7×24小时AI红队持续安全测试，替换原有低可靠性代码仓库系统，代码推送延迟下降近80%。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/510490.html",
-      "title": "Gartner提出暴露面优先级四要素，落地可降70%入侵风险",
-      "url": "https://www.freebuf.com/articles/es/510490.html",
-      "pubDate": "Tue, 03 Nov 2026 16:48:20 +0800",
-      "extra": {
-        "hover": "漏洞越修越多，入侵风险却没降？Gartner提出暴露面优先级四要素，落地可降70%入侵风险，破解安全团队修复疲劳。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510519.html",
-      "title": "朝鲜黑客滥用内部AI工具与虚假招聘面试，盗取币安63.4亿美元资产",
-      "url": "https://www.freebuf.com/news/510519.html",
-      "pubDate": "Tue, 03 Nov 2026 16:39:33 +0800",
-      "extra": {
-        "hover": "朝鲜黑客借虚假招聘、恶意工具绕过防护，劫持内部AI渗透币安，盗取63.4亿美元加密资产，部分资金被拦截，平台全额承担用户损失。"
       }
     }
   ]
