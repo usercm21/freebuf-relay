@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793813453905,
+  "updatedAt": 1793848117217,
   "items": [
     {
       "id": "https://www.freebuf.com/news/510751.html",
@@ -8,6 +8,24 @@
       "pubDate": "Wed, 04 Nov 2026 19:57:52 +0800",
       "extra": {
         "hover": "俄背景APT29发动水坑、供应链攻击，投递iOS/Android漏洞链，用户仅打开网页无需任何操作即可被窃取全量设备敏感数据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/510707.html",
+      "title": "FreeBuf早报 | 朝鲜黑客滥用内部AI工具与虚假招聘面试；新型窃密木马盗取AI工具认证令牌",
+      "url": "https://www.freebuf.com/news/510707.html",
+      "pubDate": "Wed, 04 Nov 2026 19:30:07 +0800",
+      "extra": {
+        "hover": "朝鲜黑客借虚假招聘、恶意工具绕过防护，劫持内部AI渗透币安，盗取63.4亿美元加密资产，部分资金被拦截，平台全额承担用户损失。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/510691.html",
+      "title": "819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团",
+      "url": "https://www.freebuf.com/articles/vuls/510691.html",
+      "pubDate": "Wed, 04 Nov 2026 18:23:31 +0800",
+      "extra": {
+        "hover": "闸门全拆是黑产那头的事，防御这头能做的，说到底就一句话：把监控重心从静态特征挪到 Agent 的行为上。"
       }
     },
     {
@@ -38,15 +56,6 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/news/510748.html",
-      "title": "俄罗斯APT29利用n-day漏洞发起攻击，瞄准iOS与Android用户窃密",
-      "url": "https://www.freebuf.com/news/510748.html",
-      "pubDate": "Wed, 04 Nov 2026 14:38:37 +0800",
-      "extra": {
-        "hover": "俄罗斯APT29发起无需用户交互的水坑攻击，利用已修补n-day漏洞瞄准iOS、安卓用户，可窃取密码、聊天消息等核心敏感数据，及时更新系统即可防御。"
-      }
-    },
-    {
       "id": "https://www.freebuf.com/news/510736.html",
       "title": "Node.js计划推送高危安全补丁，覆盖22.x、24.x、26.x发布分支",
       "url": "https://www.freebuf.com/news/510736.html",
@@ -71,6 +80,15 @@
       "pubDate": "Wed, 04 Nov 2026 11:33:35 +0800",
       "extra": {
         "hover": "CrowdStrike收购Fiddler、Dreadnode，补强Falcon平台AI安全能力，覆盖AI Agent全生命周期，防控Agent未遭入侵即可制造的安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/510601.html",
+      "title": "如何设计一个漏洞挖掘 Agent：从 LLM 原理到四层架构与核心代码",
+      "url": "https://www.freebuf.com/articles/sectool/510601.html",
+      "pubDate": "Wed, 04 Nov 2026 11:23:33 +0800",
+      "extra": {
+        "hover": "一个可长期运行的漏洞挖掘 Agent = 四层架构约束职责边界 + 确定性套路固化为工具 + 非确定性判断交给模型 + 安全执行器以代码守住合规边界。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Tue, 03 Nov 2026 16:39:33 +0800",
       "extra": {
         "hover": "朝鲜黑客借虚假招聘、恶意工具绕过防护，劫持内部AI渗透币安，盗取63.4亿美元加密资产，部分资金被拦截，平台全额承担用户损失。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510421.html",
-      "title": "模型可提议，宿主须验授权与效果：OAI–HF 事件中生成式代理的四类失控前兆与控制面验证",
-      "url": "https://www.freebuf.com/articles/ai-security/510421.html",
-      "pubDate": "Tue, 03 Nov 2026 16:36:17 +0800",
-      "extra": {
-        "hover": "从OAI‑HF事故提炼四类代理失控前兆，通过本地控制面回放实验，对比文本检测与provenance gate效果，给出可落地的运行时授权校验与失控检测清单。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/container/510419.html",
-      "title": "AWS 云渗透实战：从 SSRF 到 S3 拖库的完整攻击链拆解",
-      "url": "https://www.freebuf.com/articles/container/510419.html",
-      "pubDate": "Tue, 03 Nov 2026 16:22:52 +0800",
-      "extra": {
-        "hover": "以Capital One数据泄露为骨架，拆解AWS云渗透攻击链：SSRF打元数据服务窃取凭据、IAM六条提权路径、S3枚举与策略绕过、持久化与反检测，每环附防御做法与CloudScan审计要点。"
       }
     }
   ]
