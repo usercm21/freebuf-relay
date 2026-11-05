@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793875723498,
+  "updatedAt": 1793902849369,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/database/510950.html",
+      "title": "离职电脑没清干净，公司用恢复软件把和新公司的聊天、项目资料全挖了出来，然后拿着这些证据索赔。",
+      "url": "https://www.freebuf.com/articles/database/510950.html",
+      "pubDate": "Thu, 05 Nov 2026 17:09:17 +0800",
+      "extra": {
+        "hover": "离职电脑没清干净，赔到倾家荡产！技术员恢复新公司聊天和项目资料，公司索赔，姑娘当场崩溃。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/510901.html",
       "title": "美国起诉两名加籍男子，涉嫌入侵高校超算挖矿",
@@ -101,6 +110,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/510953.html",
+      "title": "从超市到军事基地：冷链网络风险正在升温-欧美冷链网络攻击实录及对华警示",
+      "url": "https://www.freebuf.com/articles/510953.html",
+      "pubDate": "Wed, 04 Nov 2026 11:30:13 +0800",
+      "extra": {
+        "hover": "欧美三波冷柜攻击：远程“加热”至50℃起火，被斥“史无前例、不可接受”，暴露OT控制权武器化。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/sectool/510601.html",
       "title": "如何设计一个漏洞挖掘 Agent：从 LLM 原理到四层架构与核心代码",
       "url": "https://www.freebuf.com/articles/sectool/510601.html",
@@ -161,24 +179,6 @@
       "pubDate": "Wed, 04 Nov 2026 02:35:39 +0800",
       "extra": {
         "hover": "黑客入侵法国血浆存储冷冻设备温控系统，恶意将温度篡改至110℃，值班人员及时处置，未造成血浆损毁、输血服务中断等严重后果。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510439.html",
-      "title": "思维链的暗门：推理模型中的逻辑陷阱与隐蔽操控",
-      "url": "https://www.freebuf.com/articles/ai-security/510439.html",
-      "pubDate": "Tue, 03 Nov 2026 18:01:00 +0800",
-      "extra": {
-        "hover": "通过分析思维链推理过程的三个关键盲区——前提污染、推理链注入和逻辑短路，本文提出了三种攻击形态，并通过实验验证了其有效性。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510427.html",
-      "title": "FreeBuf早报 | 攻击者利用西门子IoT2050高危漏洞；ChatGPT存在高危漏洞",
-      "url": "https://www.freebuf.com/news/510427.html",
-      "pubDate": "Tue, 03 Nov 2026 17:17:17 +0800",
-      "extra": {
-        "hover": "西门子IoT2050满分高危漏洞遭活跃利用，无认证即可获取最高权限执行任意代码，攻击者借此投递僵尸程序、植入持久化后门。"
       }
     }
   ]
