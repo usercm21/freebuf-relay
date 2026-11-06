@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1793964941915,
+  "updatedAt": 1793989503347,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/511197.html",
+      "title": "OpenSSH漏洞披露数小时即遭在野利用，可无密码访问musl系统",
+      "url": "https://www.freebuf.com/articles/system/511197.html",
+      "pubDate": "Fri, 06 Nov 2026 12:49:41 +0800",
+      "extra": {
+        "hover": "OpenSSH高危漏洞CVE-2026-123158披露数小时即遭在野利用，无密码入侵musl系统成功率100%，用户需尽快升级修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/511175.html",
+      "title": "白宫网络被监测到流出住宅代理流量，或成内部系统入侵入口",
+      "url": "https://www.freebuf.com/news/511175.html",
+      "pubDate": "Fri, 06 Nov 2026 10:29:58 +0800",
+      "extra": {
+        "hover": "研究发现白宫网络已成为住宅代理出口节点，攻击者仅需几美元即可借道，入侵这一全球防护等级最高的敏感内部网络。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/511144.html",
       "title": "美国五家联邦机构联合预警，攻击者瞄准食药制冷控制系统",
@@ -119,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/511242.html",
+      "title": "那些60美金包月无限用的Claude/GPT中转站，算力到底哪来的？",
+      "url": "https://www.freebuf.com/articles/511242.html",
+      "pubDate": "Thu, 05 Nov 2026 07:59:45 +0800",
+      "extra": {
+        "hover": "API Key一漏，黑客懒得挖矿，直接把大模型额度当提款机，一天可刷爆10万美元。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/510901.html",
       "title": "美国起诉两名加籍男子，涉嫌入侵高校超算挖矿",
       "url": "https://www.freebuf.com/news/510901.html",
@@ -152,33 +179,6 @@
       "pubDate": "Wed, 04 Nov 2026 20:29:15 +0800",
       "extra": {
         "hover": "八成安全运营中心验收完就荒废：上线即巅峰，验收即终点；红点闪就闪，批量关告警系统就死了。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510751.html",
-      "title": "APT29关联黑客劫持网页分析脚本，投递iOS与Android漏洞利用载荷",
-      "url": "https://www.freebuf.com/news/510751.html",
-      "pubDate": "Wed, 04 Nov 2026 19:57:52 +0800",
-      "extra": {
-        "hover": "俄背景APT29发动水坑、供应链攻击，投递iOS/Android漏洞链，用户仅打开网页无需任何操作即可被窃取全量设备敏感数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510707.html",
-      "title": "FreeBuf早报 | 朝鲜黑客滥用内部AI工具与虚假招聘面试；新型窃密木马盗取AI工具认证令牌",
-      "url": "https://www.freebuf.com/news/510707.html",
-      "pubDate": "Wed, 04 Nov 2026 19:30:07 +0800",
-      "extra": {
-        "hover": "朝鲜黑客借虚假招聘、恶意工具绕过防护，劫持内部AI渗透币安，盗取63.4亿美元加密资产，部分资金被拦截，平台全额承担用户损失。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/510691.html",
-      "title": "819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团",
-      "url": "https://www.freebuf.com/articles/vuls/510691.html",
-      "pubDate": "Wed, 04 Nov 2026 18:23:31 +0800",
-      "extra": {
-        "hover": "闸门全拆是黑产那头的事，防御这头能做的，说到底就一句话：把监控重心从静态特征挪到 Agent 的行为上。"
       }
     }
   ]
