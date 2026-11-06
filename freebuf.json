@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1793936551217,
+  "updatedAt": 1793964941915,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/511144.html",
+      "title": "美国五家联邦机构联合预警，攻击者瞄准食药制冷控制系统",
+      "url": "https://www.freebuf.com/news/511144.html",
+      "pubDate": "Fri, 06 Nov 2026 09:04:36 +0800",
+      "extra": {
+        "hover": "美五家联邦机构联合预警：网络攻击者正入侵食药冷链制冷系统，欧洲已现多起攻击，可致设备损毁、食药变质甚至引发火灾，运营方需立刻落实防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511145.html",
+      "title": "1465台公网服务器暴露ARTEX AI渗透框架，部分托管网络攻击工具",
+      "url": "https://www.freebuf.com/articles/ai-security/511145.html",
+      "pubDate": "Fri, 06 Nov 2026 09:02:33 +0800",
+      "extra": {
+        "hover": "1465台公网服务器暴露ARTEX AI渗透框架，部分混装攻击工具可形成完整攻击链，已关联多起真实攻击，亟需排查防范。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/511040.html",
       "title": "微软披露Windows画图严重漏洞，无需用户Click即可远程执行代码",
@@ -56,6 +74,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/510997.html",
+      "title": "MindSearch-RCE复现：AI搜索一句提问直接拿shell （CVE-2026-105135）",
+      "url": "https://www.freebuf.com/articles/510997.html",
+      "pubDate": "Thu, 05 Nov 2026 17:10:57 +0800",
+      "extra": {
+        "hover": "未认证请求即可让服务端以root执行任意代码，CVSS 9.8；“合规审计”话术还能绕过模型。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/database/510950.html",
       "title": "离职电脑没清干净，公司用恢复软件把和新公司的聊天、项目资料全挖了出来，然后拿着这些证据索赔。",
       "url": "https://www.freebuf.com/articles/database/510950.html",
@@ -74,6 +101,24 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/sectool/510999.html",
+      "title": "DeepSeek Harness Desktop 的安全测试插件 -- aker",
+      "url": "https://www.freebuf.com/articles/sectool/510999.html",
+      "pubDate": "Thu, 05 Nov 2026 11:27:04 +0800",
+      "extra": {
+        "hover": "大多数安全工具抢桌面，Saker不抢，只加一个下拉框；务必虚拟机运行，非法测试后果自负。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/510860.html",
+      "title": "AI Agent 的沙箱逃逸：从受限环境到系统控制",
+      "url": "https://www.freebuf.com/articles/ai-security/510860.html",
+      "pubDate": "Thu, 05 Nov 2026 10:43:02 +0800",
+      "extra": {
+        "hover": "摘要本文研究 AI Agent 沙箱环境中存在的逃逸攻击问题。通过分析 AI Agent 沙箱的三个关键缺陷——文件系统逃逸、网络逃逸和进程逃逸，本文提出了三种攻击形态，并通过实验验证了其有效性。研究结果表明，AI Agent 沙箱在路径检查、命令检查和网络检查方面存在严重缺陷，需要引入更强的隔离机制。一、引言1.1 研究背景随着 AI Agent 的广泛应用，越来越多的平台使用沙箱来限制 Age"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/510901.html",
       "title": "美国起诉两名加籍男子，涉嫌入侵高校超算挖矿",
       "url": "https://www.freebuf.com/news/510901.html",
@@ -89,6 +134,24 @@
       "pubDate": "Thu, 05 Nov 2026 02:42:57 +0800",
       "extra": {
         "hover": "OpenAI自动化流水线单次运行发现948个Linux内核提权漏洞，未打补丁系统低权限账号可直接获取root权限，需尽快更新内核修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/511152.html",
+      "title": "【吃瓜】腾讯游戏部分官方启动器被投毒",
+      "url": "https://www.freebuf.com/news/511152.html",
+      "pubDate": "Thu, 05 Nov 2026 00:00:55 +0800",
+      "extra": {
+        "hover": "《NIKKE》官方PC启动器供应链投毒，官方渠道同样中招；恶意载荷可远控并窃取密钥、凭证与钱包数据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/511079.html",
+      "title": "花三百万建的 SIEM最后只剩一块大屏",
+      "url": "https://www.freebuf.com/articles/es/511079.html",
+      "pubDate": "Wed, 04 Nov 2026 20:29:15 +0800",
+      "extra": {
+        "hover": "八成安全运营中心验收完就荒废：上线即巅峰，验收即终点；红点闪就闪，批量关告警系统就死了。"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Wed, 04 Nov 2026 18:23:31 +0800",
       "extra": {
         "hover": "闸门全拆是黑产那头的事，防御这头能做的，说到底就一句话：把监控重心从静态特征挪到 Agent 的行为上。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510732.html",
-      "title": "Ruby on Rails曝出高危漏洞，攻击者可利用ImageMagick上传逻辑写入服务器任意文件",
-      "url": "https://www.freebuf.com/news/510732.html",
-      "pubDate": "Wed, 04 Nov 2026 17:37:04 +0800",
-      "extra": {
-        "hover": "Ruby on Rails曝出CVSS9.8分高危漏洞，未授权攻击者可利用ImageMagick上传逻辑写入服务器任意文件、窃取凭证、执行代码，受影响用户需尽快升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/510735.html",
-      "title": "Xen Hypervisor曝高危漏洞，恶意VM可读写同主机任意VM内存",
-      "url": "https://www.freebuf.com/articles/system/510735.html",
-      "pubDate": "Wed, 04 Nov 2026 17:16:27 +0800",
-      "extra": {
-        "hover": "Xen Hypervisor曝高危漏洞，单台恶意VM即可突破隔离读写同机所有VM内存、接管主机，无临时缓解措施，需尽快安装补丁修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510729.html",
-      "title": "Agent运行时安全不能仅靠单点网关，缺失底层支撑如同无雷达的电台",
-      "url": "https://www.freebuf.com/articles/ai-security/510729.html",
-      "pubDate": "Wed, 04 Nov 2026 17:04:20 +0800",
-      "extra": {
-        "hover": "仅靠网关做Agent运行时防护如同无雷达的电台，覆盖不全易被攻破，别信厂商终态宣传，需基于全局上下文构建多层有效防护体系。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511001.html",
-      "title": "上海首例！男子盗用AI算力 用400多万个账号薅积分牟利获刑",
-      "url": "https://www.freebuf.com/articles/511001.html",
-      "pubDate": "Wed, 04 Nov 2026 15:00:31 +0800",
-      "extra": {
-        "hover": "“只是搬运接口”不是挡箭牌：男子用AI伪造签名绕过防护，非法调用AI接口29万余次牟利获刑。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510736.html",
-      "title": "Node.js计划推送高危安全补丁，覆盖22.x、24.x、26.x发布分支",
-      "url": "https://www.freebuf.com/news/510736.html",
-      "pubDate": "Wed, 04 Nov 2026 12:59:05 +0800",
-      "extra": {
-        "hover": "Node.js将于11月11日为22.x、24.x、26.x分支推送高危安全补丁，停服分支无补丁，相关用户请提前做好更新准备。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510716.html",
-      "title": "黑客利用Zyxel GS1900 0Day劫持交换机，旧版安全补丁失效",
-      "url": "https://www.freebuf.com/news/510716.html",
-      "pubDate": "Wed, 04 Nov 2026 11:57:24 +0800",
-      "extra": {
-        "hover": "Zyxel GS1900交换机0day漏洞遭在野利用，旧补丁完全失效，攻击者无需登录即可获取root权限，已波及多国，需立即升级加固。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510718.html",
-      "title": "CrowdStrike收购Fiddler、Dreadnode，覆盖Agent全生命周期AI安全",
-      "url": "https://www.freebuf.com/articles/ai-security/510718.html",
-      "pubDate": "Wed, 04 Nov 2026 11:33:35 +0800",
-      "extra": {
-        "hover": "CrowdStrike收购Fiddler、Dreadnode，补强Falcon平台AI安全能力，覆盖AI Agent全生命周期，防控Agent未遭入侵即可制造的安全风险。"
       }
     }
   ]
