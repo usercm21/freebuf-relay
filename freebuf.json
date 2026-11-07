@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1794020413458,
+  "updatedAt": 1794045457401,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511118.html",
+      "title": "在图片像素层植入 microtext 指令绕过文本过滤器打多模态 Agent",
+      "url": "https://www.freebuf.com/articles/ai-security/511118.html",
+      "pubDate": "Fri, 06 Nov 2026 16:43:56 +0800",
+      "extra": {
+        "hover": "把指令压到七像素以下，藏进图片的网格像素里。九种载体、七类检测器的离线实测显示：OCR 的字高门槛只有七像素，低对比度对它完全无效；网格子采样在缩放后重现，而最耐用的是最土的小字。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/511114.html",
       "title": "OpenAI网络模型发现948个Linux内核提权漏洞；朝鲜黑客滥用内部AI工具与虚假招聘面试 | FreeBuf周报",
@@ -11,12 +20,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/511211.html",
+      "title": "勒索团伙Dark Project招募加盟黑客，开出80%分成扩张网络攻击",
+      "url": "https://www.freebuf.com/news/511211.html",
+      "pubDate": "Fri, 06 Nov 2026 15:03:03 +0800",
+      "extra": {
+        "hover": "新兴Dark Project勒索团伙开出80%高分成招募加盟黑客，采用窃密加密双重勒索手段，不付赎金就公开数据，已瞄准多国多行业企业。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/system/511197.html",
       "title": "OpenSSH漏洞披露数小时即遭在野利用，可无密码访问musl系统",
       "url": "https://www.freebuf.com/articles/system/511197.html",
       "pubDate": "Fri, 06 Nov 2026 12:49:41 +0800",
       "extra": {
         "hover": "OpenSSH高危漏洞CVE-2026-123158披露数小时即遭在野利用，无密码入侵musl系统成功率100%，用户需尽快升级修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/511260.html",
+      "title": "重磅APT分析｜新型后门MythicRatatoskr曝光！利用Yggdrasil网状网络藏C2，APT团伙分工协作，拿到权限直接转手实施数据销毁",
+      "url": "https://www.freebuf.com/articles/es/511260.html",
+      "pubDate": "Fri, 06 Nov 2026 11:59:44 +0800",
+      "extra": {
+        "hover": "权限转手即毁灭：UAC-0099窃密后移交Sandworm，借Yggdrasil网状C2大规模擦除。"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Thu, 05 Nov 2026 11:27:04 +0800",
       "extra": {
         "hover": "大多数安全工具抢桌面，Saker不抢，只加一个下拉框；务必虚拟机运行，非法测试后果自负。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510860.html",
-      "title": "AI Agent 的沙箱逃逸：从受限环境到系统控制",
-      "url": "https://www.freebuf.com/articles/ai-security/510860.html",
-      "pubDate": "Thu, 05 Nov 2026 10:43:02 +0800",
-      "extra": {
-        "hover": "摘要本文研究 AI Agent 沙箱环境中存在的逃逸攻击问题。通过分析 AI Agent 沙箱的三个关键缺陷——文件系统逃逸、网络逃逸和进程逃逸，本文提出了三种攻击形态，并通过实验验证了其有效性。研究结果表明，AI Agent 沙箱在路径检查、命令检查和网络检查方面存在严重缺陷，需要引入更强的隔离机制。一、引言1.1 研究背景随着 AI Agent 的广泛应用，越来越多的平台使用沙箱来限制 Age"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511242.html",
-      "title": "那些60美金包月无限用的Claude/GPT中转站，算力到底哪来的？",
-      "url": "https://www.freebuf.com/articles/511242.html",
-      "pubDate": "Thu, 05 Nov 2026 07:59:45 +0800",
-      "extra": {
-        "hover": "API Key一漏，黑客懒得挖矿，直接把大模型额度当提款机，一天可刷爆10万美元。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/510901.html",
-      "title": "美国起诉两名加籍男子，涉嫌入侵高校超算挖矿",
-      "url": "https://www.freebuf.com/news/510901.html",
-      "pubDate": "Thu, 05 Nov 2026 06:20:56 +0800",
-      "extra": {
-        "hover": "美国起诉两名加拿大男子，二人涉嫌非法入侵多所美国高校超级计算机挖矿牟利，一人已被引渡赴美，相关罪名最高可处10年监禁。"
       }
     }
   ]
