@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1793989503347,
+  "updatedAt": 1794020413458,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/511114.html",
+      "title": "OpenAI网络模型发现948个Linux内核提权漏洞；朝鲜黑客滥用内部AI工具与虚假招聘面试 | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/511114.html",
+      "pubDate": "Fri, 06 Nov 2026 16:34:18 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/511197.html",
       "title": "OpenSSH漏洞披露数小时即遭在野利用，可无密码访问musl系统",
@@ -44,6 +53,24 @@
       "pubDate": "Fri, 06 Nov 2026 00:58:05 +0800",
       "extra": {
         "hover": "微软披露Windows画图存在严重远程代码执行漏洞，无需认证、用户点击即可执行恶意代码，暂无在野利用，需及时核查更新补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/511245.html",
+      "title": "日本 GMO 公司拒付勒索金后，悬赏100万美元征集攻击者线索",
+      "url": "https://www.freebuf.com/articles/es/511245.html",
+      "pubDate": "Fri, 06 Nov 2026 00:08:34 +0800",
+      "extra": {
+        "hover": "日本GMO拒付5000万美元勒索，悬赏100万美元征集线索；攻击者威胁操纵70多家公司账户并泄密。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/511240.html",
+      "title": "AI 加持 Android 逆向：脱壳、Hook、SO 分析与漏洞挖掘实战",
+      "url": "https://www.freebuf.com/articles/511240.html",
+      "pubDate": "Fri, 06 Nov 2026 00:00:38 +0800",
+      "extra": {
+        "hover": "Android逆向已非Jadx；AI加速Hook、汇编与签名还原，不替代工程师。未授权勿攻击、破解！"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Thu, 05 Nov 2026 06:20:56 +0800",
       "extra": {
         "hover": "美国起诉两名加拿大男子，二人涉嫌非法入侵多所美国高校超级计算机挖矿牟利，一人已被引渡赴美，相关罪名最高可处10年监禁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/510862.html",
-      "title": "OpenAI网络模型发现948个Linux内核提权漏洞，单次运行完成全流程验证",
-      "url": "https://www.freebuf.com/articles/system/510862.html",
-      "pubDate": "Thu, 05 Nov 2026 02:42:57 +0800",
-      "extra": {
-        "hover": "OpenAI自动化流水线单次运行发现948个Linux内核提权漏洞，未打补丁系统低权限账号可直接获取root权限，需尽快更新内核修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511152.html",
-      "title": "【吃瓜】腾讯游戏部分官方启动器被投毒",
-      "url": "https://www.freebuf.com/news/511152.html",
-      "pubDate": "Thu, 05 Nov 2026 00:00:55 +0800",
-      "extra": {
-        "hover": "《NIKKE》官方PC启动器供应链投毒，官方渠道同样中招；恶意载荷可远控并窃取密钥、凭证与钱包数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/511079.html",
-      "title": "花三百万建的 SIEM最后只剩一块大屏",
-      "url": "https://www.freebuf.com/articles/es/511079.html",
-      "pubDate": "Wed, 04 Nov 2026 20:29:15 +0800",
-      "extra": {
-        "hover": "八成安全运营中心验收完就荒废：上线即巅峰，验收即终点；红点闪就闪，批量关告警系统就死了。"
       }
     }
   ]
