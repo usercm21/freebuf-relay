@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794130428798,
+  "updatedAt": 1794154607065,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/511320.html",
@@ -8,6 +8,15 @@
       "pubDate": "Sat, 07 Nov 2026 19:56:18 +0800",
       "extra": {
         "hover": "Hunt.io起底ARTEX AI黑客工具攻击链，该工具已入侵韩国7家金融机构致数据泄露，全球千余台相关暴露服务器风险极高。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/511347.html",
+      "title": "一条300字符的密码登进SSH：OpenSSH十年认证绕过深度复盘（CVE-2026-123158·附PoC）",
+      "url": "https://www.freebuf.com/articles/vuls/511347.html",
+      "pubDate": "Sat, 07 Nov 2026 08:48:06 +0800",
+      "extra": {
+        "hover": "*sshole 十年老洞：攻击者无需真实密码，257 字节即可登入星号账户，Alpine 全系沦陷。"
       }
     },
     {
@@ -35,6 +44,15 @@
       "pubDate": "Fri, 06 Nov 2026 15:03:03 +0800",
       "extra": {
         "hover": "新兴Dark Project勒索团伙开出80%高分成招募加盟黑客，采用窃密加密双重勒索手段，不付赎金就公开数据，已瞄准多国多行业企业。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/511314.html",
+      "title": "日本无印良品109万条会员信息泄露 含“MUJI Card”信用卡卡号",
+      "url": "https://www.freebuf.com/articles/database/511314.html",
+      "pubDate": "Fri, 06 Nov 2026 15:01:02 +0800",
+      "extra": {
+        "hover": "无印良品通报客户信息外泄，涉2726万条信息、109万张联名卡，部分含完整卡号及姓名地址。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 05 Nov 2026 17:10:57 +0800",
       "extra": {
         "hover": "未认证请求即可让服务端以root执行任意代码，CVSS 9.8；“合规审计”话术还能绕过模型。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/510950.html",
-      "title": "离职电脑没清干净，公司用恢复软件把和新公司的聊天、项目资料全挖了出来，然后拿着这些证据索赔。",
-      "url": "https://www.freebuf.com/articles/database/510950.html",
-      "pubDate": "Thu, 05 Nov 2026 17:09:17 +0800",
-      "extra": {
-        "hover": "离职电脑没清干净，赔到倾家荡产！技术员恢复新公司聊天和项目资料，公司索赔，姑娘当场崩溃。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/510922.html",
-      "title": "利用 BPE 切分与 Unicode 归一化差异绕过 LLM 安全过滤器",
-      "url": "https://www.freebuf.com/articles/ai-security/510922.html",
-      "pubDate": "Thu, 05 Nov 2026 16:41:56 +0800",
-      "extra": {
-        "hover": "过滤器看到的是字符串，模型吃掉的是词元序列，中间隔着归一化与切分两套规则。十一种手法实测下来，结论反直觉：字符级加固关掉七种，唯一活下来的字符级手法是组合符，只因一行代码顺序写反。"
       }
     }
   ]
