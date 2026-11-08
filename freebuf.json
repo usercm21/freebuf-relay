@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1794045457401,
+  "updatedAt": 1794130428798,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511320.html",
+      "title": "Hunt.io起底ARTEX攻击活动，AI工具关联韩国金融机构入侵",
+      "url": "https://www.freebuf.com/articles/ai-security/511320.html",
+      "pubDate": "Sat, 07 Nov 2026 19:56:18 +0800",
+      "extra": {
+        "hover": "Hunt.io起底ARTEX AI黑客工具攻击链，该工具已入侵韩国7家金融机构致数据泄露，全球千余台相关暴露服务器风险极高。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/511118.html",
       "title": "在图片像素层植入 microtext 指令绕过文本过滤器打多模态 Agent",
@@ -164,21 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/system/511008.html",
-      "title": "GhostMap漏洞影响Android系统，无需打开应用就可触发无限重启",
-      "url": "https://www.freebuf.com/articles/system/511008.html",
-      "pubDate": "Thu, 05 Nov 2026 16:11:01 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/510922.html",
+      "title": "利用 BPE 切分与 Unicode 归一化差异绕过 LLM 安全过滤器",
+      "url": "https://www.freebuf.com/articles/ai-security/510922.html",
+      "pubDate": "Thu, 05 Nov 2026 16:41:56 +0800",
       "extra": {
-        "hover": "Android存在GhostMap漏洞，安装特殊构造的恶意应用无需打开就会触发设备无限重启锁死，安全模式无效，目前暂无官方补丁，需警惕来源不明APK。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/510999.html",
-      "title": "DeepSeek Harness Desktop 的安全测试插件 -- aker",
-      "url": "https://www.freebuf.com/articles/sectool/510999.html",
-      "pubDate": "Thu, 05 Nov 2026 11:27:04 +0800",
-      "extra": {
-        "hover": "大多数安全工具抢桌面，Saker不抢，只加一个下拉框；务必虚拟机运行，非法测试后果自负。"
+        "hover": "过滤器看到的是字符串，模型吃掉的是词元序列，中间隔着归一化与切分两套规则。十一种手法实测下来，结论反直觉：字符级加固关掉七种，唯一活下来的字符级手法是组合符，只因一行代码顺序写反。"
       }
     }
   ]
