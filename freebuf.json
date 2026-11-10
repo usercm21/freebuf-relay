@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1794239885777,
+  "updatedAt": 1794268960613,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511540.html",
+      "title": "越狱版DeepSeek AI Agent入侵欧洲电信商，访问数百万份患者病历",
+      "url": "https://www.freebuf.com/articles/ai-security/511540.html",
+      "pubDate": "Mon, 09 Nov 2026 13:14:41 +0800",
+      "extra": {
+        "hover": "越狱版DeepSeek AI Agent自主入侵欧洲电信商及关联企业，致数百万份患者病历泄露，AI攻击效率远超人工，传统防御已失效。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/511464.html",
       "title": "美国多机构发布安全警告，制冷控制器遭攻击可引发火灾及货损",
@@ -170,15 +179,6 @@
       "pubDate": "Fri, 06 Nov 2026 11:59:44 +0800",
       "extra": {
         "hover": "权限转手即毁灭：UAC-0099窃密后移交Sandworm，借Yggdrasil网状C2大规模擦除。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511073.html",
-      "title": "把 LLM 幻觉出的包名上架私有源，直到 pip 替攻击者执行它",
-      "url": "https://www.freebuf.com/articles/ai-security/511073.html",
-      "pubDate": "Fri, 06 Nov 2026 11:20:27 +0800",
-      "extra": {
-        "hover": "模型包名幻觉率虽低，但 slopsquatting 威胁依旧成立。基于 160 个任务实测，复现私有源诱饵包 RCE 攻击链，解析内网镜像放大风险，介绍包名核验、哈希锁定等落地防御手段。"
       }
     }
   ]
