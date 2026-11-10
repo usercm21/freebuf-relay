@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1794324827031,
+  "updatedAt": 1794345875938,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/511743.html",
+      "title": "币安警告iOS沙盒逃逸漏洞可泄露加密钱包密钥，暂无确认修复方案",
+      "url": "https://www.freebuf.com/news/511743.html",
+      "pubDate": "Tue, 10 Nov 2026 17:45:31 +0800",
+      "extra": {
+        "hover": "币安预警无需越狱的iOS沙盒逃逸漏洞可窃取加密钱包密钥，最新系统暂未修复，提醒用户删除非可信应用，遇入侵风险及时转移资产、重置会话。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/511663.html",
       "title": "企业如何做 GBT 45577—2025 数据安全风险评估",
@@ -11,12 +20,39 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/511701.html",
+      "title": "除了artex,还有这么多基于ai的自主渗透测试工具，你知道吗？快来看看吧。",
+      "url": "https://www.freebuf.com/articles/511701.html",
+      "pubDate": "Tue, 10 Nov 2026 15:00:13 +0800",
+      "extra": {
+        "hover": "45款AI自主攻击框架可自动化攻击，ARTEX在Shodan暴露1,428实例，操控仅需一个提示词。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/511627.html",
       "title": "掏空大模型：黑盒 API 的逆向工程攻击实战",
       "url": "https://www.freebuf.com/articles/ai-security/511627.html",
       "pubDate": "Tue, 10 Nov 2026 13:45:04 +0800",
       "extra": {
         "hover": "摘要随着大模型 API 服务的普及，模型提供商通过黑盒化部署保护核心资产成为一种常态。然而，黑盒并不等于安全。本文系统性地研究了针对 AI 模型的提取与逆向工程技术，包括功能复制攻击、成员推断攻击和模型反演攻击。实验表明，即使是商业级的黑盒 API 也难以抵御精心设计的查询攻击。一、引言在 AI 即服务（AIaaS）时代，企业将训练好的模型部署为 API 服务，按调用次数收费。这种模式保护了模型权"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/511745.html",
+      "title": "微软AI漏洞猎手发现Rust漏洞，已潜藏近11年",
+      "url": "https://www.freebuf.com/articles/development/511745.html",
+      "pubDate": "Tue, 10 Nov 2026 12:36:55 +0800",
+      "extra": {
+        "hover": "微软AI漏洞猎手发现Rust标准库中潜藏近11年的内存安全漏洞，即便用安全Rust编写也可能出现访问已释放内存的问题，相关修复正推进。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511738.html",
+      "title": "Anthropic发布Claude Mythos 5.2，漏洞挖掘能力增强、沙箱逃逸率下降",
+      "url": "https://www.freebuf.com/articles/ai-security/511738.html",
+      "pubDate": "Tue, 10 Nov 2026 11:40:00 +0800",
+      "extra": {
+        "hover": "Anthropic推出Claude Fable、Mythos 5.2模型，漏洞挖掘能力显著升级，沙箱逃逸风险大幅降低，配套强化安全防护，面向合规企业开放。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Mon, 09 Nov 2026 02:13:53 +0800",
       "extra": {
         "hover": "React Server Components存在CVSS9.5分高危漏洞，无需认证即可远程执行代码，官方已发布补丁，建议受影响应用立即升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511377.html",
-      "title": "VOLTA：把 AI 变成“情报分拣员”的 Windows 窃密木马",
-      "url": "https://www.freebuf.com/articles/511377.html",
-      "pubDate": "Mon, 09 Nov 2026 00:00:28 +0800",
-      "extra": {
-        "hover": "VOLTA窃密后调用大模型给受害者“估值”，让AI替黑产筛选“谁更值钱、先打谁”，会话泄露可致账号被接管。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511337.html",
-      "title": "工具描述里藏着第二条系统提示词：MCP 工具投毒与跨服务器劫持实战复现",
-      "url": "https://www.freebuf.com/articles/ai-security/511337.html",
-      "pubDate": "Sun, 08 Nov 2026 14:31:40 +0800",
-      "extra": {
-        "hover": "接入前，先读的不是它的代码，而是它每一段描述；接入后，盯着的不是它调了什么，而是描述变了什么。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511320.html",
-      "title": "Hunt.io起底ARTEX攻击活动，AI工具关联韩国金融机构入侵",
-      "url": "https://www.freebuf.com/articles/ai-security/511320.html",
-      "pubDate": "Sat, 07 Nov 2026 19:56:18 +0800",
-      "extra": {
-        "hover": "Hunt.io起底ARTEX AI黑客工具攻击链，该工具已入侵韩国7家金融机构致数据泄露，全球千余台相关暴露服务器风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511376.html",
-      "title": "北京邮电大学 | 低语智能体：面向智能体互联网的事件驱动隐蔽通信协议",
-      "url": "https://www.freebuf.com/articles/511376.html",
-      "pubDate": "Sat, 07 Nov 2026 18:00:56 +0800",
-      "extra": {
-        "hover": "正常问答可能暗藏秘密通信；即便没发现敏感语句，也不足以断言安全，审计须看事件轨迹。"
       }
     }
   ]
