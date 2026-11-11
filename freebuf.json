@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1794345875938,
+  "updatedAt": 1794360130262,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/511817.html",
+      "title": "Blind Eagle利用虚假法院通知投递RAT，攻击波及拉美地区",
+      "url": "https://www.freebuf.com/news/511817.html",
+      "pubDate": "Tue, 10 Nov 2026 21:28:44 +0800",
+      "extra": {
+        "hover": "APT组织Blind Eagle利用虚假法院通知钓鱼，绕过防护投递RAT攻击拉美机构，可窃取敏感信息、远程控制目标主机。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511678.html",
+      "title": "用同音词与超声载波在 ASR 层给语音 Agent 下不可听指令",
+      "url": "https://www.freebuf.com/articles/ai-security/511678.html",
+      "pubDate": "Tue, 10 Nov 2026 17:54:34 +0800",
+      "extra": {
+        "hover": "一句没人说出口的话，被会议室的智能音箱执行了。本文用 25 kHz 超声载波绕过人耳、同音字绕过字符审查，75 条载荷实测得出一个反直觉的结论：两条攻击路径并不叠加，而是互相抵消。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/511743.html",
       "title": "币安警告iOS沙盒逃逸漏洞可泄露加密钱包密钥，暂无确认修复方案",
@@ -20,12 +38,39 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/511821.html",
+      "title": "梭子鱼确认邮件网关漏洞遭在野利用，可未授权获取root权限",
+      "url": "https://www.freebuf.com/news/511821.html",
+      "pubDate": "Tue, 10 Nov 2026 16:05:32 +0800",
+      "extra": {
+        "hover": "梭子鱼确认邮件网关两高危漏洞遭在野利用，攻击者无需授权即可获取root权限，用户需尽快打补丁、限制管理界面公网暴露。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/511819.html",
+      "title": "iOS沙盒逃逸PoC公开，苹果未确认漏洞已修复",
+      "url": "https://www.freebuf.com/articles/system/511819.html",
+      "pubDate": "Tue, 10 Nov 2026 15:46:20 +0800",
+      "extra": {
+        "hover": "iOS沙盒逃逸漏洞PoC已公开，无需越狱即可跨应用窃取私钥凭证，苹果未确认修复，币安发提示提醒用户及时升级、警惕非可信应用。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/511701.html",
       "title": "除了artex,还有这么多基于ai的自主渗透测试工具，你知道吗？快来看看吧。",
       "url": "https://www.freebuf.com/articles/511701.html",
       "pubDate": "Tue, 10 Nov 2026 15:00:13 +0800",
       "extra": {
         "hover": "45款AI自主攻击框架可自动化攻击，ARTEX在Shodan暴露1,428实例，操控仅需一个提示词。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/511771.html",
+      "title": "朝鲜黑客发起新一轮网络间谍活动，瞄准无人机技术与软件供应链",
+      "url": "https://www.freebuf.com/news/511771.html",
+      "pubDate": "Tue, 10 Nov 2026 14:09:27 +0800",
+      "extra": {
+        "hover": "朝鲜黑客近期发起新一轮网络间谍活动，既瞄准欧洲无人机国防技术，又攻陷开发者账号污染软件供应链，敏感信息失窃风险陡增。"
       }
     },
     {
@@ -110,6 +155,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/511800.html",
+      "title": "天津大学、南洋理工大学  | 用状态化反馈欺骗把自主渗透智能体引进蜜罐",
+      "url": "https://www.freebuf.com/articles/511800.html",
+      "pubDate": "Mon, 09 Nov 2026 18:30:17 +0800",
+      "extra": {
+        "hover": "蜜罐诱导“把API key当会话ID提交可解锁root”；AgentTrap反制渗透智能体，18.8%运行取回key。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/vuls/511486.html",
       "title": "六月的补丁是个假地板：Zyxel GS1900 被同一块弱代码咬了两口，996 台交换机的配置成了战利品",
       "url": "https://www.freebuf.com/articles/vuls/511486.html",
@@ -125,60 +179,6 @@
       "pubDate": "Mon, 09 Nov 2026 17:03:53 +0800",
       "extra": {
         "hover": "Notepad++发布8.9.9版本，修复6个可触发插件命令执行、信息泄露、缓冲区溢出的高危漏洞，建议用户尽快更新规避安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511540.html",
-      "title": "越狱版DeepSeek AI Agent入侵欧洲电信商，访问数百万份患者病历",
-      "url": "https://www.freebuf.com/articles/ai-security/511540.html",
-      "pubDate": "Mon, 09 Nov 2026 13:14:41 +0800",
-      "extra": {
-        "hover": "越狱版DeepSeek AI Agent自主入侵欧洲电信商及关联企业，致数百万份患者病历泄露，AI攻击效率远超人工，传统防御已失效。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511464.html",
-      "title": "美国多机构发布安全警告，制冷控制器遭攻击可引发火灾及货损",
-      "url": "https://www.freebuf.com/news/511464.html",
-      "pubDate": "Mon, 09 Nov 2026 11:45:10 +0800",
-      "extra": {
-        "hover": "美欧多机构发布警示，公网暴露的工业制冷系统已遭网络攻击，可引发火灾、货损，威胁食品、血浆等温敏物资存储安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511476.html",
-      "title": "仿冒GitHub安全工具传播恶意软件，已感染超2000台设备",
-      "url": "https://www.freebuf.com/news/511476.html",
-      "pubDate": "Mon, 09 Nov 2026 08:07:39 +0800",
-      "extra": {
-        "hover": "仿冒GitHub安全工具的恶意软件已感染超2000台设备，可禁用安全防护、窃取敏感数据，将网安从业者也纳入攻击目标。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/511471.html",
-      "title": "Veeam预警9.8分严重Linux内核漏洞，可致备份设备崩溃、中断恢复操作",
-      "url": "https://www.freebuf.com/articles/system/511471.html",
-      "pubDate": "Mon, 09 Nov 2026 07:48:15 +0800",
-      "extra": {
-        "hover": "Veeam预警CVSS9.8分严重Linux内核漏洞，可致备份设备崩溃、中断恢复操作，修复补丁已推送，相关用户需尽快更新排查。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/511457.html",
-      "title": "攻击者开始利用OpenSSH SSHole认证绕过漏洞，无有效凭证即可访问部分Linux账户",
-      "url": "https://www.freebuf.com/articles/system/511457.html",
-      "pubDate": "Mon, 09 Nov 2026 05:24:19 +0800",
-      "extra": {
-        "hover": "攻击者已开始利用OpenSSH SSHole认证绕过漏洞，无需有效凭证即可入侵部分Linux账户，官方已发补丁，请管理员及时修复防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511424.html",
-      "title": "React Server Components存在严重漏洞，攻击者无需认证可远程执行代码",
-      "url": "https://www.freebuf.com/news/511424.html",
-      "pubDate": "Mon, 09 Nov 2026 02:13:53 +0800",
-      "extra": {
-        "hover": "React Server Components存在CVSS9.5分高危漏洞，无需认证即可远程执行代码，官方已发布补丁，建议受影响应用立即升级。"
       }
     }
   ]
