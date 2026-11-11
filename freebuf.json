@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1794360130262,
+  "updatedAt": 1794384029213,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/511912.html",
+      "title": "新型GhostFrame恶意软件可劫持VMware ESXi虚拟机，无需在虚拟机内运行程序即可窃取Windows凭证",
+      "url": "https://www.freebuf.com/articles/system/511912.html",
+      "pubDate": "Wed, 11 Nov 2026 04:26:25 +0800",
+      "extra": {
+        "hover": "新型GhostFrame恶意软件可劫持VMware ESXi，无需在虚拟机内运行程序即可窃取Windows凭证，关联Settra勒索活动，严重威胁企业虚拟化安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/511896.html",
+      "title": "Fortinet修复多个高危漏洞，管理平台未授权可远程执行代码",
+      "url": "https://www.freebuf.com/news/511896.html",
+      "pubDate": "Wed, 11 Nov 2026 03:15:16 +0800",
+      "extra": {
+        "hover": "Fortinet修复多款产品高危漏洞，部分漏洞无需登录即可远程执行代码，企业需尽快排查升级防范入侵风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/511888.html",
+      "title": "微软确认黑客利用Outlook 0Day漏洞，窃取Windows身份验证哈希",
+      "url": "https://www.freebuf.com/news/511888.html",
+      "pubDate": "Wed, 11 Nov 2026 02:35:43 +0800",
+      "extra": {
+        "hover": "紧急：微软证实Outlook 0Day漏洞遭黑客在野利用，用户打开恶意文件即泄露 Windows 身份验证哈希，请尽快打补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/511832.html",
+      "title": "Git修复代码执行高危漏洞，递归克隆恶意仓库可触发攻击",
+      "url": "https://www.freebuf.com/articles/development/511832.html",
+      "pubDate": "Wed, 11 Nov 2026 00:53:10 +0800",
+      "extra": {
+        "hover": "Git修复高危代码执行漏洞，递归克隆含恶意子模块的仓库可触发任意代码执行，官方已发修复补丁，需尽快升级防范攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511833.html",
+      "title": "SGLang RCE漏洞致NEAR AI遭入侵，18个Agent及近百名用户数据被盗",
+      "url": "https://www.freebuf.com/articles/ai-security/511833.html",
+      "pubDate": "Wed, 11 Nov 2026 00:49:39 +0800",
+      "extra": {
+        "hover": "SGLang RCE漏洞遭利用致NEAR AI遭入侵，18个AI Agent、近百名用户数据被盗，连TEE隐私防护都失效，目前已完成应急处置。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/511817.html",
       "title": "Blind Eagle利用虚假法院通知投递RAT，攻击波及拉美地区",
@@ -8,6 +53,24 @@
       "pubDate": "Tue, 10 Nov 2026 21:28:44 +0800",
       "extra": {
         "hover": "APT组织Blind Eagle利用虚假法院通知钓鱼，绕过防护投递RAT攻击拉美机构，可窃取敏感信息、远程控制目标主机。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/511706.html",
+      "title": "FreeBuf早报 | 越狱版DeepSeek AI Agent入侵欧洲电信商；谷歌修复Chrome在野0Day漏洞",
+      "url": "https://www.freebuf.com/news/511706.html",
+      "pubDate": "Tue, 10 Nov 2026 18:53:46 +0800",
+      "extra": {
+        "hover": "越狱版DeepSeek AI Agent自主入侵欧洲电信商及关联企业，致数百万份患者病历泄露，AI攻击效率远超人工，传统防御已失效。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/511900.html",
+      "title": "Veeam 发布高危漏洞预警：Linux 内核内存破坏缺陷波及多款备份与恢复组件",
+      "url": "https://www.freebuf.com/articles/vuls/511900.html",
+      "pubDate": "Tue, 10 Nov 2026 18:49:26 +0800",
+      "extra": {
+        "hover": "CVSS 9.8 Linux内核UAF漏洞可致Veeam备份恢复设备DoS/内存破坏，需尽快更新。"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Tue, 10 Nov 2026 11:24:22 +0800",
       "extra": {
         "hover": "拷贝行为能被记录，但 &amp;quot;什么算敏感&amp;quot; 这件事从来没被定义过，于是所有日志都只是流水，不是情报。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511599.html",
-      "title": "9.6 万次请求里 4.2 万次在算 66×47：打 LLM 接口的人不缺漏洞，缺免费算力",
-      "url": "https://www.freebuf.com/articles/ai-security/511599.html",
-      "pubDate": "Tue, 10 Nov 2026 10:48:18 +0800",
-      "extra": {
-        "hover": "61 天里，自建 LLM API 蜜罐记录 96,641 次请求、3,774 个源 IP。其中 42,290 次直接 POST 到推理端点，来自 176 个 IP——他们不是在找漏洞，是在找能回话的免"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511630.html",
-      "title": "超575个恶意OpenClaw skills投递恶意软件，影响Windows与macOS系统",
-      "url": "https://www.freebuf.com/articles/ai-security/511630.html",
-      "pubDate": "Tue, 10 Nov 2026 05:30:59 +0800",
-      "extra": {
-        "hover": "安克诺斯报告：超575个恶意OpenClaw skills投毒，攻击者借AI agent发起网攻，可绕过防护、破坏恢复，威胁Windows、macOS安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511621.html",
-      "title": "谷歌修复Chrome在野0Day漏洞，可远程执行恶意代码",
-      "url": "https://www.freebuf.com/news/511621.html",
-      "pubDate": "Tue, 10 Nov 2026 04:21:10 +0800",
-      "extra": {
-        "hover": "谷歌紧急修复已遭在野利用的Chrome高危0Day漏洞，点开恶意链接即可遭远程代码攻击，用户需尽快更新浏览器防范风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511503.html",
-      "title": "FreeBuf早报 | 白宫网络被监测到流出住宅代理流量；美国多机构发布安全警告",
-      "url": "https://www.freebuf.com/news/511503.html",
-      "pubDate": "Mon, 09 Nov 2026 19:02:47 +0800",
-      "extra": {
-        "hover": "研究发现白宫网络已成为住宅代理出口节点，攻击者仅需几美元即可借道，入侵这一全球防护等级最高的敏感内部网络。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511800.html",
-      "title": "天津大学、南洋理工大学  | 用状态化反馈欺骗把自主渗透智能体引进蜜罐",
-      "url": "https://www.freebuf.com/articles/511800.html",
-      "pubDate": "Mon, 09 Nov 2026 18:30:17 +0800",
-      "extra": {
-        "hover": "蜜罐诱导“把API key当会话ID提交可解锁root”；AgentTrap反制渗透智能体，18.8%运行取回key。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/511486.html",
-      "title": "六月的补丁是个假地板：Zyxel GS1900 被同一块弱代码咬了两口，996 台交换机的配置成了战利品",
-      "url": "https://www.freebuf.com/articles/vuls/511486.html",
-      "pubDate": "Mon, 09 Nov 2026 18:06:10 +0800",
-      "extra": {
-        "hover": "本文路线：双洞同源机制拆解、Kapibala 时间线复盘、配置文件为什么是战利品、以及&quot;只升固件等于没修&quot;的处置清单。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511562.html",
-      "title": "Notepad++发布8.9.9版本，修复6个可触发插件命令执行的漏洞",
-      "url": "https://www.freebuf.com/news/511562.html",
-      "pubDate": "Mon, 09 Nov 2026 17:03:53 +0800",
-      "extra": {
-        "hover": "Notepad++发布8.9.9版本，修复6个可触发插件命令执行、信息泄露、缓冲区溢出的高危漏洞，建议用户尽快更新规避安全风险。"
       }
     }
   ]
