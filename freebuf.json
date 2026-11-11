@@ -1,6 +1,96 @@
 {
-  "updatedAt": 1794384029213,
+  "updatedAt": 1794413117176,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/512034.html",
+      "title": "攻击者针对Qlik Sense服务器投放反弹Shell，预置ActiveMQ与Veeam漏洞利用工具",
+      "url": "https://www.freebuf.com/news/512034.html",
+      "pubDate": "Wed, 11 Nov 2026 19:31:00 +0800",
+      "extra": {
+        "hover": "攻击者针对未打补丁的Qlik Sense服务器投放反弹Shell，预置多类漏洞利用工具，疑似筹备更大规模网络攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/511268.html",
+      "title": "JA3 指纹墙实战：一个 md5 拦住了 curl，却被四行参数绕过",
+      "url": "https://www.freebuf.com/articles/web/511268.html",
+      "pubDate": "Wed, 11 Nov 2026 17:59:36 +0800",
+      "extra": {
+        "hover": "本机搭了一个按 TLS 指纹拦截的服务，把 curl、Python、openssl 打进去，看它怎么分辨、怎么拦，以及为什么这道墙很容易绕。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512031.html",
+      "title": "超3.5万个Grok生成应用在线暴露，部分泄露机密数据与密码",
+      "url": "https://www.freebuf.com/articles/ai-security/512031.html",
+      "pubDate": "Wed, 11 Nov 2026 17:49:40 +0800",
+      "extra": {
+        "hover": "超3.5万个Grok生成应用默认公开暴露，涉多机构机密、员工信息甚至明文密码，存在未授权访问、篡改的高危安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512026.html",
+      "title": "Token自研测试Agent突破全部安全规则，梳理企业Agent防护可行路径",
+      "url": "https://www.freebuf.com/articles/ai-security/512026.html",
+      "pubDate": "Wed, 11 Nov 2026 17:31:59 +0800",
+      "extra": {
+        "hover": "Token自研测试Agent突破全部既有安全规则，梳理出浏览器端AI Agent身份管控、权限约束、审计溯源的企业防护路径，警惕无防护通道成权限滥用入口。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/511981.html",
+      "title": "微软发布补丁修复1259个漏洞，含已遭利用的Outlook NTLMv2哈希泄露漏洞",
+      "url": "https://www.freebuf.com/news/511981.html",
+      "pubDate": "Wed, 11 Nov 2026 13:47:53 +0800",
+      "extra": {
+        "hover": "微软修复1259个安全漏洞，含无弹窗触发、已遭在野利用的Outlook NTLMv2哈希泄露漏洞，可致身份冒用，企业需按优先级尽快打补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/511980.html",
+      "title": "微软研究证实修改不足10个神经元，无需重训就可以给AI Agent植入后门",
+      "url": "https://www.freebuf.com/articles/ai-security/511980.html",
+      "pubDate": "Wed, 11 Nov 2026 12:51:05 +0800",
+      "extra": {
+        "hover": "微软研究证实，攻击者仅需修改AI模型不足10个神经元，无需重训即可植入隐蔽后门，操控AI Agent越权执行恶意命令，常规检测难发现。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/512021.html",
+      "title": "微软披露Windows BitLocker漏洞，物理访问可绕过加密防护",
+      "url": "https://www.freebuf.com/articles/system/512021.html",
+      "pubDate": "Wed, 11 Nov 2026 11:31:29 +0800",
+      "extra": {
+        "hover": "微软披露两个Windows BitLocker重要安全漏洞，攻击者物理接触设备无需交互即可绕过加密访问数据，官方已发布修复补丁。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512018.html",
+      "title": "微软研究人员展示AI Agent隐蔽后门技术，无需重训可绕过常规安全评估",
+      "url": "https://www.freebuf.com/articles/ai-security/512018.html",
+      "pubDate": "Wed, 11 Nov 2026 10:55:54 +0800",
+      "extra": {
+        "hover": "微软披露Lazarus AI隐蔽后门技术：无需重训即可绕过常规安全评估，可诱导AI Agent执行恶意指令，企业需高度警惕相关风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512007.html",
+      "title": "攻击者利用AhsayCBS漏洞，在PNG图片中隐藏恶意代码并部署隐蔽后门",
+      "url": "https://www.freebuf.com/news/512007.html",
+      "pubDate": "Wed, 11 Nov 2026 10:44:43 +0800",
+      "extra": {
+        "hover": "攻击者利用AhsayCBS漏洞未授权即可获取SYSTEM权限，藏恶意代码于PNG部署隐蔽后门，窃备份权限挖矿，打补丁也需排查入侵痕迹。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512016.html",
+      "title": "黑客兜售月费千美元Gmail工具，声称改密后仍可持久访问",
+      "url": "https://www.freebuf.com/news/512016.html",
+      "pubDate": "Wed, 11 Nov 2026 10:42:36 +0800",
+      "extra": {
+        "hover": "黑客兜售月费千美元的Gmail窃密工具，声称用户改密、撤销会话后仍可持久访问邮箱、接管关联账号，该功能尚未经独立验证。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/511912.html",
       "title": "新型GhostFrame恶意软件可劫持VMware ESXi虚拟机，无需在虚拟机内运行程序即可窃取Windows凭证",
@@ -47,6 +137,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/511991.html",
+      "title": "对未来反入侵体系与产品的思考",
+      "url": "https://www.freebuf.com/articles/511991.html",
+      "pubDate": "Wed, 11 Nov 2026 00:27:29 +0800",
+      "extra": {
+        "hover": "AI时代需重定义“预期逻辑”，以实时意图检测识别非预期操作，主机侧仍是安全重要阵地。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/511817.html",
       "title": "Blind Eagle利用虚假法院通知投递RAT，攻击波及拉美地区",
       "url": "https://www.freebuf.com/news/511817.html",
@@ -80,105 +179,6 @@
       "pubDate": "Tue, 10 Nov 2026 17:54:34 +0800",
       "extra": {
         "hover": "一句没人说出口的话，被会议室的智能音箱执行了。本文用 25 kHz 超声载波绕过人耳、同音字绕过字符审查，75 条载荷实测得出一个反直觉的结论：两条攻击路径并不叠加，而是互相抵消。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511743.html",
-      "title": "币安警告iOS沙盒逃逸漏洞可泄露加密钱包密钥，暂无确认修复方案",
-      "url": "https://www.freebuf.com/news/511743.html",
-      "pubDate": "Tue, 10 Nov 2026 17:45:31 +0800",
-      "extra": {
-        "hover": "币安预警无需越狱的iOS沙盒逃逸漏洞可窃取加密钱包密钥，最新系统暂未修复，提醒用户删除非可信应用，遇入侵风险及时转移资产、重置会话。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511663.html",
-      "title": "企业如何做 GBT 45577—2025 数据安全风险评估",
-      "url": "https://www.freebuf.com/news/511663.html",
-      "pubDate": "Tue, 10 Nov 2026 16:47:05 +0800",
-      "extra": {
-        "hover": "企业如何做 GB/T 45577—2025 数据安全风险评估"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511821.html",
-      "title": "梭子鱼确认邮件网关漏洞遭在野利用，可未授权获取root权限",
-      "url": "https://www.freebuf.com/news/511821.html",
-      "pubDate": "Tue, 10 Nov 2026 16:05:32 +0800",
-      "extra": {
-        "hover": "梭子鱼确认邮件网关两高危漏洞遭在野利用，攻击者无需授权即可获取root权限，用户需尽快打补丁、限制管理界面公网暴露。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/511819.html",
-      "title": "iOS沙盒逃逸PoC公开，苹果未确认漏洞已修复",
-      "url": "https://www.freebuf.com/articles/system/511819.html",
-      "pubDate": "Tue, 10 Nov 2026 15:46:20 +0800",
-      "extra": {
-        "hover": "iOS沙盒逃逸漏洞PoC已公开，无需越狱即可跨应用窃取私钥凭证，苹果未确认修复，币安发提示提醒用户及时升级、警惕非可信应用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511701.html",
-      "title": "除了artex,还有这么多基于ai的自主渗透测试工具，你知道吗？快来看看吧。",
-      "url": "https://www.freebuf.com/articles/511701.html",
-      "pubDate": "Tue, 10 Nov 2026 15:00:13 +0800",
-      "extra": {
-        "hover": "45款AI自主攻击框架可自动化攻击，ARTEX在Shodan暴露1,428实例，操控仅需一个提示词。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511771.html",
-      "title": "朝鲜黑客发起新一轮网络间谍活动，瞄准无人机技术与软件供应链",
-      "url": "https://www.freebuf.com/news/511771.html",
-      "pubDate": "Tue, 10 Nov 2026 14:09:27 +0800",
-      "extra": {
-        "hover": "朝鲜黑客近期发起新一轮网络间谍活动，既瞄准欧洲无人机国防技术，又攻陷开发者账号污染软件供应链，敏感信息失窃风险陡增。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511627.html",
-      "title": "掏空大模型：黑盒 API 的逆向工程攻击实战",
-      "url": "https://www.freebuf.com/articles/ai-security/511627.html",
-      "pubDate": "Tue, 10 Nov 2026 13:45:04 +0800",
-      "extra": {
-        "hover": "摘要随着大模型 API 服务的普及，模型提供商通过黑盒化部署保护核心资产成为一种常态。然而，黑盒并不等于安全。本文系统性地研究了针对 AI 模型的提取与逆向工程技术，包括功能复制攻击、成员推断攻击和模型反演攻击。实验表明，即使是商业级的黑盒 API 也难以抵御精心设计的查询攻击。一、引言在 AI 即服务（AIaaS）时代，企业将训练好的模型部署为 API 服务，按调用次数收费。这种模式保护了模型权"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/511745.html",
-      "title": "微软AI漏洞猎手发现Rust漏洞，已潜藏近11年",
-      "url": "https://www.freebuf.com/articles/development/511745.html",
-      "pubDate": "Tue, 10 Nov 2026 12:36:55 +0800",
-      "extra": {
-        "hover": "微软AI漏洞猎手发现Rust标准库中潜藏近11年的内存安全漏洞，即便用安全Rust编写也可能出现访问已释放内存的问题，相关修复正推进。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511738.html",
-      "title": "Anthropic发布Claude Mythos 5.2，漏洞挖掘能力增强、沙箱逃逸率下降",
-      "url": "https://www.freebuf.com/articles/ai-security/511738.html",
-      "pubDate": "Tue, 10 Nov 2026 11:40:00 +0800",
-      "extra": {
-        "hover": "Anthropic推出Claude Fable、Mythos 5.2模型，漏洞挖掘能力显著升级，沙箱逃逸风险大幅降低，配套强化安全防护，面向合规企业开放。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511606.html",
-      "title": "AI安全进入双向演进时代：润建股份构建AI安全攻防闭环",
-      "url": "https://www.freebuf.com/articles/511606.html",
-      "pubDate": "Tue, 10 Nov 2026 11:26:09 +0800",
-      "extra": {
-        "hover": "从润建股份“智御”体系看AI原生安全的技术路径与工程实践。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/network/511605.html",
-      "title": "靠关键词识别敏感文件为什么一定漏：五个断点与检测规则设计",
-      "url": "https://www.freebuf.com/articles/network/511605.html",
-      "pubDate": "Tue, 10 Nov 2026 11:24:22 +0800",
-      "extra": {
-        "hover": "拷贝行为能被记录，但 &amp;quot;什么算敏感&amp;quot; 这件事从来没被定义过，于是所有日志都只是流水，不是情报。"
       }
     }
   ]
