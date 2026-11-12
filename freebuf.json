@@ -1,6 +1,60 @@
 {
-  "updatedAt": 1794453687514,
+  "updatedAt": 1794483568927,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/512167.html",
+      "title": "AI安全事件检测与响应：怎么知道你的LLM应用正在被攻击",
+      "url": "https://www.freebuf.com/articles/vuls/512167.html",
+      "pubDate": "Thu, 12 Nov 2026 17:22:19 +0800",
+      "extra": {
+        "hover": "所有代码都能直接跑，靶场用的是同一个 RAG 应用，在上面叠加检测中间件，不改原有代码。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/512153.html",
+      "title": "127.0.0.1 是谁说的：GPUStack 回环信任绕过（CVE-2026-102895）",
+      "url": "https://www.freebuf.com/articles/vuls/512153.html",
+      "pubDate": "Thu, 12 Nov 2026 16:25:01 +0800",
+      "extra": {
+        "hover": "GPUStack 把「来源是回环」当作内置管理员身份；本文拆开这条判据背后的两条取值通道，并核对两笔修复各自关掉了哪一半、又留下了什么。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/512152.html",
+      "title": "FreeSWITCH mod_xml_rpc WebSocket 帧长度截断堆越界写（CVE-2026-116785）",
+      "url": "https://www.freebuf.com/articles/vuls/512152.html",
+      "pubDate": "Thu, 12 Nov 2026 16:23:34 +0800",
+      "extra": {
+        "hover": "FreeSWITCH mod_xml_rpc 帧长度截断致认证前堆越界写（CVE-2026-116785）：逐行复算并比对三笔修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512146.html",
+      "title": "用恶意 MCP Server 反向 Sampling 借客户端算力并借 roots 摸宿主目录",
+      "url": "https://www.freebuf.com/articles/ai-security/512146.html",
+      "pubDate": "Thu, 12 Nov 2026 16:12:49 +0800",
+      "extra": {
+        "hover": "算力窃取不需要恶意提示词，所以内容检测天生失效；唯一稳定有效的约束是连接期就把预算定死。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512163.html",
+      "title": "派拓网络披露PAN-OS RCE漏洞，攻击者可获root权限执行任意代码",
+      "url": "https://www.freebuf.com/news/512163.html",
+      "pubDate": "Thu, 12 Nov 2026 08:09:33 +0800",
+      "extra": {
+        "hover": "派拓网络披露Panorama设备的PAN-OS中危RCE漏洞，认证攻击者可获root权限执行任意代码，暂无在野利用，需尽快打补丁、限制管理接口访问。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/512145.html",
+      "title": "微软借助AI发现59个Linux内核漏洞，含隐藏超20年缺陷",
+      "url": "https://www.freebuf.com/articles/system/512145.html",
+      "pubDate": "Thu, 12 Nov 2026 07:24:12 +0800",
+      "extra": {
+        "hover": "微软借助AI挖出59个Linux内核漏洞，部分潜伏超20年，其中8个可直接实现本地root提权。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/512034.html",
       "title": "攻击者针对Qlik Sense服务器投放反弹Shell，预置ActiveMQ与Veeam漏洞利用工具",
@@ -44,6 +98,15 @@
       "pubDate": "Wed, 11 Nov 2026 17:31:59 +0800",
       "extra": {
         "hover": "Token自研测试Agent突破全部既有安全规则，梳理出浏览器端AI Agent身份管控、权限约束、审计溯源的企业防护路径，警惕无防护通道成权限滥用入口。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512057.html",
+      "title": "ARTEX、PentAGI、Agent Zero等AI黑客框架运行于公网，部分控制台未设认证",
+      "url": "https://www.freebuf.com/articles/ai-security/512057.html",
+      "pubDate": "Wed, 11 Nov 2026 17:07:39 +0800",
+      "extra": {
+        "hover": "多款AI黑客框架运行在公网可访问服务器上，部分控制台未设身份认证，可被攻击者用于自动化渗透窃密，存在极高安全风险。"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Wed, 11 Nov 2026 04:26:25 +0800",
       "extra": {
         "hover": "新型GhostFrame恶意软件可劫持VMware ESXi，无需在虚拟机内运行程序即可窃取Windows凭证，关联Settra勒索活动，严重威胁企业虚拟化安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511896.html",
-      "title": "Fortinet修复多个高危漏洞，管理平台未授权可远程执行代码",
-      "url": "https://www.freebuf.com/news/511896.html",
-      "pubDate": "Wed, 11 Nov 2026 03:15:16 +0800",
-      "extra": {
-        "hover": "Fortinet修复多款产品高危漏洞，部分漏洞无需登录即可远程执行代码，企业需尽快排查升级防范入侵风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511888.html",
-      "title": "微软确认黑客利用Outlook 0Day漏洞，窃取Windows身份验证哈希",
-      "url": "https://www.freebuf.com/news/511888.html",
-      "pubDate": "Wed, 11 Nov 2026 02:35:43 +0800",
-      "extra": {
-        "hover": "紧急：微软证实Outlook 0Day漏洞遭黑客在野利用，用户打开恶意文件即泄露 Windows 身份验证哈希，请尽快打补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/511832.html",
-      "title": "Git修复代码执行高危漏洞，递归克隆恶意仓库可触发攻击",
-      "url": "https://www.freebuf.com/articles/development/511832.html",
-      "pubDate": "Wed, 11 Nov 2026 00:53:10 +0800",
-      "extra": {
-        "hover": "Git修复高危代码执行漏洞，递归克隆含恶意子模块的仓库可触发任意代码执行，官方已发修复补丁，需尽快升级防范攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511833.html",
-      "title": "SGLang RCE漏洞致NEAR AI遭入侵，18个Agent及近百名用户数据被盗",
-      "url": "https://www.freebuf.com/articles/ai-security/511833.html",
-      "pubDate": "Wed, 11 Nov 2026 00:49:39 +0800",
-      "extra": {
-        "hover": "SGLang RCE漏洞遭利用致NEAR AI遭入侵，18个AI Agent、近百名用户数据被盗，连TEE隐私防护都失效，目前已完成应急处置。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/511991.html",
-      "title": "对未来反入侵体系与产品的思考",
-      "url": "https://www.freebuf.com/articles/511991.html",
-      "pubDate": "Wed, 11 Nov 2026 00:27:29 +0800",
-      "extra": {
-        "hover": "AI时代需重定义“预期逻辑”，以实时意图检测识别非预期操作，主机侧仍是安全重要阵地。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511817.html",
-      "title": "Blind Eagle利用虚假法院通知投递RAT，攻击波及拉美地区",
-      "url": "https://www.freebuf.com/news/511817.html",
-      "pubDate": "Tue, 10 Nov 2026 21:28:44 +0800",
-      "extra": {
-        "hover": "APT组织Blind Eagle利用虚假法院通知钓鱼，绕过防护投递RAT攻击拉美机构，可窃取敏感信息、远程控制目标主机。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511706.html",
-      "title": "FreeBuf早报 | 越狱版DeepSeek AI Agent入侵欧洲电信商；谷歌修复Chrome在野0Day漏洞",
-      "url": "https://www.freebuf.com/news/511706.html",
-      "pubDate": "Tue, 10 Nov 2026 18:53:46 +0800",
-      "extra": {
-        "hover": "越狱版DeepSeek AI Agent自主入侵欧洲电信商及关联企业，致数百万份患者病历泄露，AI攻击效率远超人工，传统防御已失效。"
       }
     }
   ]
