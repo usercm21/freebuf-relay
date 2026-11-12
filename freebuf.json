@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794413117176,
+  "updatedAt": 1794453687514,
   "items": [
     {
       "id": "https://www.freebuf.com/news/512034.html",
@@ -8,6 +8,15 @@
       "pubDate": "Wed, 11 Nov 2026 19:31:00 +0800",
       "extra": {
         "hover": "攻击者针对未打补丁的Qlik Sense服务器投放反弹Shell，预置多类漏洞利用工具，疑似筹备更大规模网络攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512008.html",
+      "title": "FreeBuf早报 | Anthropic发布Claude Mythos 5.2；币安警告iOS沙盒逃逸漏洞可泄露加密钱包密钥",
+      "url": "https://www.freebuf.com/news/512008.html",
+      "pubDate": "Wed, 11 Nov 2026 19:13:56 +0800",
+      "extra": {
+        "hover": "Anthropic推出Claude Fable、Mythos 5.2模型，漏洞挖掘能力显著升级，沙箱逃逸风险大幅降低，配套强化安全防护，面向合规企业开放。"
       }
     },
     {
@@ -92,6 +101,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/512041.html",
+      "title": "CTF 比赛还有举办的必要吗？",
+      "url": "https://www.freebuf.com/articles/512041.html",
+      "pubDate": "Wed, 11 Nov 2026 09:50:52 +0800",
+      "extra": {
+        "hover": "传统CTF已无举办必要：AI使其沦为工具较量，公平性、含金量下降，奖项价值被稀释，该走向终局。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/system/511912.html",
       "title": "新型GhostFrame恶意软件可劫持VMware ESXi虚拟机，无需在虚拟机内运行程序即可窃取Windows凭证",
       "url": "https://www.freebuf.com/articles/system/511912.html",
@@ -161,24 +179,6 @@
       "pubDate": "Tue, 10 Nov 2026 18:53:46 +0800",
       "extra": {
         "hover": "越狱版DeepSeek AI Agent自主入侵欧洲电信商及关联企业，致数百万份患者病历泄露，AI攻击效率远超人工，传统防御已失效。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/511900.html",
-      "title": "Veeam 发布高危漏洞预警：Linux 内核内存破坏缺陷波及多款备份与恢复组件",
-      "url": "https://www.freebuf.com/articles/vuls/511900.html",
-      "pubDate": "Tue, 10 Nov 2026 18:49:26 +0800",
-      "extra": {
-        "hover": "CVSS 9.8 Linux内核UAF漏洞可致Veeam备份恢复设备DoS/内存破坏，需尽快更新。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511678.html",
-      "title": "用同音词与超声载波在 ASR 层给语音 Agent 下不可听指令",
-      "url": "https://www.freebuf.com/articles/ai-security/511678.html",
-      "pubDate": "Tue, 10 Nov 2026 17:54:34 +0800",
-      "extra": {
-        "hover": "一句没人说出口的话，被会议室的智能音箱执行了。本文用 25 kHz 超声载波绕过人耳、同音字绕过字符审查，75 条载荷实测得出一个反直觉的结论：两条攻击路径并不叠加，而是互相抵消。"
       }
     }
   ]
