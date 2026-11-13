@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1794529035096,
+  "updatedAt": 1794552990937,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/512384.html",
+      "title": "微软365爆发大规模服务宕机，全球多区域核心产品受影响",
+      "url": "https://www.freebuf.com/news/512384.html",
+      "pubDate": "Fri, 13 Nov 2026 02:14:54 +0800",
+      "extra": {
+        "hover": "2026年11月微软365爆发大规模宕机，Outlook、Teams等核心服务全球多区域受影响，自动健康检查失效拖慢恢复进度，暂无证据表明遭网络攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512170.html",
+      "title": "FreeBuf早报 | AI黑客框架运行于公网；微软研究人员展示AI Agent隐蔽后门技术",
+      "url": "https://www.freebuf.com/news/512170.html",
+      "pubDate": "Thu, 12 Nov 2026 17:28:11 +0800",
+      "extra": {
+        "hover": "多款AI黑客框架运行在公网可访问服务器上，部分控制台未设身份认证，可被攻击者用于自动化渗透窃密，存在极高安全风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/512167.html",
       "title": "AI安全事件检测与响应：怎么知道你的LLM应用正在被攻击",
@@ -92,6 +110,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/512317.html",
+      "title": "第179篇：AI智能体失控自动化入侵Hugging Face案例分析（下篇）",
+      "url": "https://www.freebuf.com/articles/512317.html",
+      "pubDate": "Wed, 11 Nov 2026 20:26:01 +0800",
+      "extra": {
+        "hover": "AI智能体入侵Hugging Face：滥用凭据突破隔离、探测数据库并攻击CI，终被切断访问。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/512034.html",
       "title": "攻击者针对Qlik Sense服务器投放反弹Shell，预置ActiveMQ与Veeam漏洞利用工具",
       "url": "https://www.freebuf.com/news/512034.html",
@@ -152,33 +179,6 @@
       "pubDate": "Wed, 11 Nov 2026 13:47:53 +0800",
       "extra": {
         "hover": "微软修复1259个安全漏洞，含无弹窗触发、已遭在野利用的Outlook NTLMv2哈希泄露漏洞，可致身份冒用，企业需按优先级尽快打补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/511980.html",
-      "title": "微软研究证实修改不足10个神经元，无需重训就可以给AI Agent植入后门",
-      "url": "https://www.freebuf.com/articles/ai-security/511980.html",
-      "pubDate": "Wed, 11 Nov 2026 12:51:05 +0800",
-      "extra": {
-        "hover": "微软研究证实，攻击者仅需修改AI模型不足10个神经元，无需重训即可植入隐蔽后门，操控AI Agent越权执行恶意命令，常规检测难发现。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/512021.html",
-      "title": "微软披露Windows BitLocker漏洞，物理访问可绕过加密防护",
-      "url": "https://www.freebuf.com/articles/system/512021.html",
-      "pubDate": "Wed, 11 Nov 2026 11:31:29 +0800",
-      "extra": {
-        "hover": "微软披露两个Windows BitLocker重要安全漏洞，攻击者物理接触设备无需交互即可绕过加密访问数据，官方已发布修复补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/512258.html",
-      "title": "观Hackerone大佬操作之朴实无华的HTML注入",
-      "url": "https://www.freebuf.com/articles/vuls/512258.html",
-      "pubDate": "Wed, 11 Nov 2026 11:00:25 +0800",
-      "extra": {
-        "hover": "Burp把解析报错当可信HTML，畸形$ref注入图片；受害者两步操作，NetNTLMv2就可能送到攻击者手里。"
       }
     }
   ]
