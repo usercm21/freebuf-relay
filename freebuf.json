@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794582591645,
+  "updatedAt": 1794605114617,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/512441.html",
@@ -8,6 +8,15 @@
       "pubDate": "Fri, 13 Nov 2026 17:18:13 +0800",
       "extra": {
         "hover": "88,000 行的平台，我逐行读过的不到一成——验收靠的不是读，是门禁。五批工程过堂、928 项回归全绿；实战里毒记忆、僵尸 run、断头管线挨个爆雷。实战是唯一的照妖镜。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512500.html",
+      "title": "攻击者爆破公网微软SQL服务器，超2700组密码猜解植入远控挖矿程序",
+      "url": "https://www.freebuf.com/news/512500.html",
+      "pubDate": "Fri, 13 Nov 2026 14:54:56 +0800",
+      "extra": {
+        "hover": "攻击者用超2700组密码爆破公网微软SQL服务器，入侵后植入挖矿程序与远控木马，窃密、占用算力，给暴露服务器带来高危风险。"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Wed, 11 Nov 2026 20:26:01 +0800",
       "extra": {
         "hover": "AI智能体入侵Hugging Face：滥用凭据突破隔离、探测数据库并攻击CI，终被切断访问。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512034.html",
-      "title": "攻击者针对Qlik Sense服务器投放反弹Shell，预置ActiveMQ与Veeam漏洞利用工具",
-      "url": "https://www.freebuf.com/news/512034.html",
-      "pubDate": "Wed, 11 Nov 2026 19:31:00 +0800",
-      "extra": {
-        "hover": "攻击者针对未打补丁的Qlik Sense服务器投放反弹Shell，预置多类漏洞利用工具，疑似筹备更大规模网络攻击。"
       }
     }
   ]
