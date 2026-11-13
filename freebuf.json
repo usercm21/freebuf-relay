@@ -1,6 +1,60 @@
 {
-  "updatedAt": 1794552990937,
+  "updatedAt": 1794582591645,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512441.html",
+      "title": "身体：把信任层装进一个真实平台——88,000 行怎么验收",
+      "url": "https://www.freebuf.com/articles/ai-security/512441.html",
+      "pubDate": "Fri, 13 Nov 2026 17:18:13 +0800",
+      "extra": {
+        "hover": "88,000 行的平台，我逐行读过的不到一成——验收靠的不是读，是门禁。五批工程过堂、928 项回归全绿；实战里毒记忆、僵尸 run、断头管线挨个爆雷。实战是唯一的照妖镜。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512490.html",
+      "title": "美国冻结朝鲜黑客盗取的27亿美元币安资产，涉案总金额达60亿美元",
+      "url": "https://www.freebuf.com/news/512490.html",
+      "pubDate": "Fri, 13 Nov 2026 10:56:15 +0800",
+      "extra": {
+        "hover": "美国冻结朝鲜黑客从币安盗取的27亿美元加密资产（总涉案60亿），同步打击涉案超4亿的FaceStealer钓鱼诈骗，提醒公众警惕虚假视频会议钓鱼陷阱。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/development/512454.html",
+      "title": "OpenAI发布Daybreak，将AI Agent引入安全测试与漏洞修复流程",
+      "url": "https://www.freebuf.com/articles/development/512454.html",
+      "pubDate": "Fri, 13 Nov 2026 09:31:07 +0800",
+      "extra": {
+        "hover": "OpenAI推出Daybreak，依托多AI Agent协同自动打通Web应用渗透测试、漏洞验证、补丁修复与复测全链路安全流程。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512431.html",
+      "title": "ArcticRAT安卓恶意软件利用隐藏VNC控制手机，受害者仅可见黑屏",
+      "url": "https://www.freebuf.com/news/512431.html",
+      "pubDate": "Fri, 13 Nov 2026 07:51:50 +0800",
+      "extra": {
+        "hover": "安卓恶意软件ArcticRAT利用隐藏VNC控制手机，受害者仅见黑屏时已被窃密，结合AI提效，需警惕非正规渠道应用风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512428.html",
+      "title": "OpenAI推出两款AI网络安全工具，可自动化渗透测试与漏洞修复",
+      "url": "https://www.freebuf.com/news/512428.html",
+      "pubDate": "Fri, 13 Nov 2026 07:16:36 +0800",
+      "extra": {
+        "hover": "OpenAI发布两款Daybreak系列AI网络安全工具，可自动化开展渗透测试、验证漏洞并生成修复补丁，代码变更仍需工程师审核把关。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/512403.html",
+      "title": "台积电确认发生数据泄露事件，员工信息经第三方云服务商外泄",
+      "url": "https://www.freebuf.com/articles/database/512403.html",
+      "pubDate": "Fri, 13 Nov 2026 05:25:43 +0800",
+      "extra": {
+        "hover": "台积电确认因第三方云服务商泄露员工数据，涉事数据被暗网挂牌售卖，卖家威胁无买家就公开，暂未波及生产及客户数据。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/512384.html",
       "title": "微软365爆发大规模服务宕机，全球多区域核心产品受影响",
@@ -125,60 +179,6 @@
       "pubDate": "Wed, 11 Nov 2026 19:31:00 +0800",
       "extra": {
         "hover": "攻击者针对未打补丁的Qlik Sense服务器投放反弹Shell，预置多类漏洞利用工具，疑似筹备更大规模网络攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512008.html",
-      "title": "FreeBuf早报 | Anthropic发布Claude Mythos 5.2；币安警告iOS沙盒逃逸漏洞可泄露加密钱包密钥",
-      "url": "https://www.freebuf.com/news/512008.html",
-      "pubDate": "Wed, 11 Nov 2026 19:13:56 +0800",
-      "extra": {
-        "hover": "Anthropic推出Claude Fable、Mythos 5.2模型，漏洞挖掘能力显著升级，沙箱逃逸风险大幅降低，配套强化安全防护，面向合规企业开放。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/511268.html",
-      "title": "JA3 指纹墙实战：一个 md5 拦住了 curl，却被四行参数绕过",
-      "url": "https://www.freebuf.com/articles/web/511268.html",
-      "pubDate": "Wed, 11 Nov 2026 17:59:36 +0800",
-      "extra": {
-        "hover": "本机搭了一个按 TLS 指纹拦截的服务，把 curl、Python、openssl 打进去，看它怎么分辨、怎么拦，以及为什么这道墙很容易绕。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512031.html",
-      "title": "超3.5万个Grok生成应用在线暴露，部分泄露机密数据与密码",
-      "url": "https://www.freebuf.com/articles/ai-security/512031.html",
-      "pubDate": "Wed, 11 Nov 2026 17:49:40 +0800",
-      "extra": {
-        "hover": "超3.5万个Grok生成应用默认公开暴露，涉多机构机密、员工信息甚至明文密码，存在未授权访问、篡改的高危安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512026.html",
-      "title": "Token自研测试Agent突破全部安全规则，梳理企业Agent防护可行路径",
-      "url": "https://www.freebuf.com/articles/ai-security/512026.html",
-      "pubDate": "Wed, 11 Nov 2026 17:31:59 +0800",
-      "extra": {
-        "hover": "Token自研测试Agent突破全部既有安全规则，梳理出浏览器端AI Agent身份管控、权限约束、审计溯源的企业防护路径，警惕无防护通道成权限滥用入口。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512057.html",
-      "title": "ARTEX、PentAGI、Agent Zero等AI黑客框架运行于公网，部分控制台未设认证",
-      "url": "https://www.freebuf.com/articles/ai-security/512057.html",
-      "pubDate": "Wed, 11 Nov 2026 17:07:39 +0800",
-      "extra": {
-        "hover": "多款AI黑客框架运行在公网可访问服务器上，部分控制台未设身份认证，可被攻击者用于自动化渗透窃密，存在极高安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/511981.html",
-      "title": "微软发布补丁修复1259个漏洞，含已遭利用的Outlook NTLMv2哈希泄露漏洞",
-      "url": "https://www.freebuf.com/news/511981.html",
-      "pubDate": "Wed, 11 Nov 2026 13:47:53 +0800",
-      "extra": {
-        "hover": "微软修复1259个安全漏洞，含无弹窗触发、已遭在野利用的Outlook NTLMv2哈希泄露漏洞，可致身份冒用，企业需按优先级尽快打补丁。"
       }
     }
   ]
