@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794620035942,
+  "updatedAt": 1794643137480,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/512441.html",
@@ -92,6 +92,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/512173.html",
+      "title": "给大模型加一道墙：LLM 防火墙架构设计与攻防实测",
+      "url": "https://www.freebuf.com/articles/vuls/512173.html",
+      "pubDate": "Thu, 12 Nov 2026 17:39:27 +0800",
+      "extra": {
+        "hover": "文章介绍由预处理、上下文分析、规则引擎、LLM 判定、响应过滤和日志处置组成的六阶段 LLM 防火墙，通过攻防实测验证其效果，并分析长文本间接注入、延迟、成本与误报率等局限。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/512170.html",
       "title": "FreeBuf早报 | AI黑客框架运行于公网；微软研究人员展示AI Agent隐蔽后门技术",
       "url": "https://www.freebuf.com/news/512170.html",
@@ -116,6 +125,15 @@
       "pubDate": "Thu, 12 Nov 2026 16:58:22 +0800",
       "extra": {
         "hover": "欧洲刑警组织捣毁Gootloader等三类恶意软件基础设施，斩断勒索攻击链路，关停235台服务器、257个域名，追回640万条受害数据，提醒用户加固系统防范后续攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/512158.html",
+      "title": "SSRF 漏洞的跨框架利用：从 Flask 到 Next.js",
+      "url": "https://www.freebuf.com/articles/web/512158.html",
+      "pubDate": "Thu, 12 Nov 2026 16:33:23 +0800",
+      "extra": {
+        "hover": "摘要服务器端请求伪造（SSRF）漏洞在过去十年中持续位列 OWASP Top 10，但其攻击面正随着现代 Web 框架的演进发生深刻变化。本文通过分析 Flask、Django、Next.js 三大主流框架的 SSRF 风险路径，揭示了框架级实现细节中的隐蔽漏洞场景。实验表明，不同语言生态的网络请求库在重定向处理、协议验证、DNS 解析等环节存在显著差异，而现有的 WAF 规则往往缺乏针对性。文章"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 12 Nov 2026 13:37:44 +0800",
       "extra": {
         "hover": "联想披露ThinkSystem V4服务器XCC3固件存高危漏洞，恢复出厂设置后会还原默认root凭证，可被攻击者利用，已下架问题固件，管理员需及时排查风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512230.html",
-      "title": "MongoDB修复严重未授权漏洞，两个ping请求就可以打崩数据库服务器",
-      "url": "https://www.freebuf.com/news/512230.html",
-      "pubDate": "Thu, 12 Nov 2026 12:22:28 +0800",
-      "extra": {
-        "hover": "MongoDB修复高危未授权漏洞CVE-2026-118383，未认证攻击者仅发两个ping请求即可打崩数据库，需尽快升级补丁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512163.html",
-      "title": "派拓网络披露PAN-OS RCE漏洞，攻击者可获root权限执行任意代码",
-      "url": "https://www.freebuf.com/news/512163.html",
-      "pubDate": "Thu, 12 Nov 2026 08:09:33 +0800",
-      "extra": {
-        "hover": "派拓网络披露Panorama设备的PAN-OS中危RCE漏洞，认证攻击者可获root权限执行任意代码，暂无在野利用，需尽快打补丁、限制管理接口访问。"
       }
     }
   ]
