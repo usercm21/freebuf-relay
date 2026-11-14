@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1794643137480,
+  "updatedAt": 1794685616743,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512581.html",
+      "title": "FBI披露黑客利用ARTEX AI Agents发起攻击，不到三小时即可获取特权访问",
+      "url": "https://www.freebuf.com/articles/ai-security/512581.html",
+      "pubDate": "Sat, 14 Nov 2026 11:21:17 +0800",
+      "extra": {
+        "hover": "FBI发布预警，黑客正利用ARTEX AI框架自动化发起网络攻击，最快不到3小时即可获取目标特权访问，大幅压缩防御响应窗口。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512563.html",
+      "title": "Cursor披露10月安全事件溯源结果，Fireworks AI密钥泄露致Claude Code扩展被植后门",
+      "url": "https://www.freebuf.com/news/512563.html",
+      "pubDate": "Sat, 14 Nov 2026 09:09:31 +0800",
+      "extra": {
+        "hover": "Cursor确认10月安全事件源于Fireworks AI密钥泄露，攻击者植入带后门的恶意Claude Code扩展，少量用户数据、凭证受影响，风险已受控。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/512441.html",
       "title": "身体：把信任层装进一个真实平台——88,000 行怎么验收",
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 12 Nov 2026 16:12:49 +0800",
       "extra": {
         "hover": "算力窃取不需要恶意提示词，所以内容检测天生失效；唯一稳定有效的约束是连接期就把预算定死。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512276.html",
-      "title": "CISA确认Outlook 0Day遭在野利用，可泄露用户认证数据",
-      "url": "https://www.freebuf.com/news/512276.html",
-      "pubDate": "Thu, 12 Nov 2026 14:11:54 +0800",
-      "extra": {
-        "hover": "CISA确认Outlook 0Day漏洞遭在野利用，可静默窃取用户NTLMv2认证哈希，微软已发补丁，要求相关机构限期修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512272.html",
-      "title": "联想披露ThinkSystem服务器高危漏洞，重置后还原默认root凭证",
-      "url": "https://www.freebuf.com/news/512272.html",
-      "pubDate": "Thu, 12 Nov 2026 13:37:44 +0800",
-      "extra": {
-        "hover": "联想披露ThinkSystem V4服务器XCC3固件存高危漏洞，恢复出厂设置后会还原默认root凭证，可被攻击者利用，已下架问题固件，管理员需及时排查风险。"
       }
     }
   ]
