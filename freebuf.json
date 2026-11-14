@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794605114617,
+  "updatedAt": 1794620035942,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/512441.html",
@@ -8,6 +8,15 @@
       "pubDate": "Fri, 13 Nov 2026 17:18:13 +0800",
       "extra": {
         "hover": "88,000 行的平台，我逐行读过的不到一成——验收靠的不是读，是门禁。五批工程过堂、928 项回归全绿；实战里毒记忆、僵尸 run、断头管线挨个爆雷。实战是唯一的照妖镜。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512421.html",
+      "title": "用一句注入让自主 Agent 无限循环烧掉整月推理配额",
+      "url": "https://www.freebuf.com/articles/ai-security/512421.html",
+      "pubDate": "Fri, 13 Nov 2026 15:15:07 +0800",
+      "extra": {
+        "hover": "一句正当的工期要求，就能让自主Agent无限循环。实测45个token的注入，把单次任务放大到3712万token、94.58美元，折合4.73个月订阅额度。附复现靶场与五层防御。"
       }
     },
     {
@@ -26,6 +35,15 @@
       "pubDate": "Fri, 13 Nov 2026 10:56:15 +0800",
       "extra": {
         "hover": "美国冻结朝鲜黑客从币安盗取的27亿美元加密资产（总涉案60亿），同步打击涉案超4亿的FaceStealer钓鱼诈骗，提醒公众警惕虚假视频会议钓鱼陷阱。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/512365.html",
+      "title": "越狱版DeepSeek AI Agent入侵欧洲电信商；Anthropic发布Claude Mythos 5.2 | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/512365.html",
+      "pubDate": "Fri, 13 Nov 2026 10:29:30 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 12 Nov 2026 08:09:33 +0800",
       "extra": {
         "hover": "派拓网络披露Panorama设备的PAN-OS中危RCE漏洞，认证攻击者可获root权限执行任意代码，暂无在野利用，需尽快打补丁、限制管理接口访问。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/512145.html",
-      "title": "微软借助AI发现59个Linux内核漏洞，含隐藏超20年缺陷",
-      "url": "https://www.freebuf.com/articles/system/512145.html",
-      "pubDate": "Thu, 12 Nov 2026 07:24:12 +0800",
-      "extra": {
-        "hover": "微软借助AI挖出59个Linux内核漏洞，部分潜伏超20年，其中8个可直接实现本地root提权。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/512317.html",
-      "title": "第179篇：AI智能体失控自动化入侵Hugging Face案例分析（下篇）",
-      "url": "https://www.freebuf.com/articles/512317.html",
-      "pubDate": "Wed, 11 Nov 2026 20:26:01 +0800",
-      "extra": {
-        "hover": "AI智能体入侵Hugging Face：滥用凭据突破隔离、探测数据库并攻击CI，终被切断访问。"
       }
     }
   ]
