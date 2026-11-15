@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1794711394542,
+  "updatedAt": 1794738533656,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/512640.html",
+      "title": "「宝马」的两次信任边界改写：220 万辆车的车门，和一张没写身份的服务目录",
+      "url": "https://www.freebuf.com/articles/endpoint/512640.html",
+      "pubDate": "Sat, 14 Nov 2026 17:41:50 +0800",
+      "extra": {
+        "hover": "BMW 220万辆车曾可被伪造服务器远程开门；HTTPS仅补服务端身份，车内服务发现仍待治理。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/512581.html",
       "title": "FBI披露黑客利用ARTEX AI Agents发起攻击，不到三小时即可获取特权访问",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 12 Nov 2026 16:25:01 +0800",
       "extra": {
         "hover": "GPUStack 把「来源是回环」当作内置管理员身份；本文拆开这条判据背后的两条取值通道，并核对两笔修复各自关掉了哪一半、又留下了什么。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/512152.html",
-      "title": "FreeSWITCH mod_xml_rpc WebSocket 帧长度截断堆越界写（CVE-2026-116785）",
-      "url": "https://www.freebuf.com/articles/vuls/512152.html",
-      "pubDate": "Thu, 12 Nov 2026 16:23:34 +0800",
-      "extra": {
-        "hover": "FreeSWITCH mod_xml_rpc 帧长度截断致认证前堆越界写（CVE-2026-116785）：逐行复算并比对三笔修复。"
       }
     }
   ]
