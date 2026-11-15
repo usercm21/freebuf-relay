@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794685616743,
+  "updatedAt": 1794711394542,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/512581.html",
@@ -35,6 +35,15 @@
       "pubDate": "Fri, 13 Nov 2026 15:15:07 +0800",
       "extra": {
         "hover": "一句正当的工期要求，就能让自主Agent无限循环。实测45个token的注入，把单次任务放大到3712万token、94.58美元，折合4.73个月订阅额度。附复现靶场与五层防御。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/512420.html",
+      "title": "当 OAuth 遇上\"信任危机\"：从配置错误到会话劫持的完整路径",
+      "url": "https://www.freebuf.com/articles/web/512420.html",
+      "pubDate": "Fri, 13 Nov 2026 15:13:26 +0800",
+      "extra": {
+        "hover": "摘要OAuth 2.0 和 OpenID Connect（OIDC）已成为现代应用身份认证的事实标准，但复杂的授权流程和多样化的实现方式也带来了独特的安全风险。本文通过真实案例和实验数据，深入分析了 OAuth 2.0/OIDC 中的常见配置陷阱、令牌劫持路径和防御策略。测试表明，超过 60% 的 OAuth 集成存在至少一个可被利用的配置缺陷。文章提供了自动化检测思路和纵深防御方案，帮助开发者和"
       }
     },
     {
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 12 Nov 2026 16:23:34 +0800",
       "extra": {
         "hover": "FreeSWITCH mod_xml_rpc 帧长度截断致认证前堆越界写（CVE-2026-116785）：逐行复算并比对三笔修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512146.html",
-      "title": "用恶意 MCP Server 反向 Sampling 借客户端算力并借 roots 摸宿主目录",
-      "url": "https://www.freebuf.com/articles/ai-security/512146.html",
-      "pubDate": "Thu, 12 Nov 2026 16:12:49 +0800",
-      "extra": {
-        "hover": "算力窃取不需要恶意提示词，所以内容检测天生失效；唯一稳定有效的约束是连接期就把预算定死。"
       }
     }
   ]
