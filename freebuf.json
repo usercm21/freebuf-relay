@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1794738533656,
+  "updatedAt": 1794818266516,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/512746.html",
+      "title": "谷歌Project Zero更新漏洞披露政策，到期无论修复与否均公开",
+      "url": "https://www.freebuf.com/news/512746.html",
+      "pubDate": "Mon, 16 Nov 2026 06:30:02 +0800",
+      "extra": {
+        "hover": "谷歌Project Zero更新漏洞披露政策，2028年起所报漏洞满30天无论厂商是否修复都公开细节，取消宽限期，因LLM大幅降低漏洞攻击门槛。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512706.html",
+      "title": "Claude借助3美元Arduino破解32年车龄Jeep ECU，逆向分析发动机电脑",
+      "url": "https://www.freebuf.com/articles/ai-security/512706.html",
+      "pubDate": "Mon, 16 Nov 2026 02:09:56 +0800",
+      "extra": {
+        "hover": "仅靠3美元Arduino，Claude就破解了32年车龄Jeep ECU，既帮车主通过尾气检测，也暴露AI降低车载系统攻击门槛的风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512667.html",
+      "title": "研究人员发现6个0Day漏洞，可未授权接管超市制冷系统",
+      "url": "https://www.freebuf.com/news/512667.html",
+      "pubDate": "Sun, 15 Nov 2026 15:23:22 +0800",
+      "extra": {
+        "hover": "研究人员发现超市制冷控制器存在6个可未授权远程接管的0Day漏洞，相关攻击已致欧洲多门店受损甚至起火，损失达数千万欧元。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/endpoint/512640.html",
       "title": "「宝马」的两次信任边界改写：220 万辆车的车门，和一张没写身份的服务目录",
@@ -29,12 +56,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/512448.html",
+      "title": "FreeBuf早报 | 台积电确认数据泄露；微软365爆发大规模服务宕机",
+      "url": "https://www.freebuf.com/news/512448.html",
+      "pubDate": "Fri, 13 Nov 2026 18:13:51 +0800",
+      "extra": {
+        "hover": "台积电确认因第三方云服务商泄露员工数据，涉事数据被暗网挂牌售卖，卖家威胁无买家就公开，暂未波及生产及客户数据。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/512441.html",
       "title": "身体：把信任层装进一个真实平台——88,000 行怎么验收",
       "url": "https://www.freebuf.com/articles/ai-security/512441.html",
       "pubDate": "Fri, 13 Nov 2026 17:18:13 +0800",
       "extra": {
         "hover": "88,000 行的平台，我逐行读过的不到一成——验收靠的不是读，是门禁。五批工程过堂、928 项回归全绿；实战里毒记忆、僵尸 run、断头管线挨个爆雷。实战是唯一的照妖镜。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512427.html",
+      "title": "当AI Agent学会“黑客技术”：自主漏洞发现与多阶段攻击链的实测与防御",
+      "url": "https://www.freebuf.com/articles/ai-security/512427.html",
+      "pubDate": "Fri, 13 Nov 2026 16:11:43 +0800",
+      "extra": {
+        "hover": "AI Agent 可自主侦察、挖洞、生成利用代码并链式攻击，本文通过实测分析其威胁，提出五层自适应免疫防御方案，应对 AI 自主黑客威胁。"
       }
     },
     {
@@ -128,57 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/vuls/512173.html",
-      "title": "给大模型加一道墙：LLM 防火墙架构设计与攻防实测",
-      "url": "https://www.freebuf.com/articles/vuls/512173.html",
-      "pubDate": "Thu, 12 Nov 2026 17:39:27 +0800",
+      "id": "https://www.freebuf.com/articles/vuls/512175.html",
+      "title": "AI Agent 蜜罐实战：从部署到捕获一次自动化攻击的完整记录",
+      "url": "https://www.freebuf.com/articles/vuls/512175.html",
+      "pubDate": "Thu, 12 Nov 2026 17:57:54 +0800",
       "extra": {
-        "hover": "文章介绍由预处理、上下文分析、规则引擎、LLM 判定、响应过滤和日志处置组成的六阶段 LLM 防火墙，通过攻防实测验证其效果，并分析长文本间接注入、延迟、成本与误报率等局限。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512170.html",
-      "title": "FreeBuf早报 | AI黑客框架运行于公网；微软研究人员展示AI Agent隐蔽后门技术",
-      "url": "https://www.freebuf.com/news/512170.html",
-      "pubDate": "Thu, 12 Nov 2026 17:28:11 +0800",
-      "extra": {
-        "hover": "多款AI黑客框架运行在公网可访问服务器上，部分控制台未设身份认证，可被攻击者用于自动化渗透窃密，存在极高安全风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/512167.html",
-      "title": "AI安全事件检测与响应：怎么知道你的LLM应用正在被攻击",
-      "url": "https://www.freebuf.com/articles/vuls/512167.html",
-      "pubDate": "Thu, 12 Nov 2026 17:22:19 +0800",
-      "extra": {
-        "hover": "所有代码都能直接跑，靶场用的是同一个 RAG 应用，在上面叠加检测中间件，不改原有代码。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512269.html",
-      "title": "欧洲刑警组织捣毁三类恶意软件基础设施，关停235台服务器257个域名",
-      "url": "https://www.freebuf.com/news/512269.html",
-      "pubDate": "Thu, 12 Nov 2026 16:58:22 +0800",
-      "extra": {
-        "hover": "欧洲刑警组织捣毁Gootloader等三类恶意软件基础设施，斩断勒索攻击链路，关停235台服务器、257个域名，追回640万条受害数据，提醒用户加固系统防范后续攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/512158.html",
-      "title": "SSRF 漏洞的跨框架利用：从 Flask 到 Next.js",
-      "url": "https://www.freebuf.com/articles/web/512158.html",
-      "pubDate": "Thu, 12 Nov 2026 16:33:23 +0800",
-      "extra": {
-        "hover": "摘要服务器端请求伪造（SSRF）漏洞在过去十年中持续位列 OWASP Top 10，但其攻击面正随着现代 Web 框架的演进发生深刻变化。本文通过分析 Flask、Django、Next.js 三大主流框架的 SSRF 风险路径，揭示了框架级实现细节中的隐蔽漏洞场景。实验表明，不同语言生态的网络请求库在重定向处理、协议验证、DNS 解析等环节存在显著差异，而现有的 WAF 规则往往缺乏针对性。文章"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/512153.html",
-      "title": "127.0.0.1 是谁说的：GPUStack 回环信任绕过（CVE-2026-102895）",
-      "url": "https://www.freebuf.com/articles/vuls/512153.html",
-      "pubDate": "Thu, 12 Nov 2026 16:25:01 +0800",
-      "extra": {
-        "hover": "GPUStack 把「来源是回环」当作内置管理员身份；本文拆开这条判据背后的两条取值通道，并核对两笔修复各自关掉了哪一半、又留下了什么。"
+        "hover": "文章记录从部署到捕获的 AI Agent 蜜罐实践，介绍诱饵、欺骗、分析与告警架构，复现智能体六步、8.4 秒的攻击过程，并展示攻击链重建、画像、归因和安全体系联动。"
       }
     }
   ]
