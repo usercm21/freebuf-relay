@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1794818266516,
+  "updatedAt": 1794855244661,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512791.html",
+      "title": "AI Agent 在红队实战中的落地与坑：一个 USENIX24 开源 Agent 的范围强制层实测",
+      "url": "https://www.freebuf.com/articles/ai-security/512791.html",
+      "pubDate": "Mon, 16 Nov 2026 18:36:41 +0800",
+      "extra": {
+        "hover": "审计 PentestGPT 的范围强制层：实测 33 条越界指令 25 条放行，14 项审计检查 0 项查越界，校验器从不读 goal。范围锚定在 URL 上，不锚定在行为上。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/512780.html",
+      "title": "日本10月网络事件达233起创纪录，1.85亿条个人记录涉险",
+      "url": "https://www.freebuf.com/articles/database/512780.html",
+      "pubDate": "Mon, 16 Nov 2026 09:39:54 +0800",
+      "extra": {
+        "hover": "2026年10月日本网络事件达233起，创历史纪录，约1.85亿条个人记录涉险，AI辅助攻击加剧风险，日本推出百亿日元应急网络安全方案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512777.html",
+      "title": "AI生成补丁成黑客攻击路线图，漏洞修复攻防差距持续拉大",
+      "url": "https://www.freebuf.com/articles/ai-security/512777.html",
+      "pubDate": "Mon, 16 Nov 2026 08:25:00 +0800",
+      "extra": {
+        "hover": "AI生成的漏洞补丁常存缺陷，反倒成黑客挖掘漏洞的攻击路线图，AI拉低攻击门槛、漏洞激增下，攻防差距持续拉大。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/512746.html",
       "title": "谷歌Project Zero更新漏洞披露政策，到期无论修复与否均公开",
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 13 Nov 2026 07:16:36 +0800",
       "extra": {
         "hover": "OpenAI发布两款Daybreak系列AI网络安全工具，可自动化开展渗透测试、验证漏洞并生成修复补丁，代码变更仍需工程师审核把关。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/512403.html",
-      "title": "台积电确认发生数据泄露事件，员工信息经第三方云服务商外泄",
-      "url": "https://www.freebuf.com/articles/database/512403.html",
-      "pubDate": "Fri, 13 Nov 2026 05:25:43 +0800",
-      "extra": {
-        "hover": "台积电确认因第三方云服务商泄露员工数据，涉事数据被暗网挂牌售卖，卖家威胁无买家就公开，暂未波及生产及客户数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512384.html",
-      "title": "微软365爆发大规模服务宕机，全球多区域核心产品受影响",
-      "url": "https://www.freebuf.com/news/512384.html",
-      "pubDate": "Fri, 13 Nov 2026 02:14:54 +0800",
-      "extra": {
-        "hover": "2026年11月微软365爆发大规模宕机，Outlook、Teams等核心服务全球多区域受影响，自动健康检查失效拖慢恢复进度，暂无证据表明遭网络攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/512175.html",
-      "title": "AI Agent 蜜罐实战：从部署到捕获一次自动化攻击的完整记录",
-      "url": "https://www.freebuf.com/articles/vuls/512175.html",
-      "pubDate": "Thu, 12 Nov 2026 17:57:54 +0800",
-      "extra": {
-        "hover": "文章记录从部署到捕获的 AI Agent 蜜罐实践，介绍诱饵、欺骗、分析与告警架构，复现智能体六步、8.4 秒的攻击过程，并展示攻击链重建、画像、归因和安全体系联动。"
       }
     }
   ]
