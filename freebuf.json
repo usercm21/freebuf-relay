@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1794912656665,
+  "updatedAt": 1794944242071,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/web/512971.html",
+      "title": "一个 4.17MB 的 JS 文件里，藏着整套加密协议",
+      "url": "https://www.freebuf.com/articles/web/512971.html",
+      "pubDate": "Tue, 17 Nov 2026 16:43:37 +0800",
+      "extra": {
+        "hover": "抓包全是密文，搜 AES 只有 7 处命中且全是噪音。本文记录如何在\n4.17MB 的 dart2js 编译产物里，用&amp;quot;搜数据而不是搜函数&amp;quot;的思路，\n定位到 AES 密钥、IV 和签名算法."
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513009.html",
+      "title": "麦当劳iOS应用遭大规模推送通知攻击，引发ARTEX安全担忧",
+      "url": "https://www.freebuf.com/news/513009.html",
+      "pubDate": "Tue, 17 Nov 2026 10:53:39 +0800",
+      "extra": {
+        "hover": "麦当劳iOS应用遭大规模异常推送攻击引发安全担忧，消息含可疑ARTEX类测试字符串，目前攻击路径未明，暂未证实数据泄露或设备被入侵。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/512937.html",
       "title": "N-able发布补丁修复N-central 17个漏洞，攻击者利用旧漏洞部署加密矿机",
@@ -161,24 +179,6 @@
       "pubDate": "Sat, 14 Nov 2026 09:09:31 +0800",
       "extra": {
         "hover": "Cursor确认10月安全事件源于Fireworks AI密钥泄露，攻击者植入带后门的恶意Claude Code扩展，少量用户数据、凭证受影响，风险已受控。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512448.html",
-      "title": "FreeBuf早报 | 台积电确认数据泄露；微软365爆发大规模服务宕机",
-      "url": "https://www.freebuf.com/news/512448.html",
-      "pubDate": "Fri, 13 Nov 2026 18:13:51 +0800",
-      "extra": {
-        "hover": "台积电确认因第三方云服务商泄露员工数据，涉事数据被暗网挂牌售卖，卖家威胁无买家就公开，暂未波及生产及客户数据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512441.html",
-      "title": "身体：把信任层装进一个真实平台——88,000 行怎么验收",
-      "url": "https://www.freebuf.com/articles/ai-security/512441.html",
-      "pubDate": "Fri, 13 Nov 2026 17:18:13 +0800",
-      "extra": {
-        "hover": "88,000 行的平台，我逐行读过的不到一成——验收靠的不是读，是门禁。五批工程过堂、928 项回归全绿；实战里毒记忆、僵尸 run、断头管线挨个爆雷。实战是唯一的照妖镜。"
       }
     }
   ]
