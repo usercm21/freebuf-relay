@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1794855244661,
+  "updatedAt": 1794881898364,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/512792.html",
+      "title": "FreeBuf早报 | Claude借助3美元Arduino破解32年车龄Jeep ECU；美国冻结朝鲜黑客盗取的27亿美元币安资产",
+      "url": "https://www.freebuf.com/news/512792.html",
+      "pubDate": "Mon, 16 Nov 2026 19:00:53 +0800",
+      "extra": {
+        "hover": "仅靠3美元Arduino，Claude就破解了32年车龄Jeep ECU，既帮车主通过尾气检测，也暴露AI降低车载系统攻击门槛的风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/512791.html",
       "title": "AI Agent 在红队实战中的落地与坑：一个 USENIX24 开源 Agent 的范围强制层实测",
@@ -8,6 +17,24 @@
       "pubDate": "Mon, 16 Nov 2026 18:36:41 +0800",
       "extra": {
         "hover": "审计 PentestGPT 的范围强制层：实测 33 条越界指令 25 条放行，14 项审计检查 0 项查越界，校验器从不读 goal。范围锚定在 URL 上，不锚定在行为上。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512869.html",
+      "title": "谷歌警告威胁行为者常态化用AI，网络攻击临近发展拐点",
+      "url": "https://www.freebuf.com/articles/ai-security/512869.html",
+      "pubDate": "Mon, 16 Nov 2026 15:32:00 +0800",
+      "extra": {
+        "hover": "谷歌警告：威胁行为者常态化滥用AI开展网络攻击已临近拐点，攻击门槛降低、补丁响应窗口压缩，网络防御面临全新严峻挑战。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512831.html",
+      "title": "谷歌披露AI框架可自动将补丁转为漏洞利用，全程无需人工干预",
+      "url": "https://www.freebuf.com/articles/ai-security/512831.html",
+      "pubDate": "Mon, 16 Nov 2026 14:00:47 +0800",
+      "extra": {
+        "hover": "谷歌披露：全程无人工干预的AI攻击框架已出现，可自动将安全补丁转为漏洞利用程序投入实战，网络攻击门槛骤降。"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 13 Nov 2026 10:29:30 +0800",
       "extra": {
         "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/development/512454.html",
-      "title": "OpenAI发布Daybreak，将AI Agent引入安全测试与漏洞修复流程",
-      "url": "https://www.freebuf.com/articles/development/512454.html",
-      "pubDate": "Fri, 13 Nov 2026 09:31:07 +0800",
-      "extra": {
-        "hover": "OpenAI推出Daybreak，依托多AI Agent协同自动打通Web应用渗透测试、漏洞验证、补丁修复与复测全链路安全流程。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512431.html",
-      "title": "ArcticRAT安卓恶意软件利用隐藏VNC控制手机，受害者仅可见黑屏",
-      "url": "https://www.freebuf.com/news/512431.html",
-      "pubDate": "Fri, 13 Nov 2026 07:51:50 +0800",
-      "extra": {
-        "hover": "安卓恶意软件ArcticRAT利用隐藏VNC控制手机，受害者仅见黑屏时已被窃密，结合AI提效，需警惕非正规渠道应用风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512428.html",
-      "title": "OpenAI推出两款AI网络安全工具，可自动化渗透测试与漏洞修复",
-      "url": "https://www.freebuf.com/news/512428.html",
-      "pubDate": "Fri, 13 Nov 2026 07:16:36 +0800",
-      "extra": {
-        "hover": "OpenAI发布两款Daybreak系列AI网络安全工具，可自动化开展渗透测试、验证漏洞并生成修复补丁，代码变更仍需工程师审核把关。"
       }
     }
   ]
