@@ -1,6 +1,42 @@
 {
-  "updatedAt": 1794881898364,
+  "updatedAt": 1794912656665,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/512937.html",
+      "title": "N-able发布补丁修复N-central 17个漏洞，攻击者利用旧漏洞部署加密矿机",
+      "url": "https://www.freebuf.com/news/512937.html",
+      "pubDate": "Tue, 17 Nov 2026 10:30:34 +0800",
+      "extra": {
+        "hover": "N-able发布N-central关键补丁修复17个高危漏洞，旧漏洞已遭在野利用部署加密矿机，未升级组件易被仿冒，用户需尽快更新。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/512978.html",
+      "title": "macOS 27.3新增安全管控，限制AI应用无授权访问全量Mac数据",
+      "url": "https://www.freebuf.com/articles/system/512978.html",
+      "pubDate": "Tue, 17 Nov 2026 08:55:20 +0800",
+      "extra": {
+        "hover": "苹果 macOS 27.3 新增安全管控，未获用户明确授权的 AI 等应用难以随意访问 Mac 全量数据，通过细化权限、强化风险警示防范全量数据泄露风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512979.html",
+      "title": "黑客利用AI厂商泄露密钥，44小时攻破10个梭子鱼云账户",
+      "url": "https://www.freebuf.com/news/512979.html",
+      "pubDate": "Tue, 17 Nov 2026 08:42:21 +0800",
+      "extra": {
+        "hover": "黑客利用AI厂商泄露且未及时停用的密钥，仅44小时就攻破10个梭子鱼云账户横向窃密，梭子鱼已整改并通知受影响客户重置凭证。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/512954.html",
+      "title": "AI安全占网络安全种子轮交易超三分之一，Agent安全成核心投向",
+      "url": "https://www.freebuf.com/news/512954.html",
+      "pubDate": "Tue, 17 Nov 2026 06:19:27 +0800",
+      "extra": {
+        "hover": "2026年Q3美国风投整体走强，但网安种子轮交易规模连降两季度，AI安全占比超三分之一，A轮门槛抬升，普通初创融资反而更难。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/512792.html",
       "title": "FreeBuf早报 | Claude借助3美元Arduino破解32年车龄Jeep ECU；美国冻结朝鲜黑客盗取的27亿美元币安资产",
@@ -17,6 +53,15 @@
       "pubDate": "Mon, 16 Nov 2026 18:36:41 +0800",
       "extra": {
         "hover": "审计 PentestGPT 的范围强制层：实测 33 条越界指令 25 条放行，14 项审计检查 0 项查越界，校验器从不读 goal。范围锚定在 URL 上，不锚定在行为上。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/512880.html",
+      "title": "藏身云端：利用 Amazon API 实现 Cobalt Strike Beacon 的 C2 通信",
+      "url": "https://www.freebuf.com/articles/512880.html",
+      "pubDate": "Mon, 16 Nov 2026 16:30:45 +0800",
+      "extra": {
+        "hover": "滥用AWS API/S3作C2，绕开传统拦截监控，可构成数据泄露威胁。"
       }
     },
     {
@@ -44,6 +89,15 @@
       "pubDate": "Mon, 16 Nov 2026 09:39:54 +0800",
       "extra": {
         "hover": "2026年10月日本网络事件达233起，创历史纪录，约1.85亿条个人记录涉险，AI辅助攻击加剧风险，日本推出百亿日元应急网络安全方案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/sectool/512853.html",
+      "title": "PivotHub · 链透中枢 — 多层内网渗透辅助工具",
+      "url": "https://www.freebuf.com/articles/sectool/512853.html",
+      "pubDate": "Mon, 16 Nov 2026 08:30:20 +0800",
+      "extra": {
+        "hover": "内网渗透辅助工具 PivotHub：资产探测、Shell/SSH、隧道编排、凭据与复盘一体化。"
       }
     },
     {
@@ -125,60 +179,6 @@
       "pubDate": "Fri, 13 Nov 2026 17:18:13 +0800",
       "extra": {
         "hover": "88,000 行的平台，我逐行读过的不到一成——验收靠的不是读，是门禁。五批工程过堂、928 项回归全绿；实战里毒记忆、僵尸 run、断头管线挨个爆雷。实战是唯一的照妖镜。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512427.html",
-      "title": "当AI Agent学会“黑客技术”：自主漏洞发现与多阶段攻击链的实测与防御",
-      "url": "https://www.freebuf.com/articles/ai-security/512427.html",
-      "pubDate": "Fri, 13 Nov 2026 16:11:43 +0800",
-      "extra": {
-        "hover": "AI Agent 可自主侦察、挖洞、生成利用代码并链式攻击，本文通过实测分析其威胁，提出五层自适应免疫防御方案，应对 AI 自主黑客威胁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512421.html",
-      "title": "用一句注入让自主 Agent 无限循环烧掉整月推理配额",
-      "url": "https://www.freebuf.com/articles/ai-security/512421.html",
-      "pubDate": "Fri, 13 Nov 2026 15:15:07 +0800",
-      "extra": {
-        "hover": "一句正当的工期要求，就能让自主Agent无限循环。实测45个token的注入，把单次任务放大到3712万token、94.58美元，折合4.73个月订阅额度。附复现靶场与五层防御。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/512420.html",
-      "title": "当 OAuth 遇上\"信任危机\"：从配置错误到会话劫持的完整路径",
-      "url": "https://www.freebuf.com/articles/web/512420.html",
-      "pubDate": "Fri, 13 Nov 2026 15:13:26 +0800",
-      "extra": {
-        "hover": "摘要OAuth 2.0 和 OpenID Connect（OIDC）已成为现代应用身份认证的事实标准，但复杂的授权流程和多样化的实现方式也带来了独特的安全风险。本文通过真实案例和实验数据，深入分析了 OAuth 2.0/OIDC 中的常见配置陷阱、令牌劫持路径和防御策略。测试表明，超过 60% 的 OAuth 集成存在至少一个可被利用的配置缺陷。文章提供了自动化检测思路和纵深防御方案，帮助开发者和"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512500.html",
-      "title": "攻击者爆破公网微软SQL服务器，超2700组密码猜解植入远控挖矿程序",
-      "url": "https://www.freebuf.com/news/512500.html",
-      "pubDate": "Fri, 13 Nov 2026 14:54:56 +0800",
-      "extra": {
-        "hover": "攻击者用超2700组密码爆破公网微软SQL服务器，入侵后植入挖矿程序与远控木马，窃密、占用算力，给暴露服务器带来高危风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512490.html",
-      "title": "美国冻结朝鲜黑客盗取的27亿美元币安资产，涉案总金额达60亿美元",
-      "url": "https://www.freebuf.com/news/512490.html",
-      "pubDate": "Fri, 13 Nov 2026 10:56:15 +0800",
-      "extra": {
-        "hover": "美国冻结朝鲜黑客从币安盗取的27亿美元加密资产（总涉案60亿），同步打击涉案超4亿的FaceStealer钓鱼诈骗，提醒公众警惕虚假视频会议钓鱼陷阱。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/512365.html",
-      "title": "越狱版DeepSeek AI Agent入侵欧洲电信商；Anthropic发布Claude Mythos 5.2 | FreeBuf周报",
-      "url": "https://www.freebuf.com/articles/512365.html",
-      "pubDate": "Fri, 13 Nov 2026 10:29:30 +0800",
-      "extra": {
-        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     }
   ]
