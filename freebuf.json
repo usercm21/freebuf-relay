@@ -1,6 +1,60 @@
 {
-  "updatedAt": 1794966692470,
+  "updatedAt": 1794995041205,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/513190.html",
+      "title": "Flipper Devices推出Linux多功能工具Flipper One，内置高级网络安全工具",
+      "url": "https://www.freebuf.com/news/513190.html",
+      "pubDate": "Wed, 18 Nov 2026 03:35:31 +0800",
+      "extra": {
+        "hover": "Flipper Devices发起便携Linux网络安全工具Flipper One众筹，主打网络测试，双芯片架构支持多扩展，面向安全研究场景。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513183.html",
+      "title": "OpenJDK存在高危Java4Shell漏洞，无需认证即可远程执行代码",
+      "url": "https://www.freebuf.com/news/513183.html",
+      "pubDate": "Wed, 18 Nov 2026 02:26:29 +0800",
+      "extra": {
+        "hover": "OpenJDK爆高危Java4Shell漏洞，无需认证即可远程执行代码、窃密，波及多款主流Java应用，官方已发补丁，请立即修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513135.html",
+      "title": "研究人员披露两个RCE利用链，可绕过Telegram安卓新防护",
+      "url": "https://www.freebuf.com/news/513135.html",
+      "pubDate": "Wed, 18 Nov 2026 01:04:20 +0800",
+      "extra": {
+        "hover": "研究人员披露两个可绕过Telegram安卓新防护的RCE利用链，可实现沙箱外代码执行，已监测到相关在野攻击活动。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513148.html",
+      "title": "Google与Anthropic收紧披露时限，AI压缩漏洞发现周期倒逼补丁提速",
+      "url": "https://www.freebuf.com/articles/ai-security/513148.html",
+      "pubDate": "Tue, 17 Nov 2026 23:29:35 +0800",
+      "extra": {
+        "hover": "AI大幅压缩漏洞发现攻防周期，Google、Anthropic相继缩短漏洞披露时限，倒逼厂商提速打补丁，应对陡增的网络安全风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513011.html",
+      "title": "FreeBuf早报 | 日本10月网络事件达233起创纪录；谷歌披露AI框架可自动将补丁转为漏洞利用",
+      "url": "https://www.freebuf.com/news/513011.html",
+      "pubDate": "Tue, 17 Nov 2026 19:23:54 +0800",
+      "extra": {
+        "hover": "2026年10月日本网络事件达233起，创历史纪录，约1.85亿条个人记录涉险，AI辅助攻击加剧风险，日本推出百亿日元应急网络安全方案。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/513058.html",
+      "title": "币安攻击事件有哪些不为人知的事",
+      "url": "https://www.freebuf.com/articles/es/513058.html",
+      "pubDate": "Tue, 17 Nov 2026 17:49:17 +0800",
+      "extra": {
+        "hover": "假面试骗工程师、隐身病毒直插内网，4个月APT借EIP-7702“发动抢劫”转走约63.4亿美元。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/512975.html",
       "title": "LLM 应用 SDL 实战手册：安全团队如何验收一个大模型系统",
@@ -17,6 +71,33 @@
       "pubDate": "Tue, 17 Nov 2026 16:43:37 +0800",
       "extra": {
         "hover": "抓包全是密文，搜 AES 只有 7 处命中且全是噪音。本文记录如何在\n4.17MB 的 dart2js 编译产物里，用&amp;quot;搜数据而不是搜函数&amp;quot;的思路，\n定位到 AES 密钥、IV 和签名算法."
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/513068.html",
+      "title": "几十元就能破解电话手表 刷机服务暗藏哪些安全风险？",
+      "url": "https://www.freebuf.com/articles/endpoint/513068.html",
+      "pubDate": "Tue, 17 Nov 2026 15:00:36 +0800",
+      "extra": {
+        "hover": "几十元即可刷机破解电话手表家长监管，隐私、定位、资金等风险随之暴露，维权需先固定证据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513055.html",
+      "title": "黑客利用未打补丁微软Exchange服务器，入侵东南亚政府网部署定制RAT",
+      "url": "https://www.freebuf.com/news/513055.html",
+      "pubDate": "Tue, 17 Nov 2026 14:24:16 +0800",
+      "extra": {
+        "hover": "黑客利用未打补丁的微软Exchange服务器入侵东南亚政府网络，部署定制RAT长期潜伏窃密，隐蔽性极强，严重威胁政务数据安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/512906.html",
+      "title": "从伪造身份到越权动作：Agent Data Injection 的混淆代理与能力绑定机制",
+      "url": "https://www.freebuf.com/articles/ai-security/512906.html",
+      "pubDate": "Tue, 17 Nov 2026 10:57:39 +0800",
+      "extra": {
+        "hover": "Agent Data Injection风险核心是混淆代理借权越权。本文开展确定性实验与本地模型探针，对比四类防护策略，验证能力租约机制，强调模型仅可提动作，授权必须由宿主管控。"
       }
     },
     {
@@ -83,102 +164,21 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/512778.html",
+      "title": "窃取 AI 工具链的非人类身份 token，验证改密码无法吊销",
+      "url": "https://www.freebuf.com/articles/ai-security/512778.html",
+      "pubDate": "Mon, 16 Nov 2026 17:37:58 +0800",
+      "extra": {
+        "hover": "AI 工具链里的 MCP、CI、Agent 都没有账号，改密码对它们无效。49 格实测：改密码只让 1 类凭据失效，重置 MFA 也是 0 类；能一次杀干净的是吊销签发根，7/7。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/512880.html",
       "title": "藏身云端：利用 Amazon API 实现 Cobalt Strike Beacon 的 C2 通信",
       "url": "https://www.freebuf.com/articles/512880.html",
       "pubDate": "Mon, 16 Nov 2026 16:30:45 +0800",
       "extra": {
         "hover": "滥用AWS API/S3作C2，绕开传统拦截监控，可构成数据泄露威胁。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512869.html",
-      "title": "谷歌警告威胁行为者常态化用AI，网络攻击临近发展拐点",
-      "url": "https://www.freebuf.com/articles/ai-security/512869.html",
-      "pubDate": "Mon, 16 Nov 2026 15:32:00 +0800",
-      "extra": {
-        "hover": "谷歌警告：威胁行为者常态化滥用AI开展网络攻击已临近拐点，攻击门槛降低、补丁响应窗口压缩，网络防御面临全新严峻挑战。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512831.html",
-      "title": "谷歌披露AI框架可自动将补丁转为漏洞利用，全程无需人工干预",
-      "url": "https://www.freebuf.com/articles/ai-security/512831.html",
-      "pubDate": "Mon, 16 Nov 2026 14:00:47 +0800",
-      "extra": {
-        "hover": "谷歌披露：全程无人工干预的AI攻击框架已出现，可自动将安全补丁转为漏洞利用程序投入实战，网络攻击门槛骤降。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/512780.html",
-      "title": "日本10月网络事件达233起创纪录，1.85亿条个人记录涉险",
-      "url": "https://www.freebuf.com/articles/database/512780.html",
-      "pubDate": "Mon, 16 Nov 2026 09:39:54 +0800",
-      "extra": {
-        "hover": "2026年10月日本网络事件达233起，创历史纪录，约1.85亿条个人记录涉险，AI辅助攻击加剧风险，日本推出百亿日元应急网络安全方案。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/512853.html",
-      "title": "PivotHub · 链透中枢 — 多层内网渗透辅助工具",
-      "url": "https://www.freebuf.com/articles/sectool/512853.html",
-      "pubDate": "Mon, 16 Nov 2026 08:30:20 +0800",
-      "extra": {
-        "hover": "内网渗透辅助工具 PivotHub：资产探测、Shell/SSH、隧道编排、凭据与复盘一体化。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512777.html",
-      "title": "AI生成补丁成黑客攻击路线图，漏洞修复攻防差距持续拉大",
-      "url": "https://www.freebuf.com/articles/ai-security/512777.html",
-      "pubDate": "Mon, 16 Nov 2026 08:25:00 +0800",
-      "extra": {
-        "hover": "AI生成的漏洞补丁常存缺陷，反倒成黑客挖掘漏洞的攻击路线图，AI拉低攻击门槛、漏洞激增下，攻防差距持续拉大。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512746.html",
-      "title": "谷歌Project Zero更新漏洞披露政策，到期无论修复与否均公开",
-      "url": "https://www.freebuf.com/news/512746.html",
-      "pubDate": "Mon, 16 Nov 2026 06:30:02 +0800",
-      "extra": {
-        "hover": "谷歌Project Zero更新漏洞披露政策，2028年起所报漏洞满30天无论厂商是否修复都公开细节，取消宽限期，因LLM大幅降低漏洞攻击门槛。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512706.html",
-      "title": "Claude借助3美元Arduino破解32年车龄Jeep ECU，逆向分析发动机电脑",
-      "url": "https://www.freebuf.com/articles/ai-security/512706.html",
-      "pubDate": "Mon, 16 Nov 2026 02:09:56 +0800",
-      "extra": {
-        "hover": "仅靠3美元Arduino，Claude就破解了32年车龄Jeep ECU，既帮车主通过尾气检测，也暴露AI降低车载系统攻击门槛的风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512667.html",
-      "title": "研究人员发现6个0Day漏洞，可未授权接管超市制冷系统",
-      "url": "https://www.freebuf.com/news/512667.html",
-      "pubDate": "Sun, 15 Nov 2026 15:23:22 +0800",
-      "extra": {
-        "hover": "研究人员发现超市制冷控制器存在6个可未授权远程接管的0Day漏洞，相关攻击已致欧洲多门店受损甚至起火，损失达数千万欧元。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/512640.html",
-      "title": "「宝马」的两次信任边界改写：220 万辆车的车门，和一张没写身份的服务目录",
-      "url": "https://www.freebuf.com/articles/endpoint/512640.html",
-      "pubDate": "Sat, 14 Nov 2026 17:41:50 +0800",
-      "extra": {
-        "hover": "BMW 220万辆车曾可被伪造服务器远程开门；HTTPS仅补服务端身份，车内服务发现仍待治理。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512581.html",
-      "title": "FBI披露黑客利用ARTEX AI Agents发起攻击，不到三小时即可获取特权访问",
-      "url": "https://www.freebuf.com/articles/ai-security/512581.html",
-      "pubDate": "Sat, 14 Nov 2026 11:21:17 +0800",
-      "extra": {
-        "hover": "FBI发布预警，黑客正利用ARTEX AI框架自动化发起网络攻击，最快不到3小时即可获取目标特权访问，大幅压缩防御响应窗口。"
       }
     }
   ]
