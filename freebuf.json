@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1794944242071,
+  "updatedAt": 1794966692470,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/512975.html",
+      "title": "LLM 应用 SDL 实战手册：安全团队如何验收一个大模型系统",
+      "url": "https://www.freebuf.com/articles/vuls/512975.html",
+      "pubDate": "Tue, 17 Nov 2026 17:12:54 +0800",
+      "extra": {
+        "hover": "文章提出 LLM 应用 SDL 五阶段验收流程，从需求、设计、开发、测试到上线运营，给出 16 项 P0 检查清单、威胁建模、代码审查、自动化测试和上线门禁，帮助安全团队把放行判断变成可复核流程。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/web/512971.html",
       "title": "一个 4.17MB 的 JS 文件里，藏着整套加密协议",
@@ -170,15 +179,6 @@
       "pubDate": "Sat, 14 Nov 2026 11:21:17 +0800",
       "extra": {
         "hover": "FBI发布预警，黑客正利用ARTEX AI框架自动化发起网络攻击，最快不到3小时即可获取目标特权访问，大幅压缩防御响应窗口。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512563.html",
-      "title": "Cursor披露10月安全事件溯源结果，Fireworks AI密钥泄露致Claude Code扩展被植后门",
-      "url": "https://www.freebuf.com/news/512563.html",
-      "pubDate": "Sat, 14 Nov 2026 09:09:31 +0800",
-      "extra": {
-        "hover": "Cursor确认10月安全事件源于Fireworks AI密钥泄露，攻击者植入带后门的恶意Claude Code扩展，少量用户数据、凭证受影响，风险已受控。"
       }
     }
   ]
