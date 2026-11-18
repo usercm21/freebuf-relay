@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1794995041205,
+  "updatedAt": 1795026349191,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513317.html",
+      "title": "AI渗透测试核心顾虑并非质量，数据隐私与生产安全居首",
+      "url": "https://www.freebuf.com/articles/ai-security/513317.html",
+      "pubDate": "Wed, 18 Nov 2026 16:33:57 +0800",
+      "extra": {
+        "hover": "AI同时提速软件开发与网络攻击，漏洞利用周期缩至1天，90%负责人认为年度渗透测试过时，AI渗透测试快速普及，核心顾虑并非质量而是数据隐私与生产安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513213.html",
+      "title": "Java4Shell（CVE-2026-114938）可实现预认证RCE，影响特定Java环境多款主流应用",
+      "url": "https://www.freebuf.com/news/513213.html",
+      "pubDate": "Wed, 18 Nov 2026 09:57:41 +0800",
+      "extra": {
+        "hover": "高危漏洞Java4Shell（CVE-2026-114938）可无认证触发RCE，波及Jira等多款主流Java应用，危害严重，官方已发补丁请及时升级防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/513270.html",
+      "title": "NVIDIA Linux GPU驱动存在4年历史漏洞，可致用户劫持整台共享服务器",
+      "url": "https://www.freebuf.com/articles/system/513270.html",
+      "pubDate": "Wed, 18 Nov 2026 09:28:15 +0800",
+      "extra": {
+        "hover": "潜伏4年的NVIDIA Linux GPU驱动漏洞可让普通用户劫持整台共享服务器、提权至root，官方已发补丁，未升级的AI共享GPU节点风险极高。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513226.html",
+      "title": "攻击者投毒GitHub仓库劫持AI编码Agent，窃取开发者凭证",
+      "url": "https://www.freebuf.com/articles/ai-security/513226.html",
+      "pubDate": "Wed, 18 Nov 2026 06:51:20 +0800",
+      "extra": {
+        "hover": "攻击者投毒GitHub公开仓库劫持AI编码Agent，可无任何安全警告窃取开发者凭证、跨仓扩散，打开陌生项目需警惕恶意配置风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513223.html",
+      "title": "Google披露俄罗斯黑客攻击路径，借单次云入侵攻破另一家美国机构",
+      "url": "https://www.freebuf.com/news/513223.html",
+      "pubDate": "Wed, 18 Nov 2026 06:18:38 +0800",
+      "extra": {
+        "hover": "Google披露俄罗斯国家支持黑客借单次美机构云入侵窃密，靠社工、MFA疲劳攻击攻破第二家美机构，全程未使用恶意软件，威胁隐蔽难防。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/513190.html",
       "title": "Flipper Devices推出Linux多功能工具Flipper One，内置高级网络安全工具",
@@ -65,6 +110,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/513002.html",
+      "title": "乌克兰电网权限被挂上暗网：一段实操录像揭开了什么？",
+      "url": "https://www.freebuf.com/articles/513002.html",
+      "pubDate": "Tue, 17 Nov 2026 17:01:19 +0800",
+      "extra": {
+        "hover": "暗网叫卖乌克兰电网SCADA权限并附操控录像，“打哪里最疼”暴露无遗，OT访问权正成商品。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/web/512971.html",
       "title": "一个 4.17MB 的 JS 文件里，藏着整套加密协议",
       "url": "https://www.freebuf.com/articles/web/512971.html",
@@ -80,6 +134,15 @@
       "pubDate": "Tue, 17 Nov 2026 15:00:36 +0800",
       "extra": {
         "hover": "几十元即可刷机破解电话手表家长监管，隐私、定位、资金等风险随之暴露，维权需先固定证据。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/513196.html",
+      "title": "技能推荐 | 漏洞披露提交 Skill：CVE/CNVD/CNNVD 报告流水线",
+      "url": "https://www.freebuf.com/articles/vuls/513196.html",
+      "pubDate": "Tue, 17 Nov 2026 14:46:43 +0800",
+      "extra": {
+        "hover": "挖到洞≠送进CVE/CNVD/CNNVD：CVSS对不上、截图红叉、一级审核退回，不是结论改软继续写"
       }
     },
     {
@@ -116,69 +179,6 @@
       "pubDate": "Tue, 17 Nov 2026 10:30:34 +0800",
       "extra": {
         "hover": "N-able发布N-central关键补丁修复17个高危漏洞，旧漏洞已遭在野利用部署加密矿机，未升级组件易被仿冒，用户需尽快更新。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/512978.html",
-      "title": "macOS 27.3新增安全管控，限制AI应用无授权访问全量Mac数据",
-      "url": "https://www.freebuf.com/articles/system/512978.html",
-      "pubDate": "Tue, 17 Nov 2026 08:55:20 +0800",
-      "extra": {
-        "hover": "苹果 macOS 27.3 新增安全管控，未获用户明确授权的 AI 等应用难以随意访问 Mac 全量数据，通过细化权限、强化风险警示防范全量数据泄露风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512979.html",
-      "title": "黑客利用AI厂商泄露密钥，44小时攻破10个梭子鱼云账户",
-      "url": "https://www.freebuf.com/news/512979.html",
-      "pubDate": "Tue, 17 Nov 2026 08:42:21 +0800",
-      "extra": {
-        "hover": "黑客利用AI厂商泄露且未及时停用的密钥，仅44小时就攻破10个梭子鱼云账户横向窃密，梭子鱼已整改并通知受影响客户重置凭证。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512954.html",
-      "title": "AI安全占网络安全种子轮交易超三分之一，Agent安全成核心投向",
-      "url": "https://www.freebuf.com/news/512954.html",
-      "pubDate": "Tue, 17 Nov 2026 06:19:27 +0800",
-      "extra": {
-        "hover": "2026年Q3美国风投整体走强，但网安种子轮交易规模连降两季度，AI安全占比超三分之一，A轮门槛抬升，普通初创融资反而更难。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512792.html",
-      "title": "FreeBuf早报 | Claude借助3美元Arduino破解32年车龄Jeep ECU；美国冻结朝鲜黑客盗取的27亿美元币安资产",
-      "url": "https://www.freebuf.com/news/512792.html",
-      "pubDate": "Mon, 16 Nov 2026 19:00:53 +0800",
-      "extra": {
-        "hover": "仅靠3美元Arduino，Claude就破解了32年车龄Jeep ECU，既帮车主通过尾气检测，也暴露AI降低车载系统攻击门槛的风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512791.html",
-      "title": "AI Agent 在红队实战中的落地与坑：一个 USENIX24 开源 Agent 的范围强制层实测",
-      "url": "https://www.freebuf.com/articles/ai-security/512791.html",
-      "pubDate": "Mon, 16 Nov 2026 18:36:41 +0800",
-      "extra": {
-        "hover": "审计 PentestGPT 的范围强制层：实测 33 条越界指令 25 条放行，14 项审计检查 0 项查越界，校验器从不读 goal。范围锚定在 URL 上，不锚定在行为上。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512778.html",
-      "title": "窃取 AI 工具链的非人类身份 token，验证改密码无法吊销",
-      "url": "https://www.freebuf.com/articles/ai-security/512778.html",
-      "pubDate": "Mon, 16 Nov 2026 17:37:58 +0800",
-      "extra": {
-        "hover": "AI 工具链里的 MCP、CI、Agent 都没有账号，改密码对它们无效。49 格实测：改密码只让 1 类凭据失效，重置 MFA 也是 0 类；能一次杀干净的是吊销签发根，7/7。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/512880.html",
-      "title": "藏身云端：利用 Amazon API 实现 Cobalt Strike Beacon 的 C2 通信",
-      "url": "https://www.freebuf.com/articles/512880.html",
-      "pubDate": "Mon, 16 Nov 2026 16:30:45 +0800",
-      "extra": {
-        "hover": "滥用AWS API/S3作C2，绕开传统拦截监控，可构成数据泄露威胁。"
       }
     }
   ]
