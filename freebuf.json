@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1795048725820,
+  "updatedAt": 1795074972733,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/513506.html",
+      "title": "AuditTeam勒索团伙伪装安全审计人员，利用杀软驱动终止EDR进程",
+      "url": "https://www.freebuf.com/news/513506.html",
+      "pubDate": "Thu, 19 Nov 2026 05:20:54 +0800",
+      "extra": {
+        "hover": "AuditTeam勒索团伙伪装安全审计人员，滥用合法杀软驱动关停EDR，加密毁备份致恢复极难，以“审计费”勒索，已波及多国数十家机构。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513505.html",
+      "title": "员工自建AI Agent继承账号访问权限，使用行为缺乏有效监管",
+      "url": "https://www.freebuf.com/articles/ai-security/513505.html",
+      "pubDate": "Thu, 19 Nov 2026 05:00:37 +0800",
+      "extra": {
+        "hover": "员工自建AI Agent直接继承本人企业账号权限，存在日志难溯源、OAuth授权泄露致数据失窃风险，多数企业尚未察觉这类AI管控缺口。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513488.html",
+      "title": "攻击者滥用CyberPower UPS软件，执行SYSTEM命令转储活动目录数据",
+      "url": "https://www.freebuf.com/news/513488.html",
+      "pubDate": "Thu, 19 Nov 2026 04:10:46 +0800",
+      "extra": {
+        "hover": "攻击者滥用CyberPower UPS管理软件获取SYSTEM最高权限，转储企业域控活动目录核心数据，暂未发现数据外传及勒索部署，企业需及时排查做好防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/513434.html",
+      "title": "NIST证实量子位置验证技术可行，可阻断远程黑客入侵",
+      "url": "https://www.freebuf.com/articles/513434.html",
+      "pubDate": "Thu, 19 Nov 2026 00:07:39 +0800",
+      "extra": {
+        "hover": "NIST证实量子位置验证技术可行，可将访问权限绑定物理位置阻断远程黑客入侵，目前仍处实验阶段，距落地尚需十余年。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513431.html",
+      "title": "AI发现Nginx“断网级”漏洞，含十年未授权RCE缺陷",
+      "url": "https://www.freebuf.com/news/513431.html",
+      "pubDate": "Wed, 18 Nov 2026 23:36:40 +0800",
+      "extra": {
+        "hover": "AI挖出Nginx潜伏十余年的“断网级”RCE漏洞，支撑全球三分之一流量的数百万站点受威胁，官方已发布补丁需尽快升级。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/513400.html",
       "title": "Apache Roller RCE漏洞遭在野活跃利用，CVSS9.8分无需认证即可攻击",
@@ -8,6 +53,15 @@
       "pubDate": "Wed, 18 Nov 2026 20:11:35 +0800",
       "extra": {
         "hover": "Apache Roller存在CVSS9.8分无需认证的RCE漏洞CVE-2026-129448，目前正遭在野活跃攻击，官方已发补丁提醒用户尽快升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513260.html",
+      "title": "FreeBuf早报 | Google披露俄罗斯黑客攻击路径；麦当劳iOS应用遭大规模推送通知攻击",
+      "url": "https://www.freebuf.com/news/513260.html",
+      "pubDate": "Wed, 18 Nov 2026 18:06:51 +0800",
+      "extra": {
+        "hover": "Google披露俄罗斯国家支持黑客借单次美机构云入侵窃密，靠社工、MFA疲劳攻击攻破第二家美机构，全程未使用恶意软件，威胁隐蔽难防。"
       }
     },
     {
@@ -125,60 +179,6 @@
       "pubDate": "Tue, 17 Nov 2026 17:49:17 +0800",
       "extra": {
         "hover": "假面试骗工程师、隐身病毒直插内网，4个月APT借EIP-7702“发动抢劫”转走约63.4亿美元。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/512975.html",
-      "title": "LLM 应用 SDL 实战手册：安全团队如何验收一个大模型系统",
-      "url": "https://www.freebuf.com/articles/vuls/512975.html",
-      "pubDate": "Tue, 17 Nov 2026 17:12:54 +0800",
-      "extra": {
-        "hover": "文章提出 LLM 应用 SDL 五阶段验收流程，从需求、设计、开发、测试到上线运营，给出 16 项 P0 检查清单、威胁建模、代码审查、自动化测试和上线门禁，帮助安全团队把放行判断变成可复核流程。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/513002.html",
-      "title": "乌克兰电网权限被挂上暗网：一段实操录像揭开了什么？",
-      "url": "https://www.freebuf.com/articles/513002.html",
-      "pubDate": "Tue, 17 Nov 2026 17:01:19 +0800",
-      "extra": {
-        "hover": "暗网叫卖乌克兰电网SCADA权限并附操控录像，“打哪里最疼”暴露无遗，OT访问权正成商品。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/512972.html",
-      "title": "多Agent运行时对话劫持：Agent-to-Agent通信的安全盲区",
-      "url": "https://www.freebuf.com/articles/vuls/512972.html",
-      "pubDate": "Tue, 17 Nov 2026 16:54:45 +0800",
-      "extra": {
-        "hover": "本文聚焦多 Agent 协作链中的消息信任问题，覆盖三个框架的 Agent-to-Agent 通信层，提出四类攻击分类（跨Agent注入、共享状态投毒、身份伪造、循环放大）并给出统一防御思路。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/512971.html",
-      "title": "一个 4.17MB 的 JS 文件里，藏着整套加密协议",
-      "url": "https://www.freebuf.com/articles/web/512971.html",
-      "pubDate": "Tue, 17 Nov 2026 16:43:37 +0800",
-      "extra": {
-        "hover": "抓包全是密文，搜 AES 只有 7 处命中且全是噪音。本文记录如何在\n4.17MB 的 dart2js 编译产物里，用&amp;quot;搜数据而不是搜函数&amp;quot;的思路，\n定位到 AES 密钥、IV 和签名算法."
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/513068.html",
-      "title": "几十元就能破解电话手表 刷机服务暗藏哪些安全风险？",
-      "url": "https://www.freebuf.com/articles/endpoint/513068.html",
-      "pubDate": "Tue, 17 Nov 2026 15:00:36 +0800",
-      "extra": {
-        "hover": "几十元即可刷机破解电话手表家长监管，隐私、定位、资金等风险随之暴露，维权需先固定证据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/513196.html",
-      "title": "技能推荐 | 漏洞披露提交 Skill：CVE/CNVD/CNNVD 报告流水线",
-      "url": "https://www.freebuf.com/articles/vuls/513196.html",
-      "pubDate": "Tue, 17 Nov 2026 14:46:43 +0800",
-      "extra": {
-        "hover": "挖到洞≠送进CVE/CNVD/CNNVD：CVSS对不上、截图红叉、一级审核退回，不是结论改软继续写"
       }
     }
   ]
