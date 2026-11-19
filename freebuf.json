@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1795026349191,
+  "updatedAt": 1795048725820,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/513400.html",
+      "title": "Apache Roller RCE漏洞遭在野活跃利用，CVSS9.8分无需认证即可攻击",
+      "url": "https://www.freebuf.com/news/513400.html",
+      "pubDate": "Wed, 18 Nov 2026 20:11:35 +0800",
+      "extra": {
+        "hover": "Apache Roller存在CVSS9.8分无需认证的RCE漏洞CVE-2026-129448，目前正遭在野活跃攻击，官方已发补丁提醒用户尽快升级。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513385.html",
+      "title": "AI渗透框架CyberStrikeAI单会话执行221次工具操作，无人工审批",
+      "url": "https://www.freebuf.com/articles/ai-security/513385.html",
+      "pubDate": "Wed, 18 Nov 2026 16:50:45 +0800",
+      "extra": {
+        "hover": "开源AI渗透框架CyberStrikeAI暴露于公网，无人工审批单会话执行221次工具操作，敲响AI自动化攻击安全管控警钟。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/513317.html",
       "title": "AI渗透测试核心顾虑并非质量，数据隐私与生产安全居首",
@@ -8,6 +26,15 @@
       "pubDate": "Wed, 18 Nov 2026 16:33:57 +0800",
       "extra": {
         "hover": "AI同时提速软件开发与网络攻击，漏洞利用周期缩至1天，90%负责人认为年度渗透测试过时，AI渗透测试快速普及，核心顾虑并非质量而是数据隐私与生产安全。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513386.html",
+      "title": "NGINX HTTP/2曝出两个严重漏洞，可致内存损坏与远程代码执行",
+      "url": "https://www.freebuf.com/news/513386.html",
+      "pubDate": "Wed, 18 Nov 2026 16:05:50 +0800",
+      "extra": {
+        "hover": "NGINX曝出两个HTTP/2严重漏洞，无需登录即可远程执行代码，波及超2亿站点，请管理员尽快升级修复。"
       }
     },
     {
@@ -119,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/vuls/512972.html",
+      "title": "多Agent运行时对话劫持：Agent-to-Agent通信的安全盲区",
+      "url": "https://www.freebuf.com/articles/vuls/512972.html",
+      "pubDate": "Tue, 17 Nov 2026 16:54:45 +0800",
+      "extra": {
+        "hover": "本文聚焦多 Agent 协作链中的消息信任问题，覆盖三个框架的 Agent-to-Agent 通信层，提出四类攻击分类（跨Agent注入、共享状态投毒、身份伪造、循环放大）并给出统一防御思路。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/web/512971.html",
       "title": "一个 4.17MB 的 JS 文件里，藏着整套加密协议",
       "url": "https://www.freebuf.com/articles/web/512971.html",
@@ -143,42 +179,6 @@
       "pubDate": "Tue, 17 Nov 2026 14:46:43 +0800",
       "extra": {
         "hover": "挖到洞≠送进CVE/CNVD/CNNVD：CVSS对不上、截图红叉、一级审核退回，不是结论改软继续写"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513055.html",
-      "title": "黑客利用未打补丁微软Exchange服务器，入侵东南亚政府网部署定制RAT",
-      "url": "https://www.freebuf.com/news/513055.html",
-      "pubDate": "Tue, 17 Nov 2026 14:24:16 +0800",
-      "extra": {
-        "hover": "黑客利用未打补丁的微软Exchange服务器入侵东南亚政府网络，部署定制RAT长期潜伏窃密，隐蔽性极强，严重威胁政务数据安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/512906.html",
-      "title": "从伪造身份到越权动作：Agent Data Injection 的混淆代理与能力绑定机制",
-      "url": "https://www.freebuf.com/articles/ai-security/512906.html",
-      "pubDate": "Tue, 17 Nov 2026 10:57:39 +0800",
-      "extra": {
-        "hover": "Agent Data Injection风险核心是混淆代理借权越权。本文开展确定性实验与本地模型探针，对比四类防护策略，验证能力租约机制，强调模型仅可提动作，授权必须由宿主管控。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513009.html",
-      "title": "麦当劳iOS应用遭大规模推送通知攻击，引发ARTEX安全担忧",
-      "url": "https://www.freebuf.com/news/513009.html",
-      "pubDate": "Tue, 17 Nov 2026 10:53:39 +0800",
-      "extra": {
-        "hover": "麦当劳iOS应用遭大规模异常推送攻击引发安全担忧，消息含可疑ARTEX类测试字符串，目前攻击路径未明，暂未证实数据泄露或设备被入侵。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/512937.html",
-      "title": "N-able发布补丁修复N-central 17个漏洞，攻击者利用旧漏洞部署加密矿机",
-      "url": "https://www.freebuf.com/news/512937.html",
-      "pubDate": "Tue, 17 Nov 2026 10:30:34 +0800",
-      "extra": {
-        "hover": "N-able发布N-central关键补丁修复17个高危漏洞，旧漏洞已遭在野利用部署加密矿机，未升级组件易被仿冒，用户需尽快更新。"
       }
     }
   ]
