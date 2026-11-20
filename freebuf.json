@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1795179977819,
+  "updatedAt": 1795208513345,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/513798.html",
+      "title": "攻击者利用思科Expressway高危漏洞，攻破4台设备渗透内网",
+      "url": "https://www.freebuf.com/news/513798.html",
+      "pubDate": "Fri, 20 Nov 2026 16:02:50 +0800",
+      "extra": {
+        "hover": "可获取root权限的思科Expressway高危RCE漏洞遭在野利用，攻击者攻破边界设备渗透内网窃密，需尽快升级补丁筑牢防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513810.html",
+      "title": "OpenSSL Base64编码函数曝出严重堆缓冲区溢出漏洞，CVSS 3.1评分9.8",
+      "url": "https://www.freebuf.com/news/513810.html",
+      "pubDate": "Fri, 20 Nov 2026 12:34:30 +0800",
+      "extra": {
+        "hover": "OpenSSL曝出CVSS9.8级严重堆缓冲区溢出漏洞，可致内存损坏、应用崩溃，需尽快排查内嵌组件完成修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513799.html",
+      "title": "黑客利用AI驱动ARTEX框架自动化发起网络攻击，无需依赖0Day漏洞",
+      "url": "https://www.freebuf.com/articles/ai-security/513799.html",
+      "pubDate": "Fri, 20 Nov 2026 11:27:05 +0800",
+      "extra": {
+        "hover": "黑客滥用AI驱动的ARTEX自动化攻击框架，无需0Day漏洞最快3小时即可获取企业系统高权限，工具暗藏后门，企业需及时排查配置缺口。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/513748.html",
       "title": "攻击者主动扫描LiteLLM AI服务器，漏洞链可实现无认证RCE",
@@ -62,6 +89,15 @@
       "pubDate": "Thu, 19 Nov 2026 20:41:06 +0800",
       "extra": {
         "hover": "VMware vCenter曝出CVSS9.8分严重认证绕过漏洞，暂无官方临时规避方案，博通敦促企业紧急部署补丁，暂未监测到在野攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/513780.html",
+      "title": "Cloudflare 报告实测：ARTEX删库炸出 50 多个框架家族，攻击量六周涨 30 倍",
+      "url": "https://www.freebuf.com/articles/513780.html",
+      "pubDate": "Thu, 19 Nov 2026 20:23:13 +0800",
+      "extra": {
+        "hover": "删库没能杀死它，反倒把它拆成更难对付的一群：攻击量级换挡，静态令牌被自动化放大。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Thu, 19 Nov 2026 05:00:37 +0800",
       "extra": {
         "hover": "员工自建AI Agent直接继承本人企业账号权限，存在日志难溯源、OAuth授权泄露致数据失窃风险，多数企业尚未察觉这类AI管控缺口。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513488.html",
-      "title": "攻击者滥用CyberPower UPS软件，执行SYSTEM命令转储活动目录数据",
-      "url": "https://www.freebuf.com/news/513488.html",
-      "pubDate": "Thu, 19 Nov 2026 04:10:46 +0800",
-      "extra": {
-        "hover": "攻击者滥用CyberPower UPS管理软件获取SYSTEM最高权限，转储企业域控活动目录核心数据，暂未发现数据外传及勒索部署，企业需及时排查做好防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/513434.html",
-      "title": "NIST证实量子位置验证技术可行，可阻断远程黑客入侵",
-      "url": "https://www.freebuf.com/articles/513434.html",
-      "pubDate": "Thu, 19 Nov 2026 00:07:39 +0800",
-      "extra": {
-        "hover": "NIST证实量子位置验证技术可行，可将访问权限绑定物理位置阻断远程黑客入侵，目前仍处实验阶段，距落地尚需十余年。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513431.html",
-      "title": "AI发现Nginx“断网级”漏洞，含十年未授权RCE缺陷",
-      "url": "https://www.freebuf.com/news/513431.html",
-      "pubDate": "Wed, 18 Nov 2026 23:36:40 +0800",
-      "extra": {
-        "hover": "AI挖出Nginx潜伏十余年的“断网级”RCE漏洞，支撑全球三分之一流量的数百万站点受威胁，官方已发布补丁需尽快升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513400.html",
-      "title": "Apache Roller RCE漏洞遭在野活跃利用，CVSS9.8分无需认证即可攻击",
-      "url": "https://www.freebuf.com/news/513400.html",
-      "pubDate": "Wed, 18 Nov 2026 20:11:35 +0800",
-      "extra": {
-        "hover": "Apache Roller存在CVSS9.8分无需认证的RCE漏洞CVE-2026-129448，目前正遭在野活跃攻击，官方已发补丁提醒用户尽快升级。"
       }
     }
   ]
