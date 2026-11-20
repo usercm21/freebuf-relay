@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1795107969991,
+  "updatedAt": 1795148126025,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/web/513624.html",
+      "title": "phpAfterShell漏洞详解，攻击者可利用PHP会话缺陷执行代码",
+      "url": "https://www.freebuf.com/articles/web/513624.html",
+      "pubDate": "Thu, 19 Nov 2026 22:29:56 +0800",
+      "extra": {
+        "hover": "高危phpAfterShell漏洞可利用PHP会话缺陷执行代码，多版本PHP受影响，官方已发修复补丁，未及时更新的服务器仍存被攻击风险。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513614.html",
+      "title": "VMware vCenter曝出9.8分严重漏洞，网络攻击者可绕过认证",
+      "url": "https://www.freebuf.com/news/513614.html",
+      "pubDate": "Thu, 19 Nov 2026 20:41:06 +0800",
+      "extra": {
+        "hover": "VMware vCenter曝出CVSS9.8分严重认证绕过漏洞，暂无官方临时规避方案，博通敦促企业紧急部署补丁，暂未监测到在野攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513552.html",
+      "title": "FreeBuf早报 | NGINX HTTP/2曝出两个严重漏洞；员工自建AI Agent继承账号访问权限",
+      "url": "https://www.freebuf.com/news/513552.html",
+      "pubDate": "Thu, 19 Nov 2026 19:10:08 +0800",
+      "extra": {
+        "hover": "NGINX曝出两个HTTP/2严重漏洞，无需登录即可远程执行代码，波及超2亿站点，请管理员尽快升级修复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/development/513582.html",
       "title": "微软官方Python Agent框架遭供应链投毒，PyPI恶意版本窃取云与CI/CD凭证",
@@ -8,6 +35,15 @@
       "pubDate": "Thu, 19 Nov 2026 12:53:44 +0800",
       "extra": {
         "hover": "微软PyPI官方agent-framework包遭供应链投毒，恶意版本可静默窃取云与CI/CD凭证，相关版本已被隔离，用户需及时排查处置。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513465.html",
+      "title": "企业AI安全管理建设实战：从攻击面认知到落地治理",
+      "url": "https://www.freebuf.com/articles/ai-security/513465.html",
+      "pubDate": "Thu, 19 Nov 2026 11:47:42 +0800",
+      "extra": {
+        "hover": "大模型进入核心业务，传统安全体系已罩不住语义层这个新攻击面。本文基于企业一线评估实践，给出提示注入防御、Agent 特权治理、RAG 检索权限过滤等五大风险域的落地对策与分期建设路线图。"
       }
     },
     {
@@ -143,42 +179,6 @@
       "pubDate": "Wed, 18 Nov 2026 09:28:15 +0800",
       "extra": {
         "hover": "潜伏4年的NVIDIA Linux GPU驱动漏洞可让普通用户劫持整台共享服务器、提权至root，官方已发补丁，未升级的AI共享GPU节点风险极高。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513226.html",
-      "title": "攻击者投毒GitHub仓库劫持AI编码Agent，窃取开发者凭证",
-      "url": "https://www.freebuf.com/articles/ai-security/513226.html",
-      "pubDate": "Wed, 18 Nov 2026 06:51:20 +0800",
-      "extra": {
-        "hover": "攻击者投毒GitHub公开仓库劫持AI编码Agent，可无任何安全警告窃取开发者凭证、跨仓扩散，打开陌生项目需警惕恶意配置风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513223.html",
-      "title": "Google披露俄罗斯黑客攻击路径，借单次云入侵攻破另一家美国机构",
-      "url": "https://www.freebuf.com/news/513223.html",
-      "pubDate": "Wed, 18 Nov 2026 06:18:38 +0800",
-      "extra": {
-        "hover": "Google披露俄罗斯国家支持黑客借单次美机构云入侵窃密，靠社工、MFA疲劳攻击攻破第二家美机构，全程未使用恶意软件，威胁隐蔽难防。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513190.html",
-      "title": "Flipper Devices推出Linux多功能工具Flipper One，内置高级网络安全工具",
-      "url": "https://www.freebuf.com/news/513190.html",
-      "pubDate": "Wed, 18 Nov 2026 03:35:31 +0800",
-      "extra": {
-        "hover": "Flipper Devices发起便携Linux网络安全工具Flipper One众筹，主打网络测试，双芯片架构支持多扩展，面向安全研究场景。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513183.html",
-      "title": "OpenJDK存在高危Java4Shell漏洞，无需认证即可远程执行代码",
-      "url": "https://www.freebuf.com/news/513183.html",
-      "pubDate": "Wed, 18 Nov 2026 02:26:29 +0800",
-      "extra": {
-        "hover": "OpenJDK爆高危Java4Shell漏洞，无需认证即可远程执行代码、窃密，波及多款主流Java应用，官方已发补丁，请立即修复。"
       }
     }
   ]
