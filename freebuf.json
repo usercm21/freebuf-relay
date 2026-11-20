@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1795148126025,
+  "updatedAt": 1795179977819,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513748.html",
+      "title": "攻击者主动扫描LiteLLM AI服务器，漏洞链可实现无认证RCE",
+      "url": "https://www.freebuf.com/articles/ai-security/513748.html",
+      "pubDate": "Fri, 20 Nov 2026 08:25:28 +0800",
+      "extra": {
+        "hover": "攻击者正全网疯狂扫描暴露的LiteLLM AI服务器，组合利用两漏洞可无认证实现RCE，失陷将泄露全链路API密钥，需及时打补丁收敛暴露面。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513717.html",
+      "title": "AI红队提示注入测试存冗余，大样本重训反降Agent防御能力",
+      "url": "https://www.freebuf.com/articles/ai-security/513717.html",
+      "pubDate": "Fri, 20 Nov 2026 06:30:20 +0800",
+      "extra": {
+        "hover": "AI提示注入红队测试存冗余：用更多攻击样本重训的AI Agent反而更易被劫持，新方案PIPETTE可平衡防护效果与任务可用性。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/513719.html",
+      "title": "黑客泄露Visa、万事达卡、摩根大通客户数据，源头为第三方服务商遭攻击",
+      "url": "https://www.freebuf.com/articles/database/513719.html",
+      "pubDate": "Fri, 20 Nov 2026 06:02:03 +0800",
+      "extra": {
+        "hover": "勒索组织n0n攻破第三方服务商，泄露Visa、万事达卡、摩根大通数千条客户数据，三家称自身内网未失陷，用户需警惕钓鱼诈骗。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/es/513720.html",
+      "title": "安全团队应淘汰虚荣型安全仪表盘，聚焦风险处置实效",
+      "url": "https://www.freebuf.com/articles/es/513720.html",
+      "pubDate": "Fri, 20 Nov 2026 06:00:21 +0800",
+      "extra": {
+        "hover": "安全团队应淘汰虚荣型安全仪表盘，别唯关单量、漏洞级别论，要聚焦风险处置实效，明确责任，落地真正有效的安全防护。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513673.html",
+      "title": "欧盟委员会HR系统遭网络攻击，攻击者使用开源AI工具ARTEX",
+      "url": "https://www.freebuf.com/news/513673.html",
+      "pubDate": "Fri, 20 Nov 2026 02:08:48 +0800",
+      "extra": {
+        "hover": "FBI发布ARTEX滥用预警仅一周，欧盟委员会就确认HR系统遭该开源AI渗透工具攻击，暂未发现大规模员工数据泄露，系统正逐步恢复。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/web/513624.html",
       "title": "phpAfterShell漏洞详解，攻击者可利用PHP会话缺陷执行代码",
@@ -26,6 +71,15 @@
       "pubDate": "Thu, 19 Nov 2026 19:10:08 +0800",
       "extra": {
         "hover": "NGINX曝出两个HTTP/2严重漏洞，无需登录即可远程执行代码，波及超2亿站点，请管理员尽快升级修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/513773.html",
+      "title": "nginx2shell?面对这些2shell漏洞我想说",
+      "url": "https://www.freebuf.com/articles/vuls/513773.html",
+      "pubDate": "Thu, 19 Nov 2026 14:23:06 +0800",
+      "extra": {
+        "hover": "2shell漏洞扎堆，作者质疑多数难大规模利用、复现存疑，仅react2shell高危；有洞仍要打补丁。"
       }
     },
     {
@@ -125,60 +179,6 @@
       "pubDate": "Wed, 18 Nov 2026 20:11:35 +0800",
       "extra": {
         "hover": "Apache Roller存在CVSS9.8分无需认证的RCE漏洞CVE-2026-129448，目前正遭在野活跃攻击，官方已发补丁提醒用户尽快升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513260.html",
-      "title": "FreeBuf早报 | Google披露俄罗斯黑客攻击路径；麦当劳iOS应用遭大规模推送通知攻击",
-      "url": "https://www.freebuf.com/news/513260.html",
-      "pubDate": "Wed, 18 Nov 2026 18:06:51 +0800",
-      "extra": {
-        "hover": "Google披露俄罗斯国家支持黑客借单次美机构云入侵窃密，靠社工、MFA疲劳攻击攻破第二家美机构，全程未使用恶意软件，威胁隐蔽难防。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513385.html",
-      "title": "AI渗透框架CyberStrikeAI单会话执行221次工具操作，无人工审批",
-      "url": "https://www.freebuf.com/articles/ai-security/513385.html",
-      "pubDate": "Wed, 18 Nov 2026 16:50:45 +0800",
-      "extra": {
-        "hover": "开源AI渗透框架CyberStrikeAI暴露于公网，无人工审批单会话执行221次工具操作，敲响AI自动化攻击安全管控警钟。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513317.html",
-      "title": "AI渗透测试核心顾虑并非质量，数据隐私与生产安全居首",
-      "url": "https://www.freebuf.com/articles/ai-security/513317.html",
-      "pubDate": "Wed, 18 Nov 2026 16:33:57 +0800",
-      "extra": {
-        "hover": "AI同时提速软件开发与网络攻击，漏洞利用周期缩至1天，90%负责人认为年度渗透测试过时，AI渗透测试快速普及，核心顾虑并非质量而是数据隐私与生产安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513386.html",
-      "title": "NGINX HTTP/2曝出两个严重漏洞，可致内存损坏与远程代码执行",
-      "url": "https://www.freebuf.com/news/513386.html",
-      "pubDate": "Wed, 18 Nov 2026 16:05:50 +0800",
-      "extra": {
-        "hover": "NGINX曝出两个HTTP/2严重漏洞，无需登录即可远程执行代码，波及超2亿站点，请管理员尽快升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513213.html",
-      "title": "Java4Shell（CVE-2026-114938）可实现预认证RCE，影响特定Java环境多款主流应用",
-      "url": "https://www.freebuf.com/news/513213.html",
-      "pubDate": "Wed, 18 Nov 2026 09:57:41 +0800",
-      "extra": {
-        "hover": "高危漏洞Java4Shell（CVE-2026-114938）可无认证触发RCE，波及Jira等多款主流Java应用，危害严重，官方已发补丁请及时升级防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/513270.html",
-      "title": "NVIDIA Linux GPU驱动存在4年历史漏洞，可致用户劫持整台共享服务器",
-      "url": "https://www.freebuf.com/articles/system/513270.html",
-      "pubDate": "Wed, 18 Nov 2026 09:28:15 +0800",
-      "extra": {
-        "hover": "潜伏4年的NVIDIA Linux GPU驱动漏洞可让普通用户劫持整台共享服务器、提权至root，官方已发补丁，未升级的AI共享GPU节点风险极高。"
       }
     }
   ]
