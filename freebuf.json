@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1795226930263,
+  "updatedAt": 1795280301685,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513931.html",
+      "title": "攻击者利用AI Agent发现医疗影像软件0Day，获取root权限",
+      "url": "https://www.freebuf.com/articles/ai-security/513931.html",
+      "pubDate": "Sat, 21 Nov 2026 16:33:17 +0800",
+      "extra": {
+        "hover": "攻击者利用AI Agent挖出开源医疗影像软件0day漏洞，无授权即可获取服务器root权限，该严重漏洞CVSS9.8分，目前暂无正式修复版本。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/513936.html",
+      "title": "CrowdStrike洽谈收购Zscaler，有望跻身史上最大网络安全交易之列",
+      "url": "https://www.freebuf.com/news/513936.html",
+      "pubDate": "Sat, 21 Nov 2026 13:12:03 +0800",
+      "extra": {
+        "hover": "CrowdStrike正洽谈收购Zscaler，该交易有望跻身网络安全史上最大交易之一，目前谈判仍存变数。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/513894.html",
+      "title": "AI 时代的漏洞发现与利用趋势",
+      "url": "https://www.freebuf.com/articles/513894.html",
+      "pubDate": "Fri, 20 Nov 2026 19:11:51 +0800",
+      "extra": {
+        "hover": "AI加速漏洞发现利用：披露与利用翻倍，攻击者瞄准边缘与AI栈，未认证RCE、凭据被盗、横向移动陡增。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/513764.html",
       "title": "NGINX HTTP/2曝出两个严重漏洞；Claude借助3美元Arduino破解32年车龄Jeep ECU | FreeBuf周报",
@@ -152,33 +179,6 @@
       "pubDate": "Thu, 19 Nov 2026 11:01:12 +0800",
       "extra": {
         "hover": "渗透测试发行版BackBox Linux 10正式发布，基于Ubuntu 26.04升级渗透工具、优化匿名安全，后续将集成Agentic AI能力。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513544.html",
-      "title": "AI发现nginx五个高危漏洞，链式利用可提权至root",
-      "url": "https://www.freebuf.com/news/513544.html",
-      "pubDate": "Thu, 19 Nov 2026 09:21:19 +0800",
-      "extra": {
-        "hover": "潜伏11年！AI发现nginx5个高危漏洞，链式利用可未授权RCE提权至root，近千万台服务器受影响，需尽快升级修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/513548.html",
-      "title": "漏洞管理存在方向偏差，网络安全行业仍在解决错误问题",
-      "url": "https://www.freebuf.com/articles/es/513548.html",
-      "pubDate": "Thu, 19 Nov 2026 09:00:00 +0800",
-      "extra": {
-        "hover": "网络安全行业漏洞管理至今仍在解决错误问题：重发现轻修复，AI加速漏洞发现反而放大治理短板，修复本质是管理而非技术问题。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513506.html",
-      "title": "AuditTeam勒索团伙伪装安全审计人员，利用杀软驱动终止EDR进程",
-      "url": "https://www.freebuf.com/news/513506.html",
-      "pubDate": "Thu, 19 Nov 2026 05:20:54 +0800",
-      "extra": {
-        "hover": "AuditTeam勒索团伙伪装安全审计人员，滥用合法杀软驱动关停EDR，加密毁备份致恢复极难，以“审计费”勒索，已波及多国数十家机构。"
       }
     }
   ]
