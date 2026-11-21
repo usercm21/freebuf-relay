@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1795208513345,
+  "updatedAt": 1795226930263,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/513764.html",
+      "title": "NGINX HTTP/2曝出两个严重漏洞；Claude借助3美元Arduino破解32年车龄Jeep ECU | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/513764.html",
+      "pubDate": "Fri, 20 Nov 2026 18:30:40 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/513798.html",
       "title": "攻击者利用思科Expressway高危漏洞，攻破4台设备渗透内网",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 19 Nov 2026 05:20:54 +0800",
       "extra": {
         "hover": "AuditTeam勒索团伙伪装安全审计人员，滥用合法杀软驱动关停EDR，加密毁备份致恢复极难，以“审计费”勒索，已波及多国数十家机构。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513505.html",
-      "title": "员工自建AI Agent继承账号访问权限，使用行为缺乏有效监管",
-      "url": "https://www.freebuf.com/articles/ai-security/513505.html",
-      "pubDate": "Thu, 19 Nov 2026 05:00:37 +0800",
-      "extra": {
-        "hover": "员工自建AI Agent直接继承本人企业账号权限，存在日志难溯源、OAuth授权泄露致数据失窃风险，多数企业尚未察觉这类AI管控缺口。"
       }
     }
   ]
