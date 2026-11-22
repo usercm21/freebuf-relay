@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795340705598,
+  "updatedAt": 1795368342002,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/513971.html",
@@ -83,12 +83,30 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/es/513939.html",
+      "title": "员工普遍使用AI之后，安全治理该如何着手",
+      "url": "https://www.freebuf.com/articles/es/513939.html",
+      "pubDate": "Fri, 20 Nov 2026 18:21:25 +0800",
+      "extra": {
+        "hover": "员工一句提问就可能外传代码，AI还会误删数据、伪造审批；企业须按任务治理。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/513887.html",
       "title": "AI 驱动的渗透攻击：特点、趋势与防守路径",
       "url": "https://www.freebuf.com/articles/513887.html",
       "pubDate": "Fri, 20 Nov 2026 18:00:56 +0800",
       "extra": {
         "hover": "AI从辅助工具变为自主攻击执行体；漏洞武器化可压至24小时内——攻击者只需一条路径，防守方要处处成功。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/513965.html",
+      "title": "SRC实战笔记_收录判定与测试方法论",
+      "url": "https://www.freebuf.com/articles/web/513965.html",
+      "pubDate": "Fri, 20 Nov 2026 17:31:00 +0800",
+      "extra": {
+        "hover": "SRC收录判定与合规边界：别只测三四个域名就判定无洞！违规内网渗透将被公告并回收全部奖励。"
       }
     },
     {
@@ -161,24 +179,6 @@
       "pubDate": "Fri, 20 Nov 2026 06:00:21 +0800",
       "extra": {
         "hover": "安全团队应淘汰虚荣型安全仪表盘，别唯关单量、漏洞级别论，要聚焦风险处置实效，明确责任，落地真正有效的安全防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513673.html",
-      "title": "欧盟委员会HR系统遭网络攻击，攻击者使用开源AI工具ARTEX",
-      "url": "https://www.freebuf.com/news/513673.html",
-      "pubDate": "Fri, 20 Nov 2026 02:08:48 +0800",
-      "extra": {
-        "hover": "FBI发布ARTEX滥用预警仅一周，欧盟委员会就确认HR系统遭该开源AI渗透工具攻击，暂未发现大规模员工数据泄露，系统正逐步恢复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/513624.html",
-      "title": "phpAfterShell漏洞详解，攻击者可利用PHP会话缺陷执行代码",
-      "url": "https://www.freebuf.com/articles/web/513624.html",
-      "pubDate": "Thu, 19 Nov 2026 22:29:56 +0800",
-      "extra": {
-        "hover": "高危phpAfterShell漏洞可利用PHP会话缺陷执行代码，多版本PHP受影响，官方已发修复补丁，未及时更新的服务器仍存被攻击风险。"
       }
     }
   ]
