@@ -1,6 +1,87 @@
 {
-  "updatedAt": 1795403513429,
+  "updatedAt": 1795439134553,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/web/514103.html",
+      "title": "图片清洗的错觉：七个藏点，四种处理，三种还在",
+      "url": "https://www.freebuf.com/articles/web/514103.html",
+      "pubDate": "Mon, 23 Nov 2026 15:35:52 +0800",
+      "extra": {
+        "hover": "用一张图构造七种藏法，跑过复制、重编码、缩放与转码四条处理链，量化各层残留，并给出容器清空、尾部截断与像素重建的清洗顺序及验收方法。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/endpoint/514101.html",
+      "title": "链是真的，设备换了：一根线绕过 Android 硬件认证",
+      "url": "https://www.freebuf.com/articles/endpoint/514101.html",
+      "pubDate": "Mon, 23 Nov 2026 15:28:15 +0800",
+      "extra": {
+        "hover": "号称不可伪造的Android KeyMint硬件认证，无需破解安全硬件，仅靠两台手机一条中继链路即可绕过。本文复现全链路攻击，并实测tag-709校验的防御边界与落地清单。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/514065.html",
+      "title": "一个百分号把连接串变成路由表：PyMongo 解码顺序错位是怎么把数据库流量送到别人服务器上的",
+      "url": "https://www.freebuf.com/articles/vuls/514065.html",
+      "pubDate": "Mon, 23 Nov 2026 11:34:53 +0800",
+      "extra": {
+        "hover": "PyMongo 在按分隔符切分 host 列表之前先把整段解码，%2C 还原成真逗号，攻击者提供的&quot;主机名&quot;就此裂变成第二个拓扑成员，你的认证握手和数据库操作被客户端亲手送到他服务器上。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/514064.html",
+      "title": "819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团",
+      "url": "https://www.freebuf.com/articles/vuls/514064.html",
+      "pubDate": "Mon, 23 Nov 2026 11:31:46 +0800",
+      "extra": {
+        "hover": "读之前先过三问：四个团伙怎么暴露的？——开放目录漏了作业文件，CrowdStrike 翻到了他们的配置和日志。一个人能跑完整条入侵吗？——代号 BUGSTER 的操盘手用关了闸的 Agent，从印度一"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/514059.html",
+      "title": "升级等于白升：CVE-2026-97229 打穿 1000+ 台 GitLab 的未认证 RCE，病根在 Ruby 里",
+      "url": "https://www.freebuf.com/articles/vuls/514059.html",
+      "pubDate": "Mon, 23 Nov 2026 11:21:36 +0800",
+      "extra": {
+        "hover": "Alpine Linux 用自己的身体验证了这一点，worker 崩了八次之后他们才发现，升级后的 GitLab 依然在漏。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514100.html",
+      "title": "Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报",
+      "url": "https://www.freebuf.com/articles/ai-security/514100.html",
+      "pubDate": "Mon, 23 Nov 2026 06:30:08 +0800",
+      "extra": {
+        "hover": "开源AI渗透测试工具Xalgorix上线，以双Agent独立校验降低漏洞误报，兼容多模型与主流安全工具，内置范围管控防越权扫描。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514077.html",
+      "title": "论坛卖家叫卖VMware vCenter 0Day利用工具，售价3万美元未经验证",
+      "url": "https://www.freebuf.com/news/514077.html",
+      "pubDate": "Mon, 23 Nov 2026 04:30:26 +0800",
+      "extra": {
+        "hover": "论坛卖家3万美元叫卖VMware vCenter高危0Day利用工具，该漏洞CVSS9.8可无凭证接管，补丁前已遭在野攻击，管理员需尽快修复。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514067.html",
+      "title": "研究人员通过蓝牙入侵大众汽车，可窃听对话追踪GPS位置",
+      "url": "https://www.freebuf.com/news/514067.html",
+      "pubDate": "Mon, 23 Nov 2026 03:09:11 +0800",
+      "extra": {
+        "hover": "大众汽车存在蓝牙漏洞，攻击者诱导配对后可窃听对话、追踪GPS、操控座舱功能，旧款车补丁滞后，车主务必警惕陌生蓝牙配对请求。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514068.html",
+      "title": "GPT-6.2 Astra发现多个0Day漏洞，含移动OS权限绕过与服务端RCE缺陷",
+      "url": "https://www.freebuf.com/news/514068.html",
+      "pubDate": "Mon, 23 Nov 2026 03:06:27 +0800",
+      "extra": {
+        "hover": "OpenAI GPT-6.2 Astra发现两类高危0Day漏洞，可致主流移动OS隐私泄露、常用网络服务低权限RCE，正推进披露，暂无在野利用证据。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/513971.html",
       "title": "OpenRouter移除3家AI推理提供商，研究人员发现其持续数月窃取提示词",
@@ -8,6 +89,15 @@
       "pubDate": "Sun, 22 Nov 2026 10:36:55 +0800",
       "extra": {
         "hover": "OpenRouter移除3家遭入侵的AI推理商，数月间用户提示词（含零留存请求）被窃，密钥遭滥用，攻击者潜入时隐私标识根本起不到保护作用。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/514029.html",
+      "title": "威胁与漏洞有什么区别？发现订单越权，为什么还不能说已经泄露",
+      "url": "https://www.freebuf.com/articles/vuls/514029.html",
+      "pubDate": "Sun, 22 Nov 2026 07:06:00 +0800",
+      "extra": {
+        "hover": "用订单访问算例分清薄弱点、威胁情景与已发生的损害，避免把可读范围写成泄露范围，能读≠已泄露！"
       }
     },
     {
@@ -89,96 +179,6 @@
       "pubDate": "Fri, 20 Nov 2026 18:30:40 +0800",
       "extra": {
         "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/513939.html",
-      "title": "员工普遍使用AI之后，安全治理该如何着手",
-      "url": "https://www.freebuf.com/articles/es/513939.html",
-      "pubDate": "Fri, 20 Nov 2026 18:21:25 +0800",
-      "extra": {
-        "hover": "员工一句提问就可能外传代码，AI还会误删数据、伪造审批；企业须按任务治理。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513758.html",
-      "title": "一句警告就能让”思维病毒“全免疫？三模型 54 次实测：没那么简单",
-      "url": "https://www.freebuf.com/articles/ai-security/513758.html",
-      "pubDate": "Fri, 20 Nov 2026 18:05:39 +0800",
-      "extra": {
-        "hover": "三模型 54 次实测自传播提示：一句强警告只把传播率从 100% 压到 50%，弱模型仍有 83%。真正决定传播的，是让模型总结还是解释。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/513887.html",
-      "title": "AI 驱动的渗透攻击：特点、趋势与防守路径",
-      "url": "https://www.freebuf.com/articles/513887.html",
-      "pubDate": "Fri, 20 Nov 2026 18:00:56 +0800",
-      "extra": {
-        "hover": "AI从辅助工具变为自主攻击执行体；漏洞武器化可压至24小时内——攻击者只需一条路径，防守方要处处成功。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/513965.html",
-      "title": "SRC实战笔记_收录判定与测试方法论",
-      "url": "https://www.freebuf.com/articles/web/513965.html",
-      "pubDate": "Fri, 20 Nov 2026 17:31:00 +0800",
-      "extra": {
-        "hover": "SRC收录判定与合规边界：别只测三四个域名就判定无洞！违规内网渗透将被公告并回收全部奖励。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513798.html",
-      "title": "攻击者利用思科Expressway高危漏洞，攻破4台设备渗透内网",
-      "url": "https://www.freebuf.com/news/513798.html",
-      "pubDate": "Fri, 20 Nov 2026 16:02:50 +0800",
-      "extra": {
-        "hover": "可获取root权限的思科Expressway高危RCE漏洞遭在野利用，攻击者攻破边界设备渗透内网窃密，需尽快升级补丁筑牢防护。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/513810.html",
-      "title": "OpenSSL Base64编码函数曝出严重堆缓冲区溢出漏洞，CVSS 3.1评分9.8",
-      "url": "https://www.freebuf.com/news/513810.html",
-      "pubDate": "Fri, 20 Nov 2026 12:34:30 +0800",
-      "extra": {
-        "hover": "OpenSSL曝出CVSS9.8级严重堆缓冲区溢出漏洞，可致内存损坏、应用崩溃，需尽快排查内嵌组件完成修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/513961.html",
-      "title": "K8s容器编排系统安全：从架构基础到漏洞利用与横向移动（下）",
-      "url": "https://www.freebuf.com/articles/513961.html",
-      "pubDate": "Fri, 20 Nov 2026 11:45:13 +0800",
-      "extra": {
-        "hover": "K8s配置泄露可“直接操作整个集群”，恶意Pod能“直接拿到master节点权限”并横向控制节点。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513799.html",
-      "title": "黑客利用AI驱动ARTEX框架自动化发起网络攻击，无需依赖0Day漏洞",
-      "url": "https://www.freebuf.com/articles/ai-security/513799.html",
-      "pubDate": "Fri, 20 Nov 2026 11:27:05 +0800",
-      "extra": {
-        "hover": "黑客滥用AI驱动的ARTEX自动化攻击框架，无需0Day漏洞最快3小时即可获取企业系统高权限，工具暗藏后门，企业需及时排查配置缺口。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/513877.html",
-      "title": "【高危漏洞预警】Ruby2Shell：字符串大小写转换中的\"一字节之痛\"",
-      "url": "https://www.freebuf.com/articles/vuls/513877.html",
-      "pubDate": "Fri, 20 Nov 2026 09:04:29 +0800",
-      "extra": {
-        "hover": "Ruby高危堆溢出可演变为RCE，攻击者无需任何身份认证即可直接利用，需尽快升级。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513748.html",
-      "title": "攻击者主动扫描LiteLLM AI服务器，漏洞链可实现无认证RCE",
-      "url": "https://www.freebuf.com/articles/ai-security/513748.html",
-      "pubDate": "Fri, 20 Nov 2026 08:25:28 +0800",
-      "extra": {
-        "hover": "攻击者正全网疯狂扫描暴露的LiteLLM AI服务器，组合利用两漏洞可无认证实现RCE，失陷将泄露全链路API密钥，需及时打补丁收敛暴露面。"
       }
     }
   ]
