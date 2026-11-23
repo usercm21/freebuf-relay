@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795368342002,
+  "updatedAt": 1795403513429,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/ai-security/513971.html",
@@ -65,6 +65,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/news/513793.html",
+      "title": "FreeBuf早报 | 微软官方Python Agent框架遭供应链投毒；AI发现nginx五个高危漏洞",
+      "url": "https://www.freebuf.com/news/513793.html",
+      "pubDate": "Fri, 20 Nov 2026 19:45:54 +0800",
+      "extra": {
+        "hover": "微软PyPI官方agent-framework包遭供应链投毒，恶意版本可静默窃取云与CI/CD凭证，相关版本已被隔离，用户需及时排查处置。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/513894.html",
       "title": "AI 时代的漏洞发现与利用趋势",
       "url": "https://www.freebuf.com/articles/513894.html",
@@ -89,6 +98,15 @@
       "pubDate": "Fri, 20 Nov 2026 18:21:25 +0800",
       "extra": {
         "hover": "员工一句提问就可能外传代码，AI还会误删数据、伪造审批；企业须按任务治理。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513758.html",
+      "title": "一句警告就能让”思维病毒“全免疫？三模型 54 次实测：没那么简单",
+      "url": "https://www.freebuf.com/articles/ai-security/513758.html",
+      "pubDate": "Fri, 20 Nov 2026 18:05:39 +0800",
+      "extra": {
+        "hover": "三模型 54 次实测自传播提示：一句强警告只把传播率从 100% 压到 50%，弱模型仍有 83%。真正决定传播的，是让模型总结还是解释。"
       }
     },
     {
@@ -128,6 +146,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/513961.html",
+      "title": "K8s容器编排系统安全：从架构基础到漏洞利用与横向移动（下）",
+      "url": "https://www.freebuf.com/articles/513961.html",
+      "pubDate": "Fri, 20 Nov 2026 11:45:13 +0800",
+      "extra": {
+        "hover": "K8s配置泄露可“直接操作整个集群”，恶意Pod能“直接拿到master节点权限”并横向控制节点。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/ai-security/513799.html",
       "title": "黑客利用AI驱动ARTEX框架自动化发起网络攻击，无需依赖0Day漏洞",
       "url": "https://www.freebuf.com/articles/ai-security/513799.html",
@@ -152,33 +179,6 @@
       "pubDate": "Fri, 20 Nov 2026 08:25:28 +0800",
       "extra": {
         "hover": "攻击者正全网疯狂扫描暴露的LiteLLM AI服务器，组合利用两漏洞可无认证实现RCE，失陷将泄露全链路API密钥，需及时打补丁收敛暴露面。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513717.html",
-      "title": "AI红队提示注入测试存冗余，大样本重训反降Agent防御能力",
-      "url": "https://www.freebuf.com/articles/ai-security/513717.html",
-      "pubDate": "Fri, 20 Nov 2026 06:30:20 +0800",
-      "extra": {
-        "hover": "AI提示注入红队测试存冗余：用更多攻击样本重训的AI Agent反而更易被劫持，新方案PIPETTE可平衡防护效果与任务可用性。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/513719.html",
-      "title": "黑客泄露Visa、万事达卡、摩根大通客户数据，源头为第三方服务商遭攻击",
-      "url": "https://www.freebuf.com/articles/database/513719.html",
-      "pubDate": "Fri, 20 Nov 2026 06:02:03 +0800",
-      "extra": {
-        "hover": "勒索组织n0n攻破第三方服务商，泄露Visa、万事达卡、摩根大通数千条客户数据，三家称自身内网未失陷，用户需警惕钓鱼诈骗。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/es/513720.html",
-      "title": "安全团队应淘汰虚荣型安全仪表盘，聚焦风险处置实效",
-      "url": "https://www.freebuf.com/articles/es/513720.html",
-      "pubDate": "Fri, 20 Nov 2026 06:00:21 +0800",
-      "extra": {
-        "hover": "安全团队应淘汰虚荣型安全仪表盘，别唯关单量、漏洞级别论，要聚焦风险处置实效，明确责任，落地真正有效的安全防护。"
       }
     }
   ]
