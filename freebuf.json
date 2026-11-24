@@ -1,6 +1,24 @@
 {
-  "updatedAt": 1795516120720,
+  "updatedAt": 1795553355869,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514332.html",
+      "title": "Astelia推出自主网络缓解功能，无需补丁即可拦截AI驱动漏洞利用",
+      "url": "https://www.freebuf.com/articles/ai-security/514332.html",
+      "pubDate": "Tue, 24 Nov 2026 14:00:58 +0800",
+      "extra": {
+        "hover": "Astelia推出自主网络缓解功能，无需打补丁、不中断业务即可在网络层拦截AI驱动漏洞利用，破解补丁滞后赶不上AI零准备攻击的痛点。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514331.html",
+      "title": "攻击者在Linux服务器部署ZQAgent后门，可执行恶意命令并访问文件",
+      "url": "https://www.freebuf.com/news/514331.html",
+      "pubDate": "Tue, 24 Nov 2026 13:35:26 +0800",
+      "extra": {
+        "hover": "新型Linux后门ZQAgent伪装系统进程长期潜伏，可执行恶意命令、访问文件，由AI黑客框架投放，可将攻击耗时缩至分钟级，附检测排查指引。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/514258.html",
       "title": "OpenAI与思科推出AI辅助Linux安全工具，补丁部署前就可以阻断漏洞利用",
@@ -8,6 +26,15 @@
       "pubDate": "Tue, 24 Nov 2026 11:32:57 +0800",
       "extra": {
         "hover": "OpenAI联合思科推出开源Linux安全工具Shirudo，无需停服即可拦截漏洞利用，填补补丁防护空窗，以机器速度对抗AI驱动的网络攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/system/514294.html",
+      "title": "Windows远程访问API存在漏洞，攻击者可获取PC完整SYSTEM控制权",
+      "url": "https://www.freebuf.com/articles/system/514294.html",
+      "pubDate": "Tue, 24 Nov 2026 09:12:12 +0800",
+      "extra": {
+        "hover": "Windows远程访问API存高危提权漏洞CVE-2026-119853，低权限攻击者可夺取设备最高SYSTEM控制权，微软已发补丁，请及时安装修复。"
       }
     },
     {
@@ -35,6 +62,15 @@
       "pubDate": "Tue, 24 Nov 2026 07:00:16 +0800",
       "extra": {
         "hover": "Google Cloud CISO警示：自主AI攻击数分钟即可完成横向移动，人工防御基线已失效，企业需搭建可审计可回滚的Agent安全管控体系。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ics-articles/514315.html",
+      "title": "英国《网络安全与韧性法案》进入下院审议，未覆盖实际韧性需求",
+      "url": "https://www.freebuf.com/articles/ics-articles/514315.html",
+      "pubDate": "Tue, 24 Nov 2026 06:10:00 +0800",
+      "extra": {
+        "hover": "英国审议中的《网络安全与韧性法案》看似形成防护网，实则如倒扣漏勺漏洞遍布，规制缺位，难抵真实网络攻击风险。"
       }
     },
     {
@@ -101,15 +137,6 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/vuls/514064.html",
-      "title": "819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团",
-      "url": "https://www.freebuf.com/articles/vuls/514064.html",
-      "pubDate": "Mon, 23 Nov 2026 11:31:46 +0800",
-      "extra": {
-        "hover": "读之前先过三问：四个团伙怎么暴露的？——开放目录漏了作业文件，CrowdStrike 翻到了他们的配置和日志。一个人能跑完整条入侵吗？——代号 BUGSTER 的操盘手用关了闸的 Agent，从印度一"
-      }
-    },
-    {
       "id": "https://www.freebuf.com/articles/vuls/514059.html",
       "title": "升级等于白升：CVE-2026-97229 打穿 1000+ 台 GitLab 的未认证 RCE，病根在 Ruby 里",
       "url": "https://www.freebuf.com/articles/vuls/514059.html",
@@ -152,33 +179,6 @@
       "pubDate": "Mon, 23 Nov 2026 03:09:11 +0800",
       "extra": {
         "hover": "大众汽车存在蓝牙漏洞，攻击者诱导配对后可窃听对话、追踪GPS、操控座舱功能，旧款车补丁滞后，车主务必警惕陌生蓝牙配对请求。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514068.html",
-      "title": "GPT-6.2 Astra发现多个0Day漏洞，含移动OS权限绕过与服务端RCE缺陷",
-      "url": "https://www.freebuf.com/news/514068.html",
-      "pubDate": "Mon, 23 Nov 2026 03:06:27 +0800",
-      "extra": {
-        "hover": "OpenAI GPT-6.2 Astra发现两类高危0Day漏洞，可致主流移动OS隐私泄露、常用网络服务低权限RCE，正推进披露，暂无在野利用证据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/513971.html",
-      "title": "OpenRouter移除3家AI推理提供商，研究人员发现其持续数月窃取提示词",
-      "url": "https://www.freebuf.com/articles/ai-security/513971.html",
-      "pubDate": "Sun, 22 Nov 2026 10:36:55 +0800",
-      "extra": {
-        "hover": "OpenRouter移除3家遭入侵的AI推理商，数月间用户提示词（含零留存请求）被窃，密钥遭滥用，攻击者潜入时隐私标识根本起不到保护作用。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/514029.html",
-      "title": "威胁与漏洞有什么区别？发现订单越权，为什么还不能说已经泄露",
-      "url": "https://www.freebuf.com/articles/vuls/514029.html",
-      "pubDate": "Sun, 22 Nov 2026 07:06:00 +0800",
-      "extra": {
-        "hover": "用订单访问算例分清薄弱点、威胁情景与已发生的损害，避免把可读范围写成泄露范围，能读≠已泄露！"
       }
     }
   ]
