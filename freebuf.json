@@ -1,6 +1,78 @@
 {
-  "updatedAt": 1795578579389,
+  "updatedAt": 1795613930854,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514459.html",
+      "title": "同一段恶意指令，只换“信封”标签，拒绝率就从 77.8% 崩到 22.2%：三模型实测 Envelope 陷阱",
+      "url": "https://www.freebuf.com/articles/ai-security/514459.html",
+      "pubDate": "Wed, 25 Nov 2026 17:42:07 +0800",
+      "extra": {
+        "hover": "同一段恶意指令，只换个&amp;quot;信封&amp;quot;标签，拒绝率就从 77.8% 崩到 22.2%：三模型实测 Envelope 陷阱"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514457.html",
+      "title": "同一个投毒实验，两种调用方式，两套相反的结论：prompt 模板如何左右小模型安全评测",
+      "url": "https://www.freebuf.com/articles/ai-security/514457.html",
+      "pubDate": "Wed, 25 Nov 2026 17:33:48 +0800",
+      "extra": {
+        "hover": "把同一条假 ERROR 塞进日志，用裸文本 prompt 测，命中率是 22.2%；换成每个模型自己的 chat template 再测同一实验，命中率是 38.9%。日志没变、载荷没变、模型没变。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514462.html",
+      "title": "黑客利用CVSS 10.0级Hex.pm RCE漏洞，入侵6台包注册服务器",
+      "url": "https://www.freebuf.com/news/514462.html",
+      "pubDate": "Wed, 25 Nov 2026 14:36:59 +0800",
+      "extra": {
+        "hover": "Hex.pm遭潜伏超十年的CVSS10.0级RCE漏洞攻击，6台服务器被入侵，用户需立即重置凭证，暂未发现包被篡改。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514456.html",
+      "title": "Anthropic研究显示Claude AI Agent可逃逸沙箱，访问受限数据",
+      "url": "https://www.freebuf.com/articles/ai-security/514456.html",
+      "pubDate": "Wed, 25 Nov 2026 08:51:49 +0800",
+      "extra": {
+        "hover": "Anthropic测试发现Claude AI Agent可突破刻意弱化的沙箱访问受限数据，存在数据泄露风险，启用多重防护可大幅降低越界概率。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514454.html",
+      "title": "AI网络攻击末日预警不断，实际威胁仍来自传统渠道",
+      "url": "https://www.freebuf.com/articles/ai-security/514454.html",
+      "pubDate": "Wed, 25 Nov 2026 08:25:00 +0800",
+      "extra": {
+        "hover": "媒体热炒AI自主攻击时代到来，实则这类攻击尚未大规模落地，威胁仍来自传统渠道，落实补丁等基础防护即可应对。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514453.html",
+      "title": "海事行业网络威胁持续攀升，50艘商船遭定向攻击",
+      "url": "https://www.freebuf.com/news/514453.html",
+      "pubDate": "Wed, 25 Nov 2026 08:23:10 +0800",
+      "extra": {
+        "hover": "美国正调查针对50艘运载能源、易燃易爆危化品商船的网攻事件，伊俄被纳入排查范围，海事网防薄弱，此类攻击可致运营中断、巨额损失。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/database/514414.html",
+      "title": "凭据窃取成主流漏洞利用趋势，月度占比年内攀升至35%",
+      "url": "https://www.freebuf.com/articles/database/514414.html",
+      "pubDate": "Wed, 25 Nov 2026 06:30:47 +0800",
+      "extra": {
+        "hover": "凭据窃取已成2026年漏洞利用核心环节，占比年内攀升至35%，AI密钥成新窃密目标，中危漏洞遭滥用，单次异常访问都值得警惕。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514418.html",
+      "title": "微软商店恶意应用关联Vinci RAT，黑客可远程控制Windows PC",
+      "url": "https://www.freebuf.com/news/514418.html",
+      "pubDate": "Wed, 25 Nov 2026 06:30:10 +0800",
+      "extra": {
+        "hover": "微软商店上架的Setup Assistant应用被曝投递Vinci RAT，黑客可远程控制Windows设备，正版商店下载也可能中招。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/514274.html",
       "title": "FreeBuf早报 | Cairn频繁现身真实攻击；思科Expressway漏洞遭在野利用",
@@ -107,78 +179,6 @@
       "pubDate": "Mon, 23 Nov 2026 19:19:27 +0800",
       "extra": {
         "hover": "OpenAI GPT-6.2 Astra发现两类高危0Day漏洞，可致主流移动OS隐私泄露、常用网络服务低权限RCE，正推进披露，暂无在野利用证据。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514134.html",
-      "title": "工具没选错，参数被换了：Agent 参数投毒实测，93% 成功率下动作级防御集体失明",
-      "url": "https://www.freebuf.com/articles/ai-security/514134.html",
-      "pubDate": "Mon, 23 Nov 2026 18:02:38 +0800",
-      "extra": {
-        "hover": "工具没选错，参数被换了。一封邮件让 Agent 照常转账，钱却进了攻击者账户：无防御 ASR 93.06%，动作级防御集体失明。本文拆解参数投毒机理与 AuthorityFlow 防御。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/web/514103.html",
-      "title": "图片清洗的错觉：七个藏点，四种处理，三种还在",
-      "url": "https://www.freebuf.com/articles/web/514103.html",
-      "pubDate": "Mon, 23 Nov 2026 15:35:52 +0800",
-      "extra": {
-        "hover": "用一张图构造七种藏法，跑过复制、重编码、缩放与转码四条处理链，量化各层残留，并给出容器清空、尾部截断与像素重建的清洗顺序及验收方法。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/endpoint/514101.html",
-      "title": "链是真的，设备换了：一根线绕过 Android 硬件认证",
-      "url": "https://www.freebuf.com/articles/endpoint/514101.html",
-      "pubDate": "Mon, 23 Nov 2026 15:28:15 +0800",
-      "extra": {
-        "hover": "号称不可伪造的Android KeyMint硬件认证，无需破解安全硬件，仅靠两台手机一条中继链路即可绕过。本文复现全链路攻击，并实测tag-709校验的防御边界与落地清单。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/514065.html",
-      "title": "一个百分号把连接串变成路由表：PyMongo 解码顺序错位是怎么把数据库流量送到别人服务器上的",
-      "url": "https://www.freebuf.com/articles/vuls/514065.html",
-      "pubDate": "Mon, 23 Nov 2026 11:34:53 +0800",
-      "extra": {
-        "hover": "PyMongo 在按分隔符切分 host 列表之前先把整段解码，%2C 还原成真逗号，攻击者提供的&quot;主机名&quot;就此裂变成第二个拓扑成员，你的认证握手和数据库操作被客户端亲手送到他服务器上。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/vuls/514059.html",
-      "title": "升级等于白升：CVE-2026-97229 打穿 1000+ 台 GitLab 的未认证 RCE，病根在 Ruby 里",
-      "url": "https://www.freebuf.com/articles/vuls/514059.html",
-      "pubDate": "Mon, 23 Nov 2026 11:21:36 +0800",
-      "extra": {
-        "hover": "Alpine Linux 用自己的身体验证了这一点，worker 崩了八次之后他们才发现，升级后的 GitLab 依然在漏。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514147.html",
-      "title": "开源AI渗透测试框架Cairn频繁现身真实攻击，自主Agent可独立利用0Day入侵",
-      "url": "https://www.freebuf.com/articles/ai-security/514147.html",
-      "pubDate": "Mon, 23 Nov 2026 10:49:38 +0800",
-      "extra": {
-        "hover": "开源AI渗透测试框架Cairn遭多类威胁组织滥用，自主Agent可不知疲倦地挖掘利用0Day入侵，传统补丁策略已难抵御这类高速攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514100.html",
-      "title": "Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报",
-      "url": "https://www.freebuf.com/articles/ai-security/514100.html",
-      "pubDate": "Mon, 23 Nov 2026 06:30:08 +0800",
-      "extra": {
-        "hover": "开源AI渗透测试工具Xalgorix上线，以双Agent独立校验降低漏洞误报，兼容多模型与主流安全工具，内置范围管控防越权扫描。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514077.html",
-      "title": "论坛卖家叫卖VMware vCenter 0Day利用工具，售价3万美元未经验证",
-      "url": "https://www.freebuf.com/news/514077.html",
-      "pubDate": "Mon, 23 Nov 2026 04:30:26 +0800",
-      "extra": {
-        "hover": "论坛卖家3万美元叫卖VMware vCenter高危0Day利用工具，该漏洞CVSS9.8可无凭证接管，补丁前已遭在野攻击，管理员需尽快修复。"
       }
     }
   ]
