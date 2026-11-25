@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1795553355869,
+  "updatedAt": 1795578579389,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/514274.html",
+      "title": "FreeBuf早报 | Cairn频繁现身真实攻击；思科Expressway漏洞遭在野利用",
+      "url": "https://www.freebuf.com/news/514274.html",
+      "pubDate": "Tue, 24 Nov 2026 16:19:33 +0800",
+      "extra": {
+        "hover": "开源AI渗透测试框架Cairn遭多类威胁组织滥用，自主Agent可不知疲倦地挖掘利用0Day入侵，传统补丁策略已难抵御这类高速攻击。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/514332.html",
       "title": "Astelia推出自主网络缓解功能，无需补丁即可拦截AI驱动漏洞利用",
@@ -170,15 +179,6 @@
       "pubDate": "Mon, 23 Nov 2026 04:30:26 +0800",
       "extra": {
         "hover": "论坛卖家3万美元叫卖VMware vCenter高危0Day利用工具，该漏洞CVSS9.8可无凭证接管，补丁前已遭在野攻击，管理员需尽快修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514067.html",
-      "title": "研究人员通过蓝牙入侵大众汽车，可窃听对话追踪GPS位置",
-      "url": "https://www.freebuf.com/news/514067.html",
-      "pubDate": "Mon, 23 Nov 2026 03:09:11 +0800",
-      "extra": {
-        "hover": "大众汽车存在蓝牙漏洞，攻击者诱导配对后可窃听对话、追踪GPS、操控座舱功能，旧款车补丁滞后，车主务必警惕陌生蓝牙配对请求。"
       }
     }
   ]
