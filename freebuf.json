@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1795613930854,
+  "updatedAt": 1795667428299,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/514518.html",
+      "title": "1Password披露安全事件，攻击者经员工GitHub账号复制客户记录",
+      "url": "https://www.freebuf.com/news/514518.html",
+      "pubDate": "Wed, 25 Nov 2026 22:29:23 +0800",
+      "extra": {
+        "hover": "1Password披露员工GitHub账号遭攻击者入侵，部分客户非敏感元数据被复制，核心密码库未受影响，已升级防护提醒用户警惕钓鱼。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514464.html",
+      "title": "FreeBuf早报 | 黑客疑似入侵FBI全国警用数据库；Windows远程访问API存在漏洞",
+      "url": "https://www.freebuf.com/news/514464.html",
+      "pubDate": "Wed, 25 Nov 2026 18:26:13 +0800",
+      "extra": {
+        "hover": "FBI正调查供全美警方使用的NCIC犯罪数据库疑似遭黑客入侵事件，目前入侵细节未明，引发各界对敏感执法数据安全的担忧。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514493.html",
+      "title": "攻击者在野利用GeoServer两漏洞，研究人员披露未授权RCE链",
+      "url": "https://www.freebuf.com/news/514493.html",
+      "pubDate": "Wed, 25 Nov 2026 18:18:54 +0800",
+      "extra": {
+        "hover": "GeoServer两漏洞正遭在野利用，可串联成未授权RCE链获取管理员权限，用户需尽快升级至官方修复版本。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/ai-security/514459.html",
       "title": "同一段恶意指令，只换“信封”标签，拒绝率就从 77.8% 崩到 22.2%：三模型实测 Envelope 陷阱",
@@ -152,33 +179,6 @@
       "pubDate": "Tue, 24 Nov 2026 06:10:00 +0800",
       "extra": {
         "hover": "英国审议中的《网络安全与韧性法案》看似形成防护网，实则如倒扣漏勺漏洞遍布，规制缺位，难抵真实网络攻击风险。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514240.html",
-      "title": "思科Expressway漏洞遭在野利用，攻击者可获完整root权限",
-      "url": "https://www.freebuf.com/news/514240.html",
-      "pubDate": "Tue, 24 Nov 2026 04:53:16 +0800",
-      "extra": {
-        "hover": "思科Expressway严重漏洞遭在野利用，远程攻击者可获root权限，无临时缓解方案，官方敦促用户尽快升级排查失陷痕迹。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514198.html",
-      "title": "CrowdStrike 440亿美元收购Zscaler，押注平台化挑战派拓网络",
-      "url": "https://www.freebuf.com/news/514198.html",
-      "pubDate": "Mon, 23 Nov 2026 21:11:24 +0800",
-      "extra": {
-        "hover": "CrowdStrike斥440亿美元收购Zscaler押注安全平台化，短期可释放联合销售价值，长期将直接威胁派拓网络的行业地位。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514146.html",
-      "title": "FreeBuf早报 | GPT-6.2 Astra发现多个0Day漏洞；Xalgorix开源AI渗透测试工具上线",
-      "url": "https://www.freebuf.com/news/514146.html",
-      "pubDate": "Mon, 23 Nov 2026 19:19:27 +0800",
-      "extra": {
-        "hover": "OpenAI GPT-6.2 Astra发现两类高危0Day漏洞，可致主流移动OS隐私泄露、常用网络服务低权限RCE，正推进披露，暂无在野利用证据。"
       }
     }
   ]
