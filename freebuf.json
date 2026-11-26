@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795667428299,
+  "updatedAt": 1795703026918,
   "items": [
     {
       "id": "https://www.freebuf.com/news/514518.html",
@@ -128,12 +128,39 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/514230.html",
+      "title": "当推理网关开始伪造工具调用，你的 Agent 在替谁干活",
+      "url": "https://www.freebuf.com/articles/ai-security/514230.html",
+      "pubDate": "Tue, 24 Nov 2026 11:37:50 +0800",
+      "extra": {
+        "hover": "黑产还没大规模用这招，管道的信任缺口还开着。趁这个窗口，把日志对照建起来，把签名方案提上排期，比出事后再溯源划算。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514228.html",
+      "title": "不只是提示注入：MCP生态的三层信任错位与防御重构",
+      "url": "https://www.freebuf.com/news/514228.html",
+      "pubDate": "Tue, 24 Nov 2026 11:32:59 +0800",
+      "extra": {
+        "hover": "本文提出一个展示层—时间层—身份层的三层信任错位模型，把散落在各个研究报告里的攻击手法串成一条完整链路，并给出对应的防御重构思路。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/system/514258.html",
       "title": "OpenAI与思科推出AI辅助Linux安全工具，补丁部署前就可以阻断漏洞利用",
       "url": "https://www.freebuf.com/articles/system/514258.html",
       "pubDate": "Tue, 24 Nov 2026 11:32:57 +0800",
       "extra": {
         "hover": "OpenAI联合思科推出开源Linux安全工具Shirudo，无需停服即可拦截漏洞利用，填补补丁防护空窗，以机器速度对抗AI驱动的网络攻击。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514224.html",
+      "title": "提示词模板逃逸，框架关不住的指令",
+      "url": "https://www.freebuf.com/articles/ai-security/514224.html",
+      "pubDate": "Tue, 24 Nov 2026 10:43:57 +0800",
+      "extra": {
+        "hover": "安全团队在部署 Agent 时，需要把模板逃逸作为已知的攻击面纳入安全评估，而不是假设框架的模板机制天然安全。"
       }
     },
     {
@@ -146,39 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/news/514276.html",
-      "title": "Elecbrakes蓝牙控制器存高危漏洞，行驶中可远程操控拖车刹车",
-      "url": "https://www.freebuf.com/news/514276.html",
-      "pubDate": "Tue, 24 Nov 2026 07:21:45 +0800",
+      "id": "https://www.freebuf.com/articles/ai-security/514204.html",
+      "title": "企业AI智能体安全治理实战：MCP工具投毒、身份治理与熔断落地",
+      "url": "https://www.freebuf.com/articles/ai-security/514204.html",
+      "pubDate": "Tue, 24 Nov 2026 08:44:24 +0800",
       "extra": {
-        "hover": "Elecbrakes拖车刹车控制器存在高危蓝牙漏洞，攻击者无需配对即可在行驶中远程操控刹车，易引发严重事故，部分型号需手动更新固件，老款暂无修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514278.html",
-      "title": "黑客疑似入侵FBI全国警用数据库，敏感执法数据安全引担忧",
-      "url": "https://www.freebuf.com/news/514278.html",
-      "pubDate": "Tue, 24 Nov 2026 07:05:05 +0800",
-      "extra": {
-        "hover": "FBI正调查供全美警方使用的NCIC犯罪数据库疑似遭黑客入侵事件，目前入侵细节未明，引发各界对敏感执法数据安全的担忧。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514280.html",
-      "title": "Google Cloud CISO谈Agentic AI安全，展望SOC演进方向",
-      "url": "https://www.freebuf.com/articles/ai-security/514280.html",
-      "pubDate": "Tue, 24 Nov 2026 07:00:16 +0800",
-      "extra": {
-        "hover": "Google Cloud CISO警示：自主AI攻击数分钟即可完成横向移动，人工防御基线已失效，企业需搭建可审计可回滚的Agent安全管控体系。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ics-articles/514315.html",
-      "title": "英国《网络安全与韧性法案》进入下院审议，未覆盖实际韧性需求",
-      "url": "https://www.freebuf.com/articles/ics-articles/514315.html",
-      "pubDate": "Tue, 24 Nov 2026 06:10:00 +0800",
-      "extra": {
-        "hover": "英国审议中的《网络安全与韧性法案》看似形成防护网，实则如倒扣漏勺漏洞遍布，规制缺位，难抵真实网络攻击风险。"
+        "hover": "本文从攻击面变化、治理框架与实施节奏三个层面，说明 2026 年的企业应如何分阶段完成这一过程。"
       }
     }
   ]
