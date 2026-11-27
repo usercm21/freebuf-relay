@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1795703026918,
+  "updatedAt": 1795755985606,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/514658.html",
+      "title": "FreeBuf早报 | 1Password披露安全事件；Anthropic研究显示Claude AI Agent可逃逸沙箱",
+      "url": "https://www.freebuf.com/news/514658.html",
+      "pubDate": "Thu, 26 Nov 2026 19:20:48 +0800",
+      "extra": {
+        "hover": "1Password披露员工GitHub账号遭攻击者入侵，部分客户非敏感元数据被复制，核心密码库未受影响，已升级防护提醒用户警惕钓鱼。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514610.html",
+      "title": "一份没有署名的答卷：十道选择题，99% 认出 Agent 背后的模型",
+      "url": "https://www.freebuf.com/articles/ai-security/514610.html",
+      "pubDate": "Thu, 26 Nov 2026 17:32:46 +0800",
+      "extra": {
+        "hover": "十道选择题，不注入、不越权，就能认出 Agent 背后的模型。论文实测 25 个模型 10 题识别率 99.0%，4 个 Agent 跨 28 组合 3 次交互内 99.7%。附复现日志与防御清单。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/514591.html",
+      "title": "解码点实测放大694倍的HTTP3 QPACK手风琴攻击与修复边界",
+      "url": "https://www.freebuf.com/articles/web/514591.html",
+      "pubDate": "Thu, 26 Nov 2026 16:35:10 +0800",
+      "extra": {
+        "hover": "HTTP/3 QPACK压缩可被结构性滥用，单字节即可触发数百倍内存放大。本文实测解码点694倍放大效应与服务端OOM，验证三条修复路径的防御边界。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/514518.html",
       "title": "1Password披露安全事件，攻击者经员工GitHub账号复制客户记录",
@@ -152,33 +179,6 @@
       "pubDate": "Tue, 24 Nov 2026 11:32:57 +0800",
       "extra": {
         "hover": "OpenAI联合思科推出开源Linux安全工具Shirudo，无需停服即可拦截漏洞利用，填补补丁防护空窗，以机器速度对抗AI驱动的网络攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514224.html",
-      "title": "提示词模板逃逸，框架关不住的指令",
-      "url": "https://www.freebuf.com/articles/ai-security/514224.html",
-      "pubDate": "Tue, 24 Nov 2026 10:43:57 +0800",
-      "extra": {
-        "hover": "安全团队在部署 Agent 时，需要把模板逃逸作为已知的攻击面纳入安全评估，而不是假设框架的模板机制天然安全。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/514294.html",
-      "title": "Windows远程访问API存在漏洞，攻击者可获取PC完整SYSTEM控制权",
-      "url": "https://www.freebuf.com/articles/system/514294.html",
-      "pubDate": "Tue, 24 Nov 2026 09:12:12 +0800",
-      "extra": {
-        "hover": "Windows远程访问API存高危提权漏洞CVE-2026-119853，低权限攻击者可夺取设备最高SYSTEM控制权，微软已发补丁，请及时安装修复。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514204.html",
-      "title": "企业AI智能体安全治理实战：MCP工具投毒、身份治理与熔断落地",
-      "url": "https://www.freebuf.com/articles/ai-security/514204.html",
-      "pubDate": "Tue, 24 Nov 2026 08:44:24 +0800",
-      "extra": {
-        "hover": "本文从攻击面变化、治理框架与实施节奏三个层面，说明 2026 年的企业应如何分阶段完成这一过程。"
       }
     }
   ]
