@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795791479385,
+  "updatedAt": 1795821516194,
   "items": [
     {
       "id": "https://www.freebuf.com/articles/vuls/514339.html",
@@ -8,6 +8,15 @@
       "pubDate": "Fri, 27 Nov 2026 18:17:30 +0800",
       "extra": {
         "hover": "本文用一套可本地运行的实验，把这条攻击链完整打一遍，并给出宿主侧的防御对照。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/news/514944.html",
+      "title": "黑客入侵斯洛文尼亚肉制品厂，将冷冻舱设为100℃并锁死系统权限",
+      "url": "https://www.freebuf.com/news/514944.html",
+      "pubDate": "Fri, 27 Nov 2026 14:52:38 +0800",
+      "extra": {
+        "hover": "斯洛文尼亚一肉制品厂遭网络攻击，黑客锁定制冷系统权限、将冷冻舱设为100℃，所幸及时发现，避免了25万欧元损失，若逢周末后果不堪设想。"
       }
     },
     {
@@ -164,21 +173,12 @@
       }
     },
     {
-      "id": "https://www.freebuf.com/articles/ai-security/514456.html",
-      "title": "Anthropic研究显示Claude AI Agent可逃逸沙箱，访问受限数据",
-      "url": "https://www.freebuf.com/articles/ai-security/514456.html",
-      "pubDate": "Wed, 25 Nov 2026 08:51:49 +0800",
+      "id": "https://www.freebuf.com/articles/sectool/514641.html",
+      "title": "36星的AI挖洞平台，敢跟误报较真：PoC跑不通，系统不许它确认漏洞",
+      "url": "https://www.freebuf.com/articles/sectool/514641.html",
+      "pubDate": "Wed, 25 Nov 2026 09:07:21 +0800",
       "extra": {
-        "hover": "Anthropic测试发现Claude AI Agent可突破刻意弱化的沙箱访问受限数据，存在数据泄露风险，启用多重防护可大幅降低越界概率。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514454.html",
-      "title": "AI网络攻击末日预警不断，实际威胁仍来自传统渠道",
-      "url": "https://www.freebuf.com/articles/ai-security/514454.html",
-      "pubDate": "Wed, 25 Nov 2026 08:25:00 +0800",
-      "extra": {
-        "hover": "媒体热炒AI自主攻击时代到来，实则这类攻击尚未大规模落地，威胁仍来自传统渠道，落实补丁等基础防护即可应对。"
+        "hover": "AI说了不算，"
       }
     }
   ]
