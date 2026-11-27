@@ -1,6 +1,33 @@
 {
-  "updatedAt": 1795755985606,
+  "updatedAt": 1795791479385,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/vuls/514339.html",
+      "title": "工具描述里的隐形后门：MCP Agent 工具投毒与二次调用数据外带实战复现",
+      "url": "https://www.freebuf.com/articles/vuls/514339.html",
+      "pubDate": "Fri, 27 Nov 2026 18:17:30 +0800",
+      "extra": {
+        "hover": "本文用一套可本地运行的实验，把这条攻击链完整打一遍，并给出宿主侧的防御对照。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/513465.html",
+      "title": "企业AI安全管理建设实战：从攻击面认知到落地治理",
+      "url": "https://www.freebuf.com/articles/ai-security/513465.html",
+      "pubDate": "Fri, 27 Nov 2026 14:47:10 +0800",
+      "extra": {
+        "hover": "大模型进入核心业务，传统安全体系已罩不住语义层这个新攻击面。本文基于企业一线评估实践，给出提示注入防御、Agent 特权治理、RAG 检索权限过滤等五大风险域的落地对策与分期建设路线图。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/514673.html",
+      "title": "蓝队应急复盘：由凭证泄露引发的内网入侵事件分析",
+      "url": "https://www.freebuf.com/articles/web/514673.html",
+      "pubDate": "Thu, 26 Nov 2026 21:45:41 +0800",
+      "extra": {
+        "hover": "最近在蓝队应急期间总，是有一种突然的告警，就是突然直接内网横向了，直接就被打穿了。\n在近期的蓝队值守中，我发现很多都是直接被突然打穿，然后一点征兆都没有。在之前的红队的攻防演练中，红队~~~~上传工具第一步就是要免杀，虽然最近有了ai大家的效率都稳步提升，但是我们还是觉得没有前期的征兆直接拿下靶标是一件多么恐怖的事情。​     自我最近的一次应急后我才发现，我好像找到了原因。应急背景​    在"
+      }
+    },
     {
       "id": "https://www.freebuf.com/news/514658.html",
       "title": "FreeBuf早报 | 1Password披露安全事件；Anthropic研究显示Claude AI Agent可逃逸沙箱",
@@ -8,6 +35,15 @@
       "pubDate": "Thu, 26 Nov 2026 19:20:48 +0800",
       "extra": {
         "hover": "1Password披露员工GitHub账号遭攻击者入侵，部分客户非敏感元数据被复制，核心密码库未受影响，已升级防护提醒用户警惕钓鱼。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514616.html",
+      "title": "一封邮件偷走企业数据：AI助手提示注入链还原",
+      "url": "https://www.freebuf.com/articles/ai-security/514616.html",
+      "pubDate": "Thu, 26 Nov 2026 18:08:41 +0800",
+      "extra": {
+        "hover": "本文分析三个以数据外泄为结果的案例：EchoLeak、ShadowLeak，以及 Invariant Labs 披露的 GitHub MCP 漏洞。"
       }
     },
     {
@@ -26,6 +62,51 @@
       "pubDate": "Thu, 26 Nov 2026 16:35:10 +0800",
       "extra": {
         "hover": "HTTP/3 QPACK压缩可被结构性滥用，单字节即可触发数百倍内存放大。本文实测解码点694倍放大效应与服务端OOM，验证三条修复路径的防御边界。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/514581.html",
+      "title": "PHP2Shell双漏洞深度复盘——从补丁diff到PHP-FPM内存破坏实测",
+      "url": "https://www.freebuf.com/articles/vuls/514581.html",
+      "pubDate": "Thu, 26 Nov 2026 16:13:02 +0800",
+      "extra": {
+        "hover": "PHP2Shell双CVE补丁发布即遭在野利用。本文从源码diff拆解OOM修复模型，实测PHP-FPM场景内存破坏链路，厘清SAPI差异与防御检测要点。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/web/514567.html",
+      "title": "当兑换码竞态遇上 HTTP3 单连接多路复用",
+      "url": "https://www.freebuf.com/articles/web/514567.html",
+      "pubDate": "Thu, 26 Nov 2026 15:14:08 +0800",
+      "extra": {
+        "hover": "同一份兑换码竞态逻辑，HTTP/3单连接多路复用让30个请求毫秒级齐射，仅凭单个UDP套接字即可搬空全部库存。本文实测传输层差异，给出防御调整建议。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/514693.html",
+      "title": "不用0day，也能搬空加密机构：百个AI Agent昼夜攻击实录",
+      "url": "https://www.freebuf.com/articles/514693.html",
+      "pubDate": "Thu, 26 Nov 2026 13:00:55 +0800",
+      "extra": {
+        "hover": "AI正在放大攻击能力，加密行业成网络犯罪首选目标：59台服务器被拿root、3,971把私钥被登记。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514538.html",
+      "title": "生成循环困陷复现，诱导模型无限原地打转",
+      "url": "https://www.freebuf.com/articles/ai-security/514538.html",
+      "pubDate": "Thu, 26 Nov 2026 10:17:17 +0800",
+      "extra": {
+        "hover": "语言模型有一种行为故障叫重复陷阱：给一段重复前缀，模型沿着模式无限复制自己，256 token 的生成预算全被无效重复吃掉。本文用双模型对照实测了这个现象"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/ai-security/514531.html",
+      "title": "107 秒 1,175 个 User-Agent：冒充 AI 爬虫的机器，一次模型都没调",
+      "url": "https://www.freebuf.com/articles/ai-security/514531.html",
+      "pubDate": "Thu, 26 Nov 2026 09:52:44 +0800",
+      "extra": {
+        "hover": "LLM蜜罐69.5天收12.98万次请求：两台GCP机器107秒换1,175个UA、47秒换752个，零推理，只读gcloud凭证。154次自称Googlebot，0次来自66.249段。"
       }
     },
     {
@@ -98,87 +179,6 @@
       "pubDate": "Wed, 25 Nov 2026 08:25:00 +0800",
       "extra": {
         "hover": "媒体热炒AI自主攻击时代到来，实则这类攻击尚未大规模落地，威胁仍来自传统渠道，落实补丁等基础防护即可应对。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514453.html",
-      "title": "海事行业网络威胁持续攀升，50艘商船遭定向攻击",
-      "url": "https://www.freebuf.com/news/514453.html",
-      "pubDate": "Wed, 25 Nov 2026 08:23:10 +0800",
-      "extra": {
-        "hover": "美国正调查针对50艘运载能源、易燃易爆危化品商船的网攻事件，伊俄被纳入排查范围，海事网防薄弱，此类攻击可致运营中断、巨额损失。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/database/514414.html",
-      "title": "凭据窃取成主流漏洞利用趋势，月度占比年内攀升至35%",
-      "url": "https://www.freebuf.com/articles/database/514414.html",
-      "pubDate": "Wed, 25 Nov 2026 06:30:47 +0800",
-      "extra": {
-        "hover": "凭据窃取已成2026年漏洞利用核心环节，占比年内攀升至35%，AI密钥成新窃密目标，中危漏洞遭滥用，单次异常访问都值得警惕。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514418.html",
-      "title": "微软商店恶意应用关联Vinci RAT，黑客可远程控制Windows PC",
-      "url": "https://www.freebuf.com/news/514418.html",
-      "pubDate": "Wed, 25 Nov 2026 06:30:10 +0800",
-      "extra": {
-        "hover": "微软商店上架的Setup Assistant应用被曝投递Vinci RAT，黑客可远程控制Windows设备，正版商店下载也可能中招。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514274.html",
-      "title": "FreeBuf早报 | Cairn频繁现身真实攻击；思科Expressway漏洞遭在野利用",
-      "url": "https://www.freebuf.com/news/514274.html",
-      "pubDate": "Tue, 24 Nov 2026 16:19:33 +0800",
-      "extra": {
-        "hover": "开源AI渗透测试框架Cairn遭多类威胁组织滥用，自主Agent可不知疲倦地挖掘利用0Day入侵，传统补丁策略已难抵御这类高速攻击。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514332.html",
-      "title": "Astelia推出自主网络缓解功能，无需补丁即可拦截AI驱动漏洞利用",
-      "url": "https://www.freebuf.com/articles/ai-security/514332.html",
-      "pubDate": "Tue, 24 Nov 2026 14:00:58 +0800",
-      "extra": {
-        "hover": "Astelia推出自主网络缓解功能，无需打补丁、不中断业务即可在网络层拦截AI驱动漏洞利用，破解补丁滞后赶不上AI零准备攻击的痛点。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514331.html",
-      "title": "攻击者在Linux服务器部署ZQAgent后门，可执行恶意命令并访问文件",
-      "url": "https://www.freebuf.com/news/514331.html",
-      "pubDate": "Tue, 24 Nov 2026 13:35:26 +0800",
-      "extra": {
-        "hover": "新型Linux后门ZQAgent伪装系统进程长期潜伏，可执行恶意命令、访问文件，由AI黑客框架投放，可将攻击耗时缩至分钟级，附检测排查指引。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514230.html",
-      "title": "当推理网关开始伪造工具调用，你的 Agent 在替谁干活",
-      "url": "https://www.freebuf.com/articles/ai-security/514230.html",
-      "pubDate": "Tue, 24 Nov 2026 11:37:50 +0800",
-      "extra": {
-        "hover": "黑产还没大规模用这招，管道的信任缺口还开着。趁这个窗口，把日志对照建起来，把签名方案提上排期，比出事后再溯源划算。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514228.html",
-      "title": "不只是提示注入：MCP生态的三层信任错位与防御重构",
-      "url": "https://www.freebuf.com/news/514228.html",
-      "pubDate": "Tue, 24 Nov 2026 11:32:59 +0800",
-      "extra": {
-        "hover": "本文提出一个展示层—时间层—身份层的三层信任错位模型，把散落在各个研究报告里的攻击手法串成一条完整链路，并给出对应的防御重构思路。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/system/514258.html",
-      "title": "OpenAI与思科推出AI辅助Linux安全工具，补丁部署前就可以阻断漏洞利用",
-      "url": "https://www.freebuf.com/articles/system/514258.html",
-      "pubDate": "Tue, 24 Nov 2026 11:32:57 +0800",
-      "extra": {
-        "hover": "OpenAI联合思科推出开源Linux安全工具Shirudo，无需停服即可拦截漏洞利用，填补补丁防护空窗，以机器速度对抗AI驱动的网络攻击。"
       }
     }
   ]
