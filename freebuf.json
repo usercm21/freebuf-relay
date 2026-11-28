@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1795841175103,
+  "updatedAt": 1795873329265,
   "items": [
+    {
+      "id": "https://www.freebuf.com/news/515022.html",
+      "title": "Telegram警告iPhone用户遭大规模攻击，仅访问网站即可被入侵",
+      "url": "https://www.freebuf.com/news/515022.html",
+      "pubDate": "Sat, 28 Nov 2026 04:48:49 +0800",
+      "extra": {
+        "hover": "Telegram发安全警报：旧版iOS系统iPhone遭大规模攻击，仅访问恶意网站就可能被入侵窃密，用户需尽快更新系统防范风险。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/system/514977.html",
       "title": "Linux NFS文件共享存在漏洞，可导致服务器被远程接管",
@@ -101,6 +110,15 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/ai-security/514582.html",
+      "title": "MCP 客户端校验了版本和能力，唯独没管服务端往上下文里写什么",
+      "url": "https://www.freebuf.com/articles/ai-security/514582.html",
+      "pubDate": "Thu, 26 Nov 2026 16:14:11 +0800",
+      "extra": {
+        "hover": "同一段 MCP 握手，客户端校验版本、能力、字段类型，唯独不校验内容：5 万字符的工具描述和 46 个不可见字符原样进提示词，远端 55 个服务端里，4 个连不存在的版本都照收。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/articles/vuls/514581.html",
       "title": "PHP2Shell双漏洞深度复盘——从补丁diff到PHP-FPM内存破坏实测",
       "url": "https://www.freebuf.com/articles/vuls/514581.html",
@@ -146,39 +164,21 @@
       }
     },
     {
+      "id": "https://www.freebuf.com/articles/sectool/514983.html",
+      "title": "ARTEX-IOT：把固件拆成组件交给Agent挖掘",
+      "url": "https://www.freebuf.com/articles/sectool/514983.html",
+      "pubDate": "Thu, 26 Nov 2026 09:31:02 +0800",
+      "extra": {
+        "hover": "ARTEX-IOT固件审计平台安装实录：数据库端口与start.sh配错会连库失败、更新不拉起。"
+      }
+    },
+    {
       "id": "https://www.freebuf.com/news/514518.html",
       "title": "1Password披露安全事件，攻击者经员工GitHub账号复制客户记录",
       "url": "https://www.freebuf.com/news/514518.html",
       "pubDate": "Wed, 25 Nov 2026 22:29:23 +0800",
       "extra": {
         "hover": "1Password披露员工GitHub账号遭攻击者入侵，部分客户非敏感元数据被复制，核心密码库未受影响，已升级防护提醒用户警惕钓鱼。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514464.html",
-      "title": "FreeBuf早报 | 黑客疑似入侵FBI全国警用数据库；Windows远程访问API存在漏洞",
-      "url": "https://www.freebuf.com/news/514464.html",
-      "pubDate": "Wed, 25 Nov 2026 18:26:13 +0800",
-      "extra": {
-        "hover": "FBI正调查供全美警方使用的NCIC犯罪数据库疑似遭黑客入侵事件，目前入侵细节未明，引发各界对敏感执法数据安全的担忧。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514493.html",
-      "title": "攻击者在野利用GeoServer两漏洞，研究人员披露未授权RCE链",
-      "url": "https://www.freebuf.com/news/514493.html",
-      "pubDate": "Wed, 25 Nov 2026 18:18:54 +0800",
-      "extra": {
-        "hover": "GeoServer两漏洞正遭在野利用，可串联成未授权RCE链获取管理员权限，用户需尽快升级至官方修复版本。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514459.html",
-      "title": "同一段恶意指令，只换“信封”标签，拒绝率就从 77.8% 崩到 22.2%：三模型实测 Envelope 陷阱",
-      "url": "https://www.freebuf.com/articles/ai-security/514459.html",
-      "pubDate": "Wed, 25 Nov 2026 17:42:07 +0800",
-      "extra": {
-        "hover": "同一段恶意指令，只换个&amp;quot;信封&amp;quot;标签，拒绝率就从 77.8% 崩到 22.2%：三模型实测 Envelope 陷阱"
       }
     }
   ]
