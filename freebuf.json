@@ -1,6 +1,15 @@
 {
-  "updatedAt": 1795821516194,
+  "updatedAt": 1795841175103,
   "items": [
+    {
+      "id": "https://www.freebuf.com/articles/system/514977.html",
+      "title": "Linux NFS文件共享存在漏洞，可导致服务器被远程接管",
+      "url": "https://www.freebuf.com/articles/system/514977.html",
+      "pubDate": "Fri, 27 Nov 2026 20:43:35 +0800",
+      "extra": {
+        "hover": "潜伏12年、CVSS9.8分的Linux NFS高危漏洞，可被未授权攻击者利用获取root权限远程接管服务器，多版本受影响，需尽快修补。"
+      }
+    },
     {
       "id": "https://www.freebuf.com/articles/vuls/514339.html",
       "title": "工具描述里的隐形后门：MCP Agent 工具投毒与二次调用数据外带实战复现",
@@ -8,6 +17,15 @@
       "pubDate": "Fri, 27 Nov 2026 18:17:30 +0800",
       "extra": {
         "hover": "本文用一套可本地运行的实验，把这条攻击链完整打一遍，并给出宿主侧的防御对照。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/vuls/514854.html",
+      "title": "AI 编程助手被写成攻击者的免确认执行器，22 个投毒仓库和一份 3.75MB 的 setup.js",
+      "url": "https://www.freebuf.com/articles/vuls/514854.html",
+      "pubDate": "Fri, 27 Nov 2026 15:28:22 +0800",
+      "extra": {
+        "hover": "这篇把两条路径、四层外壳和三条传播通道一次讲清，末尾附了能照着跑的排查命令。"
       }
     },
     {
@@ -26,6 +44,15 @@
       "pubDate": "Fri, 27 Nov 2026 14:47:10 +0800",
       "extra": {
         "hover": "大模型进入核心业务，传统安全体系已罩不住语义层这个新攻击面。本文基于企业一线评估实践，给出提示注入防御、Agent 特权治理、RAG 检索权限过滤等五大风险域的落地对策与分期建设路线图。"
+      }
+    },
+    {
+      "id": "https://www.freebuf.com/articles/514812.html",
+      "title": "开源AI渗透测试框架Cairn频繁现身真实攻击；1Password披露安全事件 | FreeBuf周报",
+      "url": "https://www.freebuf.com/articles/514812.html",
+      "pubDate": "Fri, 27 Nov 2026 11:47:27 +0800",
+      "extra": {
+        "hover": "各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！"
       }
     },
     {
@@ -152,33 +179,6 @@
       "pubDate": "Wed, 25 Nov 2026 17:42:07 +0800",
       "extra": {
         "hover": "同一段恶意指令，只换个&amp;quot;信封&amp;quot;标签，拒绝率就从 77.8% 崩到 22.2%：三模型实测 Envelope 陷阱"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/ai-security/514457.html",
-      "title": "同一个投毒实验，两种调用方式，两套相反的结论：prompt 模板如何左右小模型安全评测",
-      "url": "https://www.freebuf.com/articles/ai-security/514457.html",
-      "pubDate": "Wed, 25 Nov 2026 17:33:48 +0800",
-      "extra": {
-        "hover": "把同一条假 ERROR 塞进日志，用裸文本 prompt 测，命中率是 22.2%；换成每个模型自己的 chat template 再测同一实验，命中率是 38.9%。日志没变、载荷没变、模型没变。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/news/514462.html",
-      "title": "黑客利用CVSS 10.0级Hex.pm RCE漏洞，入侵6台包注册服务器",
-      "url": "https://www.freebuf.com/news/514462.html",
-      "pubDate": "Wed, 25 Nov 2026 14:36:59 +0800",
-      "extra": {
-        "hover": "Hex.pm遭潜伏超十年的CVSS10.0级RCE漏洞攻击，6台服务器被入侵，用户需立即重置凭证，暂未发现包被篡改。"
-      }
-    },
-    {
-      "id": "https://www.freebuf.com/articles/sectool/514641.html",
-      "title": "36星的AI挖洞平台，敢跟误报较真：PoC跑不通，系统不许它确认漏洞",
-      "url": "https://www.freebuf.com/articles/sectool/514641.html",
-      "pubDate": "Wed, 25 Nov 2026 09:07:21 +0800",
-      "extra": {
-        "hover": "AI说了不算，"
       }
     }
   ]
